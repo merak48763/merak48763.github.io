@@ -1,7 +1,7 @@
 {
     "last_update": {
         "version": "2022.203",
-        "date": "2022/03/19"
+        "date": "2022/03/20"
     },
     "es": {
         "0": {
@@ -315,327 +315,327 @@
             "custom_desc": ""
         },
         "66": {
-            "title": "",
+            "title": "初級拼圖盾",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "67": {
-            "title": "",
+            "title": "高級拼圖盾",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "68": {
-            "title": "",
+            "title": "初級拼圖盾-限",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(不可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "69": {
-            "title": "",
+            "title": "半血弱盾",
             "desc": "當召喚師生命力&nbsp;50%&nbsp;以下時，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "70": {
-            "title": "",
+            "title": "同屬強化盾",
             "desc": "只有消除與敵人屬性相同的強化符石才會對敵人造成傷害",
             "custom_desc": ""
         },
         "71": {
-            "title": "",
+            "title": "剋屬外防禦50%",
             "desc": "當不是克制敵人的屬性時，攻擊傷害減50%",
             "custom_desc": ""
         },
         "72": {
-            "title": "",
+            "title": "扣血30%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": ""
         },
         "73": {
-            "title": "",
+            "title": "扣血80%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;80%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": ""
         },
         "74": {
-            "title": "",
+            "title": "扣血90%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": ""
         },
         "75": {
-            "title": "",
+            "title": "三屬盾",
             "desc": "同時消除水符石，火符石及木符石才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "76": {
-            "title": "",
+            "title": "光暗盾",
             "desc": "同時消除光符石及暗符石才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "77": {
-            "title": "",
+            "title": "五屬盾",
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "78": {
-            "title": "",
+            "title": "強制自爆5000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5,000&nbsp;點傷害",
             "custom_desc": ""
         },
         "79": {
-            "title": "",
+            "title": "強制自爆10000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10,000&nbsp;點傷害",
             "custom_desc": ""
         },
         "80": {
-            "title": "",
+            "title": "強制自爆20000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20,000&nbsp;點傷害",
             "custom_desc": ""
         },
         "81": {
-            "title": "",
+            "title": "回復4000",
             "desc": "首回合敵人會讓召喚師增加&nbsp;4,000&nbsp;點生命力",
             "custom_desc": ""
         },
         "82": {
-            "title": "",
+            "title": "回復5000",
             "desc": "首回合敵人會讓召喚師增加&nbsp;5,000&nbsp;點生命力",
             "custom_desc": ""
         },
         "83": {
-            "title": "",
+            "title": "回復6000",
             "desc": "首回合敵人會將召喚師增加&nbsp;6,000&nbsp;點生命力",
             "custom_desc": ""
         },
         "84": {
-            "title": "",
+            "title": "逢二回復2000",
             "desc": "每&nbsp;2&nbsp;回合敵人會讓召喚師增加&nbsp;2,000&nbsp;點生命力",
             "custom_desc": ""
         },
         "85": {
-            "title": "",
+            "title": "逢二回復3000",
             "desc": "每&nbsp;2&nbsp;回合敵人會讓召喚師增加&nbsp;3,000&nbsp;點生命力",
             "custom_desc": ""
         },
         "86": {
-            "title": "",
+            "title": "逢二回復4000",
             "desc": "每&nbsp;2&nbsp;回合敵人會讓召喚師增加&nbsp;4,000&nbsp;點生命力",
             "custom_desc": ""
         },
         "87": {
-            "title": "",
+            "title": "技能回復",
             "desc": "首回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
             "custom_desc": ""
         },
         "88": {
-            "title": "",
+            "title": "逢三技能回復",
             "desc": "每&nbsp;3&nbsp;回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
             "custom_desc": ""
         },
         "89": {
-            "title": "",
+            "title": "逢四技能回復",
             "desc": "每&nbsp;4&nbsp;回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
             "custom_desc": ""
         },
         "90": {
-            "title": "",
+            "title": "刷新符石",
             "desc": "首回合敵人會將所有符石隨機轉換",
             "custom_desc": ""
         },
         "91": {
-            "title": "",
+            "title": "逢二刷新符石",
             "desc": "每&nbsp;2&nbsp;回合敵人會將所有符石隨機轉換",
             "custom_desc": ""
         },
         "92": {
-            "title": "",
+            "title": "逢三刷新符石",
             "desc": "每&nbsp;3&nbsp;回合敵人會將所有符石隨機轉換",
             "custom_desc": ""
         },
         "93": {
-            "title": "",
+            "title": "不倒意志20%",
             "desc": "敵人生命力大於&nbsp;20%&nbsp;時，下一次所受傷害不會死亡",
             "custom_desc": ""
         },
         "94": {
-            "title": "",
+            "title": "不倒意志30%",
             "desc": "敵人生命力大於&nbsp;30%&nbsp;時，下一次所受傷害不會死亡",
             "custom_desc": ""
         },
         "95": {
-            "title": "",
+            "title": "不倒意志40%",
             "desc": "敵人生命力大於&nbsp;40%&nbsp;時，下一次所受傷害不會死亡",
             "custom_desc": ""
         },
         "96": {
-            "title": "",
+            "title": "隊長技失效",
             "desc": "召喚師不能發動隊長技能",
             "custom_desc": ""
         },
         "97": {
-            "title": "",
+            "title": "5%隱藏符石4顆",
             "desc": "敵人會掉落隱藏符石",
             "custom_desc": ""
         },
         "98": {
-            "title": "",
+            "title": "10%隱藏符石4顆",
             "desc": "大幅掉落隱藏符石",
             "custom_desc": ""
         },
         "99": {
-            "title": "",
+            "title": "15%隱藏符石4顆",
             "desc": "大幅掉落隱藏符石",
             "custom_desc": ""
         },
         "100": {
-            "title": "",
+            "title": "水轉自身",
             "desc": "每回合敵人會將水符石轉化為敵人屬性的符石",
             "custom_desc": ""
         },
         "101": {
-            "title": "",
+            "title": "火轉自身",
             "desc": "每回合敵人會將火符石轉化為敵人屬性的符石",
             "custom_desc": ""
         },
         "102": {
-            "title": "",
+            "title": "木轉自身",
             "desc": "每回合敵人會將木符石轉化為敵人屬性的符石",
             "custom_desc": ""
         },
         "103": {
-            "title": "",
+            "title": "光轉自身",
             "desc": "每回合敵人會將光符石轉化為敵人屬性的符石",
             "custom_desc": ""
         },
         "104": {
-            "title": "",
+            "title": "暗轉自身",
             "desc": "每回合敵人會將暗符石轉化為敵人屬性的符石",
             "custom_desc": ""
         },
         "105": {
-            "title": "",
+            "title": "心轉自身",
             "desc": "每回合敵人會將心符石轉化為敵人屬性的符石",
             "custom_desc": ""
         },
         "106": {
-            "title": "",
+            "title": "水轉相剋",
             "desc": "每回合敵人會將水符石轉化為克制敵人屬性的符石",
             "custom_desc": ""
         },
         "107": {
-            "title": "",
+            "title": "火轉相剋",
             "desc": "每回合敵人會將火符石轉化為克制敵人屬性的符石",
             "custom_desc": ""
         },
         "108": {
-            "title": "",
+            "title": "木轉相剋",
             "desc": "每回合敵人會將木符石轉化為克制敵人屬性的符石",
             "custom_desc": ""
         },
         "109": {
-            "title": "",
+            "title": "光轉相剋",
             "desc": "每回合敵人會將光符石轉化為克制敵人屬性的符石",
             "custom_desc": ""
         },
         "110": {
-            "title": "",
+            "title": "暗轉相剋",
             "desc": "每回合敵人會將暗符石轉化為克制敵人屬性的符石",
             "custom_desc": ""
         },
         "111": {
-            "title": "",
+            "title": "心轉相剋",
             "desc": "每回合敵人會將心符石轉化為克制敵人屬性的符石",
             "custom_desc": ""
         },
         "112": {
-            "title": "",
+            "title": "復活變強",
             "desc": "敵人死亡後會復活&nbsp;1&nbsp;次，並提升&nbsp;2&nbsp;倍攻擊力，生命力及防禦力",
             "custom_desc": ""
         },
         "113": {
-            "title": "",
+            "title": "命懸一線",
             "desc": "首回合敵人會令召喚師生命力剩&nbsp;1&nbsp;點",
             "custom_desc": ""
         },
         "114": {
-            "title": "",
+            "title": "3+Combo盾",
             "desc": "3&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "115": {
-            "title": "",
+            "title": "4+Combo盾",
             "desc": "4&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "116": {
-            "title": "",
+            "title": "5+Combo盾",
             "desc": "5&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "117": {
-            "title": "",
+            "title": "6+Combo盾",
             "desc": "6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "118": {
-            "title": "",
+            "title": "5%隱藏符石3顆",
             "desc": "敵人會掉落隱藏符石",
             "custom_desc": ""
         },
         "119": {
-            "title": "",
+            "title": "10%隱藏符石3顆",
             "desc": "大幅掉落隱藏符石",
             "custom_desc": ""
         },
         "120": {
-            "title": "",
+            "title": "15%隱藏符石3顆",
             "desc": "大幅掉落隱藏符石",
             "custom_desc": ""
         },
         "121": {
-            "title": "",
+            "title": "5%隱藏符石5顆",
             "desc": "敵人會掉落隱藏符石",
             "custom_desc": ""
         },
         "122": {
-            "title": "",
+            "title": "10%隱藏符石5顆",
             "desc": "大幅掉落隱藏符石",
             "custom_desc": ""
         },
         "123": {
-            "title": "",
+            "title": "15%隱藏符石5顆",
             "desc": "大幅掉落隱藏符石",
             "custom_desc": ""
         },
         "124": {
-            "title": "",
+            "title": "自爆5000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5000&nbsp;點傷害，因主動技能而死亡除外",
             "custom_desc": ""
         },
         "125": {
-            "title": "",
+            "title": "自爆10000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10000&nbsp;點傷害，因主動技能而死亡除外",
             "custom_desc": ""
         },
         "126": {
-            "title": "",
+            "title": "自爆20000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20000&nbsp;點傷害，因主動技能而死亡除外",
             "custom_desc": ""
         },
         "127": {
-            "title": "",
+            "title": "不倒意志20%-5倍回復",
             "desc": "敵人該回合生命力大於&nbsp;20%&nbsp;時，下一次所受傷害不會死亡，並回復召喚師的&nbsp;500%&nbsp;攻擊傷害為自身血量",
             "custom_desc": ""
         },
         "128": {
-            "title": "",
+            "title": "強化防禦盾",
             "desc": "消除強化符石不會對敵人造成傷害",
-            "custom_desc": ""
+            "custom_desc": "不受到兼具影響"
         },
         "129": {
-            "title": "",
+            "title": "強化防禦75%",
             "desc": "強化符石所造成的傷害會減少&nbsp;75%",
-            "custom_desc": ""
+            "custom_desc": "不受到兼具影響"
         },
         "130": {
-            "title": "",
+            "title": "不倒意志20%-10倍回復",
             "desc": "敵人該回合生命力大於&nbsp;20%&nbsp;時，下一次所受傷害不會死亡，並回復召喚師的&nbsp;1000%&nbsp;攻擊傷害為自身血量",
             "custom_desc": ""
         },
