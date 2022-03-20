@@ -640,82 +640,82 @@
             "custom_desc": ""
         },
         "131": {
-            "title": "",
+            "title": "5消以下攻擊零化",
             "desc": "召喚師需消除&nbsp;1&nbsp;組&nbsp;5&nbsp;粒或以上的屬性符石，該屬性才能對敵人造成攻擊傷害&nbsp;(只計算消除符石)",
-            "custom_desc": ""
+            "custom_desc": "對應屬性成員直接壓成0那種"
         },
         "132": {
-            "title": "",
+            "title": "5消以上攻擊零化",
             "desc": "召喚師消除&nbsp;1&nbsp;組&nbsp;5&nbsp;粒或以上的屬性符石，該屬性成員將無法對敵人造成攻擊傷害&nbsp;(只計算消除符石)",
-            "custom_desc": ""
+            "custom_desc": "對應屬性成員直接壓成0那種"
         },
         "133": {
-            "title": "",
+            "title": "魔族防禦50%",
             "desc": "敵人令魔族成員攻擊力半減",
             "custom_desc": ""
         },
         "134": {
-            "title": "",
+            "title": "3倍獵魔",
             "desc": "召喚師隊伍中有魔族成員時，敵人攻擊力提升",
             "custom_desc": ""
         },
         "135": {
-            "title": "",
+            "title": "水外防禦75%",
             "desc": "水屬性以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": ""
         },
         "136": {
-            "title": "",
+            "title": "火外防禦75%",
             "desc": "火屬性以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": ""
         },
         "137": {
-            "title": "",
+            "title": "木外防禦75%",
             "desc": "木屬性以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": ""
         },
         "138": {
-            "title": "",
+            "title": "光外防禦75%",
             "desc": "光屬性以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": ""
         },
         "139": {
-            "title": "",
+            "title": "暗外防禦75%",
             "desc": "暗屬性以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": ""
         },
         "140": {
-            "title": "",
+            "title": "人外防禦75%",
             "desc": "人類以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": ""
         },
         "141": {
-            "title": "",
+            "title": "獸外防禦75%",
             "desc": "獸類以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": ""
         },
         "142": {
-            "title": "",
+            "title": "龍外防禦75%",
             "desc": "龍類以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": ""
         },
         "143": {
-            "title": "",
+            "title": "神外防禦75%",
             "desc": "神族以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": ""
         },
         "144": {
-            "title": "",
+            "title": "魔外防禦75%",
             "desc": "魔族以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": ""
         },
         "145": {
-            "title": "",
+            "title": "妖外防禦75%",
             "desc": "妖精類以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": ""
         },
         "146": {
-            "title": "",
+            "title": "血防同步-低",
             "desc": "召喚師當前生命力愈低時，敵人防禦力愈低",
             "custom_desc": ""
         },
@@ -740,507 +740,507 @@
             "custom_desc": ""
         },
         "151": {
-            "title": "",
+            "title": "自爆2000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;2000&nbsp;點傷害，因主動技能而死亡除外",
             "custom_desc": ""
         },
         "152": {
-            "title": "",
+            "title": "自爆5000-隊長減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5000&nbsp;點傷害，因主動技能而死亡除外，隊長技能可減低傷害",
             "custom_desc": ""
         },
         "153": {
-            "title": "",
+            "title": "自爆10000-隊長減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10000&nbsp;點傷害，因主動技能而死亡除外，隊長技能可減低傷害",
             "custom_desc": ""
         },
         "154": {
-            "title": "",
+            "title": "自爆20000-隊長減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20000&nbsp;點傷害，因主動技能而死亡除外，隊長技能可減低傷害",
             "custom_desc": ""
         },
         "155": {
-            "title": "",
+            "title": "自爆5000-主動減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5000&nbsp;點傷害，因主動技能而死亡除外，主動技能可減低傷害",
             "custom_desc": ""
         },
         "156": {
-            "title": "",
+            "title": "自爆10000-主動減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10000&nbsp;點傷害，因主動技能而死亡除外，主動技能可減低傷害",
             "custom_desc": ""
         },
         "157": {
-            "title": "",
+            "title": "自爆20000-主動減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20000&nbsp;點傷害，因主動技能而死亡除外，主動技能可減低傷害",
             "custom_desc": ""
         },
         "158": {
-            "title": "",
+            "title": "弱自爆5000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5000&nbsp;點傷害，因主動技能而死亡除外，隊長及主動技能皆可減低傷害",
             "custom_desc": ""
         },
         "159": {
-            "title": "",
+            "title": "弱自爆10000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10000&nbsp;點傷害，因主動技能而死亡除外，隊長及主動技能皆可減低傷害",
             "custom_desc": ""
         },
         "160": {
-            "title": "",
+            "title": "弱自爆20000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20000&nbsp;點傷害，因主動技能而死亡除外，隊長及主動技能皆可減低傷害",
             "custom_desc": ""
         },
         "161": {
-            "title": "",
+            "title": "扣血30%-隊長減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，隊長技除外）",
             "custom_desc": ""
         },
         "162": {
-            "title": "",
+            "title": "扣血50%-隊長減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，隊長技除外）",
             "custom_desc": ""
         },
         "163": {
-            "title": "",
+            "title": "扣血70%-隊長減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，隊長技除外）",
             "custom_desc": ""
         },
         "164": {
-            "title": "",
+            "title": "扣血90%-隊長減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，隊長技除外）",
             "custom_desc": ""
         },
         "165": {
-            "title": "",
+            "title": "扣血30%-主動減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，主動技除外）",
             "custom_desc": ""
         },
         "166": {
-            "title": "",
+            "title": "扣血50%-主動減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，主動技除外）",
             "custom_desc": ""
         },
         "167": {
-            "title": "",
+            "title": "扣血70%-主動減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，主動技除外）",
             "custom_desc": ""
         },
         "168": {
-            "title": "",
+            "title": "扣血90%-主動減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，主動技除外）",
             "custom_desc": ""
         },
         "169": {
-            "title": "",
+            "title": "弱扣血30%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;&nbsp;(隊長及主動技能皆可減低傷害）",
             "custom_desc": ""
         },
         "170": {
-            "title": "",
+            "title": "弱扣血50%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;&nbsp;(隊長及主動技能皆可減低傷害）",
             "custom_desc": ""
         },
         "171": {
-            "title": "",
+            "title": "弱扣血70%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;&nbsp;(隊長及主動技能皆可減低傷害）",
             "custom_desc": ""
         },
         "172": {
-            "title": "",
+            "title": "弱扣血90%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;&nbsp;(隊長及主動技能皆可減低傷害）",
             "custom_desc": ""
         },
         "173": {
-            "title": "",
+            "title": "3-Combo盾",
             "desc": "3&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "174": {
-            "title": "",
+            "title": "4-Combo盾",
             "desc": "4&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "175": {
-            "title": "",
+            "title": "5-Combo盾",
             "desc": "5&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "176": {
-            "title": "",
+            "title": "6-Combo盾",
             "desc": "6&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "177": {
-            "title": "",
+            "title": "越戰越強-鐵",
             "desc": "敵人生命力愈低時，攻擊力會稍微提升",
-            "custom_desc": ""
+            "custom_desc": "<details class=\"math\"><summary>倍率計算</summary>敵人血量剩餘比例為r<br />.2 ≤ r ⇒ 1+1*(1-r)/.8<br />r ≤ .2 ⇒ 2</details>"
         },
         "178": {
-            "title": "",
+            "title": "越戰越強-銅",
             "desc": "敵人生命力愈低時，攻擊力會作一定幅度的提升",
-            "custom_desc": ""
+            "custom_desc": "<details class=\"math\"><summary>倍率計算</summary>敵人血量剩餘比例為r<br />.2 ≤ r ⇒ 1+2*(1-r)/.8<br />r ≤ .2 ⇒ 3</details>"
         },
         "179": {
-            "title": "",
+            "title": "自爆2000-隊長減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;2000&nbsp;點傷害，因主動技能而死亡除外，隊長技能可以減少傷害",
             "custom_desc": ""
         },
         "180": {
-            "title": "",
+            "title": "自爆2000-主動減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;2000&nbsp;點傷害，因主動技能而死亡除外，主動技能可以減少傷害",
             "custom_desc": ""
         },
         "181": {
-            "title": "",
+            "title": "弱自爆2000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;2000&nbsp;點傷害，因主動技能而死亡除外，隊長技能及主動技能皆可減少傷害",
             "custom_desc": ""
         },
         "182": {
-            "title": "",
+            "title": "三屬輪轉 ‧ 剋屬禁消 ‧ 光暗防禦50%",
             "desc": "敵人每兩回合轉換屬性&nbsp;(水、火及木屬)，克制敵人當前屬性的符石無法被消除。光屬性及暗屬性的傷害減少&nbsp;50%",
             "custom_desc": ""
         },
         "183": {
-            "title": "",
+            "title": "順攻盾",
             "desc": "按特定順序將敵人擊斃，否則全體敵人復活",
             "custom_desc": ""
         },
         "184": {
-            "title": "",
+            "title": "順序盾",
             "desc": "按特定順序將敵擊斃，否則全體敵人即時復活",
             "custom_desc": ""
         },
         "185": {
-            "title": "",
+            "title": "風化-先",
             "desc": "每回合移動符石前，隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石",
             "custom_desc": ""
         },
         "186": {
-            "title": "",
+            "title": "風化",
             "desc": "每回合隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石",
             "custom_desc": ""
         },
         "187": {
-            "title": "",
+            "title": "風化3000-轉",
             "desc": "每回合移動符石時，隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害",
             "custom_desc": ""
         },
         "188": {
-            "title": "",
+            "title": "風化3000",
             "desc": "每回合隨機把&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害",
             "custom_desc": ""
         },
         "189": {
-            "title": "",
+            "title": "風化3000-先",
             "desc": "每回合移動符石前，隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害",
             "custom_desc": ""
         },
         "190": {
-            "title": "",
+            "title": "反擊300",
             "desc": "對每個發動攻擊的成員，造成&nbsp;300&nbsp;點的傷害",
             "custom_desc": ""
         },
         "191": {
-            "title": "",
+            "title": "反擊500",
             "desc": "對每個發動攻擊的成員，造成&nbsp;500&nbsp;點的傷害",
             "custom_desc": ""
         },
         "192": {
-            "title": "",
+            "title": "反擊1000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;1000&nbsp;點的傷害",
             "custom_desc": ""
         },
         "193": {
-            "title": "",
+            "title": "反擊2000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;2000&nbsp;點的傷害",
             "custom_desc": ""
         },
         "194": {
-            "title": "",
+            "title": "反擊3000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;3000&nbsp;點的傷害",
             "custom_desc": ""
         },
         "195": {
-            "title": "",
+            "title": "反擊4000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;4000&nbsp;點的傷害",
             "custom_desc": ""
         },
         "196": {
-            "title": "",
+            "title": "反擊5000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;5000&nbsp;點的傷害",
             "custom_desc": ""
         },
         "197": {
-            "title": "",
+            "title": "隨機三屬盾-轉",
             "desc": "同時消除指定的&nbsp;3&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "198": {
-            "title": "",
+            "title": "隨機四屬盾-轉",
             "desc": "同時消除指定的&nbsp;4&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "199": {
-            "title": "",
+            "title": "水強火木盾",
             "desc": "同時消除火符石，木符石及水強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "200": {
-            "title": "",
+            "title": "火強水木盾",
             "desc": "同時消除水符石，木符石及火強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "201": {
-            "title": "",
+            "title": "木強水火盾",
             "desc": "同時消除水符石，火符石及木強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "202": {
-            "title": "",
+            "title": "光強暗珠盾",
             "desc": "同時消除暗符石及光強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "203": {
-            "title": "",
+            "title": "暗強光珠盾",
             "desc": "同時消除光符石及暗強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "204": {
-            "title": "",
+            "title": "風化-轉",
             "desc": "每回合移動符石時，隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石",
             "custom_desc": ""
         },
         "205": {
-            "title": "",
+            "title": "垂死反擊300",
             "desc": "對每個發動攻擊的成員，造成&nbsp;300&nbsp;點的傷害",
             "custom_desc": ""
         },
         "206": {
-            "title": "",
+            "title": "垂死反擊500",
             "desc": "對每個發動攻擊的成員，造成&nbsp;500&nbsp;點的傷害",
             "custom_desc": ""
         },
         "207": {
-            "title": "",
+            "title": "垂死反擊1000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;1000&nbsp;點的傷害",
             "custom_desc": ""
         },
         "208": {
-            "title": "",
+            "title": "垂死反擊2000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;2000&nbsp;點的傷害",
             "custom_desc": ""
         },
         "209": {
-            "title": "",
+            "title": "垂死反擊3000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;3000&nbsp;點的傷害",
             "custom_desc": ""
         },
         "210": {
-            "title": "",
+            "title": "垂死反擊4000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;4000&nbsp;點的傷害",
             "custom_desc": ""
         },
         "211": {
-            "title": "",
+            "title": "垂死反擊5000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;5000&nbsp;點的傷害",
             "custom_desc": ""
         },
         "212": {
-            "title": "",
+            "title": "單次5+水符石盾",
             "desc": "召喚師需消除&nbsp;5&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "213": {
-            "title": "",
+            "title": "單次10+水符石盾",
             "desc": "召喚師需消除&nbsp;10&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "214": {
-            "title": "",
+            "title": "單次15+水符石盾",
             "desc": "召喚師需消除&nbsp;15&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "215": {
-            "title": "",
+            "title": "單次5+火符石盾",
             "desc": "召喚師需消除&nbsp;5&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "216": {
-            "title": "",
+            "title": "單次10+火符石盾",
             "desc": "召喚師需消除&nbsp;10&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "217": {
-            "title": "",
+            "title": "單次15+火符石盾",
             "desc": "召喚師需消除&nbsp;15&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "218": {
-            "title": "",
+            "title": "單次5+木符石盾",
             "desc": "召喚師需消除&nbsp;5&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "219": {
-            "title": "",
+            "title": "單次10+木符石盾",
             "desc": "召喚師需消除&nbsp;10&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "220": {
-            "title": "",
+            "title": "單次15+木符石盾",
             "desc": "召喚師需消除&nbsp;15&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "221": {
-            "title": "",
+            "title": "單次5+光符石盾",
             "desc": "召喚師需消除&nbsp;5&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "222": {
-            "title": "",
+            "title": "單次10+光符石盾",
             "desc": "召喚師需消除&nbsp;10&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "223": {
-            "title": "",
+            "title": "單次15+光符石盾",
             "desc": "召喚師需消除&nbsp;15&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "224": {
-            "title": "",
+            "title": "單次5+暗符石盾",
             "desc": "召喚師需消除&nbsp;5&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "225": {
-            "title": "",
+            "title": "單次10+暗符石盾",
             "desc": "召喚師需消除&nbsp;10&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "226": {
-            "title": "",
+            "title": "單次15+暗符石盾",
             "desc": "召喚師需消除&nbsp;15&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "227": {
-            "title": "",
+            "title": "隨機三屬盾",
             "desc": "同時消除指定的&nbsp;3&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "228": {
-            "title": "",
+            "title": "隨機四屬盾",
             "desc": "同時消除指定的&nbsp;4&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "229": {
-            "title": "",
+            "title": "雙重追擊風化20% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;20%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
             "custom_desc": ""
         },
         "230": {
-            "title": "",
+            "title": "技能回復 ‧ 風化20%-風化盾5%",
             "desc": "首回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0。每回合隨機將&nbsp;2&nbsp;粒符石風化，必需消除風化符石才能對敵人造成攻擊傷害，每次攻擊只能造成敵人生命力&nbsp;5%&nbsp;的傷害，並隨消除風化符石的數目而倍增。風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;20%&nbsp;的傷害",
             "custom_desc": ""
         },
         "231": {
-            "title": "",
+            "title": "雙重追擊風化20% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;20%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
             "custom_desc": ""
         },
         "232": {
-            "title": "",
+            "title": "雙重追擊風化20% ‧ 溢補盾",
             "desc": "每回合隨機把&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;20%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
             "custom_desc": ""
         },
         "233": {
-            "title": "",
+            "title": "雙重追擊風化20% ‧ 溢補盾",
             "desc": "每回合隨機把&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;20%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
             "custom_desc": ""
         },
         "234": {
-            "title": "",
+            "title": "雙重追擊風化30% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;30%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
             "custom_desc": ""
         },
         "235": {
-            "title": "",
+            "title": "雙重追擊風化30% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;30%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
             "custom_desc": ""
         },
         "236": {
-            "title": "",
+            "title": "雙重追擊風化30% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;30%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
             "custom_desc": ""
         },
         "237": {
-            "title": "",
+            "title": "光強水火盾",
             "desc": "同時消除水符石，火符石及光強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "238": {
-            "title": "",
+            "title": "光強水木盾",
             "desc": "同時消除水符石，木符石及光強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "239": {
-            "title": "",
+            "title": "光強火木盾",
             "desc": "同時消除木符石，火符石及光強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "240": {
-            "title": "",
+            "title": "暗強水火盾",
             "desc": "同時消除水符石，火符石及暗強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "241": {
-            "title": "",
+            "title": "暗強水木盾",
             "desc": "同時消除水符石，木符石及暗強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "242": {
-            "title": "",
+            "title": "暗強火木盾",
             "desc": "同時消除木符石，火符石及暗強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "243": {
-            "title": "",
+            "title": "雙重追擊風化30% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;30%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
             "custom_desc": ""
         },
         "244": {
-            "title": "",
+            "title": "水轉心",
             "desc": "每回合敵人會將水符石轉化為心符石",
             "custom_desc": ""
         },
         "245": {
-            "title": "",
+            "title": "火轉心",
             "desc": "每回合敵人會將火符石轉化為心符石",
             "custom_desc": ""
         },
         "246": {
-            "title": "",
+            "title": "木轉心",
             "desc": "每回合敵人會將木符石轉化為心符石",
             "custom_desc": ""
         },
         "247": {
-            "title": "",
+            "title": "光轉心",
             "desc": "每回合敵人會將光符石轉化為心符石",
             "custom_desc": ""
         },
         "248": {
-            "title": "",
+            "title": "暗轉心",
             "desc": "每回合敵人會將暗符石轉化為心符石",
             "custom_desc": ""
         },
         "249": {
-            "title": "",
+            "title": "5擊盾",
             "desc": "需對敵人進行&nbsp;5&nbsp;次攻擊後，才能對其造成攻擊傷害",
             "custom_desc": ""
         },
         "250": {
-            "title": "",
+            "title": "15擊盾",
             "desc": "需對敵人進行&nbsp;15&nbsp;次攻擊後，才能對其造成攻擊傷害",
             "custom_desc": ""
         },
         "251": {
-            "title": "",
+            "title": "20擊盾",
             "desc": "需對敵人進行&nbsp;20&nbsp;次攻擊後，才能對其造成攻擊傷害",
             "custom_desc": ""
         },
@@ -1250,232 +1250,232 @@
             "custom_desc": ""
         },
         "253": {
-            "title": "",
+            "title": "全體共生",
             "desc": "全體共生，只要場上&nbsp;1&nbsp;個敵人生存，它會令死去的同伴復活",
             "custom_desc": ""
         },
         "254": {
-            "title": "",
+            "title": "全體無限回復",
             "desc": "全體敵人每回合會完全回復生命力",
             "custom_desc": ""
         },
         "255": {
-            "title": "",
+            "title": "單次5+心符石盾",
             "desc": "召喚師需消除&nbsp;5&nbsp;粒或以上心符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "256": {
-            "title": "",
+            "title": "單次10+心符石盾",
             "desc": "召喚師需消除&nbsp;10&nbsp;粒或以上心符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "257": {
-            "title": "",
+            "title": "單次15+心符石盾",
             "desc": "召喚師需消除&nbsp;15&nbsp;粒或以上心符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "258": {
-            "title": "",
+            "title": "單次6+水符石盾",
             "desc": "召喚師需消除&nbsp;6&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "259": {
-            "title": "",
+            "title": "單次9+水符石盾",
             "desc": "召喚師需消除&nbsp;9&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "260": {
-            "title": "",
+            "title": "單次12+水符石盾",
             "desc": "召喚師需消除&nbsp;12&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "261": {
-            "title": "",
+            "title": "單次6+火符石盾",
             "desc": "召喚師需消除&nbsp;6&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "262": {
-            "title": "",
+            "title": "單次9+火符石盾",
             "desc": "召喚師需消除&nbsp;9&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "263": {
-            "title": "",
+            "title": "單次12+火符石盾",
             "desc": "召喚師需消除&nbsp;12&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "264": {
-            "title": "",
+            "title": "單次6+木符石盾",
             "desc": "召喚師需消除&nbsp;6&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "265": {
-            "title": "",
+            "title": "單次9+木符石盾",
             "desc": "召喚師需消除&nbsp;9&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "266": {
-            "title": "",
+            "title": "單次12+木符石盾",
             "desc": "召喚師需消除&nbsp;12&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "267": {
-            "title": "",
+            "title": "單次6+光符石盾",
             "desc": "召喚師需消除&nbsp;6&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "268": {
-            "title": "",
+            "title": "單次9+光符石盾",
             "desc": "召喚師需消除&nbsp;9&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "269": {
-            "title": "",
+            "title": "單次12+光符石盾",
             "desc": "召喚師需消除&nbsp;12&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "270": {
-            "title": "",
+            "title": "單次6+暗符石盾",
             "desc": "召喚師需消除&nbsp;6&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "271": {
-            "title": "",
+            "title": "單次9+暗符石盾",
             "desc": "召喚師需消除&nbsp;9&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "272": {
-            "title": "",
+            "title": "單次12+暗符石盾",
             "desc": "召喚師需消除&nbsp;12&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "273": {
-            "title": "",
+            "title": "單次6+心符石盾",
             "desc": "召喚師需消除&nbsp;6&nbsp;粒或以上心符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "274": {
-            "title": "",
+            "title": "單次9+心符石盾",
             "desc": "召喚師需消除&nbsp;9&nbsp;粒或以上心符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "275": {
-            "title": "",
+            "title": "單次12+心符石盾",
             "desc": "召喚師需消除&nbsp;12&nbsp;粒或以上心符石，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "276": {
-            "title": "",
+            "title": "越轉越強",
             "desc": "敵人的攻擊力會隨移動符石時間而增加",
             "custom_desc": ""
         },
         "277": {
-            "title": "",
+            "title": "首回回復 ‧ 缺血盾",
             "desc": "首回合敵人會讓召喚師完全回復生命力，召喚師需於生命力未滿的的情況下，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "278": {
-            "title": "",
+            "title": "7+Combo盾",
             "desc": "7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "279": {
-            "title": "",
+            "title": "7+Combo追擊盾",
             "desc": "7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊",
             "custom_desc": ""
         },
         "280": {
-            "title": "",
+            "title": "8+Combo盾",
             "desc": "8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "281": {
-            "title": "",
+            "title": "8+Combo追擊盾",
             "desc": "8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊",
             "custom_desc": ""
         },
         "282": {
-            "title": "",
+            "title": "越攻越強",
             "desc": "敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<details class=\"math\"><summary>倍率計算</summary>敵人第n個發動攻擊的回合<br />6 ≤ n ⇒ 2<sup>n-1</sup><br />n ≤ 6 ⇒ 32，發動連擊</details>"
         },
         "283": {
-            "title": "",
+            "title": "越戰越強-白金",
             "desc": "敵人生命力愈低時，攻擊力及防禦力會大幅提升",
-            "custom_desc": ""
+            "custom_desc": "<details class=\"math\"><summary>倍率計算</summary>敵人血量剩餘比例為r<br />.5 ≤ r ⇒ 1+2*(1-r)/.5<br />.35 ≤ r ≤ .5 ⇒ 3+7*(.5-r)/.15<br />.2 ≤ r ≤ .35 ⇒ 10+10*(.35-r)/.15<br />r ≤ .2 ⇒ 20<br />※ r ≤ .3 ⇒ 發動連擊<br />※ 攻擊力和防禦力倍率相同</details>"
         },
         "284": {
-            "title": "",
+            "title": "無限回復 ‧ 越攻越強",
             "desc": "敵人每回合會完全回復生命力，敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<details class=\"math\"><summary>倍率計算</summary>敵人第n個發動攻擊的回合<br />6 ≤ n ⇒ 2<sup>n-1</sup><br />n ≤ 6 ⇒ 32，發動連擊</details>"
         },
         "285": {
-            "title": "",
+            "title": "隱藏-轉",
             "desc": "每回合開始移動符石時，才會顯示場上的符石",
             "custom_desc": ""
         },
         "286": {
-            "title": "",
+            "title": "眩惑符石",
             "desc": "開始移動符石時，場上的符石會變成同&nbsp;1&nbsp;種形狀",
             "custom_desc": ""
         },
         "287": {
-            "title": "",
+            "title": "傷害變1 ‧ 無限回復",
             "desc": "召喚師每次發動攻擊只會對敵人造成&nbsp;1&nbsp;點傷害，敵人每回合會完全回復生命力",
             "custom_desc": ""
         },
         "288": {
-            "title": "",
+            "title": "主動盾",
             "desc": "只有主動技能可對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "289": {
-            "title": "",
+            "title": "消光敵回30%-消暗扣血30% ‧ 復活 ‧ 主動盾",
             "desc": "消除光符石，敵人回復生命力&nbsp;30%；若消除暗符石，則扣除召喚師&nbsp;30%&nbsp;生命力。敵人死亡後會復活&nbsp;1&nbsp;次，只有主動技能可對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "290": {
-            "title": "",
+            "title": "隱身",
             "desc": "敵人會隱身，直至發動第&nbsp;1&nbsp;次攻擊，隱身期間不受任何攻擊傷害&nbsp;(主動技能除外)&nbsp;及無視所有控制技能",
             "custom_desc": ""
         },
         "291": {
-            "title": "",
+            "title": "能力繼承",
             "desc": "只要場上&nbsp;1&nbsp;個敵人生存，它會即時完全回復自身生命力，並吸收死去同伴的能力",
             "custom_desc": ""
         },
         "292": {
-            "title": "",
+            "title": "獵神-技能封鎖",
             "desc": "首回合敵人會永久封鎖召喚師的神族成員的主動技能，召喚師隊伍有神族成員時，敵人攻擊力提升",
             "custom_desc": ""
         },
         "293": {
-            "title": "",
+            "title": "10秒轉珠",
             "desc": "大幅延長移動符石時間至&nbsp;10&nbsp;秒",
             "custom_desc": ""
         },
         "294": {
-            "title": "",
+            "title": "20秒轉珠",
             "desc": "大幅延長移動符石時間至&nbsp;20&nbsp;秒",
             "custom_desc": ""
         },
         "295": {
-            "title": "",
+            "title": "30秒轉珠",
             "desc": "大幅延長移動符石時間至&nbsp;30&nbsp;秒",
             "custom_desc": ""
         },
         "296": {
-            "title": "",
+            "title": "心外眩惑符石-轉",
             "desc": "開始移動符石時，除心符石外，場上的符石會變成同&nbsp;1&nbsp;種形狀",
             "custom_desc": ""
         },
         "297": {
-            "title": "",
+            "title": "敵外眩惑符石-轉",
             "desc": "開始移動符石時，除敵人屬性符石外，場上的符石會變成同&nbsp;1&nbsp;種形狀",
             "custom_desc": ""
         },
         "298": {
-            "title": "",
+            "title": "隱身 ‧ 雙重風化3000",
             "desc": "敵人會隱身，直至發動第&nbsp;1&nbsp;次攻擊，隱身期間不受任何攻擊傷害&nbsp;&nbsp;(主動技能除外)&nbsp;及無視所有控制技能。此外，每回合移動符石前，隨機將&nbsp;2&nbsp;粒符石風化，一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害",
             "custom_desc": ""
         },
@@ -1510,7 +1510,7 @@
             "custom_desc": ""
         },
         "305": {
-            "title": "",
+            "title": "20+Combo盾",
             "desc": "20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
@@ -27532,7 +27532,7 @@
         "5646": {
             "title": "",
             "desc": "　",
-            "custom_desc": ""
+            "custom_desc": "敵人大吼的特效技能，在遊戲內也會異常顯示出來的樣子"
         },
         "5647": {
             "title": "【瘴氣】",
@@ -29487,7 +29487,7 @@
         "6038": {
             "title": "【移動符石時間愈長 - 加攻】",
             "desc": "•&nbsp;移動符石時間愈長<br />⇒&nbsp;敵人攻擊力愈高",
-            "custom_desc": ""
+            "custom_desc": "<details class=\"math\"><summary>倍率計算</summary>移動符石時間經過t秒<br />20 ≤ t ⇒ 1+floor(t)<br />r ≤ 20 ⇒ 20</details>"
         },
         "6039": {
             "title": "【移動符石時間愈長 - 加攻】",
