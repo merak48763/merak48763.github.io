@@ -1,0 +1,29 @@
+table.fixed_board {
+    border: none;
+    border-collapse: collapse;
+    table-layout: fixed;
+    text-align: center;
+}
+table.fixed_board td {
+    position: relative;
+    height: auto;
+    width: auto;
+    padding: 2px;
+    line-height: 0;
+}
+table.fixed_board tr:nth-child(odd)>td:nth-child(odd), table.fixed_board tr:nth-child(even)>td:nth-child(even) {
+    background-color: #4b2f16;
+}
+table.fixed_board tr:nth-child(odd)>td:nth-child(even), table.fixed_board tr:nth-child(even)>td:nth-child(odd) {
+    background-color: #2b1b10;
+}
+table.fixed_board img:first-child {
+    width: 40px;
+    height: 40px;
+}
+table.fixed_board img:not(:first-child) {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+}
