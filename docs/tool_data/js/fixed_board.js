@@ -1,9 +1,12 @@
 function get_fixed_board(board_rep) {
-    // representation of board_rep:
-    // every 2 hex numbers represent one position
+    // 2 digits for one position
     // first digit: attribute | enchanted<<3
     // second digit: race
-    // 0 is empty
+
+    // indexes:
+    // 0 1 2 3 4 5
+    // 6 7 ...
+    // ...
     let board = Array.from({length: 5}, (v, k) => Array.from({length: 6}, (v, k) => 0));
     const rune_types = ['none', 'water', 'fire', 'earth', 'light', 'dark', 'heart'];
     const rune_races = ['none', 'human', 'god', 'demon', 'dragon', 'beast', 'elf', 'machina'];
@@ -11,14 +14,12 @@ function get_fixed_board(board_rep) {
         const type_n = parseInt(board_rep[2*(6*row+col)], 16);
         const race_n = parseInt(board_rep[2*(6*row+col)+1], 16);
         board[row][col] = {
-            //'type': rune_types[type_n&7] + (type_n>8?'_e':''),
-            'type': rune_types[type_n&7] + (type_n>8?'_enc':''),
+            'type': rune_types[type_n&7] + (type_n>8?'_e':''),
             'race': rune_races[race_n]
         };
     }
 
-    //const image_base = '/tool_data/image/rune/';
-    const image_base = 'https://tinghan33704.github.io/tos_tool_data/img/rune/';
+    const image_base = '/tool_data/image/rune/';
     let board_html = '<table class="fixed_board">';
     for(let row=0; row<5; ++row) {
         board_html += '<tr>';
