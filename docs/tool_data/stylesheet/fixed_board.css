@@ -8,7 +8,7 @@ table.fixed_board td {
     position: relative;
     height: auto;
     width: auto;
-    padding: 2px;
+    padding: 1px;
     line-height: 0;
 }
 table.fixed_board tr:nth-child(odd)>td:nth-child(odd), table.fixed_board tr:nth-child(even)>td:nth-child(even) {
