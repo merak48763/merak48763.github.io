@@ -41,7 +41,7 @@ function get_fixed_board(board_repr) {
     return get_fixed_shape('5 6 ' + board_repr);
 }
 
-function get_fixed_pos(pos_repr) {
+function get_fixed_position(pos_repr) {
     // fixed 5r*6c
     let board_repr = '';
     [...pos_repr].forEach((mark) => {
