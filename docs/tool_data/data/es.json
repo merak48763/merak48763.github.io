@@ -29532,32 +29532,32 @@
         "6047": {
             "title": "【符石轉水】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為水符石",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>"
         },
         "6048": {
             "title": "【符石轉火】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為火符石",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>"
         },
         "6049": {
             "title": "【符石轉木】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為木符石",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>"
         },
         "6050": {
             "title": "【符石轉光】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為光符石",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>"
         },
         "6051": {
             "title": "【符石轉暗】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為暗符石",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>"
         },
         "6052": {
             "title": "【符石轉心】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為心符石",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>"
         },
         "6053": {
             "title": "【凍結之水 - 符石轉水】",
