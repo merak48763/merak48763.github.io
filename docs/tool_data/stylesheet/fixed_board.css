@@ -3,6 +3,8 @@ table.fixed_board {
     border-collapse: collapse;
     table-layout: fixed;
     text-align: center;
+    pointer-events: none;
+    user-select: none;
 }
 table.fixed_board td {
     position: relative;
