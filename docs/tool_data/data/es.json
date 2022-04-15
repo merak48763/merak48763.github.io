@@ -1,7 +1,8 @@
 {
     "last_update": {
         "version": "2022.206",
-        "date": "2022-04-13T10:00:00Z"
+        "dv": "18806",
+        "date": "2022-04-13T09:16:54.713Z"
     },
     "es": {
         "0": {
@@ -20,7 +21,9 @@
             "title": "【溢血攻擊】",
             "desc": "回血溢出時，敵人扣除<br />相等於回血溢出值的生命力。<br />除此之外，<br />敵人不會受到<br />溢補攻擊以外的傷害。",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                57
+            ]
         },
         "3": {
             "title": "剋屬盾 ‧ 棄攻轉屬",
@@ -32,7 +35,9 @@
             "title": "召喚小怪",
             "desc": "敵人會在&nbsp;CD&nbsp;0&nbsp;時召喚小怪，如果場上有小怪生存，CD&nbsp;0&nbsp;時會發動攻擊",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                24
+            ]
         },
         "5": {
             "title": "雙體共生",
@@ -56,7 +61,9 @@
             "title": "連擊",
             "desc": "敵人會在&nbsp;1&nbsp;回合內連續攻擊&nbsp;2&nbsp;次",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                78
+            ]
         },
         "13": {
             "title": "中毒7.5%",
@@ -206,19 +213,26 @@
             "title": "扣血50%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                29
+            ]
         },
         "38": {
             "title": "2秒轉珠",
             "desc": "移動符石時間會縮短至&nbsp;2&nbsp;秒",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                77
+            ]
         },
         "39": {
             "title": "召喚小怪 ‧ 2秒轉珠",
             "desc": "移動符石時間會縮短至&nbsp;2&nbsp;秒，敵人會在&nbsp;<br />&nbsp;CD&nbsp;0&nbsp;時召喚小怪，如果場上有小怪生存，CD&nbsp;0&nbsp;時會發動攻擊",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                24,
+                77
+            ]
         },
         "40": {
             "title": "中毒20%",
@@ -25321,19 +25335,19 @@
         "4281": {
             "title": "",
             "desc": "•&nbsp;進場時消除召喚師<br />&nbsp;&nbsp;所有附加效果，<br />&nbsp;&nbsp;相關技能&nbsp;CD&nbsp;將被重置<br /><br />•&nbsp;進場時對召喚師<br />&nbsp;&nbsp;施加負面效果疲憊狀態：<br />&nbsp;&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;全隊攻擊力減至&nbsp;0%。<br /><br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;4&nbsp;粒符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;30,000&nbsp;點傷害<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算回復加乘)",
-            "custom_desc": "五封災厄（核心封閉階段的本體）",
+            "custom_desc": "",
             "icons": []
         },
         "4283": {
             "title": "",
             "desc": "•&nbsp;核心張開後<br />⇒&nbsp;完全回復生命力<br /><br />•&nbsp;暴風席捲最左方及最右方<br />&nbsp;&nbsp;直行的位置<br />•&nbsp;暴風位置內的<br />&nbsp;&nbsp;符石不能消除或引爆<br />•&nbsp;該位置一經觸碰<br />⇒&nbsp;即時停止移動符石<br /><br />•「生死剝離&nbsp;‧&nbsp;尼德霍格」<br />&nbsp;&nbsp;攻擊力&nbsp;5&nbsp;倍及無視所有<br />&nbsp;&nbsp;減傷效果和意志技能。<br /><br />•「生死剝離&nbsp;‧&nbsp;尼德霍格」<br />&nbsp;&nbsp;&nbsp;不會受到任何傷害",
-            "custom_desc": "五封災厄（核心張開階段的本體）",
+            "custom_desc": "",
             "icons": []
         },
         "4284": {
-            "title": "【封王核心】",
+            "title": "",
             "desc": "【封王核心】<br /><br />•「生死剝離&nbsp;‧&nbsp;尼德霍格」<br />&nbsp;&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒&nbsp;張開核心<br /><br />•&nbsp;核心張開，<br />&nbsp;&nbsp;首批消除場上所有心符石<br />⇒&nbsp;才能對核心造成攻擊傷害<br />⇒&nbsp;否則核心承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除心符石)<br /><br />•&nbsp;若無法達成上述<br />【全消心盾】條件<br />⇒&nbsp;封閉核心",
-            "custom_desc": "五封災厄（核心）",
+            "custom_desc": "",
             "icons": []
         },
         "4285": {
@@ -30780,13 +30794,13 @@
         },
         "5267": {
             "title": "【「起結有序 - 固定 7 連擊盾」凝護 ‧ 無法控制】",
-            "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;20%&nbsp;生命力：<br /><br />⓵&nbsp;以指定位置開始轉珠&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害及<br />不會被附上狀態。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
+            "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;20%&nbsp;生命力：<br /><br />⓵&nbsp;以指定位置開始轉珠&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害及<br />不會被附上狀態。<br /><br />達成上述條件：<br />⓵&nbsp;敵人不會發動攻擊<br /><br />未有達成上述條件：<br />⓵&nbsp;無法進行回復<br />⓶&nbsp;敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />&nbsp;&nbsp;&nbsp;&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
             "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": []
         },
         "5268": {
             "title": "【「起結有序 - 固定 6 連擊盾」凝護 ‧ 無法控制】",
-            "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;25%&nbsp;生命力：<br /><br />⓵&nbsp;每回合以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害及<br />不會被附上狀態。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
+            "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;20%&nbsp;生命力：<br /><br />⓵&nbsp;每回合以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害及<br />不會被附上狀態。<br /><br />達成上述條件：<br />⓵&nbsp;敵人不會發動攻擊<br /><br />未有達成上述條件：<br />⓵&nbsp;無法進行回復<br />⓶&nbsp;敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />&nbsp;&nbsp;&nbsp;&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
             "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": []
         },
