@@ -81,13 +81,17 @@
             "title": "越戰越強-銀",
             "desc": "敵人生命力愈低時，攻擊力會提升，達到一定血量時並會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan</span>",
-            "icons": []
+            "icons": [
+                164
+            ]
         },
         "16": {
             "title": "越戰越強-金",
             "desc": "敵人生命力愈低時，攻擊力會大幅提升，生命力&nbsp;30%&nbsp;或以下時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_ex</span>",
-            "icons": []
+            "icons": [
+                164
+            ]
         },
         "17": {
             "title": "反彈15%",
@@ -171,25 +175,33 @@
             "title": "3倍獵人",
             "desc": "召喚師隊伍中有人類成員時，敵人攻擊力提升",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                54
+            ]
         },
         "31": {
             "title": "3倍獵龍",
             "desc": "召喚師隊伍中有龍類成員時，敵人攻擊力提升",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                52
+            ]
         },
         "32": {
             "title": "3倍獵神",
             "desc": "召喚師隊伍中有神族成員時，敵人攻擊力提升",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                53
+            ]
         },
         "33": {
             "title": "3倍獵妖",
             "desc": "召喚師隊伍中有妖精類成員時，敵人攻擊力提升",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                55
+            ]
         },
         "34": {
             "title": "3倍獵獸",
@@ -268,25 +280,33 @@
             "title": "技能封鎖",
             "desc": "首回合敵人會永久封鎖所有成員的主動技能",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                144
+            ]
         },
         "46": {
             "title": "3~6回技能封鎖",
             "desc": "首回合及以後每&nbsp;3&nbsp;&nbsp;回合會隨機封鎖&nbsp;2&nbsp;個成員主動技，持續&nbsp;3&nbsp;至&nbsp;6&nbsp;回合&nbsp;<br />(可疊加)",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                144
+            ]
         },
         "47": {
             "title": "2~4回技能封鎖",
             "desc": "首回合及以後每&nbsp;3&nbsp;&nbsp;回合會隨機封鎖&nbsp;2&nbsp;個成員主動技，持續&nbsp;2&nbsp;至&nbsp;4&nbsp;回合&nbsp;<br />(可疊加)",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                144
+            ]
         },
         "48": {
             "title": "無限回復",
             "desc": "敵人每回合會完全回復生命力",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                25
+            ]
         },
         "49": {
             "title": "黑白符石",
@@ -297,14 +317,18 @@
         "50": {
             "title": "【無法控制】",
             "desc": "敵人不會被附上狀態。",
-            "custom_desc": "現在只對自己生效，影響全體的bug已經修復",
-            "icons": []
+            "custom_desc": "",
+            "icons": [
+                143
+            ]
         },
         "51": {
             "title": "【防禦崩壞】",
             "desc": "敵人無視所有減傷效果和<br />意志技能。",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                37
+            ]
         },
         "52": {
             "title": "攻前盾",
@@ -316,37 +340,49 @@
             "title": "1Combo盾",
             "desc": "1&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "計算右下角的Combo",
-            "icons": []
+            "icons": [
+                155
+            ]
         },
         "54": {
             "title": "2Combo盾",
             "desc": "2&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "計算右下角的Combo",
-            "icons": []
+            "icons": [
+                156
+            ]
         },
         "55": {
             "title": "3Combo盾",
             "desc": "3&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "計算右下角的Combo",
-            "icons": []
+            "icons": [
+                148
+            ]
         },
         "56": {
             "title": "4Combo盾",
             "desc": "4&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "計算右下角的Combo",
-            "icons": []
+            "icons": [
+                152
+            ]
         },
         "57": {
             "title": "5Combo盾",
             "desc": "5&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "計算右下角的Combo",
-            "icons": []
+            "icons": [
+                149
+            ]
         },
         "58": {
             "title": "6Combo盾",
             "desc": "6&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "計算右下角的Combo",
-            "icons": []
+            "icons": [
+                157
+            ]
         },
         "59": {
             "title": "先攻",
@@ -364,49 +400,65 @@
             "title": "二員技能重置",
             "desc": "首回合敵人會隨機將&nbsp;2&nbsp;個成員技能&nbsp;CD&nbsp;及累積戰鬥回合數重置",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                146
+            ]
         },
         "62": {
             "title": "三員技能重置",
             "desc": "首回合敵人會隨機將&nbsp;3&nbsp;個成員技能&nbsp;CD&nbsp;及累積戰鬥回合數重置",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                146
+            ]
         },
         "63": {
             "title": "四員技能重置",
             "desc": "首回合敵人會隨機將&nbsp;4&nbsp;個成員技能&nbsp;CD&nbsp;及累積戰鬥回合數重置",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                146
+            ]
         },
         "64": {
             "title": "五員技能重置",
             "desc": "首回合敵人會隨機將&nbsp;5&nbsp;個成員技能&nbsp;CD&nbsp;及累積戰鬥回合數重置",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                146
+            ]
         },
         "65": {
             "title": "技能重置",
             "desc": "首回合敵人會將所有成員技能&nbsp;CD&nbsp;及累積戰鬥回合數重置",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                146
+            ]
         },
         "66": {
             "title": "初級拼圖盾",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                147
+            ]
         },
         "67": {
             "title": "高級拼圖盾",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                147
+            ]
         },
         "68": {
             "title": "初級拼圖盾-限",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(不可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                147
+            ]
         },
         "69": {
             "title": "半血弱盾",
@@ -520,19 +572,25 @@
             "title": "技能回復",
             "desc": "首回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                130
+            ]
         },
         "88": {
             "title": "逢三技能回復",
             "desc": "每&nbsp;3&nbsp;回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                130
+            ]
         },
         "89": {
             "title": "逢四技能回復",
             "desc": "每&nbsp;4&nbsp;回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                130
+            ]
         },
         "90": {
             "title": "刷新符石",
@@ -682,25 +740,33 @@
             "title": "3+Combo盾",
             "desc": "3&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                127
+            ]
         },
         "115": {
             "title": "4+Combo盾",
             "desc": "4&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                6
+            ]
         },
         "116": {
             "title": "5+Combo盾",
             "desc": "5&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                118
+            ]
         },
         "117": {
             "title": "6+Combo盾",
             "desc": "6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                119
+            ]
         },
         "118": {
             "title": "5%隱藏符石3顆",
@@ -772,7 +838,9 @@
             "title": "強化防禦75%",
             "desc": "強化符石所造成的傷害會減少&nbsp;75%",
             "custom_desc": "不受到兼具影響",
-            "icons": []
+            "icons": [
+                113
+            ]
         },
         "130": {
             "title": "不倒意志20%-10倍回復",
@@ -1036,37 +1104,49 @@
             "title": "3-Combo盾",
             "desc": "3&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                124
+            ]
         },
         "174": {
             "title": "4-Combo盾",
             "desc": "4&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                121
+            ]
         },
         "175": {
             "title": "5-Combo盾",
             "desc": "5&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                123
+            ]
         },
         "176": {
             "title": "6-Combo盾",
             "desc": "6&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                120
+            ]
         },
         "177": {
             "title": "越戰越強-鐵",
             "desc": "敵人生命力愈低時，攻擊力會稍微提升",
             "custom_desc": "<span class=\"annotation\">crescendo</span>",
-            "icons": []
+            "icons": [
+                164
+            ]
         },
         "178": {
             "title": "越戰越強-銅",
             "desc": "敵人生命力愈低時，攻擊力會作一定幅度的提升",
             "custom_desc": "<span class=\"annotation\">crescendo_ex</span>",
-            "icons": []
+            "icons": [
+                164
+            ]
         },
         "179": {
             "title": "自爆2000-隊長減傷",
@@ -1138,43 +1218,57 @@
             "title": "反擊300",
             "desc": "對每個發動攻擊的成員，造成&nbsp;300&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "191": {
             "title": "反擊500",
             "desc": "對每個發動攻擊的成員，造成&nbsp;500&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "192": {
             "title": "反擊1000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;1000&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "193": {
             "title": "反擊2000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;2000&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "194": {
             "title": "反擊3000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;3000&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "195": {
             "title": "反擊4000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;4000&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "196": {
             "title": "反擊5000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;5000&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "197": {
             "title": "隨機三屬盾-轉",
@@ -1228,43 +1322,57 @@
             "title": "垂死反擊300",
             "desc": "對每個發動攻擊的成員，造成&nbsp;300&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "206": {
             "title": "垂死反擊500",
             "desc": "對每個發動攻擊的成員，造成&nbsp;500&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "207": {
             "title": "垂死反擊1000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;1000&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "208": {
             "title": "垂死反擊2000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;2000&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "209": {
             "title": "垂死反擊3000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;3000&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "210": {
             "title": "垂死反擊4000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;4000&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "211": {
             "title": "垂死反擊5000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;5000&nbsp;點的傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                117
+            ]
         },
         "212": {
             "title": "單次5+水符石盾",
@@ -1522,7 +1630,9 @@
             "title": "全體無限回復",
             "desc": "全體敵人每回合會完全回復生命力",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                25
+            ]
         },
         "255": {
             "title": "單次5+心符石盾",
@@ -1654,7 +1764,9 @@
             "title": "越轉越強",
             "desc": "敵人的攻擊力會隨移動符石時間而增加",
             "custom_desc": "每0.5秒增加3000，最高5秒增加30000",
-            "icons": []
+            "icons": [
+                164
+            ]
         },
         "277": {
             "title": "首回回復 ‧ 缺血盾",
@@ -1666,43 +1778,58 @@
             "title": "7+Combo盾",
             "desc": "7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                126
+            ]
         },
         "279": {
             "title": "7+Combo追擊盾",
             "desc": "7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                126
+            ]
         },
         "280": {
             "title": "8+Combo盾",
             "desc": "8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                122
+            ]
         },
         "281": {
             "title": "8+Combo追擊盾",
             "desc": "8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                122
+            ]
         },
         "282": {
             "title": "越攻越強",
             "desc": "敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
-            "icons": []
+            "icons": [
+                164
+            ]
         },
         "283": {
             "title": "越戰越強-白金",
             "desc": "敵人生命力愈低時，攻擊力及防禦力會大幅提升",
             "custom_desc": "<span class=\"annotation\">trojan_fort_ex</span>",
-            "icons": []
+            "icons": [
+                164
+            ]
         },
         "284": {
             "title": "無限回復 ‧ 越攻越強",
             "desc": "敵人每回合會完全回復生命力，敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
-            "icons": []
+            "icons": [
+                25,
+                164
+            ]
         },
         "285": {
             "title": "隱藏-轉",
@@ -1756,19 +1883,25 @@
             "title": "10秒轉珠",
             "desc": "大幅延長移動符石時間至&nbsp;10&nbsp;秒",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                68
+            ]
         },
         "294": {
             "title": "20秒轉珠",
             "desc": "大幅延長移動符石時間至&nbsp;20&nbsp;秒",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                68
+            ]
         },
         "295": {
             "title": "30秒轉珠",
             "desc": "大幅延長移動符石時間至&nbsp;30&nbsp;秒",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                68
+            ]
         },
         "296": {
             "title": "心外眩惑符石-轉",
@@ -1852,19 +1985,25 @@
             "title": "越戰越強-金",
             "desc": "敵人生命力愈低時，攻擊力會大幅提升，生命力&nbsp;30%&nbsp;或以下時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_ex</span>",
-            "icons": []
+            "icons": [
+                164
+            ]
         },
         "310": {
             "title": "中級拼圖盾",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                147
+            ]
         },
         "311": {
             "title": "中級拼圖盾-限",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(不可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                147
+            ]
         },
         "312": {
             "title": "強化光暗盾",
@@ -2098,19 +2237,25 @@
             "title": "強化初級拼圖盾",
             "desc": "需以指定的形狀消除相應數量的強化符石&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                147
+            ]
         },
         "351": {
             "title": "強化高級拼圖盾",
             "desc": "需以指定的形狀消除相應數量的強化符石&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                147
+            ]
         },
         "352": {
             "title": "強化初級拼圖盾-限",
             "desc": "需以指定的形狀消除相應數量的強化符石&nbsp;(不可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                147
+            ]
         },
         "353": {
             "title": "獵人-技能封鎖",
@@ -2188,7 +2333,9 @@
             "title": "扣血100%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                145
+            ]
         },
         "366": {
             "title": "隨機轉火 ‧ 消火扣血2-10%",
@@ -2212,7 +2359,9 @@
             "title": "附加消除",
             "desc": "首回合敵人會消除召喚師所有附加效果",
             "custom_desc": "",
-            "icons": []
+            "icons": [
+                41
+            ]
         },
         "370": {
             "title": "雙重凝固符石",
