@@ -23638,7 +23638,7 @@
         "4861": {
             "title": "",
             "desc": "<em>【指定粒數符石凝護&nbsp;-&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />首批消除指定數量的符石，<br />可扣除敵人&nbsp;20%&nbsp;生命力。<br /><br />除此之外，<br />敵人不受任何攻擊傷害<br />(包括主動技)&nbsp;及<br />無視所有控制技能。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">assigned_number 16 20</span><span class=\"annotation\">trojan_hp_attack</span>"
         },
         "4862": {
             "title": "",
@@ -28248,7 +28248,7 @@
         "5785": {
             "title": "【首消粒數凝護】",
             "desc": "•&nbsp;首批消除指定粒數符石<br />⇒&nbsp;可扣除敵人&nbsp;25%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">assigned_number 17 23</span>"
         },
         "5786": {
             "title": "【符石轉水】",
