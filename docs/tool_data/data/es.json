@@ -21112,7 +21112,7 @@
         },
         "4281": {
             "title": "敵技4281",
-            "desc": "•&nbsp;進場時消除召喚師<br />&nbsp;&nbsp;所有附加效果，<br />&nbsp;&nbsp;相關技能&nbsp;CD&nbsp;將被重置<br /><br />•&nbsp;進場時對召喚師<br />&nbsp;&nbsp;施加負面效果疲憊狀態：<br />&nbsp;&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;全隊攻擊力減至&nbsp;0%。<br /><br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;4&nbsp;粒符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;30,000&nbsp;點傷害<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算回復加乘)",
+            "desc": "•&nbsp;進場時消除召喚師<br />&nbsp;&nbsp;所有附加效果。<br /><br />•&nbsp;進場時對召喚師<br />&nbsp;&nbsp;施加負面效果疲憊狀態：<br />&nbsp;&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;全隊攻擊力減至&nbsp;0%。<br /><br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;4&nbsp;粒符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;30,000&nbsp;點傷害<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算回復加乘)",
             "custom_desc": "胞質核災厄（核心封閉階段的本體）"
         },
         "4283": {
@@ -24918,12 +24918,12 @@
         "5118": {
             "title": "【減傷抗性】",
             "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，<br />敵人攻擊次數愈多，<br />減傷狀態削弱愈多。",
-            "custom_desc": "<span class=\"annotation\">crumbling_walls 100 95 90 85 80 70 60 45 30 15 0</span>"
+            "custom_desc": "同學，這招是<em>越攻越弱</em>，和隔壁 <em>5119 受攻越弱</em>是不一樣的東西，搞清楚狀況好嗎？<span class=\"annotation\">crumbling_walls 100 95 90 85 80 70 60 45 30 15 0</span>"
         },
         "5119": {
             "title": "【減傷抗性】",
             "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，<br />召喚師受敵人攻擊次數愈多，<br />敵人減傷狀態削弱愈多。",
-            "custom_desc": "<span class=\"annotation\">crumbling_walls 100 95 90 85 80 60 40 20 0</span>"
+            "custom_desc": "同學，這招是<em>受攻越弱</em>，和隔壁 <em>5118 越攻越弱</em>是不一樣的東西，搞清楚狀況好嗎？<span class=\"annotation\">crumbling_walls 100 95 90 85 80 60 40 20 0</span>"
         },
         "5120": {
             "title": "【水之幻界 - 符石轉水】",
