@@ -135,79 +135,109 @@
         "21": {
             "title": "隨機3~6Combo追擊弱盾",
             "desc": "隨機指定連擊&nbsp;(Combo)&nbsp;數，當達成或接近指定的連擊&nbsp;(Combo)&nbsp;(差距為&nbsp;2&nbsp;連擊&nbsp;(Combo)&nbsp;或以下)&nbsp;才會對敵人造成攻擊傷害&nbsp;(需消除符石)。達成上述指定的連擊&nbsp;(Combo)&nbsp;數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多",
-            "custom_desc": "計算天降，只計算消除符石"
+            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li><li>相差1 Combo時，敵人所受傷害減少65%</li><li>相差2 Combo時，敵人所受傷害減少85%</li></ul>"
         },
         "22": {
             "title": "隨機3~6Combo追擊盾",
             "desc": "隨機指定連擊&nbsp;(Combo)&nbsp;數，當達成指定的連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害&nbsp;(需消除符石)。達成上述指定的連擊&nbsp;(Combo)&nbsp;數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多",
-            "custom_desc": "計算天降，只計算消除符石"
+            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li></ul>"
         },
         "23": {
             "title": "隨機3~6Combo追擊弱盾-轉",
             "desc": "在開始移動符石時，出現隨機指定的連擊&nbsp;(Combo)&nbsp;數，當達成或接近指定的連擊&nbsp;(Combo)&nbsp;(差距為&nbsp;2&nbsp;連擊&nbsp;(Combo)&nbsp;或以下)&nbsp;才會對敵人造成攻擊傷害&nbsp;(需消除符石)。達成上述指定的連擊&nbsp;(Combo)&nbsp;數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多",
-            "custom_desc": "計算天降，只計算消除符石"
+            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li><li>相差1 Combo時，敵人所受傷害減少65%</li><li>相差2 Combo時，敵人所受傷害減少85%</li></ul>"
         },
         "24": {
             "title": "隨機3~6Combo追擊盾-轉",
             "desc": "在開始移動符石時，出現隨機指定的連擊&nbsp;(Combo)&nbsp;數，當達成指定的連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害&nbsp;(需消除符石)。達成上述指定的連擊&nbsp;(Combo)&nbsp;數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多",
-            "custom_desc": "計算天降，只計算消除符石"
+            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li></ul>"
         },
         "25": {
             "title": "人類防禦50%",
             "desc": "敵人令人類成員的攻擊力半減",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                621
+            ]
         },
         "26": {
             "title": "龍類防禦50%",
             "desc": "敵人令龍類成員的攻擊力半減",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                624
+            ]
         },
         "27": {
             "title": "神族防禦50%",
             "desc": "敵人令神族成員的攻擊力半減",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                622
+            ]
         },
         "28": {
             "title": "妖精防禦50%",
             "desc": "敵人令妖精類成員的攻擊力半減",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                626
+            ]
         },
         "29": {
             "title": "獸類防禦50%",
             "desc": "敵人令獸類成員的攻擊力半減",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                625
+            ]
         },
         "30": {
             "title": "3倍獵人",
             "desc": "召喚師隊伍中有人類成員時，敵人攻擊力提升",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                611
+            ]
         },
         "31": {
             "title": "3倍獵龍",
             "desc": "召喚師隊伍中有龍類成員時，敵人攻擊力提升",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                614
+            ]
         },
         "32": {
             "title": "3倍獵神",
             "desc": "召喚師隊伍中有神族成員時，敵人攻擊力提升",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                612
+            ]
         },
         "33": {
             "title": "3倍獵妖",
             "desc": "召喚師隊伍中有妖精類成員時，敵人攻擊力提升",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                616
+            ]
         },
         "34": {
             "title": "3倍獵獸",
             "desc": "召喚師隊伍有獸類成員時，敵人攻擊力提升",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                615
+            ]
         },
         "35": {
             "title": "扣血70%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "icons": [
-                804
+                807
             ]
         },
         "36": {
@@ -215,7 +245,7 @@
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;40%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "icons": [
-                802
+                804
             ]
         },
         "37": {
@@ -223,7 +253,7 @@
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "icons": [
-                803
+                805
             ]
         },
         "38": {
@@ -485,52 +515,82 @@
         "71": {
             "title": "剋屬外防禦50%",
             "desc": "當不是克制敵人的屬性時，攻擊傷害減50%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "72": {
             "title": "扣血30%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                803
+            ]
         },
         "73": {
             "title": "扣血80%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;80%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                808
+            ]
         },
         "74": {
             "title": "扣血90%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                809
+            ]
         },
         "75": {
             "title": "三屬盾",
             "desc": "同時消除水符石，火符石及木符石才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1201
+            ]
         },
         "76": {
             "title": "光暗盾",
             "desc": "同時消除光符石及暗符石才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1202
+            ]
         },
         "77": {
             "title": "五屬盾",
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1204
+            ]
         },
         "78": {
             "title": "強制自爆5000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5,000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "79": {
             "title": "強制自爆10000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10,000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "80": {
             "title": "強制自爆20000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20,000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "81": {
             "title": "回復4000",
@@ -565,32 +625,50 @@
         "87": {
             "title": "技能回復",
             "desc": "首回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "88": {
             "title": "逢三技能回復",
             "desc": "每&nbsp;3&nbsp;回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "89": {
             "title": "逢四技能回復",
             "desc": "每&nbsp;4&nbsp;回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "90": {
             "title": "刷新符石",
             "desc": "首回合敵人會將所有符石隨機轉換",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                982
+            ]
         },
         "91": {
             "title": "逢二刷新符石",
             "desc": "每&nbsp;2&nbsp;回合敵人會將所有符石隨機轉換",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                982
+            ]
         },
         "92": {
             "title": "逢三刷新符石",
             "desc": "每&nbsp;3&nbsp;回合敵人會將所有符石隨機轉換",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                982
+            ]
         },
         "93": {
             "title": "不倒意志20%",
@@ -615,77 +693,122 @@
         "97": {
             "title": "5%隱藏符石4顆",
             "desc": "敵人會掉落隱藏符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "98": {
             "title": "10%隱藏符石4顆",
             "desc": "大幅掉落隱藏符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "99": {
             "title": "15%隱藏符石4顆",
             "desc": "大幅掉落隱藏符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "100": {
             "title": "水轉自身",
             "desc": "每回合敵人會將水符石轉化為敵人屬性的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "101": {
             "title": "火轉自身",
             "desc": "每回合敵人會將火符石轉化為敵人屬性的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "102": {
             "title": "木轉自身",
             "desc": "每回合敵人會將木符石轉化為敵人屬性的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "103": {
             "title": "光轉自身",
             "desc": "每回合敵人會將光符石轉化為敵人屬性的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "104": {
             "title": "暗轉自身",
             "desc": "每回合敵人會將暗符石轉化為敵人屬性的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "105": {
             "title": "心轉自身",
             "desc": "每回合敵人會將心符石轉化為敵人屬性的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "106": {
             "title": "水轉相剋",
             "desc": "每回合敵人會將水符石轉化為克制敵人屬性的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "107": {
             "title": "火轉相剋",
             "desc": "每回合敵人會將火符石轉化為克制敵人屬性的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "108": {
             "title": "木轉相剋",
             "desc": "每回合敵人會將木符石轉化為克制敵人屬性的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "109": {
             "title": "光轉相剋",
             "desc": "每回合敵人會將光符石轉化為克制敵人屬性的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "110": {
             "title": "暗轉相剋",
             "desc": "每回合敵人會將暗符石轉化為克制敵人屬性的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "111": {
             "title": "心轉相剋",
             "desc": "每回合敵人會將心符石轉化為克制敵人屬性的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "112": {
             "title": "復活變強",
@@ -695,72 +818,114 @@
         "113": {
             "title": "命懸一線",
             "desc": "首回合敵人會令召喚師生命力剩&nbsp;1&nbsp;點",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1055
+            ]
         },
         "114": {
             "title": "3+Combo盾",
             "desc": "3&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                53
+            ]
         },
         "115": {
             "title": "4+Combo盾",
             "desc": "4&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                54
+            ]
         },
         "116": {
             "title": "5+Combo盾",
             "desc": "5&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                55
+            ]
         },
         "117": {
             "title": "6+Combo盾",
             "desc": "6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                56
+            ]
         },
         "118": {
             "title": "5%隱藏符石3顆",
             "desc": "敵人會掉落隱藏符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "119": {
             "title": "10%隱藏符石3顆",
             "desc": "大幅掉落隱藏符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "120": {
             "title": "15%隱藏符石3顆",
             "desc": "大幅掉落隱藏符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "121": {
             "title": "5%隱藏符石5顆",
             "desc": "敵人會掉落隱藏符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "122": {
             "title": "10%隱藏符石5顆",
             "desc": "大幅掉落隱藏符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "123": {
             "title": "15%隱藏符石5顆",
             "desc": "大幅掉落隱藏符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "124": {
             "title": "自爆5000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5000&nbsp;點傷害，因主動技能而死亡除外",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "125": {
             "title": "自爆10000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10000&nbsp;點傷害，因主動技能而死亡除外",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "126": {
             "title": "自爆20000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20000&nbsp;點傷害，因主動技能而死亡除外",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "127": {
             "title": "不倒意志20%-5倍回復",
@@ -770,12 +935,18 @@
         "128": {
             "title": "強化防禦盾",
             "desc": "消除強化符石不會對敵人造成傷害",
-            "custom_desc": "不受到兼具影響"
+            "custom_desc": "不受到兼具影響",
+            "icons": [
+                1016
+            ]
         },
         "129": {
             "title": "強化防禦75%",
             "desc": "強化符石所造成的傷害會減少&nbsp;75%",
-            "custom_desc": "不受到兼具影響"
+            "custom_desc": "不受到兼具影響",
+            "icons": [
+                1015
+            ]
         },
         "130": {
             "title": "不倒意志20%-10倍回復",
@@ -785,77 +956,122 @@
         "131": {
             "title": "5消以下攻擊零化",
             "desc": "召喚師需消除&nbsp;1&nbsp;組&nbsp;5&nbsp;粒或以上的屬性符石，該屬性才能對敵人造成攻擊傷害&nbsp;(只計算消除符石)",
-            "custom_desc": "對應屬性成員直接壓成0"
+            "custom_desc": "對應屬性成員直接壓成0",
+            "icons": [
+                903
+            ]
         },
         "132": {
             "title": "5消以上攻擊零化",
             "desc": "召喚師消除&nbsp;1&nbsp;組&nbsp;5&nbsp;粒或以上的屬性符石，該屬性成員將無法對敵人造成攻擊傷害&nbsp;(只計算消除符石)",
-            "custom_desc": "對應屬性成員直接壓成0"
+            "custom_desc": "對應屬性成員直接壓成0",
+            "icons": [
+                903
+            ]
         },
         "133": {
             "title": "魔族防禦50%",
             "desc": "敵人令魔族成員攻擊力半減",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                623
+            ]
         },
         "134": {
             "title": "3倍獵魔",
             "desc": "召喚師隊伍中有魔族成員時，敵人攻擊力提升",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                613
+            ]
         },
         "135": {
             "title": "水外防禦75%",
             "desc": "水屬性以外的攻擊傷害減至&nbsp;25%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                251
+            ]
         },
         "136": {
             "title": "火外防禦75%",
             "desc": "火屬性以外的攻擊傷害減至&nbsp;25%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                252
+            ]
         },
         "137": {
             "title": "木外防禦75%",
             "desc": "木屬性以外的攻擊傷害減至&nbsp;25%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                253
+            ]
         },
         "138": {
             "title": "光外防禦75%",
             "desc": "光屬性以外的攻擊傷害減至&nbsp;25%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                254
+            ]
         },
         "139": {
             "title": "暗外防禦75%",
             "desc": "暗屬性以外的攻擊傷害減至&nbsp;25%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                255
+            ]
         },
         "140": {
             "title": "人外防禦75%",
             "desc": "人類以外的攻擊傷害減至&nbsp;25%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                601
+            ]
         },
         "141": {
             "title": "獸外防禦75%",
             "desc": "獸類以外的攻擊傷害減至&nbsp;25%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                605
+            ]
         },
         "142": {
             "title": "龍外防禦75%",
             "desc": "龍類以外的攻擊傷害減至&nbsp;25%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                604
+            ]
         },
         "143": {
             "title": "神外防禦75%",
             "desc": "神族以外的攻擊傷害減至&nbsp;25%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                602
+            ]
         },
         "144": {
             "title": "魔外防禦75%",
             "desc": "魔族以外的攻擊傷害減至&nbsp;25%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                603
+            ]
         },
         "145": {
             "title": "妖外防禦75%",
             "desc": "妖精類以外的攻擊傷害減至&nbsp;25%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                606
+            ]
         },
         "146": {
             "title": "血防同步-低",
@@ -885,162 +1101,258 @@
         "151": {
             "title": "自爆2000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;2000&nbsp;點傷害，因主動技能而死亡除外",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "152": {
             "title": "自爆5000-隊長減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5000&nbsp;點傷害，因主動技能而死亡除外，隊長技能可減低傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "153": {
             "title": "自爆10000-隊長減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10000&nbsp;點傷害，因主動技能而死亡除外，隊長技能可減低傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "154": {
             "title": "自爆20000-隊長減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20000&nbsp;點傷害，因主動技能而死亡除外，隊長技能可減低傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "155": {
             "title": "自爆5000-主動減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5000&nbsp;點傷害，因主動技能而死亡除外，主動技能可減低傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "156": {
             "title": "自爆10000-主動減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10000&nbsp;點傷害，因主動技能而死亡除外，主動技能可減低傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "157": {
             "title": "自爆20000-主動減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20000&nbsp;點傷害，因主動技能而死亡除外，主動技能可減低傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "158": {
             "title": "弱自爆5000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5000&nbsp;點傷害，因主動技能而死亡除外，隊長及主動技能皆可減低傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "159": {
             "title": "弱自爆10000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10000&nbsp;點傷害，因主動技能而死亡除外，隊長及主動技能皆可減低傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "160": {
             "title": "弱自爆20000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20000&nbsp;點傷害，因主動技能而死亡除外，隊長及主動技能皆可減低傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "161": {
             "title": "扣血30%-隊長減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，隊長技除外）",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                803
+            ]
         },
         "162": {
             "title": "扣血50%-隊長減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，隊長技除外）",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                805
+            ]
         },
         "163": {
             "title": "扣血70%-隊長減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，隊長技除外）",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                807
+            ]
         },
         "164": {
             "title": "扣血90%-隊長減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，隊長技除外）",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                809
+            ]
         },
         "165": {
             "title": "扣血30%-主動減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，主動技除外）",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                803
+            ]
         },
         "166": {
             "title": "扣血50%-主動減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，主動技除外）",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                805
+            ]
         },
         "167": {
             "title": "扣血70%-主動減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，主動技除外）",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                807
+            ]
         },
         "168": {
             "title": "扣血90%-主動減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，主動技除外）",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                809
+            ]
         },
         "169": {
             "title": "弱扣血30%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;&nbsp;(隊長及主動技能皆可減低傷害）",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                803
+            ]
         },
         "170": {
             "title": "弱扣血50%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;&nbsp;(隊長及主動技能皆可減低傷害）",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                805
+            ]
         },
         "171": {
             "title": "弱扣血70%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;&nbsp;(隊長及主動技能皆可減低傷害）",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                807
+            ]
         },
         "172": {
             "title": "弱扣血90%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;&nbsp;(隊長及主動技能皆可減低傷害）",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                809
+            ]
         },
         "173": {
             "title": "3-Combo盾",
             "desc": "3&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                71
+            ]
         },
         "174": {
             "title": "4-Combo盾",
             "desc": "4&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                72
+            ]
         },
         "175": {
             "title": "5-Combo盾",
             "desc": "5&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                73
+            ]
         },
         "176": {
             "title": "6-Combo盾",
             "desc": "6&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                74
+            ]
         },
         "177": {
             "title": "越戰越強-鐵",
             "desc": "敵人生命力愈低時，攻擊力會稍微提升",
-            "custom_desc": "<span class=\"annotation\">crescendo</span>"
+            "custom_desc": "<span class=\"annotation\">crescendo</span>",
+            "icons": [
+                1001
+            ]
         },
         "178": {
             "title": "越戰越強-銅",
             "desc": "敵人生命力愈低時，攻擊力會作一定幅度的提升",
-            "custom_desc": "<span class=\"annotation\">crescendo_ex</span>"
+            "custom_desc": "<span class=\"annotation\">crescendo_ex</span>",
+            "icons": [
+                1001
+            ]
         },
         "179": {
             "title": "自爆2000-隊長減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;2000&nbsp;點傷害，因主動技能而死亡除外，隊長技能可以減少傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "180": {
             "title": "自爆2000-主動減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;2000&nbsp;點傷害，因主動技能而死亡除外，主動技能可以減少傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "181": {
             "title": "弱自爆2000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;2000&nbsp;點傷害，因主動技能而死亡除外，隊長技能及主動技能皆可減少傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "182": {
             "title": "三屬輪轉 ‧ 剋屬禁消 ‧ 光暗防禦50%",
             "desc": "敵人每兩回合轉換屬性&nbsp;(水、火及木屬)，克制敵人當前屬性的符石無法被消除。光屬性及暗屬性的傷害減少&nbsp;50%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                984
+            ]
         },
         "183": {
             "title": "順攻盾",
@@ -1055,62 +1367,98 @@
         "185": {
             "title": "風化-先",
             "desc": "每回合移動符石前，隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
         },
         "186": {
             "title": "風化",
             "desc": "每回合隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
         },
         "187": {
             "title": "風化3000-轉",
             "desc": "每回合移動符石時，隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
         },
         "188": {
             "title": "風化3000",
             "desc": "每回合隨機把&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
         },
         "189": {
             "title": "風化3000-先",
             "desc": "每回合移動符石前，隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
         },
         "190": {
             "title": "反擊300",
             "desc": "對每個發動攻擊的成員，造成&nbsp;300&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "191": {
             "title": "反擊500",
             "desc": "對每個發動攻擊的成員，造成&nbsp;500&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "192": {
             "title": "反擊1000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;1000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "193": {
             "title": "反擊2000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;2000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "194": {
             "title": "反擊3000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;3000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "195": {
             "title": "反擊4000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;4000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "196": {
             "title": "反擊5000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;5000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "197": {
             "title": "隨機三屬盾-轉",
