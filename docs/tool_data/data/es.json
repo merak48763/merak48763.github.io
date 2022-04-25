@@ -1493,167 +1493,267 @@
         "197": {
             "title": "隨機三屬盾-轉",
             "desc": "同時消除指定的&nbsp;3&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1204
+            ]
         },
         "198": {
             "title": "隨機四屬盾-轉",
             "desc": "同時消除指定的&nbsp;4&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1204
+            ]
         },
         "199": {
             "title": "水強火木盾",
             "desc": "同時消除火符石，木符石及水強化符石，才能對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "200": {
             "title": "火強水木盾",
             "desc": "同時消除水符石，木符石及火強化符石，才能對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "201": {
             "title": "木強水火盾",
             "desc": "同時消除水符石，火符石及木強化符石，才能對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "202": {
             "title": "光強暗珠盾",
             "desc": "同時消除暗符石及光強化符石，才能對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "203": {
             "title": "暗強光珠盾",
             "desc": "同時消除光符石及暗強化符石，才能對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "204": {
             "title": "風化-轉",
             "desc": "每回合移動符石時，隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
         },
         "205": {
             "title": "垂死反擊300",
             "desc": "對每個發動攻擊的成員，造成&nbsp;300&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "206": {
             "title": "垂死反擊500",
             "desc": "對每個發動攻擊的成員，造成&nbsp;500&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "207": {
             "title": "垂死反擊1000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;1000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "208": {
             "title": "垂死反擊2000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;2000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "209": {
             "title": "垂死反擊3000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;3000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "210": {
             "title": "垂死反擊4000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;4000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "211": {
             "title": "垂死反擊5000",
             "desc": "對每個發動攻擊的成員，造成&nbsp;5000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1052
+            ]
         },
         "212": {
             "title": "單次5+水符石盾",
             "desc": "召喚師需消除&nbsp;5&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                291
+            ]
         },
         "213": {
             "title": "單次10+水符石盾",
             "desc": "召喚師需消除&nbsp;10&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                291
+            ]
         },
         "214": {
             "title": "單次15+水符石盾",
             "desc": "召喚師需消除&nbsp;15&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                291
+            ]
         },
         "215": {
             "title": "單次5+火符石盾",
             "desc": "召喚師需消除&nbsp;5&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                292
+            ]
         },
         "216": {
             "title": "單次10+火符石盾",
             "desc": "召喚師需消除&nbsp;10&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                292
+            ]
         },
         "217": {
             "title": "單次15+火符石盾",
             "desc": "召喚師需消除&nbsp;15&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                292
+            ]
         },
         "218": {
             "title": "單次5+木符石盾",
             "desc": "召喚師需消除&nbsp;5&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                293
+            ]
         },
         "219": {
             "title": "單次10+木符石盾",
             "desc": "召喚師需消除&nbsp;10&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                293
+            ]
         },
         "220": {
             "title": "單次15+木符石盾",
             "desc": "召喚師需消除&nbsp;15&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                293
+            ]
         },
         "221": {
             "title": "單次5+光符石盾",
             "desc": "召喚師需消除&nbsp;5&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                294
+            ]
         },
         "222": {
             "title": "單次10+光符石盾",
             "desc": "召喚師需消除&nbsp;10&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                294
+            ]
         },
         "223": {
             "title": "單次15+光符石盾",
             "desc": "召喚師需消除&nbsp;15&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                294
+            ]
         },
         "224": {
             "title": "單次5+暗符石盾",
             "desc": "召喚師需消除&nbsp;5&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                295
+            ]
         },
         "225": {
             "title": "單次10+暗符石盾",
             "desc": "召喚師需消除&nbsp;10&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                295
+            ]
         },
         "226": {
             "title": "單次15+暗符石盾",
             "desc": "召喚師需消除&nbsp;15&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                295
+            ]
         },
         "227": {
             "title": "隨機三屬盾",
             "desc": "同時消除指定的&nbsp;3&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1204
+            ]
         },
         "228": {
             "title": "隨機四屬盾",
             "desc": "同時消除指定的&nbsp;4&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1204
+            ]
         },
         "229": {
             "title": "雙重追擊風化20% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;20%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1010,
+                957
+            ]
         },
         "230": {
             "title": "技能回復 ‧ 風化20%-風化盾5%",
@@ -1663,107 +1763,177 @@
         "231": {
             "title": "雙重追擊風化20% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;20%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1010,
+                957
+            ]
         },
         "232": {
             "title": "雙重追擊風化20% ‧ 溢補盾",
             "desc": "每回合隨機把&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;20%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1010,
+                957
+            ]
         },
         "233": {
             "title": "雙重追擊風化20% ‧ 溢補盾",
             "desc": "每回合隨機把&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;20%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1010,
+                957
+            ]
         },
         "234": {
             "title": "雙重追擊風化30% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;30%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1010,
+                957
+            ]
         },
         "235": {
             "title": "雙重追擊風化30% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;30%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1010,
+                957
+            ]
         },
         "236": {
             "title": "雙重追擊風化30% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;30%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1010,
+                957
+            ]
         },
         "237": {
             "title": "光強水火盾",
             "desc": "同時消除水符石，火符石及光強化符石，才能對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "238": {
             "title": "光強水木盾",
             "desc": "同時消除水符石，木符石及光強化符石，才能對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "239": {
             "title": "光強火木盾",
             "desc": "同時消除木符石，火符石及光強化符石，才能對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "240": {
             "title": "暗強水火盾",
             "desc": "同時消除水符石，火符石及暗強化符石，才能對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "241": {
             "title": "暗強水木盾",
             "desc": "同時消除水符石，木符石及暗強化符石，才能對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "242": {
             "title": "暗強火木盾",
             "desc": "同時消除木符石，火符石及暗強化符石，才能對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "243": {
             "title": "雙重追擊風化30% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成生命力&nbsp;30%&nbsp;的傷害。敵人攻擊次數隨風化符石數量提升。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1010,
+                957
+            ]
         },
         "244": {
             "title": "水轉心",
             "desc": "每回合敵人會將水符石轉化為心符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "245": {
             "title": "火轉心",
             "desc": "每回合敵人會將火符石轉化為心符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "246": {
             "title": "木轉心",
             "desc": "每回合敵人會將木符石轉化為心符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "247": {
             "title": "光轉心",
             "desc": "每回合敵人會將光符石轉化為心符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "248": {
             "title": "暗轉心",
             "desc": "每回合敵人會將暗符石轉化為心符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "249": {
             "title": "5擊盾",
             "desc": "需對敵人進行&nbsp;5&nbsp;次攻擊後，才能對其造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "250": {
             "title": "15擊盾",
             "desc": "需對敵人進行&nbsp;15&nbsp;次攻擊後，才能對其造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "251": {
             "title": "20擊盾",
             "desc": "需對敵人進行&nbsp;20&nbsp;次攻擊後，才能對其造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "252": {
             "title": "【亡命 - 隱藏圍城】",
@@ -1773,122 +1943,194 @@
         "253": {
             "title": "全體共生",
             "desc": "全體共生，只要場上&nbsp;1&nbsp;個敵人生存，它會令死去的同伴復活",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1004
+            ]
         },
         "254": {
             "title": "全體無限回復",
             "desc": "全體敵人每回合會完全回復生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1011
+            ]
         },
         "255": {
             "title": "單次5+心符石盾",
             "desc": "召喚師需消除&nbsp;5&nbsp;粒或以上心符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                296
+            ]
         },
         "256": {
             "title": "單次10+心符石盾",
             "desc": "召喚師需消除&nbsp;10&nbsp;粒或以上心符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                296
+            ]
         },
         "257": {
             "title": "單次15+心符石盾",
             "desc": "召喚師需消除&nbsp;15&nbsp;粒或以上心符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                296
+            ]
         },
         "258": {
             "title": "單次6+水符石盾",
             "desc": "召喚師需消除&nbsp;6&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                291
+            ]
         },
         "259": {
             "title": "單次9+水符石盾",
             "desc": "召喚師需消除&nbsp;9&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                291
+            ]
         },
         "260": {
             "title": "單次12+水符石盾",
             "desc": "召喚師需消除&nbsp;12&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                291
+            ]
         },
         "261": {
             "title": "單次6+火符石盾",
             "desc": "召喚師需消除&nbsp;6&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                292
+            ]
         },
         "262": {
             "title": "單次9+火符石盾",
             "desc": "召喚師需消除&nbsp;9&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                292
+            ]
         },
         "263": {
             "title": "單次12+火符石盾",
             "desc": "召喚師需消除&nbsp;12&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                292
+            ]
         },
         "264": {
             "title": "單次6+木符石盾",
             "desc": "召喚師需消除&nbsp;6&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                293
+            ]
         },
         "265": {
             "title": "單次9+木符石盾",
             "desc": "召喚師需消除&nbsp;9&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                293
+            ]
         },
         "266": {
             "title": "單次12+木符石盾",
             "desc": "召喚師需消除&nbsp;12&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                293
+            ]
         },
         "267": {
             "title": "單次6+光符石盾",
             "desc": "召喚師需消除&nbsp;6&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                294
+            ]
         },
         "268": {
             "title": "單次9+光符石盾",
             "desc": "召喚師需消除&nbsp;9&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                294
+            ]
         },
         "269": {
             "title": "單次12+光符石盾",
             "desc": "召喚師需消除&nbsp;12&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                294
+            ]
         },
         "270": {
             "title": "單次6+暗符石盾",
             "desc": "召喚師需消除&nbsp;6&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                295
+            ]
         },
         "271": {
             "title": "單次9+暗符石盾",
             "desc": "召喚師需消除&nbsp;9&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                295
+            ]
         },
         "272": {
             "title": "單次12+暗符石盾",
             "desc": "召喚師需消除&nbsp;12&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                295
+            ]
         },
         "273": {
             "title": "單次6+心符石盾",
             "desc": "召喚師需消除&nbsp;6&nbsp;粒或以上心符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                296
+            ]
         },
         "274": {
             "title": "單次9+心符石盾",
             "desc": "召喚師需消除&nbsp;9&nbsp;粒或以上心符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                296
+            ]
         },
         "275": {
             "title": "單次12+心符石盾",
             "desc": "召喚師需消除&nbsp;12&nbsp;粒或以上心符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                296
+            ]
         },
         "276": {
             "title": "越轉越強",
             "desc": "敵人的攻擊力會隨移動符石時間而增加",
-            "custom_desc": "每0.5秒增加3000，最高5秒增加30000<details><summary>v2022.1測試結論</summary><ul><li>取上一個Wave最後一回合的秒數永久固定倍率</li><li>以剩餘秒數（而非經過秒數）計算倍率</li><li>大概是bug，八成不會修</li></ul></details>"
+            "custom_desc": "每0.5秒增加3000，最高5秒增加30000<details><summary>v2022.1測試結論</summary><ul><li>取上一個Wave最後一回合的秒數永久固定倍率</li><li>以剩餘秒數（而非經過秒數）計算倍率</li><li>大概是bug，八成不會修</li></ul></details>",
+            "icons": [
+                1001
+            ]
         },
         "277": {
             "title": "首回回復 ‧ 缺血盾",
@@ -1898,42 +2140,66 @@
         "278": {
             "title": "7+Combo盾",
             "desc": "7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                57
+            ]
         },
         "279": {
             "title": "7+Combo追擊盾",
             "desc": "7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                57
+            ]
         },
         "280": {
             "title": "8+Combo盾",
             "desc": "8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                58
+            ]
         },
         "281": {
             "title": "8+Combo追擊盾",
             "desc": "8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                58
+            ]
         },
         "282": {
             "title": "越攻越強",
             "desc": "敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": "<span class=\"annotation\">trojan_attack</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                1001
+            ]
         },
         "283": {
             "title": "越戰越強-白金",
             "desc": "敵人生命力愈低時，攻擊力及防禦力會大幅提升",
-            "custom_desc": "<span class=\"annotation\">trojan_fort_ex</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_fort_ex</span>",
+            "icons": [
+                1001
+            ]
         },
         "284": {
             "title": "無限回復 ‧ 越攻越強",
             "desc": "敵人每回合會完全回復生命力，敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": "<span class=\"annotation\">trojan_attack</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                1001
+            ]
         },
         "285": {
             "title": "隱藏-轉",
             "desc": "每回合開始移動符石時，才會顯示場上的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "286": {
             "title": "眩惑符石",
@@ -1948,7 +2214,10 @@
         "288": {
             "title": "主動盾",
             "desc": "只有主動技能可對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                903
+            ]
         },
         "289": {
             "title": "消光敵回30%-消暗扣血30% ‧ 復活 ‧ 主動盾",
@@ -1958,32 +2227,50 @@
         "290": {
             "title": "隱身",
             "desc": "敵人會隱身，直至發動第&nbsp;1&nbsp;次攻擊，隱身期間不受任何攻擊傷害&nbsp;(主動技能除外)&nbsp;及無視所有控制技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "291": {
             "title": "能力繼承",
             "desc": "只要場上&nbsp;1&nbsp;個敵人生存，它會即時完全回復自身生命力，並吸收死去同伴的能力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1004
+            ]
         },
         "292": {
             "title": "獵神-技能封鎖",
             "desc": "首回合敵人會永久封鎖召喚師的神族成員的主動技能，召喚師隊伍有神族成員時，敵人攻擊力提升",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
         },
         "293": {
             "title": "10秒轉珠",
             "desc": "大幅延長移動符石時間至&nbsp;10&nbsp;秒",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1003
+            ]
         },
         "294": {
             "title": "20秒轉珠",
             "desc": "大幅延長移動符石時間至&nbsp;20&nbsp;秒",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1003
+            ]
         },
         "295": {
             "title": "30秒轉珠",
             "desc": "大幅延長移動符石時間至&nbsp;30&nbsp;秒",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1003
+            ]
         },
         "296": {
             "title": "心外眩惑符石-轉",
@@ -1998,7 +2285,11 @@
         "298": {
             "title": "隱身 ‧ 雙重風化3000",
             "desc": "敵人會隱身，直至發動第&nbsp;1&nbsp;次攻擊，隱身期間不受任何攻擊傷害&nbsp;&nbsp;(主動技能除外)&nbsp;及無視所有控制技能。此外，每回合移動符石前，隨機將&nbsp;2&nbsp;粒符石風化，一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901,
+                957
+            ]
         },
         "299": {
             "title": "【固定 1 連擊盾】",
@@ -2033,7 +2324,10 @@
         "305": {
             "title": "20+Combo盾",
             "desc": "20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                70
+            ]
         },
         "306": {
             "title": "轉珠+3秒 ‧ 首消7+Combo盾",
@@ -2053,117 +2347,186 @@
         "309": {
             "title": "越戰越強-金",
             "desc": "敵人生命力愈低時，攻擊力會大幅提升，生命力&nbsp;30%&nbsp;或以下時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": "<span class=\"annotation\">trojan_ex</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_ex</span>",
+            "icons": [
+                1001
+            ]
         },
         "310": {
             "title": "中級拼圖盾",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1007
+            ]
         },
         "311": {
             "title": "中級拼圖盾-限",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(不可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1007
+            ]
         },
         "312": {
             "title": "強化光暗盾",
             "desc": "同時消除光強化符石及暗強化符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1206
+            ]
         },
         "313": {
             "title": "隨機強化雙屬盾",
             "desc": "同時消除指定的兩種屬性強化符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "314": {
             "title": "隨機強化雙屬盾-轉",
             "desc": "同時消除指定的兩種屬性強化符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "315": {
             "title": "強化三屬盾",
             "desc": "同時消除水強化符石，火強化符石及木強化符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1205
+            ]
         },
         "316": {
             "title": "隨機強化三屬盾",
             "desc": "同時消除指定的&nbsp;3&nbsp;種屬性強化符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "317": {
             "title": "隨機強化三屬盾-轉",
             "desc": "同時消除指定的&nbsp;3&nbsp;種屬性強化符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "318": {
             "title": "隨機強化四屬盾",
             "desc": "同時消除指定的&nbsp;4&nbsp;種屬性強化符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "319": {
             "title": "隨機強化四屬盾-轉",
             "desc": "同時消除指定的&nbsp;4&nbsp;種屬性強化符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "320": {
             "title": "強化五屬盾",
             "desc": "同時消除水強化符石，火強化符石，木強化符石，光強化符石及暗強化符石才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1208
+            ]
         },
         "321": {
             "title": "自殘50%",
             "desc": "敵人每回合會扣除自身生命力&nbsp;50%，持續至死亡，期間不受任何攻擊傷害及無視所有控制技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1055
+            ]
         },
         "322": {
             "title": "自殘25%",
             "desc": "敵人每回合會扣除自身生命力&nbsp;25%，持續至死亡，期間不受任何攻擊傷害及無視所有控制技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1055
+            ]
         },
         "323": {
             "title": "自殘20%",
             "desc": "敵人每回合會扣除自身生命力&nbsp;20%，持續至死亡，期間不受任何攻擊傷害及無視所有控制技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1055
+            ]
         },
         "324": {
             "title": "自殘10%",
             "desc": "敵人每回合會扣除自身生命力&nbsp;10%，持續至死亡，期間不受任何攻擊傷害及無視所有控制技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1055
+            ]
         },
         "325": {
             "title": "自殘5%",
             "desc": "敵人每回合會扣除自身生命力&nbsp;5%，持續至死亡，期間不受任何攻擊傷害及無視所有控制技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1055
+            ]
         },
         "326": {
             "title": "命懸一線 ‧ 技能封鎖",
             "desc": "首回合敵人會令召喚師生命力剩&nbsp;1&nbsp;點及永久封鎖所有成員的主動技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1022
+            ]
         },
         "327": {
             "title": "五屬盾-反擊1000",
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性符石，對召喚師造成&nbsp;1,000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1204
+            ]
         },
         "328": {
             "title": "五屬盾-反擊2000",
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性符石，對召喚師造成&nbsp;2,000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1204
+            ]
         },
         "329": {
             "title": "五屬盾-反擊3000",
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性符石，對召喚師造成&nbsp;3,000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1204
+            ]
         },
         "330": {
             "title": "五屬盾-反擊4000",
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性符石，對召喚師造成&nbsp;4,000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1204
+            ]
         },
         "331": {
             "title": "五屬盾-反擊5000",
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性符石，對召喚師造成&nbsp;5,000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1204
+            ]
         },
         "332": {
             "title": "隨機四屬盾-反擊1000",
@@ -2213,17 +2576,26 @@
         "341": {
             "title": "強化盾-反擊100%",
             "desc": "敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊，敵人會反擊自身&nbsp;100%&nbsp;攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                902
+            ]
         },
         "342": {
             "title": "強化盾-連續反擊50%",
             "desc": "敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊，敵人會連續反擊自身&nbsp;50%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                902
+            ]
         },
         "343": {
             "title": "強化盾-連續反擊25%",
             "desc": "敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊，敵人會連續反擊自身&nbsp;25%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                902
+            ]
         },
         "344": {
             "title": "強化盾-扣血50%",
@@ -2258,17 +2630,26 @@
         "350": {
             "title": "強化初級拼圖盾",
             "desc": "需以指定的形狀消除相應數量的強化符石&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1007
+            ]
         },
         "351": {
             "title": "強化高級拼圖盾",
             "desc": "需以指定的形狀消除相應數量的強化符石&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1007
+            ]
         },
         "352": {
             "title": "強化初級拼圖盾-限",
             "desc": "需以指定的形狀消除相應數量的強化符石&nbsp;(不可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1007
+            ]
         },
         "353": {
             "title": "獵人-技能封鎖",
@@ -2288,7 +2669,10 @@
         "356": {
             "title": "獵龍-技能封鎖",
             "desc": "首回合敵人會永久封鎖龍類成員的主動技能，召喚師隊伍中有龍類成員時，敵人攻擊力提升",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                614
+            ]
         },
         "357": {
             "title": "獵妖-技能封鎖",
@@ -2993,7 +3377,10 @@
         "497": {
             "title": "隱身-隱攻封鎖4回",
             "desc": "敵人會隱身，直至發動第&nbsp;1&nbsp;次攻擊，隱身期間不受任何攻擊傷害&nbsp;(主動技能除外)&nbsp;及無視所有控制技能；隱身期間敵人發動攻擊，將封鎖所有成員的主動技能，持續&nbsp;4&nbsp;回合",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "498": {
             "title": "隨機縱向燃燒10%",
@@ -3538,7 +3925,10 @@
         "606": {
             "title": "15%隱藏符石9顆",
             "desc": "大幅掉落隱藏符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "607": {
             "title": "六重軌跡黏附 ‧ 含妖-持續黏附",
@@ -3563,7 +3953,8 @@
         "611": {
             "title": "15%隱藏符石9顆 ‧ 含神-15%隱藏符石12顆",
             "desc": "大幅掉落隱藏符石；若召喚師隊伍中有神族成員時，敵人會進一步加大掉落隱藏符石幅度",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "612": {
             "title": "(5回水禁消)",
@@ -3608,7 +3999,11 @@
         "620": {
             "title": "敵轉暗 ‧ (5回轉珠減2秒) ‧ 連擊 ‧ 無視減傷",
             "desc": "首回合敵人會轉變換為暗屬性。<br />5&nbsp;回合內，敵人會令移動符石時間縮短&nbsp;2&nbsp;秒&nbsp;(移動符石時間最多減至&nbsp;1&nbsp;秒)。敵人會在&nbsp;1&nbsp;回合內連續攻擊&nbsp;2&nbsp;次&nbsp;(無視所有減傷效果和意志技能)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1054,
+                1009
+            ]
         },
         "621": {
             "title": "敵轉光 ‧ 附加消除 ‧ 首消光暗Combo同等盾",
@@ -3698,7 +4093,10 @@
         "639": {
             "title": "迷惑符石",
             "desc": "敵人會令召喚師無法看透符石的本質",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                961
+            ]
         },
         "640": {
             "title": "越扣越強10%",
@@ -3713,7 +4111,11 @@
         "642": {
             "title": "越扣越強25%",
             "desc": "首回合敵人發動攻擊時會扣除召喚師&nbsp;25%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)；受到敵人攻擊次數愈多時，攻擊力會持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 75 100</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 75 100</span>",
+            "icons": [
+                1001,
+                812
+            ]
         },
         "643": {
             "title": "(3回轉珠減2秒)",
@@ -3833,17 +4235,31 @@
         "666": {
             "title": "(3回攻擊無效) ‧ 攻後心轉木",
             "desc": "3&nbsp;回合內，召喚師攻擊變&nbsp;0；當受到敵人攻擊時，將心符石轉化為木符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1116,
+                263
+            ]
         },
         "667": {
             "title": "1-4顆追擊風化20% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;1&nbsp;粒符石風化，敵人生命力愈低時，會風化愈多的符石，最多&nbsp;4&nbsp;粒；且敵人的攻擊次數會隨風化符石數量而提升。風化符石一經觸碰，即時停止移動符石，並會扣除召喚師&nbsp;30%&nbsp;生命力。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1010,
+                957,
+                1001
+            ]
         },
         "668": {
             "title": "2-5顆追擊風化30% ‧ 溢補盾",
             "desc": "每回合隨機將&nbsp;2&nbsp;粒符石風化，敵人生命力愈低時，會風化愈多的符石，最多&nbsp;5&nbsp;粒；且敵人的攻擊次數會隨風化符石數量而提升。風化符石一經觸碰，即時停止移動符石，並會扣除召喚師&nbsp;30%&nbsp;生命力。召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1010,
+                957,
+                1001
+            ]
         },
         "669": {
             "title": "附加消除 ‧ 木心輪轉 ‧ 消木吸血1%",
@@ -3863,12 +4279,22 @@
         "672": {
             "title": "無法控制-無視減傷 ‧ 不倒意志40%-完全回復-狂怒2倍",
             "desc": "敵人會無視所有控制技能、減傷效果和意志技能。敵人當前生命力大於&nbsp;40%&nbsp;時，下一次所受傷害不會使其死亡&nbsp;(包括主動技)。當敵人生命力剩&nbsp;1&nbsp;點時，會完全回復生命力&nbsp;(只發動&nbsp;1&nbsp;次)，並提升生命力及攻擊力&nbsp;2&nbsp;倍&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                855,
+                1009,
+                906
+            ]
         },
         "673": {
             "title": "無法控制-無視減傷 ‧ 不倒意志50%-完全回復-狂怒2倍",
             "desc": "敵人會無視所有控制技能、減傷效果和意志技能。敵人當前生命力大於&nbsp;50%&nbsp;時，下一次所受傷害不會使其死亡&nbsp;(包括主動技)。當敵人生命力剩&nbsp;1&nbsp;點時，會完全回復生命力&nbsp;(只發動&nbsp;1&nbsp;次)，並提升生命力及攻擊力&nbsp;2&nbsp;倍&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                855,
+                1009,
+                906
+            ]
         },
         "674": {
             "title": "無法控制-無視減傷 ‧ 不倒意志60%-完全回復-狂怒2倍-連擊",
@@ -3938,7 +4364,12 @@
         "687": {
             "title": "附加消除-首回攻後1顆風化 ‧ 刷新符石 ‧ 同屬防禦75%",
             "desc": "首回合敵人會隨機將&nbsp;1&nbsp;粒符石風化，並消除召喚師所有附加效果；風化符石一經觸碰，即時停止移動符石。每回合敵人會將所有符石隨機轉換。與敵人屬性相同的攻擊傷害減至&nbsp;25%；當受到敵人攻擊時，敵人會隨機將&nbsp;1&nbsp;粒符石風化",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901,
+                982,
+                957
+            ]
         },
         "688": {
             "title": "附加消除-首回攻後2顆風化3000 ‧ 刷新符石 ‧ 同屬防禦90%",
@@ -4028,7 +4459,12 @@
         "705": {
             "title": "附加消除重置 ‧ 無視減傷",
             "desc": "首回合敵人會消除召喚師所有附加效果，其技能&nbsp;CD&nbsp;將被重置。<br />敵人會無視所有減傷效果和意志技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                852,
+                854,
+                1009
+            ]
         },
         "706": {
             "title": "附加消除重置 ‧ 2秒轉珠",
@@ -4048,7 +4484,12 @@
         "709": {
             "title": "附加消除重置 ‧ 越戰越強-金",
             "desc": "首回合敵人會消除召喚師所有附加效果，其技能&nbsp;CD&nbsp;將被重置。<br />敵人生命力愈低時，攻擊力會大幅提升，達到一定血量時並會連撃&nbsp;2&nbsp;次",
-            "custom_desc": "<span class=\"annotation\">trojan_ex</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_ex</span>",
+            "icons": [
+                852,
+                854,
+                1001
+            ]
         },
         "710": {
             "title": "附加消除重置 ‧ 反彈15%",
@@ -4493,37 +4934,58 @@
         "800": {
             "title": "【克敵符石護盾 9 粒】",
             "desc": "累積消除&nbsp;≥9&nbsp;粒<br />克制敵人屬性的符石<br />(不受轉換屬性技能影響)，<br />才能對敵人造成傷害。<br /><br />如果達成上述條件，<br />敵人會在&nbsp;CD&nbsp;0&nbsp;時<br />重置符石數目；<br />反之，CD&nbsp;0&nbsp;時敵人發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "801": {
             "title": "【克敵符石護盾 12 粒】",
             "desc": "累積消除&nbsp;≥12&nbsp;粒<br />克制敵人屬性的符石<br />(不受轉換屬性技能影響)，<br />才能對敵人造成傷害。<br /><br />如果達成上述條件，<br />敵人會在&nbsp;CD&nbsp;0&nbsp;時<br />重置符石數目；<br />反之，CD&nbsp;0&nbsp;時敵人發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "802": {
             "title": "【克敵符石護盾 15 粒】",
             "desc": "累積消除&nbsp;≥15&nbsp;粒<br />克制敵人屬性的符石<br />(不受轉換屬性技能影響)，<br />才能對敵人造成傷害。<br /><br />如果達成上述條件，<br />敵人會在&nbsp;CD&nbsp;0&nbsp;時<br />重置符石數目；<br />反之，CD&nbsp;0&nbsp;時敵人發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "803": {
             "title": "【克敵符石護盾 20 粒】",
             "desc": "累積消除&nbsp;≥20&nbsp;粒<br />克制敵人屬性的符石<br />(不受轉換屬性技能影響)，<br />才能對敵人造成傷害。<br /><br />如果達成上述條件，<br />敵人會在&nbsp;CD&nbsp;0&nbsp;時<br />重置符石數目；<br />反之，CD&nbsp;0&nbsp;時敵人發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "804": {
             "title": "【克敵符石護盾 30 粒】",
             "desc": "累積消除&nbsp;≥30&nbsp;粒<br />克制敵人屬性的符石<br />(不受轉換屬性技能影響)，<br />才能對敵人造成傷害。<br /><br />如果達成上述條件，<br />敵人會在&nbsp;CD&nbsp;0&nbsp;時<br />重置符石數目；<br />反之，CD&nbsp;0&nbsp;時敵人發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "805": {
             "title": "【克敵符石護盾 50 粒】",
             "desc": "累積消除&nbsp;≥50&nbsp;粒<br />克制敵人屬性的符石<br />(不受轉換屬性技能影響)，<br />才能對敵人造成傷害。<br /><br />如果達成上述條件，<br />敵人會在&nbsp;CD&nbsp;0&nbsp;時<br />重置符石數目；<br />反之，CD&nbsp;0&nbsp;時敵人發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "806": {
             "title": "【克敵符石護盾 90 粒】",
             "desc": "累積消除&nbsp;≥90&nbsp;粒<br />克制敵人屬性的符石<br />(不受轉換屬性技能影響)，<br />才能對敵人造成傷害。<br /><br />如果達成上述條件，<br />敵人會在&nbsp;CD&nbsp;0&nbsp;時<br />重置符石數目；<br />反之，CD&nbsp;0&nbsp;時敵人發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "807": {
             "title": "循環累積9+同屬符石盾",
