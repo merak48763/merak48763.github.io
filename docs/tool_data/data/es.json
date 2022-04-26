@@ -1938,7 +1938,10 @@
         "252": {
             "title": "【亡命 - 隱藏圍城】",
             "desc": "敵人死亡後，<br />將所有符石添加為隱藏符石。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "253": {
             "title": "全體共生",
@@ -2294,32 +2297,50 @@
         "299": {
             "title": "【固定 1 連擊盾】",
             "desc": "首批消除&nbsp;1&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1
+            ]
         },
         "300": {
             "title": "【固定 2 連擊盾】",
             "desc": "首批消除&nbsp;2&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                2
+            ]
         },
         "301": {
             "title": "【固定 3 連擊盾】",
             "desc": "首批消除&nbsp;3&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                3
+            ]
         },
         "302": {
             "title": "【固定 4 連擊盾】",
             "desc": "首批消除&nbsp;4&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                4
+            ]
         },
         "303": {
             "title": "【固定 5 連擊盾】",
             "desc": "首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                5
+            ]
         },
         "304": {
             "title": "【固定 6 連擊盾】",
             "desc": "首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                6
+            ]
         },
         "305": {
             "title": "20+Combo盾",
@@ -2717,7 +2738,10 @@
         "365": {
             "title": "扣血100%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                811
+            ]
         },
         "366": {
             "title": "隨機轉火 ‧ 消火扣血2-10%",
@@ -2737,7 +2761,10 @@
         "369": {
             "title": "附加消除",
             "desc": "首回合敵人會消除召喚師所有附加效果",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                854
+            ]
         },
         "370": {
             "title": "雙重凝固符石",
@@ -7185,17 +7212,29 @@
         "1264": {
             "title": "首消10+Combo盾 ‧ 越戰越強-銀",
             "desc": "10&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害。(只計算首批消除的符石)<br />敵人生命力愈低時，攻擊力會大幅提升。",
-            "custom_desc": "<span class=\"annotation\">trojan</span>"
+            "custom_desc": "<span class=\"annotation\">trojan</span>",
+            "icons": [
+                20,
+                1001
+            ]
         },
         "1265": {
             "title": "首消8+Combo盾 ‧ 越戰越強-銅",
             "desc": "8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害。(只計算首批消除的符石)<br />敵人生命力愈低時，攻擊力會提升。",
-            "custom_desc": "<span class=\"annotation\">crescendo_ex</span>"
+            "custom_desc": "<span class=\"annotation\">crescendo_ex</span>",
+            "icons": [
+                18,
+                1001
+            ]
         },
         "1266": {
             "title": "首消6+Combo盾 ‧ 初怒-連擊",
             "desc": "6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害(只計算首批消除的符石)。<br />敵人首次攻擊時會連續攻擊&nbsp;2&nbsp;次，並大幅提升攻擊力",
-            "custom_desc": "首攻20倍"
+            "custom_desc": "首攻20倍",
+            "icons": [
+                16,
+                1001
+            ]
         },
         "1267": {
             "title": "火屬技能封鎖 ‧ 3倍獵魔 ‧ 初級拼圖盾-限",
