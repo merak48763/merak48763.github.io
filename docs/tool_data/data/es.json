@@ -2904,27 +2904,42 @@
         "397": {
             "title": "隨機轉水",
             "desc": "每回合敵人會將其中&nbsp;1&nbsp;種符石轉化為水符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                261
+            ]
         },
         "398": {
             "title": "隨機轉火",
             "desc": "每回合敵人會將其中&nbsp;1&nbsp;種符石轉化為火符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                262
+            ]
         },
         "399": {
             "title": "隨機轉木",
             "desc": "每回合敵人會將其中&nbsp;1&nbsp;種符石轉化為木符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                263
+            ]
         },
         "400": {
             "title": "隨機轉光",
             "desc": "每回合敵人會將其中&nbsp;1&nbsp;種符石轉化為光符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                264
+            ]
         },
         "401": {
             "title": "隨機轉暗",
             "desc": "每回合敵人會將其中&nbsp;1&nbsp;種符石轉化為暗符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                265
+            ]
         },
         "402": {
             "title": "凝固圍城",
@@ -3917,37 +3932,63 @@
         "599": {
             "title": "消心盾2% ‧ 扣血50%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;2%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                905,
+                805
+            ]
         },
         "600": {
             "title": "消心盾2% ‧ 扣血70%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;2%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                905,
+                807
+            ]
         },
         "601": {
             "title": "消心盾5% ‧ 扣血30%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;5%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                905,
+                803
+            ]
         },
         "602": {
             "title": "消心盾5% ‧ 扣血50%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;5%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                905,
+                805
+            ]
         },
         "603": {
             "title": "消心盾5% ‧ 扣血70%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;5%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                905,
+                807
+            ]
         },
         "604": {
             "title": "軌跡黏附",
             "desc": "敵人會持續黏附移動符石時所觸碰的符石，被黏附的符石一經觸碰，即時停止移動符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                952
+            ]
         },
         "605": {
             "title": "三重風化3000-先",
             "desc": "每回合移動符石前，隨機將&nbsp;3&nbsp;粒符石風化，一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3,000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
         },
         "606": {
             "title": "15%隱藏符石9顆",
@@ -4177,32 +4218,50 @@
         "649": {
             "title": "攻後水縱橫輪轉",
             "desc": "當首次受到敵人攻擊時，隨機將&nbsp;1&nbsp;直行的符石轉化為水符石；第&nbsp;2&nbsp;次受到敵人攻擊時，隨機將&nbsp;1&nbsp;橫行的符石轉化為水符石。以上攻擊循環周而復始",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                261
+            ]
         },
         "650": {
             "title": "攻後火縱橫輪轉",
             "desc": "當首次受到敵人攻擊時，隨機將&nbsp;1&nbsp;直行的符石轉化為火符石；第&nbsp;2&nbsp;次受到敵人攻擊時，隨機將&nbsp;1&nbsp;橫行的符石轉化為火符石。以上攻擊循環周而復始",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                262
+            ]
         },
         "651": {
             "title": "攻後木縱橫輪轉",
             "desc": "當首次受到敵人攻擊時，隨機將&nbsp;1&nbsp;直行的符石轉化為木符石；第&nbsp;2&nbsp;次受到敵人攻擊時，隨機將&nbsp;1&nbsp;橫行的符石轉化為木符石。以上攻擊循環周而復始",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                263
+            ]
         },
         "652": {
             "title": "攻後光縱橫輪轉",
             "desc": "當首次受到敵人攻擊時，隨機將&nbsp;1&nbsp;直行的符石轉化為光符石；第&nbsp;2&nbsp;次受到敵人攻擊時，隨機將&nbsp;1&nbsp;橫行的符石轉化為光符石。以上攻擊循環周而復始",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                264
+            ]
         },
         "653": {
             "title": "攻後暗縱橫輪轉",
             "desc": "當首次受到敵人攻擊時，隨機將&nbsp;1&nbsp;直行的符石轉化為暗符石；第&nbsp;2&nbsp;次受到敵人攻擊時，隨機將&nbsp;1&nbsp;橫行的符石轉化為暗符石。以上攻擊循環周而復始",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                265
+            ]
         },
         "654": {
             "title": "攻後心縱橫輪轉",
             "desc": "當首次受到敵人攻擊時，隨機將&nbsp;1&nbsp;直行的符石轉化為心符石；第&nbsp;2&nbsp;次受到敵人攻擊時，隨機將&nbsp;1&nbsp;橫行的符石轉化為心符石。以上攻擊循環周而復始",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                266
+            ]
         },
         "655": {
             "title": "攻後水內外輪轉",
@@ -4881,27 +4940,42 @@
         "784": {
             "title": "攻後水橫縱輪轉",
             "desc": "當首次受到敵人攻擊時，隨機將&nbsp;1&nbsp;橫行的符石轉化為水符石；第&nbsp;2&nbsp;次受到敵人攻擊時，隨機將&nbsp;1&nbsp;直行的符石轉化為水符石。以上攻擊循環周而復始",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                261
+            ]
         },
         "785": {
             "title": "攻後火橫縱輪轉",
             "desc": "當首次受到敵人攻擊時，隨機將&nbsp;1&nbsp;橫行的符石轉化為火符石；第&nbsp;2&nbsp;次受到敵人攻擊時，隨機將&nbsp;1&nbsp;直行的符石轉化為火符石。以上攻擊循環周而復始",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                262
+            ]
         },
         "786": {
             "title": "攻後木橫縱輪轉",
             "desc": "當首次受到敵人攻擊時，隨機將&nbsp;1&nbsp;橫行的符石轉化為木符石；第&nbsp;2&nbsp;次受到敵人攻擊時，隨機將&nbsp;1&nbsp;直行的符石轉化為木符石。以上攻擊循環周而復始",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                263
+            ]
         },
         "787": {
             "title": "攻後光橫縱輪轉",
             "desc": "當首次受到敵人攻擊時，隨機將&nbsp;1&nbsp;橫行的符石轉化為光符石；第&nbsp;2&nbsp;次受到敵人攻擊時，隨機將&nbsp;1&nbsp;直行的符石轉化為光符石。以上攻擊循環周而復始",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                264
+            ]
         },
         "788": {
             "title": "攻後暗橫縱輪轉",
             "desc": "當首次受到敵人攻擊時，隨機將&nbsp;1&nbsp;橫行的符石轉化為暗符石；第&nbsp;2&nbsp;次受到敵人攻擊時，隨機將&nbsp;1&nbsp;直行的符石轉化為暗符石。以上攻擊循環周而復始",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                265
+            ]
         },
         "789": {
             "title": "攻後水橫縱輪轉 ‧ 隱藏-結",
@@ -7102,32 +7176,50 @@
         "1242": {
             "title": "【反首消水符石盾 - 化血】",
             "desc": "首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                261
+            ]
         },
         "1243": {
             "title": "【反首消火符石盾 - 化血】",
             "desc": "首批消除火符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                262
+            ]
         },
         "1244": {
             "title": "【反首消木符石盾 - 化血】",
             "desc": "首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                263
+            ]
         },
         "1245": {
             "title": "【反首消光符石盾 - 化血】",
             "desc": "首批消除光符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                264
+            ]
         },
         "1246": {
             "title": "【反首消暗符石盾 - 化血】",
             "desc": "首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                265
+            ]
         },
         "1247": {
             "title": "【反首消心符石盾 - 化血】",
             "desc": "首批消除心符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                266
+            ]
         },
         "1248": {
             "title": "消水傷害吸收",
@@ -7849,17 +7941,32 @@
         "1389": {
             "title": "突擊30% ‧ 首回4顆-每回1顆風化 ‧ 無法控制 ‧ 5+Combo追擊盾",
             "desc": "首回合敵人會優先突擊&nbsp;1&nbsp;次，並隨機將&nbsp;4&nbsp;粒符石風化；其後每回合隨機將&nbsp;1&nbsp;粒符石風化。風化符石一經觸碰，即時停止移動符石。<br />敵人會無視所有控制技能。<br />5&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                957,
+                855,
+                55
+            ]
         },
         "1390": {
             "title": "突擊30% ‧ 首回4顆-每回2顆風化 ‧ 無法控制 ‧ 6+Combo追擊盾",
             "desc": "首回合敵人會優先突擊&nbsp;1&nbsp;次，並隨機將&nbsp;4&nbsp;粒符石風化；其後每回合隨機將&nbsp;2&nbsp;粒符石風化。風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害。<br />敵人會無視所有控制技能。<br />6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                957,
+                855,
+                56
+            ]
         },
         "1391": {
             "title": "突擊30% ‧ 首回4顆-每回3顆風化3000 ‧ 無法控制 ‧ 7+Combo追擊盾",
             "desc": "首回合敵人會優先突擊&nbsp;1&nbsp;次，並隨機將&nbsp;4&nbsp;粒符石風化；其後每回合隨機將&nbsp;3&nbsp;粒符石風化。風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害。<br />敵人會無視所有控制技能。<br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                957,
+                855,
+                57
+            ]
         },
         "1392": {
             "title": "縱橫射擊 ‧ 扣血50%",
@@ -11537,9 +11644,14 @@
             "custom_desc": ""
         },
         "2127": {
-            "title": "",
+            "title": "同屬防禦75% ‧ 首回圍城-攻後敵屬弱化鎖定10% ‧ 越扣越強25%",
             "desc": "與敵人屬性相同的攻擊傷害減至&nbsp;25%。<br />首回合敵人會鎖定場上所有符石及受到敵人攻擊時鎖定與敵人屬性相同的符石；每消除&nbsp;1&nbsp;粒被鎖定的符石，全隊攻擊力減少&nbsp;10%&nbsp;(發動龍刻脈動視作消除場上的鎖定符石)。<br />首回合敵人發動攻擊時會扣除召喚師&nbsp;25%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)；受到敵人攻擊次數愈多時，攻擊力會持續提升",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 75 100</span>",
+            "icons": [
+                901,
+                1114,
+                812
+            ]
         },
         "2128": {
             "title": "",
@@ -12292,9 +12404,13 @@
             "custom_desc": ""
         },
         "2278": {
-            "title": "",
+            "title": "CD2 ‧ 首消5Combo盾 ‧ 軌跡燃燒800",
             "desc": "5&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害，連擊&nbsp;(Combo)&nbsp;只計算首批消除的符石。<br />敵人會燃燒移動符石時所觸碰的位置，每觸碰被燃燒的位置，對召喚師造成&nbsp;800&nbsp;點的傷害。<br />敵人首次攻擊變為&nbsp;CD&nbsp;2",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                5,
+                951
+            ]
         },
         "2279": {
             "title": "",
@@ -12302,9 +12418,13 @@
             "custom_desc": ""
         },
         "2280": {
-            "title": "",
+            "title": "CD2 ‧ 首消7Combo盾 ‧ 軌跡燃燒5000",
             "desc": "7&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害，連擊&nbsp;(Combo)&nbsp;只計算首批消除的符石。<br />敵人會燃燒移動符石時所觸碰的位置，每觸碰被燃燒的位置，對召喚師造成&nbsp;5000&nbsp;點的傷害。<br />敵人首次攻擊變為&nbsp;CD&nbsp;2",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                7,
+                951
+            ]
         },
         "2281": {
             "title": "",
@@ -12382,9 +12502,13 @@
             "custom_desc": ""
         },
         "2296": {
-            "title": "",
+            "title": "軌跡黏附 ‧ 首消隨機3~5Combo追擊盾 ‧ 木屬防禦95%",
             "desc": "持續黏附移動符石時所觸碰的符石，被黏附的符石一經觸碰，即時停止移動符石。<br />首批消除<em>指定的連擊&nbsp;(Combo)</em>&nbsp;才會對敵人造成攻擊傷害。<br />達成指定連擊數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多。<br />木屬性的攻擊傷害減至&nbsp;5%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                952,
+                253
+            ]
         },
         "2297": {
             "title": "",
@@ -12742,24 +12866,40 @@
             "custom_desc": ""
         },
         "2368": {
-            "title": "",
+            "title": "技能重置 ‧ 首消4Combo盾",
             "desc": "首回合所有成員的主動技能&nbsp;CD&nbsp;及累積戰鬥回合數重置。<br />4&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害，連擊&nbsp;(Combo)&nbsp;只計算首批消除的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                852,
+                4
+            ]
         },
         "2369": {
-            "title": "",
+            "title": "技能重置 ‧ 首消5Combo盾",
             "desc": "首回合所有成員的主動技能&nbsp;CD&nbsp;及累積戰鬥回合數重置。<br />5&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害，連擊&nbsp;(Combo)&nbsp;只計算首批消除的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                852,
+                5
+            ]
         },
         "2370": {
-            "title": "",
+            "title": "技能重置 ‧ 首消6Combo盾",
             "desc": "首回合所有成員的主動技能&nbsp;CD&nbsp;及累積戰鬥回合數重置。<br />6&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害，連擊&nbsp;(Combo)&nbsp;只計算首批消除的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                852,
+                6
+            ]
         },
         "2371": {
-            "title": "",
+            "title": "技能重置 ‧ 首消7Combo盾",
             "desc": "首回合所有成員的主動技能&nbsp;CD&nbsp;及累積戰鬥回合數重置。<br />7&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害，連擊&nbsp;(Combo)&nbsp;只計算首批消除的符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                852,
+                7
+            ]
         },
         "2372": {
             "title": "",
@@ -12977,9 +13117,14 @@
             "custom_desc": ""
         },
         "2415": {
-            "title": "",
+            "title": "附加消除重置 ‧ 9+Combo追擊盾 ‧ 隨機始終盾",
             "desc": "首回合消除召喚師所有附加效果，其技能&nbsp;CD&nbsp;將被重置。<br />9&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br />每回合以指定位置&nbsp;(綠色漩渦)&nbsp;的符石開始轉珠及在指定位置&nbsp;(紅色漩渦)&nbsp;結束轉珠，才會發動攻擊和回復。<br />(達成條件前，無法進行回復)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                854,
+                59,
+                1008
+            ]
         },
         "2416": {
             "title": "",
@@ -15552,69 +15697,117 @@
             "custom_desc": ""
         },
         "2942": {
-            "title": "",
+            "title": "龍脈重置 ‧ 技能重置 ‧ 附加消除 ‧ CD4-四連障礙 ‧ 累積首消60顆符石盾100% ‧ 同歸於盡 ‧ 無法控制",
             "desc": "清空龍脈儀的能量、消除召喚師所有附加效果、重置所有成員的技能&nbsp;CD&nbsp;及累積戰鬥回合數。<br />敵人的攻擊變為&nbsp;CD&nbsp;4，並於每回合出現不同的敵技：隱匿之途、燃燒之地、幽閉空間、黏腐之地。<br />敵人不受任何攻擊傷害&nbsp;(包括主動技)，及無視所有控制技能。<br />累積首批消除&nbsp;60&nbsp;粒符石，可扣除敵人&nbsp;100%&nbsp;生命力。<br />敵人發動攻擊時會令召喚師死亡並扣除自身&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>隱匿之途：持續隱藏軌跡</li><li>燃燒之地：4格燃燒20%</li><li>幽閉空間：全版黑白</li><li>黏腐之地：4格黏附</li></ul>"
         },
         "2943": {
-            "title": "",
+            "title": "首消水傷害吸收-連續反擊50%",
             "desc": "首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;50%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                291,
+                1051
+            ]
         },
         "2944": {
-            "title": "",
+            "title": "首消水傷害吸收-反擊200%",
             "desc": "首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                291,
+                1051
+            ]
         },
         "2945": {
-            "title": "",
+            "title": "首消火傷害吸收-連續反擊50%",
             "desc": "首批消除火屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;50%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                292,
+                1051
+            ]
         },
         "2946": {
-            "title": "",
+            "title": "首消火傷害吸收-反擊200%",
             "desc": "首批消除火屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                292,
+                1051
+            ]
         },
         "2947": {
-            "title": "",
+            "title": "首消木傷害吸收-連續反擊50%",
             "desc": "首批消除木屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;50%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                293,
+                1051
+            ]
         },
         "2948": {
-            "title": "",
+            "title": "首消木傷害吸收-反擊200%",
             "desc": "首批消除木屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                293,
+                1051
+            ]
         },
         "2949": {
-            "title": "",
+            "title": "首消光傷害吸收-連續反擊50%",
             "desc": "首批消除光屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;50%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                294,
+                1051
+            ]
         },
         "2950": {
-            "title": "",
+            "title": "首消光傷害吸收-反擊200%",
             "desc": "首批消除光屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                294,
+                1051
+            ]
         },
         "2951": {
-            "title": "",
+            "title": "首消暗傷害吸收-連續反擊50%",
             "desc": "首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;50%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                295,
+                1051
+            ]
         },
         "2952": {
-            "title": "",
+            "title": "首消暗傷害吸收-反擊200%",
             "desc": "首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                295,
+                1051
+            ]
         },
         "2953": {
-            "title": "",
+            "title": "首消心傷害吸收-連續反擊50%",
             "desc": "首批消除心符石及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;50%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                296,
+                1051
+            ]
         },
         "2954": {
-            "title": "",
+            "title": "首消心傷害吸收-反擊200%",
             "desc": "首批消除心符石及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                296,
+                1051
+            ]
         },
         "2955": {
             "title": "",
@@ -15787,14 +15980,24 @@
             "custom_desc": ""
         },
         "2989": {
-            "title": "",
+            "title": "水攻盾 ‧ 首回冰封圍城 ‧ 非全水-超級技能重置",
             "desc": "只有水屬性的攻擊才會對敵人造成傷害。<br />首回合凍結場上所有符石，3&nbsp;回合內不能消除該符石。<br />隊伍中有水屬性以外成員時，將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                251,
+                973,
+                853
+            ]
         },
         "2990": {
-            "title": "",
+            "title": "CD1 ‧ 水攻盾 ‧ 三屬盾-限 ‧ 無視減傷",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br />只有水屬性的攻擊才會對敵人造成傷害。<br />召喚師需同時符合以下兩個條件，才會對敵人造成攻擊傷害：同時消除水符石、火符石及木符石；不能消除光符石或暗符石&nbsp;(只計算首批消除的符石)。<br />無視所有減傷效果和意志技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                251,
+                1204,
+                1009
+            ]
         },
         "2991": {
             "title": "",
@@ -16447,9 +16650,13 @@
             "custom_desc": ""
         },
         "3122": {
-            "title": "",
+            "title": "CD1 ‧ 全木風化15000 ‧ 首消木追擊零化 ‧ 無法控制",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br />每回合移動符石前將所有木符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;15000&nbsp;點傷害。<br />首批消除木屬性的連擊　(Combo)&nbsp;會令全隊攻擊無效，首批消除的木屬性連擊&nbsp;(Combo)&nbsp;愈多，敵人的連擊次數愈多。<br />無視所有控制技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                957,
+                855
+            ]
         },
         "3123": {
             "title": "",
@@ -16747,44 +16954,76 @@
             "custom_desc": ""
         },
         "3182": {
-            "title": "",
+            "title": "首消3Combo盾 ‧ 越攻越強",
             "desc": "首批消除&nbsp;3&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害。<br />敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                3,
+                1001
+            ]
         },
         "3183": {
-            "title": "",
+            "title": "首消4Combo盾 ‧ 越攻越強",
             "desc": "首批消除&nbsp;4&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害。<br />敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                4,
+                1001
+            ]
         },
         "3184": {
-            "title": "",
+            "title": "首消5Combo盾 ‧ 越攻越強",
             "desc": "首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害。<br />敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                5,
+                1001
+            ]
         },
         "3185": {
-            "title": "",
+            "title": "首消6Combo盾 ‧ 越攻越強",
             "desc": "首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害。<br />敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                6,
+                1001
+            ]
         },
         "3186": {
-            "title": "",
+            "title": "首消7Combo盾 ‧ 越攻越強",
             "desc": "首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害。<br />敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                7,
+                1001
+            ]
         },
         "3187": {
-            "title": "",
+            "title": "首消8Combo盾 ‧ 越攻越強",
             "desc": "首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害。<br />敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                8,
+                1001
+            ]
         },
         "3188": {
-            "title": "",
+            "title": "首消9Combo盾 ‧ 越攻越強",
             "desc": "首批消除&nbsp;9&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害。<br />敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                9,
+                1001
+            ]
         },
         "3189": {
-            "title": "",
+            "title": "首消10Combo盾 ‧ 越攻越強",
             "desc": "首批消除&nbsp;10&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害。<br />敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                10,
+                1001
+            ]
         },
         "3190": {
             "title": "",
@@ -16997,9 +17236,14 @@
             "custom_desc": ""
         },
         "3232": {
-            "title": "",
+            "title": "木屬防禦75% ‧ 五屬追擊盾",
             "desc": "木屬性的攻擊傷害減至&nbsp;25%。<br />同時消除水、火、木、光及暗符石，才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性符石，敵人額外增加&nbsp;1&nbsp;連擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                253,
+                1054,
+                1204
+            ]
         },
         "3233": {
             "title": "",
@@ -17022,9 +17266,14 @@
             "custom_desc": ""
         },
         "3237": {
-            "title": "",
+            "title": "火外防禦75% ‧ 6+Combo追擊盾 ‧ 雙下角轉木風化9000",
             "desc": "火屬性以外的攻擊傷害減至&nbsp;25%。<br />6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br />每回合移動符石前將左下角及右下角的符石風化及轉化為木符石。風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;9000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                252,
+                56,
+                957
+            ]
         },
         "3238": {
             "title": "",
