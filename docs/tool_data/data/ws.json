@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.206",
-        "dv": "18806",
-        "date": "2022-04-13T09:16:54.713Z"
+        "version": "2022.300",
+        "dv": "19061",
+        "date": "2022-04-25T03:41:17.068Z"
     },
     "es": {
         "10001": {
@@ -2208,6 +2208,76 @@
         "10470": {
             "title": "",
             "desc": "•&nbsp;每回合隨機在&nbsp;4&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "custom_desc": ""
+        },
+        "10518": {
+            "title": "",
+            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "custom_desc": ""
+        },
+        "10519": {
+            "title": "",
+            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;25%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "custom_desc": ""
+        },
+        "10520": {
+            "title": "",
+            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;30%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "custom_desc": ""
+        },
+        "10521": {
+            "title": "",
+            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;35%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "custom_desc": ""
+        },
+        "10522": {
+            "title": "",
+            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;40%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "custom_desc": ""
+        },
+        "10523": {
+            "title": "",
+            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;45%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "custom_desc": ""
+        },
+        "10524": {
+            "title": "",
+            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;50%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "custom_desc": ""
+        },
+        "10525": {
+            "title": "",
+            "desc": "•&nbsp;每回合固定&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現【攻】【防】地型<br />•&nbsp;根據首次起手轉珠的位置，<br />&nbsp;&nbsp;&nbsp;獲得不同效果：<br /><br />【攻】地型<br />▋全隊<br />⓵&nbsp;攻擊力&nbsp;100&nbsp;倍<br />⓶&nbsp;無視敵人防禦力<br />⓷&nbsp;無視指定減傷抗性敵技<br /><br />【防】地型<br />⓵&nbsp;全隊攻擊力變&nbsp;0<br />⓶&nbsp;減少&nbsp;90%&nbsp;所受傷害",
+            "custom_desc": ""
+        },
+        "10526": {
+            "title": "",
+            "desc": "•&nbsp;每回合固定&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現【攻】【防】地型<br />•&nbsp;根據首次起手轉珠的位置，<br />&nbsp;&nbsp;&nbsp;獲得不同效果：<br /><br />【攻】地型<br />▋全隊<br />⓵&nbsp;攻擊力&nbsp;100&nbsp;倍<br />⓶&nbsp;無視敵人防禦力<br />⓷&nbsp;無視指定減傷抗性敵技<br /><br />【防】地型<br />⓵&nbsp;全隊攻擊力變&nbsp;0<br />⓶&nbsp;減少&nbsp;90%&nbsp;所受傷害",
+            "custom_desc": ""
+        },
+        "10527": {
+            "title": "",
+            "desc": "•&nbsp;每回合固定&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現【攻】【防】<br />&nbsp;&nbsp;【解】【護】地型<br />•&nbsp;根據首次起手轉珠的位置，<br />&nbsp;&nbsp;&nbsp;獲得不同效果：<br /><br />【攻】地型<br />▋全隊<br />⓵&nbsp;攻擊力&nbsp;100&nbsp;倍<br />⓶&nbsp;無視敵人防禦力<br />⓷&nbsp;無視指定減傷抗性敵技<br /><br />【防】地型<br />⓵&nbsp;全隊攻擊力變&nbsp;0<br />⓶&nbsp;減少&nbsp;90%&nbsp;所受傷害<br /><br />【解】地型<br />⓵&nbsp;將移動符石時觸碰的<br />&nbsp;&nbsp;&nbsp;&nbsp;風化、電擊、凍結、<br />&nbsp;&nbsp;&nbsp;&nbsp;凝結符石狀態解除<br /><br />【護】地型<br />⓵&nbsp;「一步一傷」傷害減至&nbsp;0<br />⓶&nbsp;觸碰「連環光牢」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;射擊位置仍可移動符石",
+            "custom_desc": ""
+        },
+        "10531": {
+            "title": "",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;粒符石<br />⇒&nbsp;添加士氣印記<br />•&nbsp;消除場上所有士氣印記符石<br />⓵&nbsp;全隊技能&nbsp;CD&nbsp;-1<br />⓶&nbsp;全隊技能&nbsp;EP+1",
+            "custom_desc": ""
+        },
+        "10532": {
+            "title": "",
+            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;粒符石<br />⇒&nbsp;添加士氣印記<br />•&nbsp;消除場上所有士氣印記符石<br />⓵&nbsp;全隊技能&nbsp;CD&nbsp;-1<br />⓶&nbsp;全隊技能&nbsp;EP+1",
+            "custom_desc": ""
+        },
+        "10533": {
+            "title": "",
+            "desc": "進場時，根據隊中<br />「一曲傾心&nbsp;‧&nbsp;莫莉安娜」、<br />「偶像發表」系列角色數量，<br />獲得以下效果：<br /><br />▋≥2&nbsp;個<br />進場時，<br />⓵&nbsp;全隊技能&nbsp;CD&nbsp;-99<br />⓶&nbsp;儲滿龍脈儀<br /><br />▋≥3&nbsp;個<br />⓵&nbsp;全隊進入&nbsp;99&nbsp;回合<br />&nbsp;&nbsp;&nbsp;&nbsp;亢奮狀態&nbsp;(攻擊力&nbsp;4&nbsp;倍)<br />⓶&nbsp;全隊無視<br />&nbsp;&nbsp;「固定連擊盾」<br /><br />▋≥4&nbsp;個<br />99&nbsp;回合內，<br />⓵&nbsp;隊伍不會被封鎖主動技能<br />⓶&nbsp;隊伍不受「休眠」技能影響",
+            "custom_desc": ""
+        },
+        "10534": {
+            "title": "",
+            "desc": "進場時，根據隊中<br />「一曲傾心&nbsp;‧&nbsp;莫莉安娜」、<br />「偶像發表」系列角色數量，<br />獲得以下效果：<br /><br />▋≥2&nbsp;個<br />進場時，<br />⓵&nbsp;全隊技能&nbsp;CD&nbsp;-99<br />⓶&nbsp;儲滿龍脈儀<br /><br />▋≥3&nbsp;個<br />⓵&nbsp;全隊進入&nbsp;99&nbsp;回合<br />&nbsp;&nbsp;&nbsp;&nbsp;亢奮狀態&nbsp;(攻擊力&nbsp;4&nbsp;倍)<br />⓶&nbsp;全隊無視<br />&nbsp;&nbsp;「固定連擊盾」<br /><br />▋≥4&nbsp;個<br />⓵&nbsp;99&nbsp;回合內，<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;80%&nbsp;所受傷害",
             "custom_desc": ""
         }
     }
