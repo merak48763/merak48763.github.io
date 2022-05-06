@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.300",
-        "dv": "19061",
-        "date": "2022-04-25T03:41:17.068Z"
+        "version": "2022.302",
+        "dv": "19217",
+        "date": "2022-05-06T05:42:22.956Z"
     },
     "es": {
         "10001": {
@@ -2210,6 +2210,241 @@
             "desc": "•&nbsp;每回合隨機在&nbsp;4&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
             "custom_desc": ""
         },
+        "10471": {
+            "title": "",
+            "desc": "•&nbsp;1&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;1000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10472": {
+            "title": "",
+            "desc": "•&nbsp;2&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;1000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10473": {
+            "title": "",
+            "desc": "•&nbsp;3&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;1000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10474": {
+            "title": "",
+            "desc": "•&nbsp;4&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;1000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10475": {
+            "title": "",
+            "desc": "•&nbsp;5&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;1000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10476": {
+            "title": "",
+            "desc": "•&nbsp;6&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;1000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10477": {
+            "title": "",
+            "desc": "•&nbsp;7&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;1000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10478": {
+            "title": "",
+            "desc": "•&nbsp;8&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;1000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10479": {
+            "title": "",
+            "desc": "•&nbsp;9&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;1000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10480": {
+            "title": "",
+            "desc": "•&nbsp;10&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;1000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10481": {
+            "title": "",
+            "desc": "•&nbsp;1&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;5000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10482": {
+            "title": "",
+            "desc": "•&nbsp;2&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;5000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10483": {
+            "title": "",
+            "desc": "•&nbsp;3&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;5000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10484": {
+            "title": "",
+            "desc": "•&nbsp;4&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;5000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10485": {
+            "title": "",
+            "desc": "•&nbsp;5&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;5000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10486": {
+            "title": "",
+            "desc": "•&nbsp;6&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;5000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10487": {
+            "title": "",
+            "desc": "•&nbsp;7&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;5000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10488": {
+            "title": "",
+            "desc": "•&nbsp;8&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;5000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10489": {
+            "title": "",
+            "desc": "•&nbsp;9&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;5000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10490": {
+            "title": "",
+            "desc": "•&nbsp;10&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;5000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10491": {
+            "title": "",
+            "desc": "•&nbsp;1&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;10000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10492": {
+            "title": "",
+            "desc": "•&nbsp;2&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;10000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10493": {
+            "title": "",
+            "desc": "•&nbsp;3&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;10000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10494": {
+            "title": "",
+            "desc": "•&nbsp;4&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;10000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10495": {
+            "title": "",
+            "desc": "•&nbsp;5&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;10000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10496": {
+            "title": "",
+            "desc": "•&nbsp;6&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;10000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10497": {
+            "title": "",
+            "desc": "•&nbsp;7&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;10000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10498": {
+            "title": "",
+            "desc": "•&nbsp;8&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;10000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10499": {
+            "title": "",
+            "desc": "•&nbsp;9&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;10000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10500": {
+            "title": "",
+            "desc": "•&nbsp;10&nbsp;個固定位置<br />⇒&nbsp;出現針刺地型<br />•&nbsp;針刺地型會輪流開關<br />•&nbsp;每觸碰針刺位置<br />⇒&nbsp;對召喚師造成&nbsp;10000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": ""
+        },
+        "10501": {
+            "title": "",
+            "desc": "•&nbsp;隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現魔法陣地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰魔法陣地型<br />⇒&nbsp;該角色進入<br />&nbsp;&nbsp;&nbsp;&nbsp;永久小雞狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法發動主動技能<br />•&nbsp;移動小雞角色符石時<br />&nbsp;&nbsp;觸碰魔法陣地型<br />⇒&nbsp;該角色解除小雞狀態<br />•&nbsp;每個魔法陣地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+            "custom_desc": ""
+        },
+        "10502": {
+            "title": "",
+            "desc": "•&nbsp;隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現魔法陣地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰魔法陣地型<br />⇒&nbsp;該角色進入<br />&nbsp;&nbsp;&nbsp;&nbsp;永久小雞狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法發動主動技能<br />•&nbsp;移動小雞角色符石時<br />&nbsp;&nbsp;觸碰魔法陣地型<br />⇒&nbsp;該角色解除小雞狀態<br />•&nbsp;每個魔法陣地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+            "custom_desc": ""
+        },
+        "10503": {
+            "title": "",
+            "desc": "•&nbsp;隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現魔法陣地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰魔法陣地型<br />⇒&nbsp;該角色進入<br />&nbsp;&nbsp;&nbsp;&nbsp;永久小雞狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法發動主動技能<br />•&nbsp;移動小雞角色符石時<br />&nbsp;&nbsp;觸碰魔法陣地型<br />⇒&nbsp;該角色解除小雞狀態<br />•&nbsp;每個魔法陣地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+            "custom_desc": ""
+        },
+        "10504": {
+            "title": "",
+            "desc": "•&nbsp;隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現魔法陣地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰魔法陣地型<br />⇒&nbsp;該角色進入<br />&nbsp;&nbsp;&nbsp;&nbsp;永久小雞狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法發動主動技能<br />•&nbsp;移動小雞角色符石時<br />&nbsp;&nbsp;觸碰魔法陣地型<br />⇒&nbsp;該角色解除小雞狀態<br />•&nbsp;每個魔法陣地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+            "custom_desc": ""
+        },
+        "10505": {
+            "title": "",
+            "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現延時地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰延時地型<br />⇒&nbsp;移動符石時間重新倒數<br />•&nbsp;每個延時地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+            "custom_desc": ""
+        },
+        "10506": {
+            "title": "",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現延時地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰延時地型<br />⇒&nbsp;移動符石時間重新倒數<br />•&nbsp;每個延時地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+            "custom_desc": ""
+        },
+        "10507": {
+            "title": "",
+            "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰縮時地型<br />⇒&nbsp;當前移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;50%&nbsp;<br />•&nbsp;每個縮時地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+            "custom_desc": ""
+        },
+        "10508": {
+            "title": "",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰縮時地型<br />⇒&nbsp;當前移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;50%&nbsp;<br />•&nbsp;每個縮時地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+            "custom_desc": ""
+        },
+        "10509": {
+            "title": "",
+            "desc": "•&nbsp;燃燒最頂橫行位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10510": {
+            "title": "",
+            "desc": "•&nbsp;燃燒最底橫行位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10511": {
+            "title": "",
+            "desc": "•&nbsp;燃燒最左方直行位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10512": {
+            "title": "",
+            "desc": "•&nbsp;燃燒最右方直行位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10513": {
+            "title": "",
+            "desc": "•&nbsp;燃燒最頂橫行及<br />&nbsp;&nbsp;最左方直行位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10514": {
+            "title": "",
+            "desc": "•&nbsp;燃燒最頂橫行及<br />&nbsp;&nbsp;最右方直行位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10515": {
+            "title": "",
+            "desc": "•&nbsp;燃燒最底橫行及<br />&nbsp;&nbsp;最左方直行位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10516": {
+            "title": "",
+            "desc": "•&nbsp;燃燒最底橫行及<br />&nbsp;&nbsp;最右方直行位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10517": {
+            "title": "",
+            "desc": "•&nbsp;燃燒最頂及最底橫行、<br />&nbsp;&nbsp;最左及最右方直行位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": ""
+        },
         "10518": {
             "title": "",
             "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
@@ -2258,6 +2493,21 @@
         "10527": {
             "title": "",
             "desc": "•&nbsp;每回合固定&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現【攻】【防】<br />&nbsp;&nbsp;【解】【護】地型<br />•&nbsp;根據首次起手轉珠的位置，<br />&nbsp;&nbsp;&nbsp;獲得不同效果：<br /><br />【攻】地型<br />▋全隊<br />⓵&nbsp;攻擊力&nbsp;100&nbsp;倍<br />⓶&nbsp;無視敵人防禦力<br />⓷&nbsp;無視指定減傷抗性敵技<br /><br />【防】地型<br />⓵&nbsp;全隊攻擊力變&nbsp;0<br />⓶&nbsp;減少&nbsp;90%&nbsp;所受傷害<br /><br />【解】地型<br />⓵&nbsp;將移動符石時觸碰的<br />&nbsp;&nbsp;&nbsp;&nbsp;風化、電擊、凍結、<br />&nbsp;&nbsp;&nbsp;&nbsp;凝結符石狀態解除<br /><br />【護】地型<br />⓵&nbsp;「一步一傷」傷害減至&nbsp;0<br />⓶&nbsp;觸碰「連環光牢」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;射擊位置仍可移動符石",
+            "custom_desc": ""
+        },
+        "10528": {
+            "title": "",
+            "desc": "•&nbsp;隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現幻影砲地型<br />•&nbsp;達成下述條件<br />⓵&nbsp;發動角色符石<br />⓶&nbsp;於幻影砲地型<br />&nbsp;&nbsp;&nbsp;&nbsp;首批消除角色符石<br />⇒&nbsp;每於其他幻影砲地型<br />&nbsp;&nbsp;&nbsp;&nbsp;首批消除&nbsp;1&nbsp;組<br />&nbsp;&nbsp;&nbsp;&nbsp;該角色屬性符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(幻影砲地型間相連消除<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;只計算&nbsp;1&nbsp;次)<br />⇒&nbsp;該角色以&nbsp;100&nbsp;倍攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;追打&nbsp;1&nbsp;次，最多追打&nbsp;2&nbsp;次",
+            "custom_desc": ""
+        },
+        "10529": {
+            "title": "",
+            "desc": "•&nbsp;隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現幻影砲地型<br />•&nbsp;達成下述條件<br />⓵&nbsp;發動角色符石<br />⓶&nbsp;於幻影砲地型<br />&nbsp;&nbsp;&nbsp;&nbsp;首批消除角色符石<br />⇒&nbsp;每於其他幻影砲地型<br />&nbsp;&nbsp;&nbsp;&nbsp;首批消除&nbsp;1&nbsp;組<br />&nbsp;&nbsp;&nbsp;&nbsp;該角色屬性符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(幻影砲地型間相連消除<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;只計算&nbsp;1&nbsp;次)<br />⇒&nbsp;該角色以&nbsp;100&nbsp;倍攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;追打&nbsp;1&nbsp;次，最多追打&nbsp;3&nbsp;次",
+            "custom_desc": ""
+        },
+        "10530": {
+            "title": "",
+            "desc": "•&nbsp;隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現幻影砲地型<br />•&nbsp;達成下述條件<br />⓵&nbsp;發動角色符石<br />⓶&nbsp;於幻影砲地型<br />&nbsp;&nbsp;&nbsp;&nbsp;首批消除角色符石<br />⇒&nbsp;每於其他幻影砲地型<br />&nbsp;&nbsp;&nbsp;&nbsp;首批消除&nbsp;1&nbsp;組<br />&nbsp;&nbsp;&nbsp;&nbsp;該角色屬性符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(幻影砲地型間相連消除<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;只計算&nbsp;1&nbsp;次)<br />⇒&nbsp;該角色以&nbsp;100&nbsp;倍攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;追打&nbsp;1&nbsp;次，最多追打&nbsp;4&nbsp;次",
             "custom_desc": ""
         },
         "10531": {
