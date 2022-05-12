@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.302",
+        "version": "2022.303",
         "dv": "19217",
-        "date": "2022-05-06T05:42:22.956Z"
+        "date": "2022-05-10T07:24:48.294Z"
     },
     "es": {
         "0": {
@@ -16960,9 +16960,14 @@
             "custom_desc": ""
         },
         "3156": {
-            "title": "",
+            "title": "CD1 ‧ 機械外技能封鎖 ‧ 越戰越強-銀 ‧ 無法控制",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br />首回合永久封鎖機械族以外成員的主動技能。<br />敵人生命力愈低時，攻擊力會大幅提升，達到一定血量時並會連撃&nbsp;2&nbsp;次。<br />無視所有控制技能",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan</span>",
+            "icons": [
+                1001,
+                852,
+                855
+            ]
         },
         "3157": {
             "title": "",
@@ -29873,32 +29878,56 @@
         "5826": {
             "title": "【「起結有序 - 固定 5 連擊盾」凝護】",
             "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;50%&nbsp;生命力：<br /><br />⓵&nbsp;以指定位置開始轉珠&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                5,
+                812
+            ]
         },
         "5827": {
             "title": "【「起結有序 - 固定 6 連擊盾」凝護】",
             "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;50%&nbsp;生命力：<br /><br />⓵&nbsp;以指定位置開始轉珠&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                6,
+                812
+            ]
         },
         "5828": {
             "title": "【「起結有序 - 固定 7 連擊盾」凝護】",
             "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;50%&nbsp;生命力：<br /><br />⓵&nbsp;以指定位置開始轉珠&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                7,
+                812
+            ]
         },
         "5829": {
             "title": "【「起結有序 - 固定 8 連擊盾」凝護】",
             "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;50%&nbsp;生命力：<br /><br />⓵&nbsp;以指定位置開始轉珠&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                8,
+                812
+            ]
         },
         "5830": {
             "title": "【「起結有序 - 固定 9 連擊盾」凝護】",
             "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;50%&nbsp;生命力：<br /><br />⓵&nbsp;以指定位置開始轉珠&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;9&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                9,
+                812
+            ]
         },
         "5831": {
             "title": "【「起結有序 - 固定 10 連擊盾」凝護】",
             "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;50%&nbsp;生命力：<br /><br />⓵&nbsp;以指定位置開始轉珠&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;10&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                10,
+                812
+            ]
         },
         "5832": {
             "title": "【靈之凝護】",
@@ -30228,27 +30257,42 @@
         "5897": {
             "title": "【攻擊自戕】",
             "desc": "•&nbsp;敵人發動攻擊<br />⇒&nbsp;扣除自身&nbsp;50%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1055
+            ]
         },
         "5898": {
             "title": "【攻擊自戕】",
             "desc": "•&nbsp;敵人發動攻擊<br />⇒&nbsp;扣除自身&nbsp;25%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1055
+            ]
         },
         "5899": {
             "title": "【攻擊自戕】",
             "desc": "•&nbsp;敵人發動攻擊<br />⇒&nbsp;扣除自身&nbsp;20%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1055
+            ]
         },
         "5900": {
             "title": "【攻擊自戕】",
             "desc": "•&nbsp;敵人發動攻擊<br />⇒&nbsp;扣除自身&nbsp;16%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1055
+            ]
         },
         "5901": {
             "title": "【攻擊自戕】",
             "desc": "•&nbsp;敵人發動攻擊<br />⇒&nbsp;扣除自身&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1055
+            ]
         },
         "5902": {
             "title": "【符石轉水】",
@@ -30326,17 +30370,26 @@
         "5916": {
             "title": "【愈攻愈強】",
             "desc": "•&nbsp;首次受到敵人攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;&nbsp;受到敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 20 40 60 80 100</span>",
+            "icons": [
+                812
+            ]
         },
         "5917": {
             "title": "【愈攻愈強】",
             "desc": "•&nbsp;首次受到敵人攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;&nbsp;受到敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 75 100</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 75 100</span>",
+            "icons": [
+                812
+            ]
         },
         "5918": {
             "title": "【愈攻愈強】",
             "desc": "•&nbsp;首次受到敵人攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;&nbsp;受到敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 50 100</span>",
+            "icons": [
+                812
+            ]
         },
         "5919": {
             "title": "【二段生命 50%：敵屬變更 - 隊長屬性 ‧ 隊長屬性連擊零化；加護符石 ‧ 10 倍攻】",
