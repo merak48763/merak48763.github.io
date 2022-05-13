@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2022.303",
-        "dv": "19217",
-        "date": "2022-05-10T07:24:48.294Z"
+        "dv": "19225",
+        "date": "2022-05-12T09:26:51.119Z"
     },
     "es": {
         "0": {
@@ -27162,8 +27162,8 @@
             "custom_desc": ""
         },
         "5284": {
-            "title": "【起結有序 - 首消角色符石】",
-            "desc": "需同時達成以下&nbsp;2&nbsp;個條件：<br /><br />⓵&nbsp;以指定位置開始轉珠&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除指定角色符石<br /><br />未有達成上述條件：<br />⓵&nbsp;該回合攻擊力變為&nbsp;0<br />⓶&nbsp;無法進行回復",
+            "title": "【起結有序 - 角色符石】",
+            "desc": "需以指定位置&nbsp;(角色頭像優先)&nbsp;<br />開始轉珠及在指定位置<br />結束轉珠。<br /><br />未有達成上述條件：<br />⓵&nbsp;全隊攻擊力變為&nbsp;0<br />⓶&nbsp;無法進行回復",
             "custom_desc": ""
         },
         "5285": {
