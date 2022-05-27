@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.303",
-        "dv": "19225",
-        "date": "2022-05-12T09:26:51.119Z"
+        "version": "2022.305",
+        "dv": "19246",
+        "date": "2022-05-26T09:51:37.082Z"
     },
     "es": {
         "0": {
@@ -31874,12 +31874,12 @@
         },
         "6176": {
             "title": "【屬性連擊零化 (循環)】",
-            "desc": "•&nbsp;指定屬性連擊零化<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
+            "desc": "•【指定屬性連擊零化】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
             "custom_desc": ""
         },
         "6177": {
             "title": "【符石轉換 - 屬性連擊零化 (循環)】",
-            "desc": "•&nbsp;指定符石轉換及<br />&nbsp;&nbsp;指定屬性連擊零化<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
+            "desc": "•&nbsp;指定符石轉換及<br />【指定屬性連擊零化】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
             "custom_desc": "<details><summary>屬性循環</summary>水 → 火 → 木 → 光 → 暗<br />進場設定為敵人屬性</details><details><summary>符石轉換</summary>將前一個屬性的符石，轉換為目前指定屬性的符石</details>"
         },
         "6178": {
