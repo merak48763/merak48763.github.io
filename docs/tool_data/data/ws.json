@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.305",
-        "dv": "19246",
-        "date": "2022-05-26T09:51:37.082Z"
+        "version": "2022.307",
+        "dv": "19263",
+        "date": "2022-06-02T10:17:11.831Z"
     },
     "es": {
         "10001": {
@@ -2447,37 +2447,37 @@
         },
         "10518": {
             "title": "",
-            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "desc": "•&nbsp;回合結束時<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
             "custom_desc": ""
         },
         "10519": {
             "title": "",
-            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;25%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "desc": "•&nbsp;回合結束時<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;25%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
             "custom_desc": ""
         },
         "10520": {
             "title": "",
-            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;30%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "desc": "•&nbsp;回合結束時<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;30%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
             "custom_desc": ""
         },
         "10521": {
             "title": "",
-            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;35%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "desc": "•&nbsp;回合結束時<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;35%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
             "custom_desc": ""
         },
         "10522": {
             "title": "",
-            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;40%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "desc": "•&nbsp;回合結束時<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;40%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
             "custom_desc": ""
         },
         "10523": {
             "title": "",
-            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;45%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "desc": "•&nbsp;回合結束時<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;45%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
             "custom_desc": ""
         },
         "10524": {
             "title": "",
-            "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;50%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+            "desc": "•&nbsp;回合結束時<br />⓵&nbsp;當前沒有混沌值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;混沌值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;50%&nbsp;混沌值<br />&nbsp;&nbsp;&nbsp;&nbsp;(隊中每裝備&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腐化龍刻武裝，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可減少&nbsp;5%&nbsp;混沌值)<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;混沌值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
             "custom_desc": ""
         },
         "10525": {
