@@ -26519,12 +26519,18 @@
         "5118": {
             "title": "【減傷抗性】",
             "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，<br />敵人攻擊次數愈多，<br />減傷狀態削弱愈多。",
-            "custom_desc": "同學，這招是<em>越攻越弱</em>，和隔壁<em>5119 受攻越弱</em>是不一樣的東西，搞清楚狀況好嗎？<span class=\"annotation\">crumbling_walls 100 95 90 85 80 70 60 45 30 15 0</span>"
+            "custom_desc": "同學，這招是<em>越攻越弱</em>，和隔壁<em>5119 受攻越弱</em>是不一樣的東西，搞清楚狀況好嗎？<span class=\"annotation\">crumbling_walls 100 95 90 85 80 70 60 45 30 15 0</span>",
+            "icons": [
+                1001
+            ]
         },
         "5119": {
             "title": "【減傷抗性】",
             "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，<br />召喚師受敵人攻擊次數愈多，<br />敵人減傷狀態削弱愈多。",
-            "custom_desc": "同學，這招是<em>受攻越弱</em>，和隔壁<em>5118 越攻越弱</em>是不一樣的東西，搞清楚狀況好嗎？<span class=\"annotation\">crumbling_walls 100 95 90 85 80 60 40 20 0</span>"
+            "custom_desc": "同學，這招是<em>受攻越弱</em>，和隔壁<em>5118 越攻越弱</em>是不一樣的東西，搞清楚狀況好嗎？<span class=\"annotation\">crumbling_walls 100 95 90 85 80 60 40 20 0</span>",
+            "icons": [
+                1001
+            ]
         },
         "5120": {
             "title": "【水之幻界 - 符石轉水】",
@@ -31640,7 +31646,10 @@
         "6129": {
             "title": "【減傷抗性】",
             "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，<br />敵人發動攻擊的回合愈多，<br />減傷狀態削弱愈多。",
-            "custom_desc": "<span class=\"annotation\">crumbling_walls</span>"
+            "custom_desc": "<span class=\"annotation\">crumbling_walls 100 80 60 40 20 0</span>",
+            "icons": [
+                1001
+            ]
         },
         "6130": {
             "title": "【減傷抗性】",
