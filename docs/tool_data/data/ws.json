@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2022.307",
-        "dv": "19263",
-        "date": "2022-06-02T10:17:11.831Z"
+        "dv": "19282",
+        "date": "2022-06-09T10:19:55.367Z"
     },
     "es": {
         "10001": {
@@ -1732,32 +1732,32 @@
         },
         "10375": {
             "title": "",
-            "desc": "無法進行回復。<br />每消除&nbsp;1&nbsp;粒水符石，扣除全隊回復力基值&nbsp;100%&nbsp;等值的生命力。",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有水符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10376": {
             "title": "",
-            "desc": "無法進行回復。<br />每消除&nbsp;1&nbsp;粒火符石，扣除全隊回復力基值&nbsp;100%&nbsp;等值的生命力。",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有火符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10377": {
             "title": "",
-            "desc": "無法進行回復。<br />每消除&nbsp;1&nbsp;粒木符石，扣除全隊回復力基值&nbsp;100%&nbsp;等值的生命力。",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有木符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10378": {
             "title": "",
-            "desc": "無法進行回復。<br />每消除&nbsp;1&nbsp;粒光符石，扣除全隊回復力基值&nbsp;100%&nbsp;等值的生命力。",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有光符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10379": {
             "title": "",
-            "desc": "無法進行回復。<br />每消除&nbsp;1&nbsp;粒暗符石，扣除全隊回復力基值&nbsp;100%&nbsp;等值的生命力。",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有暗符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10380": {
             "title": "",
-            "desc": "無法進行回復。<br />每消除&nbsp;1&nbsp;粒心符石，扣除全隊回復力基值&nbsp;100%&nbsp;等值的生命力。",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有心符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10381": {

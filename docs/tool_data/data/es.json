@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2022.307",
-        "dv": "19263",
-        "date": "2022-06-02T10:17:11.831Z"
+        "dv": "19282",
+        "date": "2022-06-09T10:19:55.367Z"
     },
     "es": {
         "0": {
@@ -27270,12 +27270,22 @@
         "5267": {
             "title": "【「起結有序 - 固定 7 連擊盾」凝護 ‧ 無法控制】",
             "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;20%&nbsp;生命力：<br /><br />⓵&nbsp;以指定位置開始轉珠&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害及<br />不會被附上狀態。<br /><br />達成上述條件：<br />⓵&nbsp;敵人不會發動攻擊<br /><br />未有達成上述條件：<br />⓵&nbsp;無法進行回復<br />⓶&nbsp;敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />&nbsp;&nbsp;&nbsp;&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                7,
+                812,
+                854
+            ]
         },
         "5268": {
             "title": "【「起結有序 - 固定 6 連擊盾」凝護 ‧ 無法控制】",
             "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;20%&nbsp;生命力：<br /><br />⓵&nbsp;每回合以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害及<br />不會被附上狀態。<br /><br />達成上述條件：<br />⓵&nbsp;敵人不會發動攻擊<br /><br />未有達成上述條件：<br />⓵&nbsp;無法進行回復<br />⓶&nbsp;敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />&nbsp;&nbsp;&nbsp;&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                6,
+                812,
+                854
+            ]
         },
         "5269": {
             "title": "【灼熱地型】",
@@ -27354,7 +27364,7 @@
         },
         "5284": {
             "title": "【起結有序 - 角色符石】",
-            "desc": "需以指定位置&nbsp;(角色頭像優先)&nbsp;<br />開始轉珠及在指定位置<br />結束轉珠。<br /><br />未有達成上述條件：<br />⓵&nbsp;全隊攻擊力變為&nbsp;0<br />⓶&nbsp;無法進行回復",
+            "desc": "需以指定位置&nbsp;(角色頭像優先)&nbsp;<br />開始轉珠及在指定位置<br />首次結束轉珠。<br /><br />未有達成上述條件：<br />⓵&nbsp;全隊攻擊力變為&nbsp;0<br />⓶&nbsp;無法進行回復",
             "custom_desc": "",
             "icons": [
                 1008
