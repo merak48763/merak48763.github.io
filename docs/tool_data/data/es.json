@@ -31903,7 +31903,7 @@
         "6175": {
             "title": "【屬性以外弱攻 (循環)】",
             "desc": "•&nbsp;指定屬性以外弱攻&nbsp;0%<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
-            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗</span>"
+            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init ?屬性</span>"
         },
         "6176": {
             "title": "【屬性連擊零化 (循環)】",
@@ -31918,7 +31918,7 @@
         "6178": {
             "title": "【連擊相等盾】",
             "desc": "•【五屬連擊相等盾】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;屬性連擊相等需求減少&nbsp;1<br />⇒&nbsp;最多減至<br />&nbsp;&nbsp;【火木連擊相等盾】",
-            "custom_desc": "<span class=\"annotation\">attribute_change decrease 五屬 ? ? 火木</span>"
+            "custom_desc": "<span class=\"annotation\">attribute_change decrease 五屬 火木光暗 火木暗 火木</span>"
         },
         "6179": {
             "title": "【連擊相等盾】",
@@ -32058,7 +32058,7 @@
         "6206": {
             "title": "【消屬性符石禁咒 (循環)】",
             "desc": "•&nbsp;指定屬性符石無法被消除<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
-            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗</span>"
+            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init ?屬性</span>"
         },
         "6207": {
             "title": "【屬性弱攻 (循環)】",
