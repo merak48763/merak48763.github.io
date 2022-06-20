@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.307",
-        "dv": "19282",
-        "date": "2022-06-09T10:19:55.367Z"
+        "version": "2022.400",
+        "dv": "19480",
+        "date": "2022-06-20T05:05:47.267Z"
     },
     "es": {
         "10001": {
@@ -2528,6 +2528,61 @@
         "10534": {
             "title": "",
             "desc": "進場時，根據隊中<br />「一曲傾心&nbsp;‧&nbsp;莫莉安娜」、<br />「偶像發表」系列角色數量，<br />獲得以下效果：<br /><br />▋≥2&nbsp;個<br />進場時，<br />⓵&nbsp;全隊技能&nbsp;CD&nbsp;-99<br />⓶&nbsp;儲滿龍脈儀<br /><br />▋≥3&nbsp;個<br />⓵&nbsp;全隊進入&nbsp;99&nbsp;回合<br />&nbsp;&nbsp;&nbsp;&nbsp;亢奮狀態&nbsp;(攻擊力&nbsp;4&nbsp;倍)<br />⓶&nbsp;全隊無視<br />&nbsp;&nbsp;「固定連擊盾」<br /><br />▋≥4&nbsp;個<br />⓵&nbsp;99&nbsp;回合內，<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;80%&nbsp;所受傷害",
+            "custom_desc": ""
+        },
+        "10539": {
+            "title": "",
+            "desc": "•&nbsp;發動角色符石<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10540": {
+            "title": "",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有水符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;回復全隊回復力&nbsp;20%&nbsp;等值的生命力&nbsp;",
+            "custom_desc": ""
+        },
+        "10541": {
+            "title": "",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有火符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;回復全隊回復力&nbsp;20%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;",
+            "custom_desc": ""
+        },
+        "10542": {
+            "title": "",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有木符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;回復全隊回復力&nbsp;20%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;",
+            "custom_desc": ""
+        },
+        "10543": {
+            "title": "",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有光符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;回復全隊回復力&nbsp;20%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;",
+            "custom_desc": ""
+        },
+        "10544": {
+            "title": "",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有暗符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;回復全隊回復力&nbsp;20%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;",
+            "custom_desc": ""
+        },
+        "10545": {
+            "title": "",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有心符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;回復全隊回復力&nbsp;20%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;",
+            "custom_desc": ""
+        },
+        "10546": {
+            "title": "",
+            "desc": "•&nbsp;每回合對召喚師<br />⇒&nbsp;施加&nbsp;4&nbsp;個害蟲狀態<br />&nbsp;&nbsp;&nbsp;&nbsp;(每回合刷新)<br />•&nbsp;每有&nbsp;1&nbsp;個害蟲狀態<br />⇒&nbsp;全隊攻擊力減少&nbsp;25%<br />⇒&nbsp;4&nbsp;個害蟲狀態時<br />&nbsp;&nbsp;&nbsp;&nbsp;全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10547": {
+            "title": "",
+            "desc": "•&nbsp;每回合對召喚師<br />⇒&nbsp;施加&nbsp;2&nbsp;個害蟲狀態<br />&nbsp;&nbsp;&nbsp;&nbsp;(每回合刷新)<br />•&nbsp;每有&nbsp;1&nbsp;個害蟲狀態<br />⇒&nbsp;全隊攻擊力減少&nbsp;50%<br />⇒&nbsp;2&nbsp;個害蟲狀態時<br />&nbsp;&nbsp;&nbsp;&nbsp;全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10548": {
+            "title": "",
+            "desc": "•&nbsp;每回合對召喚師<br />⇒&nbsp;施加&nbsp;4&nbsp;個益蟲狀態<br />&nbsp;&nbsp;&nbsp;&nbsp;(每回合刷新)<br />•&nbsp;益蟲狀態愈多<br />⇒&nbsp;全隊攻擊力提升愈多：<br />⓵&nbsp;1&nbsp;個益蟲狀態<br />⇒&nbsp;全隊攻擊力&nbsp;2.5&nbsp;倍<br />⓶&nbsp;4&nbsp;個益蟲狀態<br />⇒&nbsp;可達至最大&nbsp;20&nbsp;倍&nbsp;&nbsp;&nbsp;&nbsp;",
+            "custom_desc": ""
+        },
+        "10549": {
+            "title": "",
+            "desc": "•&nbsp;每回合對召喚師<br />⇒&nbsp;施加&nbsp;2&nbsp;個益蟲狀態<br />&nbsp;&nbsp;&nbsp;&nbsp;(每回合刷新)<br />•&nbsp;益蟲狀態愈多<br />⇒&nbsp;全隊攻擊力提升愈多：<br />⓵&nbsp;1&nbsp;個益蟲狀態<br />⇒&nbsp;全隊攻擊力&nbsp;5&nbsp;倍<br />⓶&nbsp;2&nbsp;個益蟲狀態<br />⇒&nbsp;可達至最大&nbsp;20&nbsp;倍&nbsp;&nbsp;&nbsp;&nbsp;",
             "custom_desc": ""
         }
     }
