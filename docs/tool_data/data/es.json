@@ -20001,9 +20001,14 @@
             "custom_desc": ""
         },
         "3727": {
-            "title": "",
+            "title": "命懸一線 ‧ 三回超級禁錮 ‧ 黑白符石-首消6+Combo盾 ‧ 回復力減弱95%",
             "desc": "首回合召喚師生命力剩&nbsp;1&nbsp;點<br /><br />3&nbsp;回合內，封鎖所有成員的<br />主動技能及其攻擊。<br />(所有解鎖技能無效)<br /><br />所有符石變為黑白色。<br />效果期間，<br />首批消除&nbsp;≥6&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會發動攻擊。<br /><br />所有成員的回復力減至&nbsp;5%。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                956,
+                1118,
+                853
+            ]
         },
         "3728": {
             "title": "",
@@ -20011,9 +20016,15 @@
             "custom_desc": ""
         },
         "3729": {
-            "title": "",
+            "title": "CD1 ‧ 妖攻盾 ‧ 100%減傷盾-越攻越弱 ‧ 首消暗傷害吸收-6顆隱藏 ‧ 扣血100%",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有妖精類的攻擊<br />才會對敵人造成傷害。<br /><br />敵人為&nbsp;100%&nbsp;減傷狀態，<br />敵人攻擊次數愈多，<br />減傷狀態削弱愈多。<br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量，並隨機將&nbsp;6&nbsp;粒符石轉化為隱藏符石。<br /><br />敵人發動攻擊時會<br />扣除召喚師&nbsp;100%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">crumbling_walls 100 95 90 85 80 65 40 15 0</span>",
+            "icons": [
+                955,
+                606,
+                315,
+                1121
+            ]
         },
         "3730": {
             "title": "",
@@ -20021,14 +20032,24 @@
             "custom_desc": ""
         },
         "3731": {
-            "title": "",
+            "title": "CD2 ‧ 首回隱藏圍城 ‧ 光禁消 ‧ 20+Combo追擊弱盾",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;2。<br /><br />將所有符石轉化為隱藏符石。<br /><br />光符石無法被消除。<br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;6&nbsp;次。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955,
+                304,
+                70
+            ]
         },
         "3732": {
-            "title": "",
+            "title": "CD2 ‧ 首回隱藏圍城 ‧ 暗禁消 ‧ 20+Combo追擊弱盾",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;2。<br /><br />將所有符石轉化為隱藏符石。<br /><br />暗符石無法被消除。<br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;6&nbsp;次。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955,
+                305,
+                70
+            ]
         },
         "3733": {
             "title": "",
@@ -23108,7 +23129,7 @@
         "4357": {
             "title": "敵技4357",
             "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;光以外成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊<br /><br />•&nbsp;敵人不會被附上狀態<br /><br />•&nbsp;敵人生命分為&nbsp;4&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />▋階段&nbsp;1<br />【敵屬變光】<br />【攻速變&nbsp;2】<br />【X&nbsp;型燃燒&nbsp;20%】<br />【全消暗盾】<br />【愈攻愈強】<br /><br />▋階段&nbsp;2<br />【敵屬變暗】<br />【攻速變&nbsp;3】<br />【攻前盾】<br />【符石轉暗】<br />【反首消暗符石盾&nbsp;-&nbsp;反擊】<br /><br />▋階段&nbsp;3<br />【敵屬變光】<br />【攻速變&nbsp;1】<br />【6&nbsp;億護盾】<br />【≥10&nbsp;連擊盾】<br />【喋血屠刀&nbsp;100%】<br /><br />▋階段&nbsp;4<br />【敵屬變暗】<br />【攻速變&nbsp;1】<br />【隱匿之途】<br />【固定&nbsp;6&nbsp;連擊凝護&nbsp;-&nbsp;愈攻愈強】",
-            "custom_desc": "六封災厄（核心封閉階段的本體）<ul><li>一階段燃燒位置：<span class=\"annotation\">fixed_position 100000010000001100000010000001</span></li><li>二階段符石轉暗：待測</li><li>二階段反擊：待測</li></ul>"
+            "custom_desc": "六封災厄（核心封閉階段的本體）<ul><li>一階段燃燒位置：<span class=\"annotation\">fixed_position 100000010000001100000010000001</span></li><li>一階段越攻越強：<span class=\"annotation\">trojan_attack</span></li><li>二階段符石轉暗：暗複製轉暗</li><li>二階段反擊：反擊100%兩次</li><li>四階段越攻越強：<span class=\"annotation\">trojan_hp_attack 50 100</span></li></ul>"
         },
         "4358": {
             "title": "敵技4358",
@@ -23118,7 +23139,7 @@
         "4359": {
             "title": "【封王核心】",
             "desc": "【封王核心】<br /><br />【核心封閉時】<br />•「存在質疑&nbsp;‧&nbsp;路西法」<br />&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒&nbsp;張開核心<br /><br />【核心張開後】<br />需同時達成以下&nbsp;2&nbsp;個條件，<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1：<br />⓵「光、暗及心」強化<br />&nbsp;&nbsp;&nbsp;&nbsp;連擊相等盾<br />⓶&nbsp;不能首批消除<br />&nbsp;&nbsp;&nbsp;&nbsp;水、火或木符石",
-            "custom_desc": "六封災厄（核心）"
+            "custom_desc": "六封災厄（核心）\n<ul><li>「無視反首消」類技能對此敵技無效</li></ul>"
         },
         "4363": {
             "title": "【眼球地型 ‧ 光暗屬盾 - 水火木限制 ‧ 幽閉之途 ‧ 中毒 ‧ 無法控制】",
