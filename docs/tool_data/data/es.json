@@ -2,7 +2,7 @@
     "last_update": {
         "version": "2022.400",
         "dv": "19480",
-        "date": "2022-06-20T05:05:47.267Z"
+        "date": "2022-06-22T04:00:21.523Z"
     },
     "es": {
         "0": {
@@ -23128,13 +23128,24 @@
         },
         "4357": {
             "title": "敵技4357",
-            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;光以外成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊<br /><br />•&nbsp;敵人不會被附上狀態<br /><br />•&nbsp;敵人生命分為&nbsp;4&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />▋階段&nbsp;1<br />【敵屬變光】<br />【攻速變&nbsp;2】<br />【X&nbsp;型燃燒&nbsp;20%】<br />【全消暗盾】<br />【愈攻愈強】<br /><br />▋階段&nbsp;2<br />【敵屬變暗】<br />【攻速變&nbsp;3】<br />【攻前盾】<br />【符石轉暗】<br />【反首消暗符石盾&nbsp;-&nbsp;反擊】<br /><br />▋階段&nbsp;3<br />【敵屬變光】<br />【攻速變&nbsp;1】<br />【6&nbsp;億護盾】<br />【≥10&nbsp;連擊盾】<br />【喋血屠刀&nbsp;100%】<br /><br />▋階段&nbsp;4<br />【敵屬變暗】<br />【攻速變&nbsp;1】<br />【隱匿之途】<br />【固定&nbsp;6&nbsp;連擊凝護&nbsp;-&nbsp;愈攻愈強】",
-            "custom_desc": "六封災厄（核心封閉階段的本體）<ul><li>一階段燃燒位置：<span class=\"annotation\">fixed_position 100000010000001100000010000001</span></li><li>一階段越攻越強：<span class=\"annotation\">trojan_attack</span></li><li>二階段符石轉暗：暗複製轉暗</li><li>二階段反擊：反擊100%兩次</li><li>四階段越攻越強：<span class=\"annotation\">trojan_hp_attack 50 100</span></li></ul>"
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;光以外成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊<br /><br />•&nbsp;敵人不會被附上狀態<br /><br />•&nbsp;敵人生命分為&nbsp;4&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />▋階段&nbsp;1<br />【敵屬變光】<br />【攻速變&nbsp;2】<br />【燃燒之地&nbsp;20%】<br />【全消暗盾】<br />【愈攻愈強】<br /><br />▋階段&nbsp;2<br />【敵屬變暗】<br />【攻速變&nbsp;3】<br />【攻前盾】<br />【符石轉暗】<br />【反首消暗符石盾&nbsp;-&nbsp;反擊】<br /><br />▋階段&nbsp;3<br />【敵屬變光】<br />【攻速變&nbsp;1】<br />【6&nbsp;億護盾】<br />【≥10&nbsp;連擊盾】<br />【喋血屠刀&nbsp;100%】<br /><br />▋階段&nbsp;4<br />【敵屬變暗】<br />【攻速變&nbsp;1】<br />【隱匿之途】<br />【固定&nbsp;6&nbsp;連擊凝護&nbsp;-&nbsp;愈攻愈強】",
+            "custom_desc": "六封災厄（核心封閉階段的本體）<ul><li>一階段燃燒位置：<span class=\"annotation\">fixed_position 100000010000001100000010000001</span></li><li>一階段越攻越強：<span class=\"annotation\">trojan_attack</span></li><li>二階段符石轉暗：暗複製轉暗</li><li>二階段反擊：反擊100%兩次</li><li>四階段越攻越強：<span class=\"annotation\">trojan_hp_attack 50 100</span></li></ul>",
+            "icons": [
+                951,
+                265,
+                1001,
+                855
+            ]
         },
         "4358": {
             "title": "敵技4358",
             "desc": "•&nbsp;敵人轉換為光屬性<br /><br />•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />•&nbsp;我方所有轉化符石效果無效<br /><br />•&nbsp;敵人不會被附上狀態<br /><br />•&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;全隊回復力變為&nbsp;0",
-            "custom_desc": "六封災厄（核心張開階段的本體）"
+            "custom_desc": "六封災厄（核心張開階段的本體）",
+            "icons": [
+                980,
+                1119,
+                855
+            ]
         },
         "4359": {
             "title": "【封王核心】",
@@ -26414,37 +26425,58 @@
         "5086": {
             "title": "【10 億護盾】",
             "desc": "隊伍中成員的單一傷害<br />達&nbsp;10&nbsp;億才能對敵人<br />造成傷害。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                116
+            ]
         },
         "5087": {
             "title": "【水連擊零化】",
             "desc": "首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                421
+            ]
         },
         "5088": {
             "title": "【火連擊零化】",
             "desc": "首批消除火符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消火符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                422
+            ]
         },
         "5089": {
             "title": "【木連擊零化】",
             "desc": "首批消除木符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消木符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                423
+            ]
         },
         "5090": {
             "title": "【光連擊零化】",
             "desc": "首批消除光符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消光符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                424
+            ]
         },
         "5091": {
             "title": "【暗連擊零化】",
             "desc": "首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                425
+            ]
         },
         "5092": {
             "title": "【心連擊零化】",
             "desc": "首批消除心符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消心符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                426
+            ]
         },
         "5093": {
             "title": "【符石轉水】",
