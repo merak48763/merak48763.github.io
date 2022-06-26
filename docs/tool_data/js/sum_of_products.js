@@ -6,6 +6,14 @@ function createSOPList(rawStr) {
     return result;
 }
 
+function transformSOPList(SOPList, transformer) {
+    SOPList.forEach((prod, i) => {
+        prod.forEach((element, j) => {
+            SOPList[i][j] = transformer(element);
+        });
+    });
+}
+
 function reduceSOPList(SOPList) {
     let result = structuredClone(SOPList);
     result.forEach((element, index) => {
