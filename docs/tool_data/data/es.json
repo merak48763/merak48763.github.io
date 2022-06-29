@@ -23129,7 +23129,7 @@
         "4357": {
             "title": "敵技4357",
             "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;光以外成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊<br /><br />•&nbsp;敵人不會被附上狀態<br /><br />•&nbsp;敵人生命分為&nbsp;4&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />▋階段&nbsp;1<br />【敵屬變光】<br />【攻速變&nbsp;2】<br />【燃燒之地&nbsp;20%】<br />【全消暗盾】<br />【愈攻愈強】<br /><br />▋階段&nbsp;2<br />【敵屬變暗】<br />【攻速變&nbsp;3】<br />【攻前盾】<br />【符石轉暗】<br />【反首消暗符石盾&nbsp;-&nbsp;反擊】<br /><br />▋階段&nbsp;3<br />【敵屬變光】<br />【攻速變&nbsp;1】<br />【6&nbsp;億護盾】<br />【≥10&nbsp;連擊盾】<br />【喋血屠刀&nbsp;100%】<br /><br />▋階段&nbsp;4<br />【敵屬變暗】<br />【攻速變&nbsp;1】<br />【隱匿之途】<br />【固定&nbsp;6&nbsp;連擊凝護&nbsp;-&nbsp;愈攻愈強】",
-            "custom_desc": "六封災厄（核心封閉階段的本體）<ul><li>此技能的四段生命分割點固定為最大血量的75%、50%、25%，不是傳統的【防禦盾 25%】機制</li><li>一階段燃燒位置：<span class=\"annotation\">fixed_position 100000010000001100000010000001</span></li><li>一階段越攻越強：<span class=\"annotation\">trojan_attack</span></li><li>二階段符石轉暗：暗複製轉暗</li><li>二階段反擊：反擊100%兩次</li><li>四階段越攻越強：<span class=\"annotation\">trojan_hp_attack 50 100</span></li></ul>",
+            "custom_desc": "六封災厄（核心封閉階段的本體）<ul><li>此技能的四段生命分割點固定為最大血量的75%、50%、25%，不是傳統的【防禦盾 25%】機制</li><li>階段 1<em>【燃燒之地 20%】</em>：<span class=\"annotation\">fixed_position 100000010000001100000010000001</span></li><li>階段 1<em>【愈攻愈強】</em>：<span class=\"annotation\">trojan_attack</span></li><li>階段 2<em>【符石轉暗】</em>：<ul><li>根據場上暗符石數量，轉化相應粒數的暗符石</li></ul></li><li>階段 2<em>【反首消暗符石盾 - 反擊】</em>：<ul><li>反擊敵人 100% 攻擊傷害 2 次</li></ul></li><li>階段 4<em>【固定 6 連擊凝護 - 愈攻愈強】</em>：<span class=\"annotation\">trojan_hp_attack 50 100</span></li></ul>",
             "icons": [
                 951,
                 265,
@@ -28748,12 +28748,22 @@
         "5543": {
             "title": "【二段生命 50%：木之幻界 - 符石轉木 ‧ 反首消木符石盾 - 化血；敵屬變暗 ‧ 2 倍攻 ‧ 暗之幻界 - 符石轉暗 ‧ 反首消暗符石盾 - 化血】",
             "desc": "•&nbsp;敵人生命分為&nbsp;2&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />▋階段&nbsp;1<br />【木之幻界&nbsp;-&nbsp;符石轉木】<br />【反首消木符石盾&nbsp;-&nbsp;化血】<br /><br />▋階段&nbsp;2<br />【敵屬變暗&nbsp;‧&nbsp;2&nbsp;倍攻】<br />【暗之幻界&nbsp;-&nbsp;符石轉暗】<br />【反首消暗符石盾&nbsp;-&nbsp;化血】",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>階段 1<em>【木之幻界 - 符石轉木】</em>：<ul><li>4 格木之幻界</li><li>每回合將幻界內的符石轉化為木符石</li></ul></li><li>階段 2<em>【暗之幻界 - 符石轉暗】</em>：<ul><li>4 格暗之幻界</li><li>每回合將幻界內的符石轉化為暗符石</li></ul></li></ul>",
+            "icons": [
+                293,
+                981,
+                1001
+            ]
         },
         "5544": {
             "title": "【二段生命 50%：木之幻界 - 符石轉木 ‧ 反首消木符石盾 - 化血；敵屬變暗 ‧ 4 倍攻 ‧ 暗之幻界 - 符石轉暗 ‧ 反首消暗符石盾 - 化血】",
             "desc": "•&nbsp;敵人生命分為&nbsp;2&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />▋階段&nbsp;1<br />【木之幻界&nbsp;-&nbsp;符石轉木】<br />【反首消木符石盾&nbsp;-&nbsp;化血】<br /><br />▋階段&nbsp;2<br />【敵屬變暗&nbsp;‧&nbsp;4&nbsp;倍攻】<br />【暗之幻界&nbsp;-&nbsp;符石轉暗】<br />【反首消暗符石盾&nbsp;-&nbsp;化血】",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>階段 1<em>【木之幻界 - 符石轉木】</em>：<ul><li>8 格木之幻界</li><li>每回合將幻界內的符石轉化為木符石</li></ul></li><li>階段 2<em>【暗之幻界 - 符石轉暗】</em>：<ul><li>8 格暗之幻界</li><li>每回合將幻界內的符石轉化為暗符石</li></ul></li></ul>",
+            "icons": [
+                293,
+                981,
+                1001
+            ]
         },
         "5545": {
             "title": "【燃燒之地 ‧ 擴散燃燒】",
@@ -29248,7 +29258,7 @@
         "5643": {
             "title": "【二段生命 50%：敵屬變更 - 隊長屬性 ‧ 隊長屬性連擊零化；灼熱地型 10,000 ‧ 4 倍攻】",
             "desc": "•&nbsp;敵人生命分為&nbsp;2&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />▋階段&nbsp;1<br />【敵屬變更&nbsp;-&nbsp;隊長屬性】<br />(轉換敵人屬性技能效果無效)<br />【隊長屬性連擊零化】<br /><br />▋階段&nbsp;2<br />【灼熱地型&nbsp;10,000&nbsp;‧&nbsp;4&nbsp;倍攻】<br /><br /><br /><br />",
-            "custom_desc": "4格灼熱地型"
+            "custom_desc": "<ul><li>階段 2<em>【灼熱地型 10,000 ‧ 4 倍攻】</em>：<ul><li>4 格灼熱地型</li></ul></li></ul>"
         },
         "5644": {
             "title": "【力的印記 - 心】",
@@ -29947,7 +29957,7 @@
         "5783": {
             "title": "【二段生命 50%：灼熱地型 10000；連環光牢】",
             "desc": "•&nbsp;敵人生命分為&nbsp;2&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />▋階段&nbsp;1<br />【灼熱地型&nbsp;10000】<br /><br />▋階段&nbsp;2<br />【連環光牢】",
-            "custom_desc": "第3橫行灼熱地型<br />第3橫行射擊"
+            "custom_desc": "<ul><li>階段 1<em>【灼熱地型 10000】</em>：<span class=\"annotation\">fixed_position 000000000000111111000000000000</span></li><li>階段 2<em>【連環光牢】</em>：<ul><li>第 3 橫行射擊</li></ul></li></ul>"
         },
         "5784": {
             "title": "【二段生命 50%：灼熱地型 20000；連環光牢 ‧ 清技及 EP ‧ 淨世】",
