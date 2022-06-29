@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2022.400",
-        "dv": "19480",
-        "date": "2022-06-22T04:00:21.523Z"
+        "dv": "19506",
+        "date": "2022-06-24T09:54:37.711Z"
     },
     "es": {
         "0": {
@@ -23129,7 +23129,7 @@
         "4357": {
             "title": "敵技4357",
             "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;光以外成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊<br /><br />•&nbsp;敵人不會被附上狀態<br /><br />•&nbsp;敵人生命分為&nbsp;4&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />▋階段&nbsp;1<br />【敵屬變光】<br />【攻速變&nbsp;2】<br />【燃燒之地&nbsp;20%】<br />【全消暗盾】<br />【愈攻愈強】<br /><br />▋階段&nbsp;2<br />【敵屬變暗】<br />【攻速變&nbsp;3】<br />【攻前盾】<br />【符石轉暗】<br />【反首消暗符石盾&nbsp;-&nbsp;反擊】<br /><br />▋階段&nbsp;3<br />【敵屬變光】<br />【攻速變&nbsp;1】<br />【6&nbsp;億護盾】<br />【≥10&nbsp;連擊盾】<br />【喋血屠刀&nbsp;100%】<br /><br />▋階段&nbsp;4<br />【敵屬變暗】<br />【攻速變&nbsp;1】<br />【隱匿之途】<br />【固定&nbsp;6&nbsp;連擊凝護&nbsp;-&nbsp;愈攻愈強】",
-            "custom_desc": "六封災厄（核心封閉階段的本體）<ul><li>一階段燃燒位置：<span class=\"annotation\">fixed_position 100000010000001100000010000001</span></li><li>一階段越攻越強：<span class=\"annotation\">trojan_attack</span></li><li>二階段符石轉暗：暗複製轉暗</li><li>二階段反擊：反擊100%兩次</li><li>四階段越攻越強：<span class=\"annotation\">trojan_hp_attack 50 100</span></li></ul>",
+            "custom_desc": "六封災厄（核心封閉階段的本體）<ul><li>此技能的四段生命分割點固定為最大血量的75%、50%、25%，不是傳統的【防禦盾 25%】機制</li><li>一階段燃燒位置：<span class=\"annotation\">fixed_position 100000010000001100000010000001</span></li><li>一階段越攻越強：<span class=\"annotation\">trojan_attack</span></li><li>二階段符石轉暗：暗複製轉暗</li><li>二階段反擊：反擊100%兩次</li><li>四階段越攻越強：<span class=\"annotation\">trojan_hp_attack 50 100</span></li></ul>",
             "icons": [
                 951,
                 265,
@@ -27372,7 +27372,10 @@
         "5269": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時固定&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;20000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">fixed_position 001001000000010010000000100100</span>",
+            "icons": [
+                963
+            ]
         },
         "5270": {
             "title": "【荊棘符石】",
@@ -28675,7 +28678,7 @@
         "5529": {
             "title": "【〖腐化 ‧ 減傷抗性〗】",
             "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，<br />敵人攻擊次數愈多，<br />減傷狀態削弱愈多。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">crumbling_walls</span>"
         },
         "5530": {
             "title": "【〖腐化 ‧ 技能錮縛 - 鎖攻〗】",
@@ -29200,7 +29203,7 @@
         "5634": {
             "title": "【符石轉換 ‧ 固定連擊凝護】",
             "desc": "•&nbsp;每回合將所有符石轉換<br /><br />•&nbsp;達成首消固定連擊&nbsp;(Combo)<br />⓵&nbsp;可扣除敵人&nbsp;20%&nbsp;生命力<br />⓶&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;沒有達成上述條件<br />⇒&nbsp;敵人發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">assigned_combo 5 6 7 8 9</span>"
         },
         "5635": {
             "title": "【符石轉換】",
@@ -32191,62 +32194,98 @@
         "6221": {
             "title": "【「起結有序 - 角色符石、固定 5 連擊」凝護】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;50%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                5
+            ]
         },
         "6222": {
             "title": "【「起結有序 - 角色符石、固定 6 連擊」凝護】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;50%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                6
+            ]
         },
         "6223": {
             "title": "【「起結有序 - 角色符石、固定 7 連擊」凝護】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;50%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                7
+            ]
         },
         "6224": {
             "title": "【「起結有序 - 角色符石、固定 8 連擊」凝護】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;50%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                8
+            ]
         },
         "6225": {
             "title": "【「起結有序 - 角色符石、固定 9 連擊」凝護】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;50%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;9&nbsp;連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                9
+            ]
         },
         "6226": {
             "title": "【「起結有序 - 角色符石、固定 10 連擊」凝護】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;50%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;10&nbsp;連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                10
+            ]
         },
         "6227": {
             "title": "【角色符石地型盾】",
             "desc": "•&nbsp;隨機鎖定&nbsp;1&nbsp;個位置<br />•「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;角色符石需置於<br />&nbsp;&nbsp;&nbsp;鎖定位置內，該角色才能<br />&nbsp;&nbsp;&nbsp;對敵人造成攻擊傷害。<br />•&nbsp;其他成員攻擊力變&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1025
+            ]
         },
         "6228": {
             "title": "【角色符石地型盾】",
             "desc": "•&nbsp;隨機鎖定&nbsp;2&nbsp;個位置<br />•「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;角色符石需置於<br />&nbsp;&nbsp;&nbsp;鎖定位置內，該角色才能<br />&nbsp;&nbsp;&nbsp;對敵人造成攻擊傷害。<br />•&nbsp;其他成員攻擊力變&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1025
+            ]
         },
         "6229": {
             "title": "【角色符石地型盾】",
             "desc": "•&nbsp;隨機鎖定&nbsp;3&nbsp;個位置<br />•「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;角色符石需置於<br />&nbsp;&nbsp;&nbsp;鎖定位置內，該角色才能<br />&nbsp;&nbsp;&nbsp;對敵人造成攻擊傷害。<br />•&nbsp;其他成員攻擊力變&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1025
+            ]
         },
         "6230": {
             "title": "【角色符石地型盾】",
             "desc": "•&nbsp;隨機鎖定&nbsp;4&nbsp;個位置<br />•「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;角色符石需置於<br />&nbsp;&nbsp;&nbsp;鎖定位置內，該角色才能<br />&nbsp;&nbsp;&nbsp;對敵人造成攻擊傷害。<br />•&nbsp;其他成員攻擊力變&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1025
+            ]
         },
         "6231": {
             "title": "【角色符石地型盾】",
             "desc": "•&nbsp;隨機鎖定&nbsp;5&nbsp;個位置<br />•「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;角色符石需置於<br />&nbsp;&nbsp;&nbsp;鎖定位置內，該角色才能<br />&nbsp;&nbsp;&nbsp;對敵人造成攻擊傷害。<br />•&nbsp;其他成員攻擊力變&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1025
+            ]
         },
         "6232": {
             "title": "【角色符石地型盾】",
             "desc": "•&nbsp;隨機鎖定&nbsp;6&nbsp;個位置<br />•「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;角色符石需置於<br />&nbsp;&nbsp;&nbsp;鎖定位置內，該角色才能<br />&nbsp;&nbsp;&nbsp;對敵人造成攻擊傷害。<br />•&nbsp;其他成員攻擊力變&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1025
+            ]
         },
         "6233": {
             "title": "【全消盾 - 光、暗】",
