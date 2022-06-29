@@ -22674,7 +22674,10 @@
         "4259": {
             "title": "敵技4259",
             "desc": "持續將移動符石時所觸碰的<br />符石變為黑白色。<br /><br />沒有將所有符石<br />(不包括起手符石)<br />全部變為黑白色時<br />⓵&nbsp;敵人不會受到傷害，<br />&nbsp;&nbsp;&nbsp;並回復相等於該傷害的血量<br />⓶&nbsp;召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />敵人不會受到傷害。<br /><br />敵人不會被附上狀態。",
-            "custom_desc": "一封災厄（核心封閉階段的本體）"
+            "custom_desc": "一封災厄（核心封閉階段的本體）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4260": {
             "title": "敵技4260",
@@ -22684,27 +22687,42 @@
         "4261": {
             "title": "敵技4261",
             "desc": "隨機在&nbsp;6&nbsp;個位置<br />⇒&nbsp;施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />敵人不會受到傷害。<br /><br />敵人不會被附上狀態。",
-            "custom_desc": "一封災厄（核心張開階段的本體）"
+            "custom_desc": "一封災厄（核心張開階段的本體）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4262": {
             "title": "【封王核心】",
             "desc": "【封王核心】<br /><br />達成首消「指定連擊」條件<br />⇒&nbsp;張開核心&nbsp;3&nbsp;回合<br />提示：<br /><em>▋不能重複首消相同屬性<br />▋心符石通用</em><br /><br />核心張開時，<br />達成首消「指定連擊」條件<br />⇒&nbsp;才可對核心造成傷害<br />提示：<br /><em>▋需重複首消相同屬性<br />▋心符石通用</em><br /><br />",
-            "custom_desc": "一封災厄（核心）"
+            "custom_desc": "一封災厄（核心）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4265": {
             "title": "敵技4265",
             "desc": "同&nbsp;1&nbsp;回合擊斃日月雙狼<br />⇒&nbsp;雙狼復活<br /><br />日狼被單殺後<br />⓵&nbsp;月狼每回合<br />⇒&nbsp;完全回復生命力<br />⓶&nbsp;月狼攻擊力&nbsp;3&nbsp;倍<br />⓷&nbsp;新增技能<br />▋反首消光符石盾&nbsp;-&nbsp;反擊<br />▋全消暗盾<br /><br />敵人無視所有<br />減傷效果和意志技能，<br />並不會被附上狀態。",
-            "custom_desc": "二封災厄（核心封閉階段的月狼）"
+            "custom_desc": "二封災厄（核心封閉階段的月狼）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4266": {
             "title": "敵技4266",
             "desc": "同&nbsp;1&nbsp;回合擊斃日月雙狼<br />⇒&nbsp;雙狼復活<br /><br />月狼被單殺後<br />⓵&nbsp;日狼每回合<br />⇒&nbsp;完全回復生命力<br />⓶&nbsp;日狼攻擊力&nbsp;3&nbsp;倍<br />⓷&nbsp;新增技能<br />▋反首消暗符石盾&nbsp;-&nbsp;反擊<br />▋全消光盾<br /><br />敵人無視所有<br />減傷效果和意志技能，<br />並不會被附上狀態。",
-            "custom_desc": "二封災厄（核心封閉階段的日狼）"
+            "custom_desc": "二封災厄（核心封閉階段的日狼）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4267": {
             "title": "【封王核心】",
             "desc": "【封王核心】<br /><br />日狼、月狼相繼死亡後<br />⇒&nbsp;張開核心<br />提示：<em>分開擊殺</em><br /><br />核心生命分為&nbsp;2&nbsp;個階段，<br />召喚師需要分階段攻擊。<br />核心生命力剩&nbsp;≤50%&nbsp;時<br />⓵&nbsp;封閉核心<br />⓶&nbsp;雙狼復活<br /><br />敵人不會被附上狀態。",
-            "custom_desc": "二封災厄（核心）"
+            "custom_desc": "二封災厄（核心）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4268": {
             "title": "【封王核心】",
@@ -22714,7 +22732,10 @@
         "4269": {
             "title": "敵技4269",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒&nbsp;該屬性才會對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;每回合將場上的符石<br />⇒&nbsp;變回原始模樣<br /><br />•&nbsp;敵人生命力為&nbsp;0&nbsp;時<br />⓵&nbsp;不會死亡<br />⓶&nbsp;該次攻擊變為&nbsp;CD&nbsp;1<br /><br />•&nbsp;敵人&nbsp;CD&nbsp;0&nbsp;時<br />⇒&nbsp;完全回復生命力<br /><br />•&nbsp;敵人不會被附上狀態",
-            "custom_desc": "三封災厄（核心封閉階段的本體）<br />CD1是每回變更的，所以丟延遲1~3回的龍刻下去效果都一樣，只能避免即將打下來的攻擊"
+            "custom_desc": "三封災厄（核心封閉階段的本體）<br />CD1是每回變更的，所以丟延遲1~3回的龍刻下去效果都一樣，只能避免即將打下來的攻擊",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4270": {
             "title": "敵技4270",
@@ -22724,7 +22745,10 @@
         "4271": {
             "title": "敵技4271",
             "desc": "•&nbsp;核心張開後<br />⇒&nbsp;完全回復生命力<br /><br />•&nbsp;消除屬性強化符石<br />⇒&nbsp;敵人所受該屬性傷害<br />&nbsp;&nbsp;&nbsp;&nbsp;減至&nbsp;0%<br /><br />•&nbsp;敵人生命力為&nbsp;0&nbsp;時<br />⓵&nbsp;不會死亡<br /><br />⓶&nbsp;回合結束時所有符石<br />⇒&nbsp;添加邪惡能量<br />•&nbsp;每消除&nbsp;1&nbsp;粒邪惡能量符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;20%<br />•&nbsp;邪惡能量符石不能還原及<br />&nbsp;&nbsp;不能轉化為強化符石<br /><br />⓷&nbsp;該次攻擊變為&nbsp;CD&nbsp;1<br /><br />⓸&nbsp;敵人&nbsp;CD&nbsp;0&nbsp;時<br />⇒&nbsp;完全回復生命力<br /><br />•&nbsp;敵人不會被附上狀態",
-            "custom_desc": "三封災厄（核心張開階段的本體）<br />CD1是每回變更的，所以丟延遲1~3回的龍刻下去效果都一樣，只能避免即將打下來的攻擊"
+            "custom_desc": "三封災厄（核心張開階段的本體）<br />CD1是每回變更的，所以丟延遲1~3回的龍刻下去效果都一樣，只能避免即將打下來的攻擊",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4272": {
             "title": "【封王核心】",
@@ -22734,37 +22758,58 @@
         "4273": {
             "title": "【封王核心】",
             "desc": "【封王核心】<br /><br />•「理智失序&nbsp;‧&nbsp;奧丁」<br />&nbsp;&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒【克制敵屬神族強化<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;限制形狀盾】<br /><br />•&nbsp;達成上述限制形狀盾條件或<br />&nbsp;&nbsp;無視「指定形狀盾」<br />⇒&nbsp;張開核心<br /><br />•&nbsp;核心張開及<br />「理智失序&nbsp;‧&nbsp;奧丁」<br />&nbsp;&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒&nbsp;才能對敵人造成傷害",
-            "custom_desc": "三封災厄（核心）"
+            "custom_desc": "三封災厄（核心）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4275": {
             "title": "敵技4275",
             "desc": "•&nbsp;每當核心關閉時<br />⇒&nbsp;完全回復生命力<br /><br />•&nbsp;於指定直行<br />&nbsp;&nbsp;消除指定屬性符石<br />&nbsp;&nbsp;(只能直向消除)<br />⇒&nbsp;才能對敵人造成傷害<br /><br />•&nbsp;每次受到敵人攻擊時<br />⇒&nbsp;下回合召喚師行動後<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />•&nbsp;受到敵人攻擊次數愈多時<br />⇒&nbsp;扣除生命力愈多<br />•&nbsp;召喚師復活或核心關閉時<br />⇒&nbsp;重置扣除生命力&nbsp;%<br /><br />•&nbsp;每回合最多只能對敵人造成<br />&nbsp;&nbsp;敵人生命力&nbsp;20%&nbsp;的攻擊傷害<br />•&nbsp;回合結束時<br />⇒&nbsp;敵人完全回復生命力",
-            "custom_desc": "四封災厄（核心封閉階段的本體）"
+            "custom_desc": "四封災厄（核心封閉階段的本體）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4277": {
             "title": "敵技4277",
             "desc": "•&nbsp;每當核心張開後<br />⓵&nbsp;消除召喚師所有附加效果，<br />&nbsp;&nbsp;&nbsp;&nbsp;相關技能&nbsp;CD&nbsp;將被重置<br /><br />⓶&nbsp;封鎖所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;1&nbsp;回合<br /><br />⓷&nbsp;敵人不會被附上狀態<br /><br />⓸&nbsp;敵人不會受到任何傷害",
-            "custom_desc": "四封災厄（核心張開階段的本體）"
+            "custom_desc": "四封災厄（核心張開階段的本體）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4279": {
             "title": "【封王核心】",
             "desc": "•&nbsp;敵人轉換為暗屬性<br /><br />•&nbsp;每回合將心符石<br />⇒&nbsp;添加為加護符石<br />•&nbsp;加護符石不能引爆<br />•&nbsp;場上沒有加護符石<br />⇒&nbsp;無法對敵人造成傷害<br /><br /><em>•&nbsp;鎖定核心及<br />&nbsp;&nbsp;對本體造成攻擊傷害<br />⇒&nbsp;張開核心&nbsp;1&nbsp;回合</em><br /><br />核心張開後<br />•&nbsp;首消&nbsp;≤2&nbsp;組屬性符石<br />&nbsp;&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": "四封災厄（核心）"
+            "custom_desc": "四封災厄（核心）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4281": {
             "title": "敵技4281",
             "desc": "•&nbsp;進場時消除召喚師<br />&nbsp;&nbsp;所有附加效果。<br /><br />•&nbsp;進場時對召喚師<br />&nbsp;&nbsp;施加負面效果疲憊狀態：<br />&nbsp;&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;全隊攻擊力減至&nbsp;0%。<br /><br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;4&nbsp;粒符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;30,000&nbsp;點傷害<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算回復加乘)",
-            "custom_desc": "胞質核災厄（核心封閉階段的本體）"
+            "custom_desc": "胞質核災厄（核心封閉階段的本體）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4283": {
             "title": "敵技4283",
             "desc": "•&nbsp;核心張開後<br />⇒&nbsp;完全回復生命力<br /><br />•&nbsp;暴風席捲最左方及最右方<br />&nbsp;&nbsp;直行的位置<br />•&nbsp;暴風位置內的<br />&nbsp;&nbsp;符石不能消除或引爆<br />•&nbsp;該位置一經觸碰<br />⇒&nbsp;即時停止移動符石<br /><br />•「生死剝離&nbsp;‧&nbsp;尼德霍格」<br />&nbsp;&nbsp;攻擊力&nbsp;5&nbsp;倍及無視所有<br />&nbsp;&nbsp;減傷效果和意志技能。<br /><br />•「生死剝離&nbsp;‧&nbsp;尼德霍格」<br />&nbsp;&nbsp;&nbsp;不會受到任何傷害",
-            "custom_desc": "胞質核災厄（核心張開階段的本體）"
+            "custom_desc": "胞質核災厄（核心張開階段的本體）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4284": {
             "title": "【封王核心】",
             "desc": "【封王核心】<br /><br />•「生死剝離&nbsp;‧&nbsp;尼德霍格」<br />&nbsp;&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒&nbsp;張開核心<br /><br />•&nbsp;核心張開，<br />&nbsp;&nbsp;首批消除場上所有心符石<br />⇒&nbsp;才能對核心造成攻擊傷害<br />⇒&nbsp;否則核心承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除心符石)<br /><br />•&nbsp;若無法達成上述<br />【全消心盾】條件<br />⇒&nbsp;封閉核心",
-            "custom_desc": "胞質核災厄（核心）"
+            "custom_desc": "胞質核災厄（核心）",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4285": {
             "title": "【絕對領域 - 200 萬 (傷害護盾) ‧ 突擊 ‧ 符石轉暗 ‧ 抓手地型】",
@@ -23135,6 +23180,9 @@
                 265,
                 1001,
                 855
+            ],
+            "keywords": [
+                "災厄級"
             ]
         },
         "4358": {
@@ -23145,12 +23193,18 @@
                 980,
                 1119,
                 855
+            ],
+            "keywords": [
+                "災厄級"
             ]
         },
         "4359": {
             "title": "【封王核心】",
             "desc": "【封王核心】<br /><br />【核心封閉時】<br />•「存在質疑&nbsp;‧&nbsp;路西法」<br />&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒&nbsp;張開核心<br /><br />【核心張開後】<br />需同時達成以下&nbsp;2&nbsp;個條件，<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1：<br />⓵「光、暗及心」強化<br />&nbsp;&nbsp;&nbsp;&nbsp;連擊相等盾<br />⓶&nbsp;不能首批消除<br />&nbsp;&nbsp;&nbsp;&nbsp;水、火或木符石",
-            "custom_desc": "六封災厄（核心）\n<ul><li>「無視反首消」類技能對此敵技無效</li></ul>"
+            "custom_desc": "六封災厄（核心）\n<ul><li>「無視反首消」類技能對此敵技無效，快用你那無敵的手轉想想辦法吧</li></ul>",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4363": {
             "title": "【眼球地型 ‧ 光暗屬盾 - 水火木限制 ‧ 幽閉之途 ‧ 中毒 ‧ 無法控制】",
