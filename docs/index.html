@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+
+        <link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik" />
+        <link rel="stylesheet" href="./index.css" />
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-226961065-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-226961065-1');
+        </script>
+
+        <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+
+        <title>頁面連結</title>
+    </head>
+    <body>
+        <div class="wrapper mdc-list-group">
+            <h3 class="mdc-list-group__subheader">Links</h3>
+            <ul class="mdc-list mdc-list--two-line" id="link_list">
+                <li class="mdc-list-item" tabindex="0" data-href="/tos-es-table/">
+                    <span class="mdc-list-item__ripple"></span>
+                    <span class="mdc-list-item__text">
+                        <span class="mdc-list-item__primary-text">敵人技能表</span>
+                        <span class="mdc-list-item__secondary-text">https://merak48763.github.io/tos-es-table/</span>
+                    </span>
+                </li>
+                <li class="mdc-list-item" data-href="https://youtu.be/dQw4w9WgXcQ" data-target="_blank">
+                    <span class="mdc-list-item__ripple"></span>
+                    <span class="mdc-list-item__text">
+                        <span class="mdc-list-item__primary-text">？？？</span>
+                        <span class="mdc-list-item__secondary-text">Coming Soon</span>
+                    </span>
+                </li>
+            </ul>
+        </div>
+        <script>
+            const link_list = mdc.list.MDCList.attachTo(document.getElementById('link_list'));
+            link_list.listen('MDCList:action', e=> {
+                let url = link_list.listElements[e.detail.index].dataset.href;
+                let target = link_list.listElements[e.detail.index].dataset.target;
+                if(url) {
+                    //window.location.href = url;
+                    window.open(url, target ?? '_self');
+                }
+            });
+        </script>
+    </body>
+</html>

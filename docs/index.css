@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #f0f0f0;
+}
+div.wrapper {
+    flex: 1;
+    width: 60%;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px 0px;
+    background-color: #fff;
+    user-select: none;
+    border-radius: 12px;
+    overflow-y: auto;
+}
+li.mdc-list-item {
+    padding: 8px 16px;
+}
+span.mdc-list-item__secondary-text {
+    font-family: 'Rubik', var(--mdc-typography-font-family, Roboto, sans-serif)
+}
+::-webkit-scrollbar {
+    width: 0px;
+}
