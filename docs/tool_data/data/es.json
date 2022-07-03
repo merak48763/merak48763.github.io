@@ -32178,7 +32178,7 @@
         "6204": {
             "title": "【碎裂】",
             "desc": "•&nbsp;進場時【3&nbsp;格碎裂】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的碎裂位置<br />&nbsp;&nbsp;&nbsp;&nbsp;增加&nbsp;3&nbsp;格<br />⇒&nbsp;最多加至隨機&nbsp;15&nbsp;格<br />＊召喚師死亡後重置",
-            "custom_desc": ""
+            "custom_desc": "增加至15格碎裂後，會將版面區分為隨機的15/15格，輪流碎裂"
         },
         "6205": {
             "title": "【碎裂】",

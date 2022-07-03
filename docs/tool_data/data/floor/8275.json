@@ -1,0 +1,308 @@
+{
+    "type": "floor",
+    "icon": 3006,
+    "achievements": ["隊伍中只有妖精類成員", "隊長與戰友不同", "隊伍中有 2 種或以上屬性的成員 (不包括隊伍技能)"],
+    "limit": "只有水，火和木屬性成員可進入",
+    "stamina": 60,
+    "waves": [
+        {
+            "type": "simple",
+            "wave_skill": 10518,
+            "enemies": [
+                {
+                    "id": 837,
+                    "hp": 5460000000,
+                    "attack": 193417,
+                    "defense": 4500000,
+                    "cd": 3,
+                    "cd_init": 3,
+                    "characteristics": [
+                        852,
+                        5290,
+                        51
+                    ],
+                    "skills": []
+                },
+                {
+                    "id": 839,
+                    "hp": 1630000000,
+                    "attack": 53682,
+                    "defense": 3600000,
+                    "cd": 1,
+                    "cd_init": 1,
+                    "characteristics": [
+                        280,
+                        5916,
+                        50
+                    ],
+                    "skills": []
+                },
+                {
+                    "id": 837,
+                    "hp": 5460000000,
+                    "attack": 193417,
+                    "defense": 4500000,
+                    "cd": 3,
+                    "cd_init": 3,
+                    "characteristics": [
+                        852,
+                        5290,
+                        51
+                    ],
+                    "skills": []
+                }
+            ]
+        },
+        {
+            "type": "simple",
+            "wave_skill": 10518,
+            "enemies": [
+                {
+                    "id": 2085,
+                    "hp": 28300000000,
+                    "attack": 71632,
+                    "defense": 12000000,
+                    "cd": 1,
+                    "cd_init": 2,
+                    "characteristics": [
+                        6126,
+                        6192
+                    ],
+                    "skills": []
+                }
+            ]
+        },
+        {
+            "type": "revival",
+            "wave_skill": 10518,
+            "enemies": [
+                {
+                    "id": 2086,
+                    "hp": 17900000000,
+                    "attack": 260741,
+                    "defense": 18000000,
+                    "cd": 1,
+                    "cd_init": 1,
+                    "characteristics": [
+                        1,
+                        5779,
+                        51
+                    ],
+                    "skills": []
+                },
+                {
+                    "id": 2086,
+                    "hp": 45400000000,
+                    "attack": 87163,
+                    "defense": 18000000,
+                    "cd": 1,
+                    "cd_init": 0,
+                    "characteristics": [
+                        5079,
+                        6193,
+                        50
+                    ],
+                    "skills": []
+                }
+            ]
+        },
+        {
+            "type": "simple",
+            "wave_skill": 10518,
+            "enemies": [
+                {
+                    "id": 959,
+                    "hp": 20700000000,
+                    "attack": 147354,
+                    "defense": 9400000,
+                    "cd": 1,
+                    "cd_init": 2,
+                    "characteristics": [
+                        52,
+                        5256,
+                        320,
+                        5918
+                    ],
+                    "skills": []
+                }
+            ]
+        },
+        {
+            "type": "simple",
+            "wave_skill": 10518,
+            "enemies": [
+                {
+                    "id": 1389,
+                    "hp": 34600000000,
+                    "attack": 83210,
+                    "defense": 13000000,
+                    "cd": 1,
+                    "cd_init": 1,
+                    "characteristics": [
+                        149,
+                        5091,
+                        874,
+                        5802
+                    ],
+                    "skills": []
+                }
+            ]
+        },
+        {
+            "type": "revival",
+            "wave_skill": 10518,
+            "enemies": [
+                {
+                    "id": 10159,
+                    "hp": 40000000000,
+                    "attack": 76369,
+                    "defense": 26000000,
+                    "cd": 1,
+                    "cd_init": 1,
+                    "characteristics": [
+                        6202,
+                        278,
+                        50
+                    ],
+                    "skills": []
+                },
+                {
+                    "id": 10159,
+                    "hp": 53500000000,
+                    "attack": 412873,
+                    "defense": 26000000,
+                    "cd": 3,
+                    "cd_init": 0,
+                    "characteristics": [
+                        5081,
+                        5196,
+                        5137,
+                        365
+                    ],
+                    "skills": []
+                }
+            ]
+        },
+        {
+            "type": "simple",
+            "wave_skill": 10518,
+            "enemies": [
+                {
+                    "id": 838,
+                    "hp": 14900000000,
+                    "attack": 216825,
+                    "defense": 9000000,
+                    "cd": 3,
+                    "cd_init": 3,
+                    "characteristics": [
+                        291,
+                        913,
+                        5290
+                    ],
+                    "skills": []
+                },
+                {
+                    "id": 840,
+                    "hp": 5210000000,
+                    "attack": 59434,
+                    "defense": 7200000,
+                    "cd": 1,
+                    "cd_init": 1,
+                    "characteristics": [
+                        291,
+                        912,
+                        5291
+                    ],
+                    "skills": []
+                }
+            ]
+        },
+        {
+            "type": "revival",
+            "wave_skill": 10518,
+            "enemies": [
+                {
+                    "id": 2244,
+                    "hp": 26800000000,
+                    "attack": 92367,
+                    "defense": 19000000,
+                    "cd": 1,
+                    "cd_init": 1,
+                    "characteristics": [
+                        5620,
+                        285,
+                        5615,
+                        51
+                    ],
+                    "skills": []
+                },
+                {
+                    "id": 2244,
+                    "hp": 49700000000,
+                    "attack": 189528,
+                    "defense": 19000000,
+                    "cd": 2,
+                    "cd_init": 0,
+                    "characteristics": [
+                        5080,
+                        5657,
+                        5684,
+                        5371
+                    ],
+                    "skills": []
+                }
+            ]
+        },
+        {
+            "type": "simple",
+            "wave_skill": 10518,
+            "enemies": [
+                {
+                    "id": 2479,
+                    "hp": 38500000000,
+                    "attack": 73546,
+                    "defense": 15000000,
+                    "cd": 1,
+                    "cd_init": 1,
+                    "characteristics": [
+                        5165,
+                        5611,
+                        51
+                    ],
+                    "skills": []
+                }
+            ]
+        },
+        {
+            "type": "simple",
+            "wave_skill": 10518,
+            "enemies": [
+                {
+                    "id": 6393,
+                    "hp": 60000000000,
+                    "attack": 90390,
+                    "defense": 30000000,
+                    "cd": 1,
+                    "cd_init": 1,
+                    "characteristics": [],
+                    "skills": [
+                        4357,
+                        4358
+                    ]
+                },
+                {
+                    "id": 6392,
+                    "hp": 60000000000,
+                    "attack": 999999,
+                    "defense": 30000000,
+                    "cd": 9,
+                    "cd_init": 9,
+                    "characteristics": [
+                        4359
+                    ],
+                    "skills": []
+                }
+            ]
+        }
+    ]
+}
