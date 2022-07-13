@@ -2,7 +2,7 @@
     "last_update": {
         "version": "2022.403",
         "dv": "19544",
-        "time": 1657192544
+        "time": 1657271466
     },
     "es": {
         "0": {
@@ -29578,17 +29578,17 @@
         "5696": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">quiz 1,5,9 1,2,3,4,5,6,7,8</span>"
         },
         "5697": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">quiz 50051,50050 9,10,11,12,13,14,15,16,17</span>"
         },
         "5698": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">quiz 50051,50050 18,19,20,21,23,24,25,26,27</span>"
         },
         "5699": {
             "title": "【隊長戰友攻擊零化】",
@@ -30117,37 +30117,37 @@
         "5804": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">quiz 50051,50050 28,29,30,31,32,33,34,35,36</span>"
         },
         "5805": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">quiz 50051,50050 37,38,39,40,41,42,43,44,45,46,47,48</span>"
         },
         "5806": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">quiz 50051,50050 49,50,51,52,53,54,55,56,57,58,59</span>"
         },
         "5807": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">quiz 50051,50050 60,61,62,63,64,65,66,67,68,69,70</span>"
         },
         "5808": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">quiz 50051,50050 71,72,73,74,75,76,77,78,79,80,81,82,83</span>"
         },
         "5809": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">quiz 50051,50050 84,85,86,87,88,89,90,91,92,93,94,95</span>"
         },
         "5810": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">quiz 50051,50050 96,97,98,99,100,101,102,103,104,105,106,107,108,109</span>"
         },
         "5811": {
             "title": "【反首消水符石盾 - 化血 - 反擊】",
