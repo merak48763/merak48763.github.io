@@ -36,8 +36,8 @@ function generateMonsterIcon(monsterId) {
 }
 
 function getMonsterName(monsterId) {
-    if(monsterId in monsterData) {
-        return monsterData[monsterId].name;
+    if(monsterId in monsterData.monster) {
+        return monsterData.monster[monsterId].name;
     }
     return null;
 }
