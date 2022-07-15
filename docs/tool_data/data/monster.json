@@ -1,0 +1,45 @@
+{
+    "last_update": {
+        "version": "2022.400",
+        "dv": 11198,
+        "time": 1656064477
+    },
+    "monster": {
+        "1": {
+            "name": "莫莉",
+            "origin": null
+        },
+        "5": {
+            "name": "肖恩",
+            "origin": null
+        },
+        "9": {
+            "name": "鄧肯",
+            "origin": null
+        },
+        "3001": {
+            "name": "野望滅絕 ‧ 薩魯曼",
+            "origin": null
+        },
+        "6381": {
+            "name": "野望滅絕 ‧ 薩魯曼",
+            "origin": 3001
+        },
+        "6382": {
+            "name": "怨念核",
+            "origin": 3001
+        },
+        "6419": {
+            "name": "野望滅絕 ‧ 薩魯曼",
+            "origin": 3001
+        },
+        "50050": {
+            "name": "【O】",
+            "origin": null
+        },
+        "50051": {
+            "name": "【Ｘ】",
+            "origin": null
+        }
+    }
+}
