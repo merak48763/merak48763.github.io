@@ -1,10 +1,10 @@
 {
     "last_update": {
-        "version": "2022.403",
-        "dv": "19544",
-        "time": 1657192544
+        "version": "2022.410",
+        "dv": "19598",
+        "time": 1657878295
     },
-    "es": {
+    "ws": {
         "10001": {
             "title": "",
             "desc": "每回合隨機燃燒&nbsp;1&nbsp;個位置，每次觸碰被燃燒的位置，將扣除召喚師&nbsp;10%&nbsp;生命力",
@@ -2528,6 +2528,26 @@
         "10534": {
             "title": "",
             "desc": "進場時，根據隊中<br />「一曲傾心&nbsp;‧&nbsp;莫莉安娜」、<br />「偶像發表」系列角色數量，<br />獲得以下效果：<br /><br />▋≥2&nbsp;個<br />進場時，<br />⓵&nbsp;全隊技能&nbsp;CD&nbsp;-99<br />⓶&nbsp;儲滿龍脈儀<br /><br />▋≥3&nbsp;個<br />⓵&nbsp;全隊進入&nbsp;99&nbsp;回合<br />&nbsp;&nbsp;&nbsp;&nbsp;亢奮狀態&nbsp;(攻擊力&nbsp;4&nbsp;倍)<br />⓶&nbsp;全隊無視<br />&nbsp;&nbsp;「固定連擊盾」<br /><br />▋≥4&nbsp;個<br />⓵&nbsp;99&nbsp;回合內，<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;80%&nbsp;所受傷害",
+            "custom_desc": ""
+        },
+        "10535": {
+            "title": "",
+            "desc": "符石樣式轉變",
+            "custom_desc": ""
+        },
+        "10536": {
+            "title": "",
+            "desc": "【傳送郵件？】<br /><br />•&nbsp;累計首批消除<br />&nbsp;&nbsp;&nbsp;60&nbsp;粒屬性符石<br />⇒&nbsp;下回合起可點擊<br />&nbsp;&nbsp;&nbsp;&nbsp;右上方技能圖示<br />⇒&nbsp;延遲全體敵人行動&nbsp;1&nbsp;回合<br /><br />*&nbsp;發動後，<br />&nbsp;&nbsp;將重置累計首消數量&nbsp;&nbsp;",
+            "custom_desc": ""
+        },
+        "10537": {
+            "title": "",
+            "desc": "【傳送郵件？】<br /><br />•&nbsp;累計首批消除<br />&nbsp;&nbsp;&nbsp;100&nbsp;粒屬性符石<br />⇒&nbsp;下回合起可點擊<br />&nbsp;&nbsp;&nbsp;&nbsp;右上方技能圖示<br />⇒&nbsp;延遲全體敵人行動&nbsp;2&nbsp;回合<br /><br />*&nbsp;發動後，<br />&nbsp;&nbsp;將重置累計首消數量&nbsp;&nbsp;",
+            "custom_desc": ""
+        },
+        "10538": {
+            "title": "",
+            "desc": "•&nbsp;每回合開始移動符石時<br />⇒&nbsp;才會顯示場上的符石",
             "custom_desc": ""
         },
         "10539": {

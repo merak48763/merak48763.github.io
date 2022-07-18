@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.403",
-        "dv": "19544",
-        "time": 1657271466
+        "version": "2022.410",
+        "dv": "19598",
+        "time": 1657878295
     },
     "es": {
         "0": {
@@ -26440,7 +26440,7 @@
         "5078": {
             "title": "【全消凝護 - 屬性轉換 - 敵技轉換 - 愈攻愈強 ‧ 無法控制】",
             "desc": "首批消除所有指定屬性符石<br />(需消除指定屬性符石)，<br />可扣除敵人&nbsp;20%&nbsp;生命力。除此之外，<br />敵人不會受到傷害及<br />不會被附上狀態。達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升<br />(無視所有減傷效果和<br />&nbsp;意志技能)敵人會根據全消盾的屬性，<br />將自身屬性轉換為<br />被全消盾剋制的屬性。敵人會根據自身屬性<br />出現不同敵技：<br />【水】冰封圍城<br />【火】燃燒之軌&nbsp;5000<br />【木】兩側暴風<br />【光】電擊之暗<br />【暗】隱匿之途",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>屬性順序隨機，五種屬性各出現1次</li></ul><span class=\"annotation\">trojan_hp_attack 25 50 100</span>"
         },
         "5079": {
             "title": "【首攻 CD1】",
@@ -29972,7 +29972,7 @@
         "5775": {
             "title": "【全消凝護 - 屬性轉換】",
             "desc": "•&nbsp;首批消除所有指定屬性符石<br />&nbsp;&nbsp;(需消除指定屬性符石)<br />⇒&nbsp;可扣除敵人&nbsp;20%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;敵人會根據全消盾的屬性，<br />&nbsp;&nbsp;將自身屬性轉換為<br />&nbsp;&nbsp;剋制全消盾的屬性。",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>屬性順序隨機，五種屬性各出現1次</li></ul>"
         },
         "5776": {
             "title": "【瘴氣】",
@@ -30941,77 +30941,122 @@
         "5958": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5959": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5960": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5961": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5962": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5963": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5964": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5965": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5966": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5967": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5968": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5969": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5970": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5971": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5972": {
             "title": "【火焰地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
         },
         "5973": {
             "title": "【非紙扇狀態 - 弱攻】",
