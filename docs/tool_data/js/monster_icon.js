@@ -29,7 +29,7 @@ function generateMonsterIcon(monsterId) {
     const image_base = '/tool_data/image/monster/';
     const tooltipId = generateTooltipId();
     return {
-        'html': `<img src="${image_base}${monsterId}.png" alt="${monsterId}" data-tooltip-id="${tooltipId}" /><div class="mdc-tooltip" id="${tooltipId}" role="tooltip" aria-hidden="true"><div class="mdc-tooltip__surface mdc-tooltip__surface-animation">#${monsterId} ${getMonsterName(monsterId)}</div></div>`,
+        'html': `<img src="${image_base}${monsterId}.png" onerror="this.src='${image_base}9999.png';" data-tooltip-id="${tooltipId}" /><div class="mdc-tooltip" id="${tooltipId}" role="tooltip" aria-hidden="true"><div class="mdc-tooltip__surface mdc-tooltip__surface-animation">${getMonsterName(monsterId)}</div></div>`,
         'tooltipId': tooltipId
     };
     // mdc.tooltip.MDCTooltip.attachTo(document.querySelector('div#'+result.tooltipId));
@@ -39,5 +39,5 @@ function getMonsterName(monsterId) {
     if(monsterId in monsterData.monster) {
         return monsterData.monster[monsterId].name;
     }
-    return null;
+    return monsterData.monster[9999].name;
 }
