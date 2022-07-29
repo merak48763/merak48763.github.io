@@ -20930,17 +20930,26 @@
         "3904": {
             "title": "【減傷抗性 - 首消符石種類】",
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害",
-            "custom_desc": ""
+            "custom_desc": "每首批消除一組符石後，即時變更減傷量",
+            "icons": [
+                1019
+            ]
         },
         "3905": {
             "title": "【減傷抗性 - 首消符石種類】",
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害",
-            "custom_desc": ""
+            "custom_desc": "於傷害結算後，發動攻擊前變更減傷量",
+            "icons": [
+                1020
+            ]
         },
         "3906": {
             "title": "【減傷抗性 - 首消符石種類】",
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1021
+            ]
         },
         "3907": {
             "title": "",
