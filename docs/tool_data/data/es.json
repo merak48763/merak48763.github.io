@@ -30468,12 +30468,18 @@
         "5847": {
             "title": "【兩相消耗】",
             "desc": "•&nbsp;消耗敵人生命力時<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": "Alex出來面對 (ﾒ ﾟ皿ﾟ)ﾒ"
+            "custom_desc": "Alex出來面對 (ﾒ ﾟ皿ﾟ)ﾒ",
+            "icons": [
+                825
+            ]
         },
         "5848": {
             "title": "【兩相消耗】",
             "desc": "•&nbsp;消耗敵人生命力時<br />⇒&nbsp;消耗召喚師&nbsp;50%&nbsp;生命力",
-            "custom_desc": "Alex出來面對 (ﾒ ﾟ皿ﾟ)ﾒ"
+            "custom_desc": "Alex出來面對 (ﾒ ﾟ皿ﾟ)ﾒ",
+            "icons": [
+                823
+            ]
         },
         "5849": {
             "title": "【消水禁咒】",
@@ -30863,22 +30869,34 @@
         "5920": {
             "title": "【開技消耗代價】",
             "desc": "•&nbsp;每次發動主動技能時&nbsp;<br />&nbsp;&nbsp;(包括關閉技能)<br />⇒&nbsp;消耗召喚師&nbsp;99%&nbsp;生命力&nbsp;",
-            "custom_desc": "Aleeeeeex!!! (ﾒ ﾟ皿ﾟ)ﾒ"
+            "custom_desc": "",
+            "icons": [
+                824
+            ]
         },
         "5921": {
             "title": "【開技消耗代價】",
             "desc": "•&nbsp;每次發動主動技能時&nbsp;<br />&nbsp;&nbsp;(包括關閉技能)<br />⇒&nbsp;消耗召喚師&nbsp;50%&nbsp;生命力&nbsp;",
-            "custom_desc": "Aleeeeeex!!! (ﾒ ﾟ皿ﾟ)ﾒ"
+            "custom_desc": "",
+            "icons": [
+                823
+            ]
         },
         "5922": {
             "title": "【開技消耗代價】",
             "desc": "•&nbsp;每次發動主動技能時&nbsp;<br />&nbsp;&nbsp;(包括關閉技能)<br />⇒&nbsp;消耗召喚師&nbsp;25%&nbsp;生命力&nbsp;",
-            "custom_desc": "Aleeeeeex!!! (ﾒ ﾟ皿ﾟ)ﾒ"
+            "custom_desc": "",
+            "icons": [
+                822
+            ]
         },
         "5923": {
             "title": "【開技消耗代價】",
             "desc": "•&nbsp;每次發動主動技能時&nbsp;<br />&nbsp;&nbsp;(包括關閉技能)<br />⇒&nbsp;消耗召喚師&nbsp;20%&nbsp;生命力&nbsp;",
-            "custom_desc": "Aleeeeeex!!! (ﾒ ﾟ皿ﾟ)ﾒ"
+            "custom_desc": "",
+            "icons": [
+                821
+            ]
         },
         "5924": {
             "title": "【擴散燃燒】",
