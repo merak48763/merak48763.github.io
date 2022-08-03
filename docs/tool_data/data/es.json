@@ -32756,7 +32756,10 @@
         "6259": {
             "title": "【〖腐化 ‧ 減傷抗性〗】",
             "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，<br />受到敵人攻擊的回合愈多，<br />減傷狀態削弱愈多。",
-            "custom_desc": "<span class=\"annotation\">crumbling_walls 100 80 60 40 20 0</span>"
+            "custom_desc": "<span class=\"annotation\">crumbling_walls 100 80 60 40 20 0</span>",
+            "icons": [
+                11001
+            ]
         },
         "6260": {
             "title": "【〖腐化 ‧ X 型燃燒〗】",
