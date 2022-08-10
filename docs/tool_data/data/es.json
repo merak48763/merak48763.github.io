@@ -23220,6 +23220,7 @@
                     855
                 ],
                 [
+                    116,
                     60,
                     1121,
                     855
@@ -26591,7 +26592,7 @@
             "desc": "隊伍中成員的單一傷害<br />達&nbsp;10&nbsp;億才能對敵人<br />造成傷害。",
             "custom_desc": "",
             "icons": [
-                117
+                118
             ]
         },
         "5087": {
@@ -28967,7 +28968,7 @@
             "desc": "•&nbsp;單一傷害達&nbsp;10&nbsp;億的成員<br />⇒&nbsp;才能對敵人造成傷害",
             "custom_desc": "",
             "icons": [
-                10117
+                10118
             ]
         },
         "5517": {
@@ -28975,7 +28976,7 @@
             "desc": "•&nbsp;單一傷害達&nbsp;20&nbsp;億的成員<br />⇒&nbsp;才能對敵人造成傷害",
             "custom_desc": "",
             "icons": [
-                10118
+                10119
             ]
         },
         "5518": {
@@ -32506,7 +32507,19 @@
         "6178": {
             "title": "【連擊相等盾】",
             "desc": "•【五屬連擊相等盾】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;屬性連擊相等需求減少&nbsp;1<br />⇒&nbsp;最多減至<br />&nbsp;&nbsp;【火木連擊相等盾】",
-            "custom_desc": "<span class=\"annotation\">attribute_change decrease 五屬 火木光暗 火木暗 火木</span>"
+            "custom_desc": "<span class=\"annotation\">attribute_change decrease 五屬 火木光暗 火木暗 火木</span>",
+            "icons": [
+                20514
+            ],
+            "alticons": [
+                [
+                    20513
+                ],
+                [],
+                [
+                    20517
+                ]
+            ]
         },
         "6179": {
             "title": "【連擊相等盾】",
@@ -32546,102 +32559,281 @@
         "6186": {
             "title": "【固定連擊盾】",
             "desc": "•【固定&nbsp;10&nbsp;連擊盾】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;固定連擊需求減少&nbsp;1<br />⇒&nbsp;最多減至<br />&nbsp;【固定&nbsp;5&nbsp;連擊盾】",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20010
+            ],
+            "alticons": [
+                [
+                    20009
+                ],
+                [
+                    20008
+                ],
+                [
+                    20007
+                ],
+                [
+                    20006
+                ],
+                [
+                    20005
+                ]
+            ]
         },
         "6187": {
             "title": "【固定連擊盾】",
             "desc": "•【固定&nbsp;5&nbsp;連擊盾】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;固定連擊需求增加&nbsp;1<br />⇒&nbsp;最多加至<br />&nbsp;【固定&nbsp;10&nbsp;連擊盾】<br />＊召喚師死亡後重置",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30005
+            ],
+            "alticons": [
+                [
+                    30006
+                ],
+                [
+                    30007
+                ],
+                [
+                    30008
+                ],
+                [
+                    30009
+                ],
+                [
+                    30010
+                ]
+            ]
         },
         "6188": {
             "title": "【指定連擊盾 - 追擊】",
             "desc": "•【≥15&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;連擊需求減少&nbsp;2&nbsp;<br />⇒&nbsp;最多減至<br />&nbsp;【≥5&nbsp;連擊盾&nbsp;-&nbsp;追擊】",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20065
+            ],
+            "alticons": [
+                [
+                    20063
+                ],
+                [
+                    20061
+                ],
+                [
+                    20059
+                ],
+                [
+                    20057
+                ],
+                [
+                    20055
+                ]
+            ]
         },
         "6189": {
             "title": "【指定連擊盾 - 追擊】",
             "desc": "•【≥17&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;連擊需求減少&nbsp;2&nbsp;<br />⇒&nbsp;最多減至<br />&nbsp;【≥7&nbsp;連擊盾&nbsp;-&nbsp;追擊】",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20067
+            ],
+            "alticons": [
+                [
+                    20065
+                ],
+                [
+                    20063
+                ],
+                [
+                    20061
+                ],
+                [
+                    20059
+                ],
+                [
+                    20057
+                ]
+            ]
         },
         "6190": {
             "title": "【指定連擊盾 - 追擊】",
             "desc": "•【≥5&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;連擊需求增加&nbsp;1&nbsp;<br />⇒&nbsp;最多加至<br />&nbsp;【≥10&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br />＊召喚師死亡後重置",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30055
+            ],
+            "alticons": [
+                [
+                    30056
+                ],
+                [
+                    30057
+                ],
+                [
+                    30058
+                ],
+                [
+                    30059
+                ],
+                [
+                    30060
+                ]
+            ]
         },
         "6191": {
             "title": "【指定連擊盾 - 追擊】",
             "desc": "•【≥5&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;連擊需求增加&nbsp;2&nbsp;<br />⇒&nbsp;最多加至<br />&nbsp;【≥15&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br />＊召喚師死亡後重置",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30055
+            ],
+            "alticons": [
+                [
+                    30057
+                ],
+                [
+                    30059
+                ],
+                [
+                    30061
+                ],
+                [
+                    30063
+                ],
+                [
+                    30065
+                ]
+            ]
         },
         "6192": {
             "title": "【指定連擊盾 - 追擊】",
             "desc": "•【≥7&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;連擊需求增加&nbsp;2&nbsp;<br />⇒&nbsp;最多加至<br />&nbsp;【≥17&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br />＊召喚師死亡後重置",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30057
+            ],
+            "alticons": [
+                [
+                    30059
+                ],
+                [
+                    30061
+                ],
+                [
+                    30063
+                ],
+                [
+                    30065
+                ],
+                [
+                    30067
+                ]
+            ]
         },
         "6193": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時<br />【20&nbsp;格灼熱地型&nbsp;20,000】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的灼熱地型位置<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;5&nbsp;格<br />⇒&nbsp;最多減至&nbsp;0&nbsp;格",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20963
+            ]
         },
         "6194": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時<br />【8&nbsp;格灼熱地型&nbsp;20,000】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的灼熱地型位置<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;2&nbsp;格<br />⇒&nbsp;最多減至&nbsp;0&nbsp;格",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20963
+            ]
         },
         "6195": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時<br />【6&nbsp;格灼熱地型&nbsp;10,000】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的灼熱地型位置<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;2&nbsp;格<br />⇒&nbsp;最多減至&nbsp;0&nbsp;格",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20963
+            ]
         },
         "6196": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時<br />【4&nbsp;格灼熱地型&nbsp;5,000】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的灼熱地型位置<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;2&nbsp;格<br />⇒&nbsp;最多減至&nbsp;0&nbsp;格",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20963
+            ]
         },
         "6197": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時【沒有技能】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的<br />&nbsp;&nbsp;【灼熱地型&nbsp;20,000】<br />&nbsp;&nbsp;&nbsp;&nbsp;位置增加&nbsp;5&nbsp;格&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />⇒&nbsp;最多加至隨機&nbsp;20&nbsp;格<br />＊召喚師死亡後重置",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30963
+            ]
         },
         "6198": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時<br />【5&nbsp;格灼熱地型&nbsp;20,000】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的灼熱地型位置<br />&nbsp;&nbsp;&nbsp;&nbsp;增加&nbsp;5&nbsp;格<br />⇒&nbsp;最多加至隨機&nbsp;20&nbsp;格<br />＊召喚師死亡後重置",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30963
+            ]
         },
         "6199": {
             "title": "【瘴氣】",
             "desc": "•&nbsp;進場時【8&nbsp;格瘴氣&nbsp;20%】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的瘴氣位置<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;2&nbsp;格<br />⇒&nbsp;最多減至&nbsp;0&nbsp;格",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20979
+            ]
         },
         "6200": {
             "title": "【瘴氣】",
             "desc": "•&nbsp;進場時【6&nbsp;格瘴氣&nbsp;10%】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的瘴氣位置<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;2&nbsp;格<br />⇒&nbsp;最多減至&nbsp;0&nbsp;格",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20979
+            ]
         },
         "6201": {
             "title": "【瘴氣】",
             "desc": "•&nbsp;進場時【4&nbsp;格瘴氣&nbsp;10%】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的瘴氣位置<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;2&nbsp;格<br />⇒&nbsp;最多減至&nbsp;0&nbsp;格",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20979
+            ]
         },
         "6202": {
             "title": "【瘴氣】",
             "desc": "•&nbsp;進場時【3&nbsp;格瘴氣&nbsp;20%】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的瘴氣位置<br />&nbsp;&nbsp;&nbsp;&nbsp;增加&nbsp;3&nbsp;格<br />⇒&nbsp;最多加至&nbsp;30&nbsp;格<br />＊召喚師死亡後重置",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30979
+            ]
         },
         "6203": {
             "title": "【碎裂】",
             "desc": "•&nbsp;進場時【2&nbsp;格碎裂】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的碎裂位置<br />&nbsp;&nbsp;&nbsp;&nbsp;增加&nbsp;2&nbsp;格<br />⇒&nbsp;最多加至隨機&nbsp;10&nbsp;格<br />＊召喚師死亡後重置",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30985
+            ]
         },
         "6204": {
             "title": "【碎裂】",
             "desc": "•&nbsp;進場時【3&nbsp;格碎裂】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的碎裂位置<br />&nbsp;&nbsp;&nbsp;&nbsp;增加&nbsp;3&nbsp;格<br />⇒&nbsp;最多加至隨機&nbsp;15&nbsp;格<br />＊召喚師死亡後重置",
-            "custom_desc": "增加至15格碎裂後，會將版面區分為隨機的15/15格，輪流碎裂"
+            "custom_desc": "增加至15格碎裂後，會將版面區分為隨機的15/15格，輪流碎裂",
+            "icons": [
+                30985
+            ]
         },
         "6205": {
             "title": "【碎裂】",
             "desc": "•&nbsp;進場時【4&nbsp;格碎裂】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的碎裂位置<br />&nbsp;&nbsp;&nbsp;&nbsp;增加&nbsp;4&nbsp;格<br />⇒&nbsp;最多加至隨機&nbsp;20&nbsp;格<br />＊召喚師死亡後重置",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30985
+            ]
         },
         "6206": {
             "title": "【消屬性符石禁咒 (循環)】",
@@ -32656,22 +32848,34 @@
         "6208": {
             "title": "【燃燒之地】",
             "desc": "•&nbsp;進場時<br />【2&nbsp;格燃燒之地&nbsp;10%】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的燃燒位置<br />&nbsp;&nbsp;&nbsp;&nbsp;增加&nbsp;2&nbsp;格<br />⇒&nbsp;最多加至隨機&nbsp;10&nbsp;格<br />＊召喚師死亡後重置",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30951
+            ]
         },
         "6209": {
             "title": "【燃燒之地】",
             "desc": "•&nbsp;進場時<br />【2&nbsp;格燃燒之地&nbsp;20%】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的燃燒位置<br />&nbsp;&nbsp;&nbsp;&nbsp;增加&nbsp;2&nbsp;格<br />⇒&nbsp;最多加至隨機&nbsp;10&nbsp;格<br />＊召喚師死亡後重置",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30951
+            ]
         },
         "6210": {
             "title": "【燃燒之地】",
             "desc": "•&nbsp;進場時<br />【10&nbsp;格燃燒之地&nbsp;10%】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的燃燒位置<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;2&nbsp;格<br />⇒&nbsp;最多減至隨機&nbsp;2&nbsp;格",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20951
+            ]
         },
         "6211": {
             "title": "【燃燒之地】",
             "desc": "•&nbsp;進場時<br />【10&nbsp;格燃燒之地&nbsp;20%】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的燃燒位置<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;2&nbsp;格<br />⇒&nbsp;最多減至隨機&nbsp;2&nbsp;格",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20951
+            ]
         },
         "6212": {
             "title": "【凍結符石】",
