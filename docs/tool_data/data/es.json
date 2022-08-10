@@ -20108,9 +20108,14 @@
             "custom_desc": ""
         },
         "3740": {
-            "title": "",
+            "title": "CD1 ‧ 隱藏-轉 ‧ 首消7+Combo盾 ‧ 越扣越強25%-50%-100%",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />首批消除&nbsp;≥7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />首回合敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                955,
+                17,
+                812
+            ]
         },
         "3741": {
             "title": "",
@@ -25378,47 +25383,119 @@
             "custom_desc": ""
         },
         "4853": {
-            "title": "",
+            "title": "【指定形狀凝護 - 愈攻愈強 ‧ 無法控制】",
             "desc": "<em>【指定形狀凝護&nbsp;-&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />以指定形狀消除符石<br />(可連同形狀旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;20%&nbsp;生命力。<br /><br />除此以外，<br />敵人不受任何攻擊傷害<br />(包括主動技)及<br />無視所有控制技能。<br /><br />若無法達成上述條件，<br />敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack</span>",
+            "icons": [
+                1007,
+                812,
+                855
+            ]
         },
         "4854": {
-            "title": "",
+            "title": "【限制形狀凝護 - 愈攻愈強 ‧ 無法控制】",
             "desc": "<em>【限制形狀凝護&nbsp;-&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />以指定形狀消除符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;20%&nbsp;生命力。<br /><br />除此以外，<br />敵人不受任何攻擊傷害<br />(包括主動技)&nbsp;及<br />無視所有控制技能。<br /><br />若無法達成上述條件，<br />敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack</span>",
+            "icons": [
+                1007,
+                812,
+                855
+            ]
         },
         "4855": {
-            "title": "",
+            "title": "【全消凝護 - 屬性轉換 - 愈攻愈強 ‧ 無法控制】",
             "desc": "<em>【全消凝護&nbsp;-&nbsp;屬性轉換&nbsp;-&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />首批消除所有指定屬性符石<br />(需消除指定屬性符石)，<br />可扣除敵人&nbsp;20%&nbsp;生命力。<br /><br />除此之外，<br />敵人不受任何攻擊傷害<br />(包括主動技)&nbsp;及<br />無視所有控制技能。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升<br /><br />敵人會根據全消盾的屬性，<br />將自身屬性轉換為<br />剋制全消盾的屬性。",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>屬性順序隨機，五種屬性各出現1次</li></ul><span class=\"annotation\">trojan_hp_attack</span>",
+            "icons": [
+                812,
+                855
+            ]
         },
         "4856": {
             "title": "【指定連擊凝護 - 愈攻愈強 ‧ 無法控制】",
             "desc": "<em>【指定連擊凝護&nbsp;-&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />首批消除指定連擊&nbsp;(Combo)<br />可扣除敵人&nbsp;20%&nbsp;生命力。<br /><br />除此之外，<br />敵人不受任何攻擊傷害<br />(包括主動技)&nbsp;及<br />無視所有控制技能。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">assigned_combo 3 4 5 6 7</span><span class=\"annotation\">trojan_hp_attack 25 50 100</span>"
+            "custom_desc": "<span class=\"annotation\">assigned_combo 3 4 5 6 7</span><span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                3,
+                812,
+                855
+            ],
+            "alticons": [
+                [
+                    4,
+                    812,
+                    855
+                ],
+                [
+                    5,
+                    812,
+                    855
+                ],
+                [
+                    6,
+                    812,
+                    855
+                ],
+                [
+                    7,
+                    812,
+                    855
+                ]
+            ]
         },
         "4857": {
-            "title": "",
+            "title": "【前路茫茫 ‧ 指定連擊凝護 - 愈攻愈強 ‧ 無法控制】",
             "desc": "<em>【前路茫茫&nbsp;‧&nbsp;指定連擊凝護&nbsp;-&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />首批消除指定連擊&nbsp;(Combo)<br />可扣除敵人&nbsp;20%&nbsp;生命力。<br /><br />除此之外，<br />敵人不受任何攻擊傷害<br />(包括主動技)&nbsp;及<br />無視所有控制技能。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升<br />",
             "custom_desc": ""
         },
         "4858": {
-            "title": "",
+            "title": "【連擊凝護 - 愈攻愈強 ‧ 無法控制】",
             "desc": "<em>【連擊凝護&nbsp;-&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />達成指定連擊&nbsp;(Combo)<br />可扣除敵人&nbsp;20%&nbsp;生命力。<br /><br />除此之外，<br />敵人不受任何攻擊傷害<br />(包括主動技)&nbsp;及<br />無視所有控制技能。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">assigned_combo 4 5 6 7 8</span><span class=\"annotation\">trojan_hp_attack</span>",
+            "icons": [
+                54,
+                812,
+                855
+            ],
+            "alticons": [
+                [
+                    55,
+                    812,
+                    855
+                ],
+                [
+                    56,
+                    812,
+                    855
+                ],
+                [
+                    57,
+                    812,
+                    855
+                ],
+                [
+                    58,
+                    812,
+                    855
+                ]
+            ]
         },
         "4859": {
-            "title": "",
+            "title": "【前路茫茫 ‧ 連擊凝護 - 愈攻愈強 ‧ 無法控制】",
             "desc": "<em>【前路茫茫&nbsp;‧&nbsp;連擊凝護&nbsp;-&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />達成指定連擊&nbsp;(Combo)<br />可扣除敵人&nbsp;20%&nbsp;生命力。<br /><br />除此之外，<br />敵人不受任何攻擊傷害<br />(包括主動技)&nbsp;及<br />無視所有控制技能。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升<br /><br />",
             "custom_desc": ""
         },
         "4860": {
-            "title": "",
+            "title": "【首消粒數凝護 - 愈攻愈強 ‧ 無法控制】",
             "desc": "<em>【首消粒數凝護&nbsp;-&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />首批消除指定粒數符石，<br />可扣除敵人&nbsp;20%&nbsp;生命力。<br /><br />除此之外，<br />敵人不受任何攻擊傷害<br />(包括主動技)&nbsp;及<br />無視所有控制技能。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升<br /><br />",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>未達成條件時，不會重新抽選數字</li></ul><span class=\"annotation\">random_number 11 20</span><span class=\"annotation\">trojan_hp_attack</span>",
+            "icons": [
+                812,
+                855
+            ]
         },
         "4861": {
-            "title": "",
+            "title": "【首消粒數凝護 - 愈攻愈強 ‧ 無法控制】",
             "desc": "<em>【首消粒數凝護&nbsp;-&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />首批消除指定粒數符石，<br />可扣除敵人&nbsp;20%&nbsp;生命力。<br /><br />除此之外，<br />敵人不受任何攻擊傷害<br />(包括主動技)&nbsp;及<br />無視所有控制技能。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
             "custom_desc": "<span class=\"annotation\">random_number 16 20</span><span class=\"annotation\">trojan_hp_attack</span>"
         },
@@ -27042,52 +27119,82 @@
         "5157": {
             "title": "【≥1 連擊盾】",
             "desc": "達成&nbsp;≥1&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成傷害。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                51
+            ]
         },
         "5158": {
             "title": "【≥2 連擊盾 - 反擊】",
             "desc": "達成&nbsp;≥2&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                52
+            ]
         },
         "5159": {
             "title": "【≥3 連擊盾 - 反擊】",
             "desc": "達成&nbsp;≥3&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                53
+            ]
         },
         "5160": {
             "title": "【≥4 連擊盾 - 反擊】",
             "desc": "達成&nbsp;≥4&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                54
+            ]
         },
         "5161": {
             "title": "【≥5 連擊盾 - 反擊】",
             "desc": "達成&nbsp;≥5&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                55
+            ]
         },
         "5162": {
             "title": "【≥6 連擊盾 - 反擊】",
             "desc": "達成&nbsp;≥6&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                56
+            ]
         },
         "5163": {
             "title": "【≥7 連擊盾 - 反擊】",
             "desc": "達成&nbsp;≥7&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                57
+            ]
         },
         "5164": {
             "title": "【≥8 連擊盾 - 反擊】",
             "desc": "達成&nbsp;≥8&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                58
+            ]
         },
         "5165": {
             "title": "【≥9 連擊盾 - 反擊】",
             "desc": "達成&nbsp;≥9&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                59
+            ]
         },
         "5166": {
             "title": "【≥10 連擊盾 - 反擊】",
             "desc": "達成&nbsp;≥10&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                60
+            ]
         },
         "5167": {
             "title": "【突擊】",
@@ -27155,52 +27262,82 @@
         "5179": {
             "title": "【≥11 連擊盾】",
             "desc": "達成&nbsp;≥11&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                61
+            ]
         },
         "5180": {
             "title": "【≥12 連擊盾】",
             "desc": "達成&nbsp;≥12&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                62
+            ]
         },
         "5181": {
             "title": "【≥13 連擊盾】",
             "desc": "達成&nbsp;≥13&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                63
+            ]
         },
         "5182": {
             "title": "【≥14 連擊盾】",
             "desc": "達成&nbsp;≥14&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                64
+            ]
         },
         "5183": {
             "title": "【≥15 連擊盾】",
             "desc": "達成&nbsp;≥15&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                65
+            ]
         },
         "5184": {
             "title": "【≥16 連擊盾】",
             "desc": "達成&nbsp;≥16&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                66
+            ]
         },
         "5185": {
             "title": "【≥17 連擊盾】",
             "desc": "達成&nbsp;≥17&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                67
+            ]
         },
         "5186": {
             "title": "【≥18 連擊盾】",
             "desc": "達成&nbsp;≥18&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                68
+            ]
         },
         "5187": {
             "title": "【≥19 連擊盾】",
             "desc": "達成&nbsp;≥19&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                69
+            ]
         },
         "5188": {
             "title": "【≥20 連擊盾】",
             "desc": "達成&nbsp;≥20&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                70
+            ]
         },
         "5189": {
             "title": "【五屬傷害盾】",
@@ -27807,32 +27944,50 @@
         "5305": {
             "title": "【10 次受擊護盾】",
             "desc": "敵人受到&nbsp;10&nbsp;次傷害後，<br />才能對其造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "5306": {
             "title": "【20 次受擊護盾】",
             "desc": "敵人受到&nbsp;20&nbsp;次傷害後，<br />才能對其造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "5307": {
             "title": "【30 次受擊護盾】",
             "desc": "敵人受到&nbsp;30&nbsp;次傷害後，<br />才能對其造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "5308": {
             "title": "【39 次受擊護盾】",
             "desc": "敵人受到&nbsp;39&nbsp;次傷害後，<br />才能對其造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "5309": {
             "title": "【40 次受擊護盾】",
             "desc": "敵人受到&nbsp;40&nbsp;次傷害後，<br />才能對其造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "5310": {
             "title": "【50 次受擊護盾】",
             "desc": "敵人受到&nbsp;50&nbsp;次傷害後，<br />才能對其造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901
+            ]
         },
         "5311": {
             "title": "【引爆攻擊 - 水】",
@@ -27872,52 +28027,82 @@
         "5318": {
             "title": "【≥11 連擊盾】",
             "desc": "達成&nbsp;≥11&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                61
+            ]
         },
         "5319": {
             "title": "【≥12 連擊盾】",
             "desc": "達成&nbsp;≥12&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                62
+            ]
         },
         "5320": {
             "title": "【≥13 連擊盾】",
             "desc": "達成&nbsp;≥13&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                63
+            ]
         },
         "5321": {
             "title": "【≥14 連擊盾】",
             "desc": "達成&nbsp;≥14&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                64
+            ]
         },
         "5322": {
             "title": "【≥15 連擊盾】",
             "desc": "達成&nbsp;≥15&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                65
+            ]
         },
         "5323": {
             "title": "【≥16 連擊盾】",
             "desc": "達成&nbsp;≥16&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                66
+            ]
         },
         "5324": {
             "title": "【≥17 連擊盾】",
             "desc": "達成&nbsp;≥17&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                67
+            ]
         },
         "5325": {
             "title": "【≥18 連擊盾】",
             "desc": "達成&nbsp;≥18&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                68
+            ]
         },
         "5326": {
             "title": "【≥19 連擊盾】",
             "desc": "達成&nbsp;≥19&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                69
+            ]
         },
         "5327": {
             "title": "【≥20 連擊盾】",
             "desc": "達成&nbsp;≥20&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                70
+            ]
         },
         "5328": {
             "title": "【符石轉水】",
@@ -28172,32 +28357,50 @@
         "5378": {
             "title": "【首消 ≥5 連擊盾】",
             "desc": "首批消除&nbsp;≥5&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                15
+            ]
         },
         "5379": {
             "title": "【首消 ≥6 連擊盾】",
             "desc": "首批消除&nbsp;≥6&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                16
+            ]
         },
         "5380": {
             "title": "【首消 ≥7 連擊盾】",
             "desc": "首批消除&nbsp;≥7&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                17
+            ]
         },
         "5381": {
             "title": "【首消 ≥8 連擊盾】",
             "desc": "首批消除&nbsp;≥8&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                18
+            ]
         },
         "5382": {
             "title": "【首消 ≥9 連擊盾】",
             "desc": "首批消除&nbsp;≥9&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                19
+            ]
         },
         "5383": {
             "title": "【首消 ≥10 連擊盾】",
             "desc": "首批消除&nbsp;≥10&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20
+            ]
         },
         "5384": {
             "title": "【符石轉水】",
@@ -29544,7 +29747,7 @@
         "5615": {
             "title": "【首消粒數盾 - 反擊】",
             "desc": "•&nbsp;首批消除指定粒數符石<br />⇒&nbsp;才能對敵人造成傷害<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">random_number 18 22</span>"
         },
         "5616": {
             "title": "【休眠】",
@@ -30422,92 +30625,146 @@
         "5786": {
             "title": "【符石轉水】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為水符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>",
+            "icons": [
+                291
+            ]
         },
         "5787": {
             "title": "【符石轉火】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為火符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>",
+            "icons": [
+                292
+            ]
         },
         "5788": {
             "title": "【符石轉木】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為木符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>",
+            "icons": [
+                293
+            ]
         },
         "5789": {
             "title": "【符石轉光】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為光符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>",
+            "icons": [
+                294
+            ]
         },
         "5790": {
             "title": "【符石轉暗】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為暗符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>",
+            "icons": [
+                295
+            ]
         },
         "5791": {
             "title": "【符石轉心】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為心符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>",
+            "icons": [
+                296
+            ]
         },
         "5792": {
             "title": "【符石轉水】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為水符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>",
+            "icons": [
+                291
+            ]
         },
         "5793": {
             "title": "【符石轉火】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為火符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>",
+            "icons": [
+                292
+            ]
         },
         "5794": {
             "title": "【符石轉木】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為木符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>",
+            "icons": [
+                293
+            ]
         },
         "5795": {
             "title": "【符石轉光】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為光符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>",
+            "icons": [
+                294
+            ]
         },
         "5796": {
             "title": "【符石轉暗】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為暗符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>",
+            "icons": [
+                295
+            ]
         },
         "5797": {
             "title": "【符石轉心】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為心符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>",
+            "icons": [
+                296
+            ]
         },
         "5798": {
             "title": "【符石轉水】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為水符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>",
+            "icons": [
+                291
+            ]
         },
         "5799": {
             "title": "【符石轉火】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為火符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>",
+            "icons": [
+                292
+            ]
         },
         "5800": {
             "title": "【符石轉木】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為木符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>",
+            "icons": [
+                293
+            ]
         },
         "5801": {
             "title": "【符石轉光】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為光符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>",
+            "icons": [
+                294
+            ]
         },
         "5802": {
             "title": "【符石轉暗】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為暗符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>",
+            "icons": [
+                295
+            ]
         },
         "5803": {
             "title": "【符石轉心】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為心符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>",
+            "icons": [
+                296
+            ]
         },
         "5804": {
             "title": "【請回答問題】",
@@ -30676,22 +30933,34 @@
         "5832": {
             "title": "【靈之凝護】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                905
+            ]
         },
         "5833": {
             "title": "【靈之凝護】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                905
+            ]
         },
         "5834": {
             "title": "【靈之凝護】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                905
+            ]
         },
         "5835": {
             "title": "【靈之凝護】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                905
+            ]
         },
         "5836": {
             "title": "【迷霧】",
@@ -31930,12 +32199,28 @@
         "6060": {
             "title": "【自戕 ‧ 四技連環：反首消暗符石盾-反擊 - 五屬強化盾-追擊 - 首消 23 粒數盾-反擊 - ≥10 連擊盾-追擊】",
             "desc": "•&nbsp;受到敵人攻擊時<br />⇒&nbsp;敵人扣除自身&nbsp;25%&nbsp;生命力<br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;敵人根據當前生命力<br />⇒&nbsp;出現不同敵技：<br />▋反首消暗符石盾&nbsp;-&nbsp;反擊<br />▋五屬強化盾&nbsp;-&nbsp;追擊<br />▋首消&nbsp;23&nbsp;粒數盾&nbsp;-&nbsp;反擊<br />▋≥10&nbsp;連擊盾&nbsp;-&nbsp;追擊",
-            "custom_desc": "<ul><li>三階段的首消23珠盾，轉對不會攻擊，要轉歪才能觸發扣血條件</li><li>根據血量更換技能的敘述，經過呂布+迴避測試確認正確</li></ul>"
+            "custom_desc": "<ul><li>三階段的首消23珠盾，轉對不會攻擊，要轉歪才能觸發扣血條件</li><li>根據血量更換技能的敘述，經過呂布+迴避測試確認正確</li></ul>",
+            "icons": [
+                315
+            ],
+            "alticons": [
+                [
+                    1208,
+                    1054
+                ],
+                [],
+                [
+                    60
+                ]
+            ]
         },
         "6061": {
             "title": "【反擊】",
             "desc": "•&nbsp;當敵人受到攻擊傷害<br />⇒&nbsp;反擊自身&nbsp;500%&nbsp;攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1051
+            ]
         },
         "6062": {
             "title": "【凍結圍城】",
