@@ -23330,7 +23330,7 @@
             "desc": "•&nbsp;敵人轉換為光屬性<br /><br />•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />•&nbsp;我方所有轉化符石效果無效<br /><br />•&nbsp;敵人不會被附上狀態<br /><br />•&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;全隊回復力變為&nbsp;0",
             "custom_desc": "六封災厄 (核心張開階段的本體)",
             "icons": [
-                980,
+                1066,
                 1119,
                 855
             ],
@@ -26926,17 +26926,26 @@
         "5105": {
             "title": "【血浴地型 (攻擊無效)】",
             "desc": "隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現血浴地型<br /><br />在血浴地型位置結束轉珠<br />⇒&nbsp;無法對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                970
+            ]
         },
         "5106": {
             "title": "【血浴地型 (攻擊無效)】",
             "desc": "隨機&nbsp;9&nbsp;個位置<br />⇒&nbsp;出現血浴地型<br /><br />在血浴地型位置結束轉珠<br />⇒&nbsp;無法對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                970
+            ]
         },
         "5107": {
             "title": "【血浴圍城 (攻擊無效)】",
             "desc": "30&nbsp;個位置<br />⇒&nbsp;出現血浴地型<br /><br />在血浴地型位置結束轉珠<br />⇒&nbsp;無法對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                970
+            ]
         },
         "5108": {
             "title": "【雙重凝結 - 追擊】",
@@ -30938,17 +30947,26 @@
         "5823": {
             "title": "【血浴地型 (攻擊零化)】",
             "desc": "•&nbsp;隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現血浴地型<br /><br />在血浴地型位置結束轉珠<br />⇒&nbsp;全隊攻擊力變為&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                970
+            ]
         },
         "5824": {
             "title": "【血浴地型 (攻擊零化)】",
             "desc": "•&nbsp;隨機&nbsp;9&nbsp;個位置<br />⇒&nbsp;出現血浴地型<br /><br />在血浴地型位置結束轉珠<br />⇒&nbsp;全隊攻擊力變為&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                970
+            ]
         },
         "5825": {
             "title": "【血浴地型 (攻擊零化)】",
             "desc": "•&nbsp;30&nbsp;個位置<br />⇒&nbsp;出現血浴地型<br /><br />在血浴地型位置結束轉珠<br />⇒&nbsp;全隊攻擊力變為&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                970
+            ]
         },
         "5826": {
             "title": "【「起結有序 - 固定 5 連擊」凝護】",
@@ -32431,37 +32449,58 @@
         "6087": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;2&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1065
+            ]
         },
         "6088": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;3&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1065
+            ]
         },
         "6089": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;4&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1065
+            ]
         },
         "6090": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;5&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1065
+            ]
         },
         "6091": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;6&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1065
+            ]
         },
         "6092": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;7&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1065
+            ]
         },
         "6093": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;8&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1065
+            ]
         },
         "6094": {
             "title": "【終結倒數】",
@@ -32961,7 +33000,7 @@
                     20513
                 ],
                 [
-                    0
+                    20000
                 ],
                 [
                     20517
