@@ -4541,7 +4541,10 @@
         "704": {
             "title": "【淨世】",
             "desc": "進場時消除所有附加效果，<br />相關技能&nbsp;CD&nbsp;將被重置。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                854
+            ]
         },
         "705": {
             "title": "附加消除重置 ‧ 無視減傷",
@@ -27117,27 +27120,42 @@
         "5140": {
             "title": "【技能錮縛 - 鎖攻】",
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;1&nbsp;回合。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
         },
         "5141": {
             "title": "【技能錮縛 - 鎖攻】",
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;2&nbsp;回合。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
         },
         "5142": {
             "title": "【技能錮縛 - 鎖攻】",
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;3&nbsp;回合。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
         },
         "5143": {
             "title": "【技能錮縛 - 鎖攻】",
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;4&nbsp;回合。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
         },
         "5144": {
             "title": "【技能錮縛 - 鎖攻】",
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;5&nbsp;回合。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
         },
         "5145": {
             "title": "【符石轉水】",
@@ -29627,7 +29645,11 @@
         "5560": {
             "title": "【剝奪五感】",
             "desc": "•&nbsp;每次受到敵人攻擊時<br />⇒&nbsp;敵人會持續追加敵技：<br /><br />【前路茫茫】<br />【瘴氣&nbsp;10%】<br />【轉化符石技能無效】<br />【隱匿之途】<br />【消心禁咒】<br />【喋血屠刀&nbsp;100%】",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1130,
+                1131
+            ]
         },
         "5561": {
             "title": "【剝奪五感】",
@@ -33048,7 +33070,24 @@
         "6175": {
             "title": "【屬性以外弱攻 (循環)】",
             "desc": "•&nbsp;指定屬性以外弱攻&nbsp;0%<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
-            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init ?屬性</span>"
+            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init ?屬性</span>",
+            "icons": [
+                40251
+            ],
+            "alticons": [
+                [
+                    40252
+                ],
+                [
+                    40253
+                ],
+                [
+                    40254
+                ],
+                [
+                    40255
+                ]
+            ]
         },
         "6176": {
             "title": "【屬性連擊零化 (循環)】",
@@ -33058,7 +33097,24 @@
         "6177": {
             "title": "【符石轉換 - 屬性連擊零化 (循環)】",
             "desc": "•&nbsp;指定符石轉換及<br />【指定屬性連擊零化】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
-            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init 敵人屬性</span><details><summary>符石轉換</summary>將前一個屬性的符石，轉換為目前指定屬性的符石</details>"
+            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init 敵人屬性</span><ul><li>符石轉換：將前一個屬性的符石，轉換為目前指定屬性的符石</li></ul>",
+            "icons": [
+                40421
+            ],
+            "alticons": [
+                [
+                    40422
+                ],
+                [
+                    40423
+                ],
+                [
+                    40424
+                ],
+                [
+                    40425
+                ]
+            ]
         },
         "6178": {
             "title": "【連擊相等盾】",
@@ -33396,7 +33452,24 @@
         "6206": {
             "title": "【消屬性符石禁咒 (循環)】",
             "desc": "•&nbsp;指定屬性符石無法被消除<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
-            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init ?屬性</span>"
+            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init ?屬性</span>",
+            "icons": [
+                40301
+            ],
+            "alticons": [
+                [
+                    40302
+                ],
+                [
+                    40303
+                ],
+                [
+                    40304
+                ],
+                [
+                    40305
+                ]
+            ]
         },
         "6207": {
             "title": "【屬性弱攻 (循環)】",
@@ -33473,7 +33546,21 @@
         "6219": {
             "title": "【四技連環 (循環)】",
             "desc": "【反擊&nbsp;200%&nbsp;2&nbsp;次】<br />•&nbsp;敵人發動攻擊時，<br />&nbsp;&nbsp;改為出現不同敵技：<br />【≥9&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br />【反擊&nbsp;200%&nbsp;2&nbsp;次】<br />【固定&nbsp;8&nbsp;連擊盾】<br />＊以上敵技循環周而復始",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                41051
+            ],
+            "alticons": [
+                [
+                    40059
+                ],
+                [
+                    41051
+                ],
+                [
+                    40008
+                ]
+            ]
         },
         "6221": {
             "title": "【「起結有序 - 角色符石、固定 5 連擊」凝護】",
