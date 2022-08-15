@@ -2851,52 +2851,82 @@
         "387": {
             "title": "單次25+水符石盾",
             "desc": "召喚師需消除&nbsp;25&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                291
+            ]
         },
         "388": {
             "title": "單次25+火符石盾",
             "desc": "召喚師需消除&nbsp;25&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                292
+            ]
         },
         "389": {
             "title": "單次25+木符石盾",
             "desc": "召喚師需消除&nbsp;25&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                293
+            ]
         },
         "390": {
             "title": "單次25+光符石盾",
             "desc": "召喚師需消除&nbsp;25&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                294
+            ]
         },
         "391": {
             "title": "單次25+暗符石盾",
             "desc": "召喚師需消除&nbsp;25&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                295
+            ]
         },
         "392": {
             "title": "單次30+水符石盾",
             "desc": "召喚師需消除&nbsp;30&nbsp;粒或以上水符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                291
+            ]
         },
         "393": {
             "title": "單次30+火符石盾",
             "desc": "召喚師需消除&nbsp;30&nbsp;粒或以上火符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                292
+            ]
         },
         "394": {
             "title": "單次30+木符石盾",
             "desc": "召喚師需消除&nbsp;30&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                293
+            ]
         },
         "395": {
             "title": "單次30+光符石盾",
             "desc": "召喚師需消除&nbsp;30&nbsp;粒或以上光符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                294
+            ]
         },
         "396": {
             "title": "單次30+暗符石盾",
             "desc": "召喚師需消除&nbsp;30&nbsp;粒或以上暗符石，才會對敵人造成攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                295
+            ]
         },
         "397": {
             "title": "隨機轉水",
@@ -30804,7 +30834,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為水符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>",
             "icons": [
-                291
+                441
             ]
         },
         "5787": {
@@ -30812,7 +30842,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為火符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>",
             "icons": [
-                292
+                442
             ]
         },
         "5788": {
@@ -30820,7 +30850,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為木符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>",
             "icons": [
-                293
+                443
             ]
         },
         "5789": {
@@ -30828,7 +30858,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為光符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>",
             "icons": [
-                294
+                444
             ]
         },
         "5790": {
@@ -30836,7 +30866,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為暗符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>",
             "icons": [
-                295
+                445
             ]
         },
         "5791": {
@@ -30844,7 +30874,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為心符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100000</span>",
             "icons": [
-                296
+                446
             ]
         },
         "5792": {
@@ -30852,7 +30882,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為水符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>",
             "icons": [
-                291
+                441
             ]
         },
         "5793": {
@@ -30860,7 +30890,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為火符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>",
             "icons": [
-                292
+                442
             ]
         },
         "5794": {
@@ -30868,7 +30898,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為木符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>",
             "icons": [
-                293
+                443
             ]
         },
         "5795": {
@@ -30876,7 +30906,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為光符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>",
             "icons": [
-                294
+                444
             ]
         },
         "5796": {
@@ -30884,7 +30914,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為暗符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>",
             "icons": [
-                295
+                445
             ]
         },
         "5797": {
@@ -30892,7 +30922,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為心符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000000001</span>",
             "icons": [
-                296
+                446
             ]
         },
         "5798": {
@@ -30900,7 +30930,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為水符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>",
             "icons": [
-                291
+                441
             ]
         },
         "5799": {
@@ -30908,7 +30938,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為火符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>",
             "icons": [
-                292
+                442
             ]
         },
         "5800": {
@@ -30916,7 +30946,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為木符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>",
             "icons": [
-                293
+                443
             ]
         },
         "5801": {
@@ -30924,7 +30954,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為光符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>",
             "icons": [
-                294
+                444
             ]
         },
         "5802": {
@@ -30932,7 +30962,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為暗符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>",
             "icons": [
-                295
+                445
             ]
         },
         "5803": {
@@ -30940,7 +30970,7 @@
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為心符石",
             "custom_desc": "<span class=\"annotation\">fixed_position 000000000000000000000000100001</span>",
             "icons": [
-                296
+                446
             ]
         },
         "5804": {
@@ -32335,32 +32365,50 @@
         "6047": {
             "title": "【符石轉水】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為水符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>",
+            "icons": [
+                441
+            ]
         },
         "6048": {
             "title": "【符石轉火】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為火符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>",
+            "icons": [
+                442
+            ]
         },
         "6049": {
             "title": "【符石轉木】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為木符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>",
+            "icons": [
+                443
+            ]
         },
         "6050": {
             "title": "【符石轉光】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為光符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>",
+            "icons": [
+                444
+            ]
         },
         "6051": {
             "title": "【符石轉暗】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為暗符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>",
+            "icons": [
+                445
+            ]
         },
         "6052": {
             "title": "【符石轉心】",
             "desc": "•&nbsp;每回合結束時，<br />&nbsp;&nbsp;將所有與指定位置符石<br />&nbsp;&nbsp;相同種類的符石<br />⇒&nbsp;轉化為心符石",
-            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>"
+            "custom_desc": "<span class=\"annotation\">fixed_position 100001000000000000000000100001</span>",
+            "icons": [
+                446
+            ]
         },
         "6053": {
             "title": "【凍結之水 - 符石轉水】",
