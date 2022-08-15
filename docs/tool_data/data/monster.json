@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.412",
-        "dv": 19647,
-        "time": 1659697816
+        "version": "2022.500",
+        "dv": 19883,
+        "time": 1660552032
     },
     "monster": {
         "1": {
@@ -13835,6 +13835,11 @@
             "attribute": 4,
             "race": 6
         },
+        "2793": {
+            "name": "馥郁熏陶 ‧ 希",
+            "attribute": 4,
+            "race": 3
+        },
         "3001": {
             "name": "野望滅絕 ‧ 薩魯曼",
             "attribute": 5,
@@ -16482,6 +16487,21 @@
             "attribute": 4,
             "race": 1
         },
+        "6566": {
+            "name": "魅魂幽香 ‧ 希",
+            "attribute": 4,
+            "race": 3
+        },
+        "6567": {
+            "name": "遺世龍魂 ‧ 尤麗婭",
+            "attribute": 3,
+            "race": 4
+        },
+        "6568": {
+            "name": "拳破星屑 ‧ 烏圖",
+            "attribute": 2,
+            "race": 5
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -18462,6 +18482,31 @@
             "attribute": 2,
             "race": 3
         },
+        "10278": {
+            "name": "遺世龍魂 ‧ 尤麗婭",
+            "attribute": 3,
+            "race": 4
+        },
+        "10279": {
+            "name": "拳破星屑 ‧ 烏圖",
+            "attribute": 2,
+            "race": 5
+        },
+        "10281": {
+            "name": "魔刀掠空 ‧ 珍娜",
+            "attribute": 1,
+            "race": 8
+        },
+        "10287": {
+            "name": "毀星掠盡 ‧ 賈艾斯",
+            "attribute": 2,
+            "race": 5
+        },
+        "10290": {
+            "name": "清涼一夏 ‧ 神魔小妹",
+            "attribute": 1,
+            "race": 1
+        },
         "5001": {
             "name": "UNKNOWN"
         },
@@ -18786,5 +18831,26 @@
             "attribute": 4,
             "race": 3
         }
-    }
+    },
+    "attribute_names": [
+        null,
+        "水",
+        "火",
+        "木",
+        "光",
+        "暗"
+    ],
+    "race_names": [
+        null,
+        "人",
+        "獸",
+        "妖",
+        "龍",
+        "神",
+        "進化素材",
+        "強化素材",
+        "魔",
+        null,
+        "機械"
+    ]
 }

@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.411",
-        "dv": 19632,
-        "time": 1659003036
+        "version": "2022.500",
+        "dv": 19883,
+        "time": 1660552032
     },
     "ws": {
         "10001": {
@@ -2603,6 +2603,131 @@
         "10549": {
             "title": "",
             "desc": "•&nbsp;每回合對召喚師<br />⇒&nbsp;施加&nbsp;2&nbsp;個益蟲狀態<br />&nbsp;&nbsp;&nbsp;&nbsp;(每回合刷新)<br />•&nbsp;益蟲狀態愈多<br />⇒&nbsp;全隊攻擊力提升愈多：<br />⓵&nbsp;1&nbsp;個益蟲狀態<br />⇒&nbsp;全隊攻擊力&nbsp;5&nbsp;倍<br />⓶&nbsp;2&nbsp;個益蟲狀態<br />⇒&nbsp;可達至最大&nbsp;20&nbsp;倍&nbsp;&nbsp;&nbsp;&nbsp;",
+            "custom_desc": ""
+        },
+        "10550": {
+            "title": "",
+            "desc": "•&nbsp;隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現頭像變換地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰頭像變換地型<br />⇒&nbsp;該角色永久變為<br />&nbsp;&nbsp;&nbsp;「點點」頭像：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無法發動主動技能<br />•&nbsp;移動「點點」頭像<br />&nbsp;&nbsp;角色符石時觸碰頭像變換地型<br />⇒&nbsp;該角色變回原始模樣<br />•&nbsp;每個頭像變換地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+            "custom_desc": ""
+        },
+        "10551": {
+            "title": "",
+            "desc": "•&nbsp;隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現頭像變換地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰頭像變換地型<br />⇒&nbsp;該角色永久變為<br />&nbsp;&nbsp;&nbsp;「點點」頭像：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無法發動主動技能<br />•&nbsp;移動「點點」頭像<br />&nbsp;&nbsp;角色符石時觸碰頭像變換地型<br />⇒&nbsp;該角色變回原始模樣<br />•&nbsp;每個頭像變換地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+            "custom_desc": ""
+        },
+        "10552": {
+            "title": "",
+            "desc": "•&nbsp;隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現頭像變換地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰頭像變換地型<br />⇒&nbsp;該角色永久變為<br />&nbsp;&nbsp;&nbsp;「點點」頭像：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無法發動主動技能<br />•&nbsp;移動「點點」頭像<br />&nbsp;&nbsp;角色符石時觸碰頭像變換地型<br />⇒&nbsp;該角色變回原始模樣<br />•&nbsp;每個頭像變換地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+            "custom_desc": ""
+        },
+        "10553": {
+            "title": "",
+            "desc": "•&nbsp;隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現頭像變換地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰頭像變換地型<br />⇒&nbsp;該角色永久變為<br />&nbsp;&nbsp;&nbsp;「點點」頭像：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無法發動主動技能<br />•&nbsp;移動「點點」頭像<br />&nbsp;&nbsp;角色符石時觸碰頭像變換地型<br />⇒&nbsp;該角色變回原始模樣<br />•&nbsp;每個頭像變換地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+            "custom_desc": ""
+        },
+        "10554": {
+            "title": "",
+            "desc": "•&nbsp;進場時燃燒&nbsp;2&nbsp;個固定位置<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的燃燒位置增加&nbsp;2&nbsp;個<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10555": {
+            "title": "",
+            "desc": "•&nbsp;進場時燃燒&nbsp;2&nbsp;個固定位置<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的燃燒位置增加&nbsp;2&nbsp;個<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10556": {
+            "title": "",
+            "desc": "•&nbsp;進場時黏腐&nbsp;2&nbsp;個固定位置<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的黏腐位置增加&nbsp;2&nbsp;個<br />•&nbsp;該位置的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": ""
+        },
+        "10557": {
+            "title": "",
+            "desc": "•&nbsp;進場時霧化&nbsp;2&nbsp;個固定位置<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的霧化位置增加&nbsp;2&nbsp;個",
+            "custom_desc": ""
+        },
+        "10558": {
+            "title": "",
+            "desc": "•&nbsp;進場時碎裂&nbsp;2&nbsp;個固定位置<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的碎裂位置增加&nbsp;2&nbsp;個<br />•&nbsp;該位置內的符石<br />⇒&nbsp;無法消除或引爆",
+            "custom_desc": ""
+        },
+        "10559": {
+            "title": "",
+            "desc": "•&nbsp;進場時在&nbsp;2&nbsp;個固定位置<br />⇒&nbsp;施放瘴氣<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的瘴氣位置增加&nbsp;2&nbsp;個&nbsp;<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "custom_desc": ""
+        },
+        "10560": {
+            "title": "",
+            "desc": "•&nbsp;進場時在&nbsp;2&nbsp;個固定位置<br />⇒&nbsp;施放瘴氣<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的瘴氣位置增加&nbsp;2&nbsp;個&nbsp;<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "custom_desc": ""
+        },
+        "10561": {
+            "title": "",
+            "desc": "•&nbsp;進場時射擊最頂橫行位置<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的射擊位置增加&nbsp;1&nbsp;行<br />•&nbsp;被射擊的位置一經觸碰<br />⇒&nbsp;即時停止移動符石<br />",
+            "custom_desc": ""
+        },
+        "10562": {
+            "title": "",
+            "desc": "•&nbsp;進場時暴風席捲<br />&nbsp;&nbsp;最左方直行的位置<br />•&nbsp;其後每回合<br />⇒&nbsp;暴風改為席捲<br />&nbsp;&nbsp;&nbsp;&nbsp;另一固定直行位置<br />•&nbsp;暴風位置內的<br />&nbsp;&nbsp;符石不能消除或引爆<br />•&nbsp;該位置一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": ""
+        },
+        "10563": {
+            "title": "",
+            "desc": "•&nbsp;進場時燃燒&nbsp;4&nbsp;個固定位置<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的燃燒位置增加&nbsp;4&nbsp;個<br />⇒&nbsp;最多燃燒&nbsp;30&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10564": {
+            "title": "",
+            "desc": "•&nbsp;進場時燃燒&nbsp;4&nbsp;個固定位置<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的燃燒位置增加&nbsp;4&nbsp;個<br />⇒&nbsp;最多燃燒&nbsp;30&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10565": {
+            "title": "",
+            "desc": "•&nbsp;進場時黏腐&nbsp;4&nbsp;個固定位置<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的黏腐位置增加&nbsp;4&nbsp;個<br />⇒&nbsp;最多黏腐&nbsp;30&nbsp;個位置<br />•&nbsp;該位置的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": ""
+        },
+        "10566": {
+            "title": "",
+            "desc": "•&nbsp;進場時霧化&nbsp;4&nbsp;個固定位置<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的霧化位置增加&nbsp;4&nbsp;個<br />⇒&nbsp;最多霧化&nbsp;30&nbsp;個位置",
+            "custom_desc": ""
+        },
+        "10567": {
+            "title": "",
+            "desc": "•&nbsp;進場時碎裂&nbsp;4&nbsp;個固定位置<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的碎裂位置增加&nbsp;4&nbsp;個<br />⇒&nbsp;最多碎裂&nbsp;30&nbsp;個位置<br />•&nbsp;該位置內的符石<br />⇒&nbsp;無法消除或引爆",
+            "custom_desc": ""
+        },
+        "10568": {
+            "title": "",
+            "desc": "•&nbsp;進場時在&nbsp;4&nbsp;個固定位置<br />⇒&nbsp;施放瘴氣<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的瘴氣位置增加&nbsp;4&nbsp;個&nbsp;<br />⇒&nbsp;最多有&nbsp;30&nbsp;個瘴氣位置<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "custom_desc": ""
+        },
+        "10569": {
+            "title": "",
+            "desc": "•&nbsp;進場時在&nbsp;4&nbsp;個固定位置<br />⇒&nbsp;施放瘴氣<br />•&nbsp;其後每回合<br />⇒&nbsp;固定的瘴氣位置增加&nbsp;4&nbsp;個&nbsp;<br />⇒&nbsp;最多有&nbsp;30&nbsp;個瘴氣位置<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "custom_desc": ""
+        },
+        "10570": {
+            "title": "",
+            "desc": "•&nbsp;水屬性敵人攻擊力&nbsp;4&nbsp;倍<br /><br />•&nbsp;敵人所受傷害減至&nbsp;10%",
+            "custom_desc": ""
+        },
+        "10571": {
+            "title": "",
+            "desc": "•&nbsp;火屬性敵人攻擊力&nbsp;4&nbsp;倍<br /><br />•&nbsp;敵人所受傷害減至&nbsp;10%",
+            "custom_desc": ""
+        },
+        "10572": {
+            "title": "",
+            "desc": "•&nbsp;木屬性敵人攻擊力&nbsp;4&nbsp;倍<br /><br />•&nbsp;敵人所受傷害減至&nbsp;10%",
+            "custom_desc": ""
+        },
+        "10573": {
+            "title": "",
+            "desc": "•&nbsp;光屬性敵人攻擊力&nbsp;4&nbsp;倍<br /><br />•&nbsp;敵人所受傷害減至&nbsp;10%",
+            "custom_desc": ""
+        },
+        "10574": {
+            "title": "",
+            "desc": "•&nbsp;暗屬性敵人攻擊力&nbsp;4&nbsp;倍<br /><br />•&nbsp;敵人所受傷害減至&nbsp;10%",
             "custom_desc": ""
         }
     }
