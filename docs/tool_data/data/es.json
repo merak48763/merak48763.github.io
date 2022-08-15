@@ -34125,32 +34125,50 @@
         "6310": {
             "title": "【反首消水以外符石盾】",
             "desc": "•&nbsp;首批消除水以外符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1406
+            ]
         },
         "6311": {
             "title": "【反首消火以外符石盾】",
             "desc": "•&nbsp;首批消除火以外符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1405
+            ]
         },
         "6312": {
             "title": "【反首消木以外符石盾】",
             "desc": "•&nbsp;首批消除木以外符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1404
+            ]
         },
         "6313": {
             "title": "【反首消光以外符石盾】",
             "desc": "•&nbsp;首批消除光以外符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1403
+            ]
         },
         "6314": {
             "title": "【反首消暗以外符石盾】",
             "desc": "•&nbsp;首批消除暗以外符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1402
+            ]
         },
         "6315": {
             "title": "【反首消五屬符石盾】",
             "desc": "•&nbsp;首批消除屬性符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1401
+            ]
         },
         "6316": {
             "title": "【墨汁】",
@@ -34250,7 +34268,7 @@
         "6335": {
             "title": "【反首消符石盾】",
             "desc": "•&nbsp;首批消除<br />&nbsp;【全消盾】以外符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "請問這裡是新的炒飯派對現場嗎？"
         },
         "6336": {
             "title": "【反饋】",
@@ -34290,72 +34308,114 @@
         "6343": {
             "title": "【≥11 連擊盾 - 追擊】",
             "desc": "•&nbsp;達成&nbsp;≥11&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                61
+            ]
         },
         "6344": {
             "title": "【≥12 連擊盾 - 追擊】",
             "desc": "•&nbsp;達成&nbsp;≥12&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                62
+            ]
         },
         "6345": {
             "title": "【≥13 連擊盾 - 追擊】",
             "desc": "•&nbsp;達成&nbsp;≥13&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                63
+            ]
         },
         "6346": {
             "title": "【≥14 連擊盾 - 追擊】",
             "desc": "•&nbsp;達成&nbsp;≥14&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                64
+            ]
         },
         "6347": {
             "title": "【≥15 連擊盾 - 追擊】",
             "desc": "•&nbsp;達成&nbsp;≥15&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                65
+            ]
         },
         "6348": {
             "title": "【≥16 連擊盾 - 追擊】",
             "desc": "•&nbsp;達成&nbsp;≥16&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                66
+            ]
         },
         "6349": {
             "title": "【≥17 連擊盾 - 追擊】",
             "desc": "•&nbsp;達成&nbsp;≥17&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                67
+            ]
         },
         "6350": {
             "title": "【≥18 連擊盾 - 追擊】",
             "desc": "•&nbsp;達成&nbsp;≥18&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                68
+            ]
         },
         "6351": {
             "title": "【≥19 連擊盾 - 追擊】",
             "desc": "•&nbsp;達成&nbsp;≥19&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                69
+            ]
         },
         "6352": {
             "title": "【≥20 連擊盾 - 追擊】",
             "desc": "•&nbsp;達成&nbsp;≥20&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                70
+            ]
         },
         "6353": {
             "title": "【十字限盾 (≥1 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1035
+            ]
         },
         "6354": {
             "title": "【十字限盾 (≥2 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1035
+            ]
         },
         "6355": {
             "title": "【十字限盾 (≥3 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1035
+            ]
         },
         "6356": {
             "title": "【十字限盾】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;指定組數或以上的&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1035
+            ]
         },
         "6357": {
             "title": "【指定連擊法印】",
@@ -34375,7 +34435,10 @@
         "6360": {
             "title": "【碎裂】",
             "desc": "•&nbsp;進場時【沒有技能】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的【碎裂】<br />&nbsp;&nbsp;&nbsp;&nbsp;位置增加&nbsp;4&nbsp;格<br />⇒&nbsp;最多加至隨機&nbsp;20&nbsp;格<br />＊召喚師死亡後重置<br /><br />註：【碎裂】<br />•&nbsp;碎裂位置內的符石<br />⇒&nbsp;無法消除或引爆",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30985
+            ]
         },
         "6361": {
             "title": "【符石轉換 - 反首消符石盾 (循環)】",
@@ -34385,77 +34448,150 @@
         "6362": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時<br />【5&nbsp;格灼熱地型】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;灼熱地型位置<br />&nbsp;&nbsp;&nbsp;&nbsp;增加&nbsp;5&nbsp;格<br />⇒&nbsp;最多加至&nbsp;20&nbsp;格<br />＊召喚師死亡後重置<br /><br />註：【灼熱地型】<br />•&nbsp;每次於灼熱地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;20,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30963
+            ]
         },
         "6363": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時<br />【20&nbsp;格灼熱地型】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;灼熱地型位置<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;5&nbsp;格<br />⇒&nbsp;最多減至&nbsp;5&nbsp;格<br /><br />註：【灼熱地型】<br />•&nbsp;每次於灼熱地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;20,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20963
+            ]
         },
         "6364": {
             "title": "【燃燒之地】",
             "desc": "•&nbsp;進場時<br />【30&nbsp;格燃燒之地】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的燃燒位置<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;5&nbsp;格<br />⇒&nbsp;最多減至&nbsp;0&nbsp;格<br /><br />註：【燃燒之地】<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20951
+            ]
         },
         "6365": {
             "title": "【指定連擊盾 - 追擊】",
             "desc": "•【≥13&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;連擊需求減少&nbsp;2&nbsp;<br />⇒&nbsp;最多減至<br />&nbsp;【≥5&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br /><br />註：【指定連擊盾&nbsp;-&nbsp;追擊】<br />•&nbsp;達成指定連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                20063
+            ],
+            "alticons": [
+                [
+                    20061
+                ],
+                [
+                    20059
+                ],
+                [
+                    20057
+                ],
+                [
+                    20055
+                ]
+            ]
         },
         "6366": {
             "title": "【指定連擊盾 - 追擊】",
             "desc": "•【≥5&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;連擊需求增加&nbsp;2&nbsp;<br />⇒&nbsp;最多加至<br />&nbsp;【≥13&nbsp;連擊盾&nbsp;-&nbsp;追擊】<br />＊召喚師死亡後重置<br /><br />註：【指定連擊盾&nbsp;-&nbsp;追擊】<br />•&nbsp;達成指定連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                30055
+            ],
+            "alticons": [
+                [
+                    30057
+                ],
+                [
+                    30059
+                ],
+                [
+                    30061
+                ],
+                [
+                    30063
+                ]
+            ]
         },
         "6367": {
             "title": "【蠱蝕狀態】",
             "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;10%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1129
+            ]
         },
         "6368": {
             "title": "【蠱蝕狀態】",
             "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;20%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1129
+            ]
         },
         "6369": {
             "title": "【蠱蝕狀態】",
             "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;30%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;30%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1129
+            ]
         },
         "6370": {
             "title": "【蠱蝕狀態】",
             "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;40%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;40%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1129
+            ]
         },
         "6371": {
             "title": "【蠱蝕狀態】",
             "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;50%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1129
+            ]
         },
         "6372": {
             "title": "【蠱蝕狀態】",
             "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;60%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;60%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1129
+            ]
         },
         "6373": {
             "title": "【蠱蝕狀態】",
             "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;70%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;70%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1129
+            ]
         },
         "6374": {
             "title": "【蠱蝕狀態】",
             "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;80%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;80%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1129
+            ]
         },
         "6375": {
             "title": "【蠱蝕狀態】",
             "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;90%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;90%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1129
+            ]
         },
         "6376": {
             "title": "【蠱蝕狀態】",
             "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;100%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1129
+            ]
         },
         "6377": {
             "title": "【風壓狀態】",
@@ -34485,17 +34621,26 @@
         "6388": {
             "title": "【<100 億護盾】",
             "desc": "•&nbsp;單一傷害&nbsp;&lt;100&nbsp;億的成員<br />⇒&nbsp;才能對敵人造成傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                133
+            ]
         },
         "6389": {
             "title": "【<10 億護盾】",
             "desc": "•&nbsp;單一傷害&nbsp;&lt;10&nbsp;億的成員<br />⇒&nbsp;才能對敵人造成傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                132
+            ]
         },
         "6390": {
             "title": "【<1 億護盾】",
             "desc": "•&nbsp;單一傷害&nbsp;&lt;1&nbsp;億的成員<br />⇒&nbsp;才能對敵人造成傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                131
+            ]
         },
         "6391": {
             "title": "【終結倒數】",
