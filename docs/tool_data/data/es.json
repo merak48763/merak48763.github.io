@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.500",
+        "version": "2022.501",
         "dv": 19883,
-        "time": 1660552032
+        "time": 1660634475
     },
     "es": {
         "0": {
@@ -549,7 +549,7 @@
             "desc": "同時消除水符石，火符石及木符石才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1201
+                1621
             ]
         },
         "76": {
@@ -557,7 +557,7 @@
             "desc": "同時消除光符石及暗符石才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1202
+                1613
             ]
         },
         "77": {
@@ -565,7 +565,7 @@
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1204
+                1661
             ]
         },
         "78": {
@@ -1495,7 +1495,7 @@
             "desc": "同時消除指定的&nbsp;3&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1204
+                1661
             ]
         },
         "198": {
@@ -1503,7 +1503,7 @@
             "desc": "同時消除指定的&nbsp;4&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1204
+                1661
             ]
         },
         "199": {
@@ -1511,7 +1511,7 @@
             "desc": "同時消除火符石，木符石及水強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "200": {
@@ -1519,7 +1519,7 @@
             "desc": "同時消除水符石，木符石及火強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "201": {
@@ -1527,7 +1527,7 @@
             "desc": "同時消除水符石，火符石及木強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "202": {
@@ -1535,7 +1535,7 @@
             "desc": "同時消除暗符石及光強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "203": {
@@ -1543,7 +1543,7 @@
             "desc": "同時消除光符石及暗強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "204": {
@@ -1735,7 +1735,7 @@
             "desc": "同時消除指定的&nbsp;3&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1204
+                1661
             ]
         },
         "228": {
@@ -1743,7 +1743,7 @@
             "desc": "同時消除指定的&nbsp;4&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1204
+                1661
             ]
         },
         "229": {
@@ -1819,7 +1819,7 @@
             "desc": "同時消除水符石，火符石及光強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "238": {
@@ -1827,7 +1827,7 @@
             "desc": "同時消除水符石，木符石及光強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "239": {
@@ -1835,7 +1835,7 @@
             "desc": "同時消除木符石，火符石及光強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "240": {
@@ -1843,7 +1843,7 @@
             "desc": "同時消除水符石，火符石及暗強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "241": {
@@ -1851,7 +1851,7 @@
             "desc": "同時消除水符石，木符石及暗強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "242": {
@@ -1859,7 +1859,7 @@
             "desc": "同時消除木符石，火符石及暗強化符石，才能對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "243": {
@@ -2394,7 +2394,7 @@
             "desc": "同時消除光強化符石及暗強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1206
+                1713
             ]
         },
         "313": {
@@ -2402,7 +2402,7 @@
             "desc": "同時消除指定的兩種屬性強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "314": {
@@ -2410,7 +2410,7 @@
             "desc": "同時消除指定的兩種屬性強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "315": {
@@ -2418,7 +2418,7 @@
             "desc": "同時消除水強化符石，火強化符石及木強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1205
+                1721
             ]
         },
         "316": {
@@ -2426,7 +2426,7 @@
             "desc": "同時消除指定的&nbsp;3&nbsp;種屬性強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "317": {
@@ -2434,7 +2434,7 @@
             "desc": "同時消除指定的&nbsp;3&nbsp;種屬性強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "318": {
@@ -2442,7 +2442,7 @@
             "desc": "同時消除指定的&nbsp;4&nbsp;種屬性強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "319": {
@@ -2450,7 +2450,7 @@
             "desc": "同時消除指定的&nbsp;4&nbsp;種屬性強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "320": {
@@ -2458,7 +2458,7 @@
             "desc": "同時消除水強化符石，火強化符石，木強化符石，光強化符石及暗強化符石才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
-                1208
+                1761
             ]
         },
         "321": {
@@ -2514,7 +2514,7 @@
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性符石，對召喚師造成&nbsp;1,000&nbsp;點傷害",
             "custom_desc": "",
             "icons": [
-                1204
+                1661
             ]
         },
         "328": {
@@ -2522,7 +2522,7 @@
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性符石，對召喚師造成&nbsp;2,000&nbsp;點傷害",
             "custom_desc": "",
             "icons": [
-                1204
+                1661
             ]
         },
         "329": {
@@ -2530,7 +2530,7 @@
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性符石，對召喚師造成&nbsp;3,000&nbsp;點傷害",
             "custom_desc": "",
             "icons": [
-                1204
+                1661
             ]
         },
         "330": {
@@ -2538,7 +2538,7 @@
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性符石，對召喚師造成&nbsp;4,000&nbsp;點傷害",
             "custom_desc": "",
             "icons": [
-                1204
+                1661
             ]
         },
         "331": {
@@ -2546,7 +2546,7 @@
             "desc": "五屬盾：同時消除水符石，火符石，木符石，光符石及暗符石才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性符石，對召喚師造成&nbsp;5,000&nbsp;點傷害",
             "custom_desc": "",
             "icons": [
-                1204
+                1661
             ]
         },
         "332": {
@@ -6462,7 +6462,7 @@
             "desc": "敵人會令光及暗屬性的攻擊傷害減至&nbsp;5%。<br /><br />•&nbsp;同時消除<br />「水、火、木」強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;首批消除光或暗符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1",
             "custom_desc": "",
             "icons": [
-                1208,
+                1761,
                 254,
                 255
             ]
@@ -10893,7 +10893,7 @@
             "desc": "敵人會持續將移動符石時所觸碰的符石轉化為隱藏符石。<br /><br />•&nbsp;同時消除光、暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;首批消除水、火或木符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1",
             "custom_desc": "",
             "icons": [
-                1204,
+                1661,
                 955
             ]
         },
@@ -16282,7 +16282,7 @@
             "custom_desc": "",
             "icons": [
                 251,
-                1204,
+                1661,
                 1009
             ]
         },
@@ -17548,7 +17548,7 @@
             "icons": [
                 253,
                 1054,
-                1204
+                1661
             ]
         },
         "3233": {
@@ -17558,7 +17558,7 @@
             "icons": [
                 253,
                 1054,
-                1208
+                1761
             ]
         },
         "3234": {
@@ -19795,7 +19795,7 @@
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />•&nbsp;同時消除<br />「水、火、木」強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;首批消除光或暗符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1<br /><br />敵人生命力愈低時，<br />攻擊力會大幅提升，<br />達到一定血量時會連撃&nbsp;2&nbsp;次<br /><br />敵人所受傷害減至&nbsp;10%；<br />只有敵人置身在點燃狀態，<br />才會對其造成完整攻擊傷害。",
             "custom_desc": "<span class=\"annotation\">trojan_ex</span>",
             "icons": [
-                1205,
+                1721,
                 1001,
                 1252
             ]
@@ -21638,12 +21638,18 @@
         "4024": {
             "title": "【回復顛倒】",
             "desc": "•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;相應效果的生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(此效果不計算回復加乘)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1057
+            ]
         },
         "4025": {
             "title": "",
             "desc": "將所有機械族成員的行動值<br />⇒&nbsp;提升至&nbsp;100%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                859
+            ]
         },
         "4026": {
             "title": "",
@@ -22616,7 +22622,8 @@
         "4216": {
             "title": "",
             "desc": "首回合對召喚師<br />⇒&nbsp;施加&nbsp;4&nbsp;個寶石狀態",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>順序：紅藍綠紫</li></ul>",
+            "icons": []
         },
         "4217": {
             "title": "",
@@ -26983,22 +26990,34 @@
         "5108": {
             "title": "【雙重凝結 - 追擊】",
             "desc": "每回合隨機<br />「雙重凝結」3&nbsp;粒符石，<br />移動符石並消除凝結符石<br />四側其中&nbsp;1&nbsp;個位置的符石<br />可解除「一重凝結」<br />(首批消除的符石每次<br />只可解除「一重凝結」)；<br />場上凝結符石愈多，<br />敵人所受傷害減少愈多。<br />敵人發動攻擊時會根據<br />場上凝結符石的數量<br />額外追打。<br />",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>每顆凝結符石會使敵人所受傷害減至0.1倍</li></ul>",
+            "icons": [
+                994
+            ]
         },
         "5109": {
             "title": "【三重凝結 - 追擊】",
             "desc": "每回合隨機<br />「三重凝結」3&nbsp;粒符石，<br />移動符石並消除凝結符石<br />四側其中&nbsp;1&nbsp;個位置的符石<br />可解除「一重凝結」<br />(首批消除的符石每次<br />只可解除「一重凝結」)；<br />場上凝結符石愈多，<br />敵人所受傷害減少愈多。<br />敵人發動攻擊時會根據<br />場上凝結符石的數量<br />額外追打。",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>每顆凝結符石會使敵人所受傷害減至0.1倍</li></ul>",
+            "icons": [
+                994
+            ]
         },
         "5110": {
             "title": "【雙重凝結 - 追擊】",
             "desc": "每回合隨機<br />「雙重凝結」6&nbsp;粒符石，<br />移動符石並消除凝結符石<br />四側其中&nbsp;1&nbsp;個位置的符石<br />可解除「一重凝結」<br />(首批消除的符石每次<br />只可解除「一重凝結」)；<br />場上凝結符石愈多，<br />敵人所受傷害減少愈多。<br />敵人發動攻擊時會根據<br />場上凝結符石的數量<br />額外追打。<br />",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>每顆凝結符石會使敵人所受傷害減至0.1倍</li></ul>",
+            "icons": [
+                994
+            ]
         },
         "5111": {
             "title": "【三重凝結 - 追擊】",
             "desc": "每回合隨機<br />「三重凝結」6&nbsp;粒符石，<br />移動符石並消除凝結符石<br />四側其中&nbsp;1&nbsp;個位置的符石<br />可解除「一重凝結」<br />(首批消除的符石每次<br />只可解除「一重凝結」)；<br />場上凝結符石愈多，<br />敵人所受傷害減少愈多。<br />敵人發動攻擊時會根據<br />場上凝結符石的數量<br />額外追打。",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>每顆凝結符石會使敵人所受傷害減至0.1倍</li></ul>",
+            "icons": [
+                994
+            ]
         },
         "5113": {
             "title": "【淨世】",
@@ -27669,62 +27688,98 @@
         "5227": {
             "title": "【結界地型】",
             "desc": "•&nbsp;隨機&nbsp;2x2&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                965
+            ]
         },
         "5228": {
             "title": "【結界地型】",
             "desc": "•&nbsp;隨機&nbsp;2x3&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                965
+            ]
         },
         "5229": {
             "title": "【結界地型】",
             "desc": "•&nbsp;隨機&nbsp;2x4&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                965
+            ]
         },
         "5230": {
             "title": "【結界地型】",
             "desc": "•&nbsp;隨機&nbsp;2x5&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                965
+            ]
         },
         "5231": {
             "title": "【結界地型】",
             "desc": "•&nbsp;隨機&nbsp;3x3&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                965
+            ]
         },
         "5232": {
             "title": "【結界地型】",
             "desc": "•&nbsp;隨機&nbsp;3x4&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                965
+            ]
         },
         "5233": {
             "title": "【結界地型】",
             "desc": "•&nbsp;隨機&nbsp;3x5&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                965
+            ]
         },
         "5234": {
             "title": "【結界地型】",
             "desc": "•&nbsp;隨機&nbsp;4x4&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                965
+            ]
         },
         "5235": {
             "title": "【結界地型】",
             "desc": "•&nbsp;隨機&nbsp;4x5&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                965
+            ]
         },
         "5236": {
             "title": "【結界地型】",
             "desc": "•&nbsp;隨機&nbsp;5x5&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                965
+            ]
         },
         "5237": {
             "title": "【結界地型】",
             "desc": "•&nbsp;6x5&nbsp;個位置出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                965
+            ]
         },
         "5238": {
             "title": "【結界地型】",
             "desc": "•&nbsp;固定&nbsp;4x3&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>固定出現於版面中央的4x3個位置</li></ul>",
+            "icons": [
+                965
+            ]
         },
         "5239": {
             "title": "【結界守護 - 光牢穿梭】",
@@ -27734,62 +27789,98 @@
         "5240": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;5000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5241": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;5000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5242": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;5000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5243": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;5000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5244": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;5000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5245": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;5000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5246": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;10000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5247": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;10000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5248": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;10000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5249": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;10000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5250": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;10000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5251": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;每回合隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;10000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5252": {
             "title": "【灼熱守護 - 黏腐穿梭】",
@@ -27897,42 +27988,66 @@
         "5270": {
             "title": "【荊棘符石】",
             "desc": "•&nbsp;每回合隨機將&nbsp;1&nbsp;粒符石<br />⇒&nbsp;添加為荊棘符石<br />•&nbsp;荊棘符石不能轉化<br />•&nbsp;移動符石時<br />&nbsp;&nbsp;每觸碰&nbsp;1&nbsp;次荊棘符石<br />⇒&nbsp;根據敵人攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                964
+            ]
         },
         "5271": {
             "title": "【荊棘符石】",
             "desc": "•&nbsp;每回合隨機將&nbsp;2&nbsp;粒符石<br />⇒&nbsp;添加為荊棘符石<br />•&nbsp;荊棘符石不能轉化<br />•&nbsp;移動符石時<br />&nbsp;&nbsp;每觸碰&nbsp;1&nbsp;次荊棘符石<br />⇒&nbsp;根據敵人攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                964
+            ]
         },
         "5272": {
             "title": "【荊棘符石】",
             "desc": "•&nbsp;每回合隨機將&nbsp;3&nbsp;粒符石<br />⇒&nbsp;添加為荊棘符石<br />•&nbsp;荊棘符石不能轉化<br />•&nbsp;移動符石時<br />&nbsp;&nbsp;每觸碰&nbsp;1&nbsp;次荊棘符石<br />⇒&nbsp;根據敵人攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                964
+            ]
         },
         "5273": {
             "title": "【荊棘符石】",
             "desc": "•&nbsp;每回合隨機將&nbsp;4&nbsp;粒符石<br />⇒&nbsp;添加為荊棘符石<br />•&nbsp;荊棘符石不能轉化<br />•&nbsp;移動符石時<br />&nbsp;&nbsp;每觸碰&nbsp;1&nbsp;次荊棘符石<br />⇒&nbsp;根據敵人攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                964
+            ]
         },
         "5274": {
             "title": "【荊棘符石】",
             "desc": "•&nbsp;每回合隨機將&nbsp;5&nbsp;粒符石<br />⇒&nbsp;添加為荊棘符石<br />•&nbsp;荊棘符石不能轉化<br />•&nbsp;移動符石時<br />&nbsp;&nbsp;每觸碰&nbsp;1&nbsp;次荊棘符石<br />⇒&nbsp;根據敵人攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                964
+            ]
         },
         "5275": {
             "title": "【荊棘符石】",
             "desc": "•&nbsp;每回合隨機將&nbsp;6&nbsp;粒符石<br />⇒&nbsp;添加為荊棘符石<br />•&nbsp;荊棘符石不能轉化<br />•&nbsp;移動符石時<br />&nbsp;&nbsp;每觸碰&nbsp;1&nbsp;次荊棘符石<br />⇒&nbsp;根據敵人攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                964
+            ]
         },
         "5276": {
             "title": "【荊棘符石】",
             "desc": "•&nbsp;每回合隨機將&nbsp;7&nbsp;粒符石<br />⇒&nbsp;添加為荊棘符石<br />•&nbsp;荊棘符石不能轉化<br />•&nbsp;移動符石時<br />&nbsp;&nbsp;每觸碰&nbsp;1&nbsp;次荊棘符石<br />⇒&nbsp;根據敵人攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                964
+            ]
         },
         "5277": {
             "title": "【荊棘符石】",
             "desc": "•&nbsp;每回合隨機將&nbsp;8&nbsp;粒符石<br />⇒&nbsp;添加為荊棘符石<br />•&nbsp;荊棘符石不能轉化<br />•&nbsp;移動符石時<br />&nbsp;&nbsp;每觸碰&nbsp;1&nbsp;次荊棘符石<br />⇒&nbsp;根據敵人攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                964
+            ]
         },
         "5278": {
             "title": "【水以外弱攻】",
@@ -28567,12 +28682,18 @@
         "5389": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時最左方及最右方<br />&nbsp;&nbsp;&nbsp;直行的位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;10000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5390": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時最左方及最右方<br />&nbsp;&nbsp;&nbsp;直行的位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;20000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
         },
         "5391": {
             "title": "【黏腐圍城】",
@@ -29084,7 +29205,7 @@
             "desc": "同時消除五屬強化符石，<br />才會對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
             "custom_desc": "",
             "icons": [
-                11208
+                11761
             ]
         },
         "5465": {
@@ -29097,7 +29218,7 @@
             "desc": "同時消除五屬強化符石，<br />才會對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。<br /><br />敵人發動攻擊時，該回合<br />每欠消除&nbsp;1&nbsp;種<br />屬性強化符石，<br />敵人額外追打&nbsp;1&nbsp;次。",
             "custom_desc": "",
             "icons": [
-                11208
+                11761
             ]
         },
         "5467": {
@@ -29650,12 +29771,18 @@
         "5555": {
             "title": "【雙重凝結 - 追擊】",
             "desc": "•&nbsp;每回合隨機將&nbsp;2&nbsp;粒符石&nbsp;<br />⇒「雙重凝結」<br />•&nbsp;移動符石並消除凝結符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />⇒&nbsp;可解除「一重凝結」<br />&nbsp;&nbsp;&nbsp;&nbsp;(首批消除的符石每次<br />&nbsp;&nbsp;&nbsp;&nbsp;只可解除「一重凝結」)<br />•&nbsp;凝結符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;場上凝結符石愈多<br />⇒&nbsp;敵人所受傷害減少愈多<br />•&nbsp;敵人發動攻擊時會根據<br />&nbsp;&nbsp;場上凝結符石的數量<br />⇒&nbsp;額外追打",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>每顆凝結符石會使敵人所受傷害減至0.1倍</li></ul>",
+            "icons": [
+                994
+            ]
         },
         "5556": {
             "title": "【雙重凝結 - 追擊】",
             "desc": "•&nbsp;每回合隨機將&nbsp;4&nbsp;粒符石&nbsp;<br />⇒「雙重凝結」<br />•&nbsp;移動符石並消除凝結符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />⇒&nbsp;可解除「一重凝結」<br />&nbsp;&nbsp;&nbsp;&nbsp;(首批消除的符石每次<br />&nbsp;&nbsp;&nbsp;&nbsp;只可解除「一重凝結」)<br />•&nbsp;凝結符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;場上凝結符石愈多<br />⇒&nbsp;敵人所受傷害減少愈多<br />•&nbsp;敵人發動攻擊時會根據<br />&nbsp;&nbsp;場上凝結符石的數量<br />⇒&nbsp;額外追打",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>每顆凝結符石會使敵人所受傷害減至0.1倍</li></ul>",
+            "icons": [
+                994
+            ]
         },
         "5557": {
             "title": "【凍結圍城】",
@@ -30072,7 +30199,10 @@
         "5635": {
             "title": "【符石轉換】",
             "desc": "•&nbsp;每回合轉化五屬符石各&nbsp;6&nbsp;粒",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "5636": {
             "title": "【全版引爆 - 掉落水符石】",
@@ -30597,42 +30727,66 @@
         "5740": {
             "title": "【吸取龍脈儀】",
             "desc": "•&nbsp;進場時吸取龍脈儀的能量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                861
+            ]
         },
         "5741": {
             "title": "【反擊】",
             "desc": "•&nbsp;當敵人受到攻擊傷害<br />⇒&nbsp;反擊自身&nbsp;50%&nbsp;攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1051
+            ]
         },
         "5742": {
             "title": "【反擊】",
             "desc": "•&nbsp;當敵人受到攻擊傷害<br />⇒&nbsp;反擊自身&nbsp;100%&nbsp;攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1051
+            ]
         },
         "5743": {
             "title": "【反擊】",
             "desc": "•&nbsp;當敵人受到攻擊傷害<br />⇒&nbsp;反擊自身&nbsp;200%&nbsp;攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1051
+            ]
         },
         "5744": {
             "title": "【反擊】",
             "desc": "•&nbsp;當敵人受到攻擊傷害<br />⇒&nbsp;反擊自身&nbsp;50%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;攻擊傷害&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1051
+            ]
         },
         "5745": {
             "title": "【反擊】",
             "desc": "•&nbsp;當敵人受到攻擊傷害<br />⇒&nbsp;反擊自身&nbsp;100%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;攻擊傷害&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1051
+            ]
         },
         "5746": {
             "title": "【反擊】",
             "desc": "•&nbsp;當敵人受到攻擊傷害<br />⇒&nbsp;反擊自身&nbsp;200%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;攻擊傷害&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1051
+            ]
         },
         "5747": {
             "title": "【符石轉換】",
             "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為&nbsp;10&nbsp;粒心符石<br />&nbsp;&nbsp;&nbsp;&nbsp;及五屬符石各&nbsp;4&nbsp;粒",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "5748": {
             "title": "【心符石護盾 20 粒】",
@@ -30697,12 +30851,18 @@
         "5761": {
             "title": "【紅色羽毛符石】",
             "desc": "•&nbsp;每回合隨機將&nbsp;4&nbsp;至&nbsp;8&nbsp;粒符石<br />⇒&nbsp;添加為紅色羽毛符石<br />•&nbsp;紅色羽毛符石不能轉化<br />•&nbsp;召喚師不能引爆<br />&nbsp;&nbsp;&nbsp;紅色羽毛符石<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;將紅色羽毛符石引爆，<br />&nbsp;&nbsp;&nbsp;每粒扣除召喚師<br />&nbsp;&nbsp;&nbsp;10%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                977
+            ]
         },
         "5762": {
             "title": "【紅色羽毛符石】",
             "desc": "•&nbsp;每回合隨機將&nbsp;6&nbsp;至&nbsp;10&nbsp;粒符石<br />⇒&nbsp;添加為紅色羽毛符石<br />•&nbsp;紅色羽毛符石不能轉化<br />•&nbsp;召喚師不能引爆<br />&nbsp;&nbsp;&nbsp;紅色羽毛符石<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;將紅色羽毛符石引爆，<br />&nbsp;&nbsp;&nbsp;每粒扣除召喚師<br />&nbsp;&nbsp;&nbsp;20%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                977
+            ]
         },
         "5763": {
             "title": "【敵屬符石起手盾】",
@@ -30742,7 +30902,10 @@
         "5768": {
             "title": "【符石轉換】",
             "desc": "•&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;五屬符石各&nbsp;6&nbsp;粒",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "5769": {
             "title": "【擴散燃燒】",
@@ -32024,27 +32187,42 @@
         "5983": {
             "title": "【突擊 ‧ 紅豆包】",
             "desc": "•&nbsp;突擊&nbsp;1&nbsp;次<br />•&nbsp;隨機&nbsp;1&nbsp;個成員被扔「紅豆包」<br />⇒&nbsp;該成員頭像出現「紅豆包」圖示",
-            "custom_desc": "<span class=\"annotation\">ambush 10</span>"
+            "custom_desc": "<span class=\"annotation\">ambush 10</span>",
+            "icons": [
+                980
+            ]
         },
         "5984": {
             "title": "【突擊 ‧ 紅豆包】",
             "desc": "•&nbsp;突擊&nbsp;1&nbsp;次<br />•&nbsp;隨機&nbsp;1&nbsp;個成員被扔「紅豆包」<br />⇒&nbsp;該成員頭像出現「紅豆包」圖示",
-            "custom_desc": "<span class=\"annotation\">ambush</span>"
+            "custom_desc": "<span class=\"annotation\">ambush</span>",
+            "icons": [
+                980
+            ]
         },
         "5985": {
             "title": "【突擊 ‧ 紅豆包】",
             "desc": "•&nbsp;突擊&nbsp;1&nbsp;次<br />•&nbsp;隨機&nbsp;1&nbsp;個成員被扔「紅豆包」<br />⇒&nbsp;該成員頭像出現「紅豆包」圖示",
-            "custom_desc": "<span class=\"annotation\">ambush</span>"
+            "custom_desc": "<span class=\"annotation\">ambush</span>",
+            "icons": [
+                980
+            ]
         },
         "5986": {
             "title": "【突擊 ‧ 紅豆包】",
             "desc": "•&nbsp;突擊&nbsp;1&nbsp;次<br />•&nbsp;隨機&nbsp;1&nbsp;個成員被扔「紅豆包」<br />⇒&nbsp;該成員頭像出現「紅豆包」圖示",
-            "custom_desc": "<span class=\"annotation\">ambush</span>"
+            "custom_desc": "<span class=\"annotation\">ambush</span>",
+            "icons": [
+                980
+            ]
         },
         "5987": {
             "title": "【突擊 ‧ 紅豆包】",
             "desc": "•&nbsp;突擊&nbsp;1&nbsp;次<br />•&nbsp;隨機&nbsp;1&nbsp;個成員被扔「紅豆包」<br />⇒&nbsp;該成員頭像出現「紅豆包」圖示",
-            "custom_desc": "<span class=\"annotation\">ambush</span>"
+            "custom_desc": "<span class=\"annotation\">ambush</span>",
+            "icons": [
+                980
+            ]
         },
         "5988": {
             "title": "【鋼線符石 (荊棘符石)】",
@@ -32454,7 +32632,7 @@
             ],
             "alticons": [
                 [
-                    1208,
+                    1761,
                     1054
                 ],
                 [
@@ -33078,7 +33256,10 @@
         "6167": {
             "title": "【結界地型．石化狀態 - 結界地型失效】",
             "desc": "•&nbsp;6x5&nbsp;個位置出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆<br /><br />•&nbsp;敵人置身石化狀態時<br />⇒&nbsp;上述「結界地型」失效",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                965
+            ]
         },
         "6168": {
             "title": "【暴風・烈毒狀態 - 暴風失效】",
@@ -34298,7 +34479,10 @@
         "6341": {
             "title": "【禁消地型】",
             "desc": "•&nbsp;6x5&nbsp;個位置出現禁消地型<br />•&nbsp;地型內的符石不能消除",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                998
+            ]
         },
         "6342": {
             "title": "【1 步限制】",
@@ -34624,6 +34808,9 @@
             "custom_desc": "",
             "icons": [
                 133
+            ],
+            "keywords": [
+                "大傷盾"
             ]
         },
         "6389": {
@@ -34632,6 +34819,9 @@
             "custom_desc": "",
             "icons": [
                 132
+            ],
+            "keywords": [
+                "大傷盾"
             ]
         },
         "6390": {
@@ -34640,6 +34830,9 @@
             "custom_desc": "",
             "icons": [
                 131
+            ],
+            "keywords": [
+                "大傷盾"
             ]
         },
         "6391": {
