@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.503",
-        "dv": 11390,
-        "time": 1661166533
+        "version": "2022.504",
+        "dv": 11401,
+        "time": 1661419704
     },
     "monster": {
         "1": {
@@ -16552,6 +16552,11 @@
             "attribute": 2,
             "race": 5
         },
+        "6569": {
+            "name": "獸道征途 ‧ 凱撒",
+            "attribute": 1,
+            "race": 2
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -18542,15 +18547,30 @@
             "attribute": 2,
             "race": 5
         },
+        "10280": {
+            "name": "獸道征途 ‧ 凱撒",
+            "attribute": 1,
+            "race": 2
+        },
         "10281": {
             "name": "魔刀掠空 ‧ 珍娜",
             "attribute": 1,
             "race": 8
         },
+        "10282": {
+            "name": "重炮轟殺 ‧ 藍道夫",
+            "attribute": 2,
+            "race": 2
+        },
         "10283": {
             "name": "絕心械骨 ‧ 凱伊",
             "attribute": 3,
             "race": 10
+        },
+        "10286": {
+            "name": "死士動員 ‧ 馬卡斯",
+            "attribute": 1,
+            "race": 8
         },
         "10287": {
             "name": "毀星掠盡 ‧ 賈艾斯",
