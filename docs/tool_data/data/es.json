@@ -23402,19 +23402,28 @@
             ]
         },
         "4360": {
-            "title": "",
+            "title": "敵技4360",
             "desc": "#title0#【無法控制】<br />#desc0#•&nbsp;敵人不會被附上狀態<br /><br />#title0#【四段生命&nbsp;25%】<br />#desc0#•&nbsp;敵人生命分為&nbsp;4&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />#title0#▋階段&nbsp;1<br />#desc0#<br />#title1#【敵屬變水】<br />#desc1#•&nbsp;敵人轉換為水屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【凍結圍城】<br />#desc1#•&nbsp;進場時將所有符石<br />⇒&nbsp;添加為凍結符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(未凍結狀態)<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;將未凍結狀態的符石<br />⇒&nbsp;添加為冰封狀態<br />•&nbsp;冰封狀態下的符石&nbsp;3&nbsp;回合內<br />⇒&nbsp;不能消除、轉化或引爆<br /><br />#title1#【起結有序】<br />#desc1#需以指定位置&nbsp;(綠色漩渦)&nbsp;<br />開始轉珠及在指定位置<br />(紅色漩渦)&nbsp;結束轉珠。<br /><br />未有達成上述條件：<br />⓵&nbsp;全隊攻擊力變為&nbsp;0<br />⓶&nbsp;無法進行回復<br /><br />#title1#【消敵人克制屬性符石禁咒】<br />#desc1#•&nbsp;敵人克制的屬性符石<br />⇒&nbsp;無法被消除<br /><br />#title0#▋階段&nbsp;2<br />#desc0#<br />#title1#【敵屬變火】<br />#desc1#•&nbsp;敵人轉換為火屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【角色符石地型盾】<br />#desc1#隨機鎖定&nbsp;2&nbsp;個位置。<br />「移動符石時間完結一刻」<br />角色符石需置於鎖定位置內，<br />該角色才能<br />對敵人造成攻擊傷害。<br />其他成員攻擊力變&nbsp;0。<br /><br />#title1#【反饋】<br />#desc1#•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點的傷害<br /><br />#title1#【消敵人克制屬性符石禁咒】<br />#desc1#•&nbsp;敵人克制的屬性符石<br />⇒&nbsp;無法被消除<br /><br />#title0#▋階段&nbsp;3<br />#desc0#<br />#title1#【敵屬變木】<br />#desc1#•&nbsp;敵人轉換為木屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【瘴氣】<br />#desc1#•&nbsp;最左方及最右方直行位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />#title1#【反首消木符石盾&nbsp;-&nbsp;反擊】<br />#desc1#首批消除木符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;500%&nbsp;攻擊傷害<br /><br />#title1#【消敵人克制屬性符石禁咒】<br />#desc1#•&nbsp;敵人克制的屬性符石<br />⇒&nbsp;無法被消除<br /><br />#title0#▋階段&nbsp;4<br />#desc0#<br />#title1#【敵屬變水】<br />#desc1#•&nbsp;敵人轉換為水屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【淨世】<br />#desc1#•&nbsp;進場時消除召喚師<br />&nbsp;&nbsp;所有附加效果，<br />&nbsp;&nbsp;相關技能&nbsp;CD&nbsp;將被重置<br /><br />#title1#【水連擊零化】<br />#desc1#首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />#title1#【克制敵屬強化限制形狀盾】<br />#desc1#•&nbsp;在指定位置消除<br />&nbsp;&nbsp;克制敵人屬性的強化符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />#title1#【符石轉水】<br />#desc1#•&nbsp;每回合將水以外<br />&nbsp;&nbsp;數量最少的&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為水符石",
-            "custom_desc": ""
+            "custom_desc": "七封災厄 (核心封閉階段的本體)<br /><code>#title#</code>和<code>#desc#</code>為新增的敘述分段折疊功能，本技能表暫未支援",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4361": {
-            "title": "",
+            "title": "敵技4361",
             "desc": "•&nbsp;敵人轉換為水屬性<br /><br />•&nbsp;進場時將場上的符石<br />⇒&nbsp;變回原始模樣<br /><br />•&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量的<br />&nbsp;「水、火、木及心」強化符石<br /><br />•&nbsp;首批消除心符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;500%&nbsp;攻擊傷害<br /><br />•&nbsp;敵人不會被附上狀態<br /><br />•&nbsp;敵人不會受到任何傷害",
-            "custom_desc": ""
+            "custom_desc": "七封災厄 (核心張開階段的本體)",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4362": {
-            "title": "",
+            "title": "【封王核心】",
             "desc": "#title0#【封王核心】<br />#desc0#<br /><br />#title0#【核心封閉時】<br />#desc0#•「常世否定&nbsp;‧&nbsp;姬氏」<br />&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒&nbsp;張開核心<br /><br />#title0#【核心張開後】<br />#desc0#<br />#title1#【「水、火、木」強化<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;連擊相等盾】<br />#desc1#•&nbsp;同時首批消除相同組數的<br />&nbsp;「水、火及木」強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />#title1#【十字限盾&nbsp;(≥3&nbsp;組)】<br />#desc1#•&nbsp;以【十】形首批消除<br />&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "七封災厄 (核心)<br /><code>#title#</code>和<code>#desc#</code>為新增的敘述分段折疊功能，本技能表暫未支援",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "4363": {
             "title": "【眼球地型 ‧ 光暗屬盾 - 水火木限制 ‧ 幽閉之途 ‧ 中毒 ‧ 無法控制】",
