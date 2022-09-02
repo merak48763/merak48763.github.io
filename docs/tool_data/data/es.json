@@ -11,11 +11,14 @@
             "custom_desc": ""
         },
         "1": {
-            "title": "強化盾",
+            "title": "強化突破",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒該屬性才能對敵人造成傷害<br />⇒否則敵人承受傷害變為&nbsp;1",
             "custom_desc": "",
             "icons": [
                 902
+            ],
+            "keywords": [
+                "強化盾"
             ]
         },
         "2": {
@@ -51,7 +54,7 @@
             ]
         },
         "6": {
-            "title": "光暗屬輪轉 ‧ 心剋轉當前",
+            "title": "光暗屬輪轉 ‧ 心剋轉敵屬",
             "desc": "敵人會在&nbsp;CD&nbsp;0&nbsp;時同時發動攻擊和轉屬性，每回合敵人會將符石轉換至與敵人屬性相同。",
             "custom_desc": "",
             "icons": [
@@ -59,7 +62,7 @@
             ]
         },
         "7": {
-            "title": "光暗屬輪轉 ‧ 心剋轉當前 ‧ 消剋屬吸血",
+            "title": "光暗屬輪轉 ‧ 心剋轉敵屬 ‧ 消剋屬吸血",
             "desc": "敵人會在&nbsp;CD&nbsp;0&nbsp;時同時發動攻擊和轉屬性，每回合敵人會將符石轉換至與敵人屬性相同。如召喚師消除的符石與敵人屬性相同，敵人會吸取召喚師生命力轉化為自身生命力",
             "custom_desc": "<ul><li>消除敵屬符石的回合，召喚師會被扣除30%血量</li><li>每消除一組敵屬符石，敵人回復2%血量</li></ul>",
             "icons": [
@@ -91,7 +94,7 @@
             ]
         },
         "15": {
-            "title": "越戰越強-銀",
+            "title": "越戰越強",
             "desc": "敵人生命力愈低時，攻擊力會提升，達到一定血量時並會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan</span>",
             "icons": [
@@ -99,7 +102,7 @@
             ]
         },
         "16": {
-            "title": "越戰越強-金",
+            "title": "越戰越強",
             "desc": "敵人生命力愈低時，攻擊力會大幅提升，生命力&nbsp;30%&nbsp;或以下時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_ex</span>",
             "icons": [
@@ -123,34 +126,50 @@
             ]
         },
         "19": {
-            "title": "相剋強化盾-破盾轉屬",
+            "title": "剋屬強化盾-破盾轉屬",
             "desc": "只有消除克制敵人屬性的強化符石才會對敵人造成傷害，成功發動攻擊時<br />&nbsp;(&gt;1)&nbsp;，敵人會在攻擊回合(CD&nbsp;0)&nbsp;時轉換屬性。如第&nbsp;5&nbsp;回合敵人攻擊回合沒有受到任何傷害，便會直接轉換屬性",
             "custom_desc": ""
         },
         "20": {
-            "title": "三屬輪轉 ‧ 心剋轉當前 ‧ 消剋屬吸血",
+            "title": "三屬輪轉 ‧ 心剋轉敵屬 ‧ 消剋屬吸血",
             "desc": "敵人到&nbsp;CD&nbsp;0&nbsp;時會同時發動攻擊和轉屬性，每&nbsp;1&nbsp;回合敵人會將召喚師符石轉換至同屬性。如果召喚師消除的符石與敵人屬性相同時，敵人會吸取召喚師生命力轉化為自身生命力",
             "custom_desc": ""
         },
         "21": {
-            "title": "隨機3~6Combo追擊弱盾",
+            "title": "隨機3~6Combo盾(±2)-追擊",
             "desc": "隨機指定連擊&nbsp;(Combo)&nbsp;數，當達成或接近指定的連擊&nbsp;(Combo)&nbsp;(差距為&nbsp;2&nbsp;連擊&nbsp;(Combo)&nbsp;或以下)&nbsp;才會對敵人造成攻擊傷害&nbsp;(需消除符石)。達成上述指定的連擊&nbsp;(Combo)&nbsp;數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多",
-            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li><li>相差1 Combo時，敵人所受傷害減少65%</li><li>相差2 Combo時，敵人所受傷害減少85%</li></ul>"
+            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li><li>相差1 Combo時，敵人所受傷害減少65%</li><li>相差2 Combo時，敵人所受傷害減少85%</li></ul>",
+            "icons": [],
+            "keywords": [
+                "指定連擊法印"
+            ]
         },
         "22": {
-            "title": "隨機3~6Combo追擊盾",
+            "title": "隨機3~6Combo盾-追擊",
             "desc": "隨機指定連擊&nbsp;(Combo)&nbsp;數，當達成指定的連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害&nbsp;(需消除符石)。達成上述指定的連擊&nbsp;(Combo)&nbsp;數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多",
-            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li></ul>"
+            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li></ul>",
+            "icons": [],
+            "keywords": [
+                "指定連擊法印"
+            ]
         },
         "23": {
-            "title": "隨機3~6Combo追擊弱盾-轉",
+            "title": "隨機3~6Combo盾(±2)-轉珠顯示-追擊",
             "desc": "在開始移動符石時，出現隨機指定的連擊&nbsp;(Combo)&nbsp;數，當達成或接近指定的連擊&nbsp;(Combo)&nbsp;(差距為&nbsp;2&nbsp;連擊&nbsp;(Combo)&nbsp;或以下)&nbsp;才會對敵人造成攻擊傷害&nbsp;(需消除符石)。達成上述指定的連擊&nbsp;(Combo)&nbsp;數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多",
-            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li><li>相差1 Combo時，敵人所受傷害減少65%</li><li>相差2 Combo時，敵人所受傷害減少85%</li></ul>"
+            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li><li>相差1 Combo時，敵人所受傷害減少65%</li><li>相差2 Combo時，敵人所受傷害減少85%</li></ul>",
+            "icons": [],
+            "keywords": [
+                "指定連擊法印"
+            ]
         },
         "24": {
-            "title": "隨機3~6Combo追擊盾-轉",
+            "title": "隨機3~6Combo盾-轉珠顯示-追擊",
             "desc": "在開始移動符石時，出現隨機指定的連擊&nbsp;(Combo)&nbsp;數，當達成指定的連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害&nbsp;(需消除符石)。達成上述指定的連擊&nbsp;(Combo)&nbsp;數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多",
-            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li></ul>"
+            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li></ul>",
+            "icons": [],
+            "keywords": [
+                "指定連擊法印"
+            ]
         },
         "25": {
             "title": "人類防禦50%",
@@ -346,7 +365,7 @@
             ]
         },
         "49": {
-            "title": "黑白符石",
+            "title": "幽閉空間",
             "desc": "將所有符石變為黑白色",
             "custom_desc": "",
             "icons": [
@@ -383,6 +402,9 @@
             "custom_desc": "計算右下角的Combo",
             "icons": [
                 1
+            ],
+            "keywords": [
+                "固定連擊盾"
             ]
         },
         "54": {
@@ -391,6 +413,9 @@
             "custom_desc": "計算右下角的Combo",
             "icons": [
                 2
+            ],
+            "keywords": [
+                "固定連擊盾"
             ]
         },
         "55": {
@@ -399,6 +424,9 @@
             "custom_desc": "計算右下角的Combo",
             "icons": [
                 3
+            ],
+            "keywords": [
+                "固定連擊盾"
             ]
         },
         "56": {
@@ -407,6 +435,9 @@
             "custom_desc": "計算右下角的Combo",
             "icons": [
                 4
+            ],
+            "keywords": [
+                "固定連擊盾"
             ]
         },
         "57": {
@@ -415,6 +446,9 @@
             "custom_desc": "計算右下角的Combo",
             "icons": [
                 5
+            ],
+            "keywords": [
+                "固定連擊盾"
             ]
         },
         "58": {
@@ -423,6 +457,9 @@
             "custom_desc": "計算右下角的Combo",
             "icons": [
                 6
+            ],
+            "keywords": [
+                "固定連擊盾"
             ]
         },
         "59": {
@@ -503,12 +540,12 @@
             ]
         },
         "69": {
-            "title": "半血弱盾",
+            "title": "半血盾",
             "desc": "當召喚師生命力&nbsp;50%&nbsp;以下時，才會對敵人造成攻擊傷害",
             "custom_desc": ""
         },
         "70": {
-            "title": "同屬強化盾",
+            "title": "敵屬強化盾",
             "desc": "只有消除與敵人屬性相同的強化符石才會對敵人造成傷害",
             "custom_desc": ""
         },
@@ -545,7 +582,7 @@
             ]
         },
         "75": {
-            "title": "三屬盾",
+            "title": "三原屬盾",
             "desc": "同時消除水符石，火符石及木符石才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -569,27 +606,36 @@
             ]
         },
         "78": {
-            "title": "強制自爆5000",
+            "title": "自爆5000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5,000&nbsp;點傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "79": {
-            "title": "強制自爆10000",
+            "title": "自爆10000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10,000&nbsp;點傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "80": {
-            "title": "強制自爆20000",
+            "title": "自爆20000",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20,000&nbsp;點傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "81": {
@@ -617,7 +663,7 @@
             ]
         },
         "84": {
-            "title": "逢二回復2000",
+            "title": "每2回-回復2000",
             "desc": "每&nbsp;2&nbsp;回合敵人會讓召喚師增加&nbsp;2,000&nbsp;點生命力",
             "custom_desc": "",
             "icons": [
@@ -625,7 +671,7 @@
             ]
         },
         "85": {
-            "title": "逢二回復3000",
+            "title": "每2回-回復3000",
             "desc": "每&nbsp;2&nbsp;回合敵人會讓召喚師增加&nbsp;3,000&nbsp;點生命力",
             "custom_desc": "",
             "icons": [
@@ -633,7 +679,7 @@
             ]
         },
         "86": {
-            "title": "逢二回復4000",
+            "title": "每2回-回復4000",
             "desc": "每&nbsp;2&nbsp;回合敵人會讓召喚師增加&nbsp;4,000&nbsp;點生命力",
             "custom_desc": "",
             "icons": [
@@ -649,7 +695,7 @@
             ]
         },
         "88": {
-            "title": "逢三技能回復",
+            "title": "每3回-技能回復",
             "desc": "每&nbsp;3&nbsp;回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
             "custom_desc": "",
             "icons": [
@@ -657,7 +703,7 @@
             ]
         },
         "89": {
-            "title": "逢四技能回復",
+            "title": "每4回-技能回復",
             "desc": "每&nbsp;4&nbsp;回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
             "custom_desc": "",
             "icons": [
@@ -665,7 +711,7 @@
             ]
         },
         "90": {
-            "title": "刷新符石",
+            "title": "刷新版面",
             "desc": "首回合敵人會將所有符石隨機轉換",
             "custom_desc": "",
             "icons": [
@@ -673,7 +719,7 @@
             ]
         },
         "91": {
-            "title": "逢二刷新符石",
+            "title": "每2回-刷新版面",
             "desc": "每&nbsp;2&nbsp;回合敵人會將所有符石隨機轉換",
             "custom_desc": "",
             "icons": [
@@ -681,7 +727,7 @@
             ]
         },
         "92": {
-            "title": "逢三刷新符石",
+            "title": "每3回-刷新版面",
             "desc": "每&nbsp;3&nbsp;回合敵人會將所有符石隨機轉換",
             "custom_desc": "",
             "icons": [
@@ -733,7 +779,7 @@
             ]
         },
         "100": {
-            "title": "水轉自身",
+            "title": "水轉敵屬",
             "desc": "每回合敵人會將水符石轉化為敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -741,7 +787,7 @@
             ]
         },
         "101": {
-            "title": "火轉自身",
+            "title": "火轉敵屬",
             "desc": "每回合敵人會將火符石轉化為敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -749,7 +795,7 @@
             ]
         },
         "102": {
-            "title": "木轉自身",
+            "title": "木轉敵屬",
             "desc": "每回合敵人會將木符石轉化為敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -757,7 +803,7 @@
             ]
         },
         "103": {
-            "title": "光轉自身",
+            "title": "光轉敵屬",
             "desc": "每回合敵人會將光符石轉化為敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -765,7 +811,7 @@
             ]
         },
         "104": {
-            "title": "暗轉自身",
+            "title": "暗轉敵屬",
             "desc": "每回合敵人會將暗符石轉化為敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -773,7 +819,7 @@
             ]
         },
         "105": {
-            "title": "心轉自身",
+            "title": "心轉敵屬",
             "desc": "每回合敵人會將心符石轉化為敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -781,7 +827,7 @@
             ]
         },
         "106": {
-            "title": "水轉相剋",
+            "title": "水轉相剋屬",
             "desc": "每回合敵人會將水符石轉化為克制敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -789,7 +835,7 @@
             ]
         },
         "107": {
-            "title": "火轉相剋",
+            "title": "火轉相剋屬",
             "desc": "每回合敵人會將火符石轉化為克制敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -797,7 +843,7 @@
             ]
         },
         "108": {
-            "title": "木轉相剋",
+            "title": "木轉相剋屬",
             "desc": "每回合敵人會將木符石轉化為克制敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -805,7 +851,7 @@
             ]
         },
         "109": {
-            "title": "光轉相剋",
+            "title": "光轉相剋屬",
             "desc": "每回合敵人會將光符石轉化為克制敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -813,7 +859,7 @@
             ]
         },
         "110": {
-            "title": "暗轉相剋",
+            "title": "暗轉相剋屬",
             "desc": "每回合敵人會將暗符石轉化為克制敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -821,7 +867,7 @@
             ]
         },
         "111": {
-            "title": "心轉相剋",
+            "title": "心轉相剋屬",
             "desc": "每回合敵人會將心符石轉化為克制敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -829,7 +875,7 @@
             ]
         },
         "112": {
-            "title": "復活變強",
+            "title": "復活",
             "desc": "敵人死亡後會復活&nbsp;1&nbsp;次，並提升&nbsp;2&nbsp;倍攻擊力，生命力及防禦力",
             "custom_desc": ""
         },
@@ -922,27 +968,36 @@
             ]
         },
         "124": {
-            "title": "自爆5000",
+            "title": "自爆5000-主動技除外",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5000&nbsp;點傷害，因主動技能而死亡除外",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "125": {
-            "title": "自爆10000",
+            "title": "自爆10000-主動技除外",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10000&nbsp;點傷害，因主動技能而死亡除外",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "126": {
-            "title": "自爆20000",
+            "title": "自爆20000-主動技除外",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20000&nbsp;點傷害，因主動技能而死亡除外",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "127": {
@@ -951,11 +1006,14 @@
             "custom_desc": ""
         },
         "128": {
-            "title": "強化防禦盾",
+            "title": "強化防禦",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒&nbsp;敵人所受該屬性傷害<br />&nbsp;&nbsp;&nbsp;&nbsp;變為&nbsp;1",
             "custom_desc": "不受到兼具影響",
             "icons": [
                 1016
+            ],
+            "keywords": [
+                "反強化盾"
             ]
         },
         "129": {
@@ -964,6 +1022,9 @@
             "custom_desc": "不受到兼具影響",
             "icons": [
                 1015
+            ],
+            "keywords": [
+                "反強化盾"
             ]
         },
         "130": {
@@ -1092,7 +1153,7 @@
             ]
         },
         "146": {
-            "title": "血防同步-低",
+            "title": "血防同步",
             "desc": "召喚師當前生命力愈低時，敵人防禦力愈低",
             "custom_desc": ""
         },
@@ -1129,87 +1190,117 @@
             ]
         },
         "151": {
-            "title": "自爆2000",
+            "title": "自爆2000-主動技除外",
             "desc": "敵人死亡後會對召喚師造成&nbsp;2000&nbsp;點傷害，因主動技能而死亡除外",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "152": {
-            "title": "自爆5000-隊長減傷",
+            "title": "自爆5000-主動技除外-隊長技減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5000&nbsp;點傷害，因主動技能而死亡除外，隊長技能可減低傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "153": {
-            "title": "自爆10000-隊長減傷",
+            "title": "自爆10000-主動技除外-隊長技減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10000&nbsp;點傷害，因主動技能而死亡除外，隊長技能可減低傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "154": {
-            "title": "自爆20000-隊長減傷",
+            "title": "自爆20000-主動技除外-隊長技減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20000&nbsp;點傷害，因主動技能而死亡除外，隊長技能可減低傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "155": {
-            "title": "自爆5000-主動減傷",
+            "title": "自爆5000-主動技除外-主動技減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5000&nbsp;點傷害，因主動技能而死亡除外，主動技能可減低傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "156": {
-            "title": "自爆10000-主動減傷",
+            "title": "自爆10000-主動技除外-主動技減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10000&nbsp;點傷害，因主動技能而死亡除外，主動技能可減低傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "157": {
-            "title": "自爆20000-主動減傷",
+            "title": "自爆20000-主動技除外-主動技減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20000&nbsp;點傷害，因主動技能而死亡除外，主動技能可減低傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "158": {
-            "title": "弱自爆5000",
+            "title": "弱自爆5000-主動技除外",
             "desc": "敵人死亡後會對召喚師造成&nbsp;5000&nbsp;點傷害，因主動技能而死亡除外，隊長及主動技能皆可減低傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "159": {
-            "title": "弱自爆10000",
+            "title": "弱自爆10000-主動技除外",
             "desc": "敵人死亡後會對召喚師造成&nbsp;10000&nbsp;點傷害，因主動技能而死亡除外，隊長及主動技能皆可減低傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "160": {
-            "title": "弱自爆20000",
+            "title": "弱自爆20000-主動技除外",
             "desc": "敵人死亡後會對召喚師造成&nbsp;20000&nbsp;點傷害，因主動技能而死亡除外，隊長及主動技能皆可減低傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "161": {
-            "title": "扣血30%-隊長減傷",
+            "title": "扣血30%-隊長技減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，隊長技除外）",
             "custom_desc": "",
             "icons": [
@@ -1217,7 +1308,7 @@
             ]
         },
         "162": {
-            "title": "扣血50%-隊長減傷",
+            "title": "扣血50%-隊長技減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，隊長技除外）",
             "custom_desc": "",
             "icons": [
@@ -1225,7 +1316,7 @@
             ]
         },
         "163": {
-            "title": "扣血70%-隊長減傷",
+            "title": "扣血70%-隊長技減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，隊長技除外）",
             "custom_desc": "",
             "icons": [
@@ -1233,7 +1324,7 @@
             ]
         },
         "164": {
-            "title": "扣血90%-隊長減傷",
+            "title": "扣血90%-隊長技減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，隊長技除外）",
             "custom_desc": "",
             "icons": [
@@ -1241,7 +1332,7 @@
             ]
         },
         "165": {
-            "title": "扣血30%-主動減傷",
+            "title": "扣血30%-主動技減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，主動技除外）",
             "custom_desc": "",
             "icons": [
@@ -1249,7 +1340,7 @@
             ]
         },
         "166": {
-            "title": "扣血50%-主動減傷",
+            "title": "扣血50%-主動技減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，主動技除外）",
             "custom_desc": "",
             "icons": [
@@ -1257,7 +1348,7 @@
             ]
         },
         "167": {
-            "title": "扣血70%-主動減傷",
+            "title": "扣血70%-主動技減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，主動技除外）",
             "custom_desc": "",
             "icons": [
@@ -1265,7 +1356,7 @@
             ]
         },
         "168": {
-            "title": "扣血90%-主動減傷",
+            "title": "扣血90%-主動技減傷",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;&nbsp;(無視所有減傷效果和意志技能，主動技除外）",
             "custom_desc": "",
             "icons": [
@@ -1337,7 +1428,7 @@
             ]
         },
         "177": {
-            "title": "越戰越強-鐵",
+            "title": "越戰越強",
             "desc": "敵人生命力愈低時，攻擊力會稍微提升",
             "custom_desc": "<span class=\"annotation\">crescendo</span>",
             "icons": [
@@ -1345,7 +1436,7 @@
             ]
         },
         "178": {
-            "title": "越戰越強-銅",
+            "title": "越戰越強",
             "desc": "敵人生命力愈低時，攻擊力會作一定幅度的提升",
             "custom_desc": "<span class=\"annotation\">crescendo_ex</span>",
             "icons": [
@@ -1353,15 +1444,18 @@
             ]
         },
         "179": {
-            "title": "自爆2000-隊長減傷",
+            "title": "自爆2000-主動技除外-隊長技減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;2000&nbsp;點傷害，因主動技能而死亡除外，隊長技能可以減少傷害",
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "180": {
-            "title": "自爆2000-主動減傷",
+            "title": "自爆2000-主動技除外-主動技減傷",
             "desc": "敵人死亡後會對召喚師造成&nbsp;2000&nbsp;點傷害，因主動技能而死亡除外，主動技能可以減少傷害",
             "custom_desc": "",
             "icons": [
@@ -1369,7 +1463,7 @@
             ]
         },
         "181": {
-            "title": "弱自爆2000",
+            "title": "弱自爆2000-主動技除外",
             "desc": "敵人死亡後會對召喚師造成&nbsp;2000&nbsp;點傷害，因主動技能而死亡除外，隊長技能及主動技能皆可減少傷害",
             "custom_desc": "",
             "icons": [
@@ -23396,7 +23490,7 @@
         "4359": {
             "title": "【封王核心】",
             "desc": "【封王核心】<br /><br />【核心封閉時】<br />•「存在質疑&nbsp;‧&nbsp;路西法」<br />&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒&nbsp;張開核心<br /><br />【核心張開後】<br />需同時達成以下&nbsp;2&nbsp;個條件，<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1：<br />⓵「光、暗及心」強化<br />&nbsp;&nbsp;&nbsp;&nbsp;連擊相等盾<br />⓶&nbsp;不能首批消除<br />&nbsp;&nbsp;&nbsp;&nbsp;水、火或木符石",
-            "custom_desc": "六封災厄 (核心)<br />「無視反首消」類技能對此敵技無效，快用你那無敵的手轉想想辦法吧<br />「無視連擊相等」類技能正常運作",
+            "custom_desc": "六封災厄 (核心)<br /><ul><li>「無視反首消」類技能對此敵技無效，快用你那無敵的手轉想想辦法吧</li><li>「無視連擊相等」類技能正常運作</li></ul>",
             "keywords": [
                 "災厄級"
             ]
@@ -23404,7 +23498,7 @@
         "4360": {
             "title": "敵技4360",
             "desc": "#title0#【無法控制】<br />#desc0#•&nbsp;敵人不會被附上狀態<br /><br />#title0#【四段生命&nbsp;25%】<br />#desc0#•&nbsp;敵人生命分為&nbsp;4&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />#title0#▋階段&nbsp;1<br />#desc0#<br />#title1#【敵屬變水】<br />#desc1#•&nbsp;敵人轉換為水屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【凍結圍城】<br />#desc1#•&nbsp;進場時將所有符石<br />⇒&nbsp;添加為凍結符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(未凍結狀態)<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;將未凍結狀態的符石<br />⇒&nbsp;添加為冰封狀態<br />•&nbsp;冰封狀態下的符石&nbsp;3&nbsp;回合內<br />⇒&nbsp;不能消除、轉化或引爆<br /><br />#title1#【起結有序】<br />#desc1#需以指定位置&nbsp;(綠色漩渦)&nbsp;<br />開始轉珠及在指定位置<br />(紅色漩渦)&nbsp;結束轉珠。<br /><br />未有達成上述條件：<br />⓵&nbsp;全隊攻擊力變為&nbsp;0<br />⓶&nbsp;無法進行回復<br /><br />#title1#【消敵人克制屬性符石禁咒】<br />#desc1#•&nbsp;敵人克制的屬性符石<br />⇒&nbsp;無法被消除<br /><br />#title0#▋階段&nbsp;2<br />#desc0#<br />#title1#【敵屬變火】<br />#desc1#•&nbsp;敵人轉換為火屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【角色符石地型盾】<br />#desc1#隨機鎖定&nbsp;2&nbsp;個位置。<br />「移動符石時間完結一刻」<br />角色符石需置於鎖定位置內，<br />該角色才能<br />對敵人造成攻擊傷害。<br />其他成員攻擊力變&nbsp;0。<br /><br />#title1#【反饋】<br />#desc1#•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點的傷害<br /><br />#title1#【消敵人克制屬性符石禁咒】<br />#desc1#•&nbsp;敵人克制的屬性符石<br />⇒&nbsp;無法被消除<br /><br />#title0#▋階段&nbsp;3<br />#desc0#<br />#title1#【敵屬變木】<br />#desc1#•&nbsp;敵人轉換為木屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【瘴氣】<br />#desc1#•&nbsp;最左方及最右方直行位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />#title1#【反首消木符石盾&nbsp;-&nbsp;反擊】<br />#desc1#首批消除木符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;500%&nbsp;攻擊傷害<br /><br />#title1#【消敵人克制屬性符石禁咒】<br />#desc1#•&nbsp;敵人克制的屬性符石<br />⇒&nbsp;無法被消除<br /><br />#title0#▋階段&nbsp;4<br />#desc0#<br />#title1#【敵屬變水】<br />#desc1#•&nbsp;敵人轉換為水屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【淨世】<br />#desc1#•&nbsp;進場時消除召喚師<br />&nbsp;&nbsp;所有附加效果，<br />&nbsp;&nbsp;相關技能&nbsp;CD&nbsp;將被重置<br /><br />#title1#【水連擊零化】<br />#desc1#首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />#title1#【克制敵屬強化限制形狀盾】<br />#desc1#•&nbsp;在指定位置消除<br />&nbsp;&nbsp;克制敵人屬性的強化符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />#title1#【符石轉水】<br />#desc1#•&nbsp;每回合將水以外<br />&nbsp;&nbsp;數量最少的&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為水符石",
-            "custom_desc": "七封災厄 (核心封閉階段的本體)<br /><code>#title#</code>和<code>#desc#</code>為新增的敘述分段折疊功能，本技能表暫未支援",
+            "custom_desc": "七封災厄 (核心封閉階段的本體)",
             "keywords": [
                 "災厄級"
             ]
@@ -23412,7 +23506,7 @@
         "4361": {
             "title": "敵技4361",
             "desc": "•&nbsp;敵人轉換為水屬性<br /><br />•&nbsp;進場時將場上的符石<br />⇒&nbsp;變回原始模樣<br /><br />•&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量的<br />&nbsp;「水、火、木及心」強化符石<br /><br />•&nbsp;首批消除心符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;500%&nbsp;攻擊傷害<br /><br />•&nbsp;敵人不會被附上狀態<br /><br />•&nbsp;敵人不會受到任何傷害",
-            "custom_desc": "七封災厄 (核心張開階段的本體)",
+            "custom_desc": "七封災厄 (核心張開階段的本體)<br /><ul><li>水、火、木強化各8顆，心強化6顆</li></ul>",
             "keywords": [
                 "災厄級"
             ]
@@ -23420,7 +23514,7 @@
         "4362": {
             "title": "【封王核心】",
             "desc": "#title0#【封王核心】<br />#desc0#<br /><br />#title0#【核心封閉時】<br />#desc0#•「常世否定&nbsp;‧&nbsp;姬氏」<br />&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒&nbsp;張開核心<br /><br />#title0#【核心張開後】<br />#desc0#<br />#title1#【「水、火、木」強化<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;連擊相等盾】<br />#desc1#•&nbsp;同時首批消除相同組數的<br />&nbsp;「水、火及木」強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />#title1#【十字限盾&nbsp;(≥3&nbsp;組)】<br />#desc1#•&nbsp;以【十】形首批消除<br />&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": "七封災厄 (核心)<br /><code>#title#</code>和<code>#desc#</code>為新增的敘述分段折疊功能，本技能表暫未支援",
+            "custom_desc": "七封災厄 (核心)<br /><ul><li>「無視連擊相等」類技能正常運作</li><li>【十字限盾】不可連同十字外旁邊的符石消除，只消除十字形狀的5顆才算數</li><li>版面參考解 (by 天堂)：<span class=\"annotation\">fixed_board e0b0e0909090b0b0b0e0a0e0a0b090a0a0a0a0909090a0e0a0e090b0b0b0</span></li></ul>",
             "keywords": [
                 "災厄級"
             ]
@@ -33280,6 +33374,9 @@
             "custom_desc": "",
             "icons": [
                 1062
+            ],
+            "keywords": [
+                "遺言"
             ]
         },
         "6153": {
