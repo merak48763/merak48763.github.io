@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.504",
-        "dv": 19954,
-        "time": 1662024323
+        "version": "2022.505",
+        "dv": 19975,
+        "time": 1662632778
     },
     "es": {
         "0": {
@@ -257,6 +257,9 @@
             "custom_desc": "",
             "icons": [
                 807
+            ],
+            "keywords": [
+                "喋血屠刀"
             ]
         },
         "36": {
@@ -265,6 +268,9 @@
             "custom_desc": "",
             "icons": [
                 804
+            ],
+            "keywords": [
+                "喋血屠刀"
             ]
         },
         "37": {
@@ -273,6 +279,9 @@
             "custom_desc": "",
             "icons": [
                 805
+            ],
+            "keywords": [
+                "喋血屠刀"
             ]
         },
         "38": {
@@ -521,6 +530,9 @@
             "custom_desc": "",
             "icons": [
                 1007
+            ],
+            "keywords": [
+                "指定形狀盾"
             ]
         },
         "67": {
@@ -529,6 +541,9 @@
             "custom_desc": "",
             "icons": [
                 1007
+            ],
+            "keywords": [
+                "指定形狀盾"
             ]
         },
         "68": {
@@ -537,6 +552,9 @@
             "custom_desc": "",
             "icons": [
                 1007
+            ],
+            "keywords": [
+                "指定形狀盾"
             ]
         },
         "69": {
@@ -563,6 +581,9 @@
             "custom_desc": "",
             "icons": [
                 803
+            ],
+            "keywords": [
+                "喋血屠刀"
             ]
         },
         "73": {
@@ -571,6 +592,9 @@
             "custom_desc": "",
             "icons": [
                 808
+            ],
+            "keywords": [
+                "喋血屠刀"
             ]
         },
         "74": {
@@ -579,6 +603,9 @@
             "custom_desc": "",
             "icons": [
                 809
+            ],
+            "keywords": [
+                "喋血屠刀"
             ]
         },
         "75": {
@@ -1169,6 +1196,9 @@
             "custom_desc": "",
             "icons": [
                 903
+            ],
+            "keywords": [
+                "20%盾"
             ]
         },
         "148": {
@@ -1177,6 +1207,9 @@
             "custom_desc": "",
             "icons": [
                 903
+            ],
+            "keywords": [
+                "10%盾"
             ]
         },
         "149": {
@@ -1185,6 +1218,9 @@
             "custom_desc": "",
             "icons": [
                 903
+            ],
+            "keywords": [
+                "25%盾"
             ]
         },
         "150": {
@@ -1193,6 +1229,9 @@
             "custom_desc": "",
             "icons": [
                 903
+            ],
+            "keywords": [
+                "50%盾"
             ]
         },
         "151": {
@@ -1466,6 +1505,9 @@
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "181": {
@@ -1474,6 +1516,9 @@
             "custom_desc": "",
             "icons": [
                 1006
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "182": {
@@ -1591,7 +1636,7 @@
             ]
         },
         "197": {
-            "title": "隨機三屬盾-轉",
+            "title": "隨機三屬盾-轉珠顯示",
             "desc": "同時消除指定的&nbsp;3&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -1599,7 +1644,7 @@
             ]
         },
         "198": {
-            "title": "隨機四屬盾-轉",
+            "title": "隨機四屬盾-轉珠顯示",
             "desc": "同時消除指定的&nbsp;4&nbsp;種屬性符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -1612,6 +1657,9 @@
             "custom_desc": "",
             "icons": [
                 1761
+            ],
+            "keywords": [
+                "三屬盾"
             ]
         },
         "200": {
@@ -1620,6 +1668,9 @@
             "custom_desc": "",
             "icons": [
                 1761
+            ],
+            "keywords": [
+                "三屬盾"
             ]
         },
         "201": {
@@ -1628,6 +1679,9 @@
             "custom_desc": "",
             "icons": [
                 1761
+            ],
+            "keywords": [
+                "三屬盾"
             ]
         },
         "202": {
@@ -1636,6 +1690,9 @@
             "custom_desc": "",
             "icons": [
                 1761
+            ],
+            "keywords": [
+                "二屬盾"
             ]
         },
         "203": {
@@ -1644,6 +1701,9 @@
             "custom_desc": "",
             "icons": [
                 1761
+            ],
+            "keywords": [
+                "二屬盾"
             ]
         },
         "204": {
@@ -1920,6 +1980,9 @@
             "custom_desc": "",
             "icons": [
                 1761
+            ],
+            "keywords": [
+                "三屬盾"
             ]
         },
         "238": {
@@ -1928,6 +1991,9 @@
             "custom_desc": "",
             "icons": [
                 1761
+            ],
+            "keywords": [
+                "三屬盾"
             ]
         },
         "239": {
@@ -1936,6 +2002,9 @@
             "custom_desc": "",
             "icons": [
                 1761
+            ],
+            "keywords": [
+                "三屬盾"
             ]
         },
         "240": {
@@ -1944,6 +2013,9 @@
             "custom_desc": "",
             "icons": [
                 1761
+            ],
+            "keywords": [
+                "三屬盾"
             ]
         },
         "241": {
@@ -1952,6 +2024,9 @@
             "custom_desc": "",
             "icons": [
                 1761
+            ],
+            "keywords": [
+                "三屬盾"
             ]
         },
         "242": {
@@ -1960,6 +2035,9 @@
             "custom_desc": "",
             "icons": [
                 1761
+            ],
+            "keywords": [
+                "三屬盾"
             ]
         },
         "243": {
@@ -2249,7 +2327,7 @@
             ]
         },
         "279": {
-            "title": "7+Combo追擊盾",
+            "title": "7+Combo盾-追擊",
             "desc": "7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊",
             "custom_desc": "",
             "icons": [
@@ -2265,7 +2343,7 @@
             ]
         },
         "281": {
-            "title": "8+Combo追擊盾",
+            "title": "8+Combo盾-追擊",
             "desc": "8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊",
             "custom_desc": "",
             "icons": [
@@ -2297,7 +2375,7 @@
             ]
         },
         "285": {
-            "title": "隱藏-轉",
+            "title": "全版隱藏-轉珠顯示",
             "desc": "每回合開始移動符石時，才會顯示場上的符石",
             "custom_desc": "",
             "icons": [
@@ -2400,6 +2478,9 @@
             "custom_desc": "",
             "icons": [
                 1
+            ],
+            "keywords": [
+                "固定連擊盾"
             ]
         },
         "300": {
@@ -2408,6 +2489,9 @@
             "custom_desc": "",
             "icons": [
                 2
+            ],
+            "keywords": [
+                "固定連擊盾"
             ]
         },
         "301": {
@@ -2416,6 +2500,9 @@
             "custom_desc": "",
             "icons": [
                 3
+            ],
+            "keywords": [
+                "固定連擊盾"
             ]
         },
         "302": {
@@ -2424,6 +2511,9 @@
             "custom_desc": "",
             "icons": [
                 4
+            ],
+            "keywords": [
+                "固定連擊盾"
             ]
         },
         "303": {
@@ -2432,6 +2522,9 @@
             "custom_desc": "",
             "icons": [
                 5
+            ],
+            "keywords": [
+                "固定連擊盾"
             ]
         },
         "304": {
@@ -2440,6 +2533,9 @@
             "custom_desc": "",
             "icons": [
                 6
+            ],
+            "keywords": [
+                "固定連擊盾"
             ]
         },
         "305": {
@@ -2466,7 +2562,7 @@
             "custom_desc": ""
         },
         "309": {
-            "title": "越戰越強-金",
+            "title": "越戰越強",
             "desc": "敵人生命力愈低時，攻擊力會大幅提升，生命力&nbsp;30%&nbsp;或以下時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_ex</span>",
             "icons": [
@@ -2479,6 +2575,9 @@
             "custom_desc": "",
             "icons": [
                 1007
+            ],
+            "keywords": [
+                "指定形狀盾"
             ]
         },
         "311": {
@@ -2487,6 +2586,9 @@
             "custom_desc": "",
             "icons": [
                 1007
+            ],
+            "keywords": [
+                "指定形狀盾"
             ]
         },
         "312": {
@@ -2495,10 +2597,13 @@
             "custom_desc": "",
             "icons": [
                 1713
+            ],
+            "keywords": [
+                "二屬盾"
             ]
         },
         "313": {
-            "title": "隨機強化雙屬盾",
+            "title": "隨機強化二屬盾",
             "desc": "同時消除指定的兩種屬性強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -2506,7 +2611,7 @@
             ]
         },
         "314": {
-            "title": "隨機強化雙屬盾-轉",
+            "title": "隨機強化二屬盾-轉珠顯示",
             "desc": "同時消除指定的兩種屬性強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -2514,11 +2619,14 @@
             ]
         },
         "315": {
-            "title": "強化三屬盾",
+            "title": "強化三原屬盾",
             "desc": "同時消除水強化符石，火強化符石及木強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
                 1721
+            ],
+            "keywords": [
+                "三屬盾"
             ]
         },
         "316": {
@@ -2530,7 +2638,7 @@
             ]
         },
         "317": {
-            "title": "隨機強化三屬盾-轉",
+            "title": "隨機強化三屬盾-轉珠顯示",
             "desc": "同時消除指定的&nbsp;3&nbsp;種屬性強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -2546,7 +2654,7 @@
             ]
         },
         "319": {
-            "title": "隨機強化四屬盾-轉",
+            "title": "隨機強化四屬盾-轉珠顯示",
             "desc": "同時消除指定的&nbsp;4&nbsp;種屬性強化符石，才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -2695,58 +2803,85 @@
             "custom_desc": ""
         },
         "341": {
-            "title": "強化盾-反擊100%",
+            "title": "強化突破-反擊100%",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒該屬性才能對敵人造成傷害<br />⇒否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;若受到非強化符石的攻擊<br />⇒&nbsp;敵人反擊<br />&nbsp;&nbsp;&nbsp;&nbsp;自身&nbsp;100%&nbsp;攻擊傷害",
             "custom_desc": "",
             "icons": [
                 902
+            ],
+            "keywords": [
+                "強化盾"
             ]
         },
         "342": {
-            "title": "強化盾-連續反擊50%",
+            "title": "強化突破-連續反擊50%",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒該屬性才能對敵人造成傷害<br />⇒否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;若受到非強化符石的攻擊<br />⇒&nbsp;敵人反擊<br />&nbsp;&nbsp;&nbsp;&nbsp;自身&nbsp;50%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": "",
             "icons": [
                 902
+            ],
+            "keywords": [
+                "強化盾"
             ]
         },
         "343": {
-            "title": "強化盾-連續反擊25%",
+            "title": "強化突破-連續反擊25%",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒該屬性才能對敵人造成傷害<br />⇒否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;若受到非強化符石的攻擊<br />⇒&nbsp;敵人反擊<br />&nbsp;&nbsp;&nbsp;&nbsp;自身&nbsp;25%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": "",
             "icons": [
                 902
+            ],
+            "keywords": [
+                "強化盾"
             ]
         },
         "344": {
-            "title": "強化盾-扣血50%",
+            "title": "強化突破-扣血50%",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒該屬性才能對敵人造成傷害<br />⇒否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;若受到非強化符石的攻擊<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "強化盾"
+            ]
         },
         "345": {
-            "title": "強化盾-扣血40%",
+            "title": "強化突破-扣血40%",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒該屬性才能對敵人造成傷害<br />⇒否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;若受到非強化符石的攻擊<br />⇒&nbsp;扣除召喚師&nbsp;40%&nbsp;生命力&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "強化盾"
+            ]
         },
         "346": {
-            "title": "強化盾-扣血30%",
+            "title": "強化突破-扣血30%",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒該屬性才能對敵人造成傷害<br />⇒否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;若受到非強化符石的攻擊<br />⇒&nbsp;扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "強化盾"
+            ]
         },
         "347": {
-            "title": "強化盾-扣血20%",
+            "title": "強化突破-扣血20%",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒該屬性才能對敵人造成傷害<br />⇒否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;若受到非強化符石的攻擊<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "強化盾"
+            ]
         },
         "348": {
-            "title": "強化盾-敵回10%",
+            "title": "強化突破-敵回10%",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒該屬性才能對敵人造成傷害<br />⇒否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;若受到非強化符石的攻擊<br />⇒&nbsp;每次攻擊敵人回復&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多回復&nbsp;50%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "強化盾"
+            ]
         },
         "349": {
-            "title": "強化盾-敵回5%",
+            "title": "強化突破-敵回5%",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒該屬性才能對敵人造成傷害<br />⇒否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;若受到非強化符石的攻擊<br />⇒&nbsp;每次攻擊敵人回復&nbsp;5%&nbsp;生命力<br />⇒&nbsp;最多回復&nbsp;25%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "強化盾"
+            ]
         },
         "350": {
             "title": "強化初級拼圖盾",
@@ -2754,6 +2889,9 @@
             "custom_desc": "",
             "icons": [
                 1007
+            ],
+            "keywords": [
+                "指定形狀盾"
             ]
         },
         "351": {
@@ -2762,6 +2900,9 @@
             "custom_desc": "",
             "icons": [
                 1007
+            ],
+            "keywords": [
+                "指定形狀盾"
             ]
         },
         "352": {
@@ -2770,6 +2911,9 @@
             "custom_desc": "",
             "icons": [
                 1007
+            ],
+            "keywords": [
+                "指定形狀盾"
             ]
         },
         "353": {
@@ -2826,19 +2970,32 @@
             "custom_desc": ""
         },
         "363": {
-            "title": "自爆-命懸一線",
+            "title": "自爆-命懸一線-主動技除外",
             "desc": "敵人死亡後會讓召喚師生命力剩&nbsp;1&nbsp;點&nbsp;(因主動技能而死亡除外)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "亡命爆擊"
+            ]
         },
         "364": {
-            "title": "強制自爆-命懸一線",
+            "title": "自爆-命懸一線",
             "desc": "敵人死亡後會讓召喚師生命力剩&nbsp;1&nbsp;點",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "亡命爆擊"
+            ]
         },
         "365": {
-            "title": "扣血100%",
+            "title": "一擊必殺",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                811
+            ],
+            "keywords": [
+                "喋血屠刀",
+                "扣血100%"
+            ]
         },
         "366": {
             "title": "隨機轉火 ‧ 消火扣血2-10%",
@@ -23041,7 +23198,7 @@
         "4275": {
             "title": "敵技4275",
             "desc": "•&nbsp;每當核心關閉時<br />⇒&nbsp;完全回復生命力<br /><br />•&nbsp;於指定直行<br />&nbsp;&nbsp;消除指定屬性符石<br />&nbsp;&nbsp;(只能直向消除)<br />⇒&nbsp;才能對敵人造成傷害<br /><br />•&nbsp;每次受到敵人攻擊時<br />⇒&nbsp;下回合召喚師行動後<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />•&nbsp;受到敵人攻擊次數愈多時<br />⇒&nbsp;扣除生命力愈多<br />•&nbsp;召喚師復活或核心關閉時<br />⇒&nbsp;重置扣除生命力&nbsp;%<br /><br />•&nbsp;每回合最多只能對敵人造成<br />&nbsp;&nbsp;敵人生命力&nbsp;20%&nbsp;的攻擊傷害<br />•&nbsp;回合結束時<br />⇒&nbsp;敵人完全回復生命力",
-            "custom_desc": "四封災厄 (核心封閉階段的本體)",
+            "custom_desc": "四封災厄 (核心封閉階段的本體)<br /><ul><li>「下回合召喚師行動後 扣除召喚師生命力」敘述，是往左上附加中毒效果</li><li>中毒%數：25% → 50% → 75% → 100%</li><li>再爆發因為時機問題，即使成功把剩餘的80%血炸掉，敵人也會滿血重生</li></ul>",
             "keywords": [
                 "災厄級"
             ]
@@ -33050,6 +33207,9 @@
             "custom_desc": "",
             "icons": [
                 1061
+            ],
+            "keywords": [
+                "落雷"
             ]
         },
         "6095": {
@@ -33058,6 +33218,9 @@
             "custom_desc": "",
             "icons": [
                 1061
+            ],
+            "keywords": [
+                "落雷"
             ]
         },
         "6096": {
@@ -33066,6 +33229,9 @@
             "custom_desc": "",
             "icons": [
                 1061
+            ],
+            "keywords": [
+                "落雷"
             ]
         },
         "6097": {
@@ -33074,6 +33240,9 @@
             "custom_desc": "",
             "icons": [
                 1061
+            ],
+            "keywords": [
+                "落雷"
             ]
         },
         "6098": {
@@ -33082,6 +33251,9 @@
             "custom_desc": "",
             "icons": [
                 1061
+            ],
+            "keywords": [
+                "落雷"
             ]
         },
         "6099": {
@@ -33090,6 +33262,9 @@
             "custom_desc": "",
             "icons": [
                 1061
+            ],
+            "keywords": [
+                "落雷"
             ]
         },
         "6100": {
@@ -33098,6 +33273,9 @@
             "custom_desc": "",
             "icons": [
                 1061
+            ],
+            "keywords": [
+                "落雷"
             ]
         },
         "6101": {
