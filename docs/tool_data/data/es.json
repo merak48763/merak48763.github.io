@@ -35214,27 +35214,42 @@
         "6377": {
             "title": "【風壓狀態】",
             "desc": "•&nbsp;2&nbsp;回合內，<br />&nbsp;&nbsp;水屬性成員陷入風壓狀態：<br />⓵&nbsp;不能發動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1133
+            ]
         },
         "6378": {
             "title": "【風壓狀態】",
             "desc": "•&nbsp;2&nbsp;回合內，<br />&nbsp;&nbsp;火屬性成員陷入風壓狀態：<br />⓵&nbsp;不能發動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1133
+            ]
         },
         "6379": {
             "title": "【風壓狀態】",
             "desc": "•&nbsp;2&nbsp;回合內，<br />&nbsp;&nbsp;木屬性成員陷入風壓狀態：<br />⓵&nbsp;不能發動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1133
+            ]
         },
         "6380": {
             "title": "【風壓狀態】",
             "desc": "•&nbsp;2&nbsp;回合內，<br />&nbsp;&nbsp;光屬性成員陷入風壓狀態：<br />⓵&nbsp;不能發動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1133
+            ]
         },
         "6381": {
             "title": "【風壓狀態】",
             "desc": "•&nbsp;2&nbsp;回合內，<br />&nbsp;&nbsp;暗屬性成員陷入風壓狀態：<br />⓵&nbsp;不能發動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1133
+            ]
         },
         "6388": {
             "title": "【<100 億護盾】",
