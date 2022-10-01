@@ -33478,7 +33478,10 @@
         "6130": {
             "title": "【減傷抗性】",
             "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，<br />受到敵人攻擊的回合愈多，<br />減傷狀態削弱愈多。",
-            "custom_desc": "<span class=\"annotation\">crumbling_walls</span>"
+            "custom_desc": "<span class=\"annotation\">crumbling_walls 100 80 60 40 20 0</span>",
+            "icons": [
+                1001
+            ]
         },
         "6131": {
             "title": "【碎裂】",
@@ -34033,7 +34036,7 @@
         "6198": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時<br />【5&nbsp;格灼熱地型&nbsp;20,000】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的灼熱地型位置<br />&nbsp;&nbsp;&nbsp;&nbsp;增加&nbsp;5&nbsp;格<br />⇒&nbsp;最多加至隨機&nbsp;20&nbsp;格<br />＊召喚師死亡後重置",
-            "custom_desc": "",
+            "custom_desc": "<details><summary>版面順序</summary><span class=\"annotation\">fixed_position 100000100000100000100000100000</span><span class=\"annotation\">fixed_position 100001100001100001100001100001</span><span class=\"annotation\">fixed_position 110001110001110001110001110001</span><span class=\"annotation\">fixed_position 110011110011110011110011110011</span></details>",
             "icons": [
                 30963
             ]
