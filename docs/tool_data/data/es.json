@@ -34036,7 +34036,7 @@
         "6198": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時<br />【5&nbsp;格灼熱地型&nbsp;20,000】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機出現的灼熱地型位置<br />&nbsp;&nbsp;&nbsp;&nbsp;增加&nbsp;5&nbsp;格<br />⇒&nbsp;最多加至隨機&nbsp;20&nbsp;格<br />＊召喚師死亡後重置",
-            "custom_desc": "<details><summary>版面順序</summary><span class=\"annotation\">fixed_position 100000100000100000100000100000</span><span class=\"annotation\">fixed_position 100001100001100001100001100001</span><span class=\"annotation\">fixed_position 110001110001110001110001110001</span><span class=\"annotation\">fixed_position 110011110011110011110011110011</span></details>",
+            "custom_desc": "",
             "icons": [
                 30963
             ]
@@ -35069,7 +35069,7 @@
         "6362": {
             "title": "【灼熱地型】",
             "desc": "•&nbsp;進場時<br />【5&nbsp;格灼熱地型】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;灼熱地型位置<br />&nbsp;&nbsp;&nbsp;&nbsp;增加&nbsp;5&nbsp;格<br />⇒&nbsp;最多加至&nbsp;20&nbsp;格<br />＊召喚師死亡後重置<br /><br />註：【灼熱地型】<br />•&nbsp;每次於灼熱地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;20,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
-            "custom_desc": "",
+            "custom_desc": "<details><summary>版面順序</summary><span class=\"annotation\">fixed_position 100000100000100000100000100000</span><span class=\"annotation\">fixed_position 100001100001100001100001100001</span><span class=\"annotation\">fixed_position 110001110001110001110001110001</span><span class=\"annotation\">fixed_position 110011110011110011110011110011</span></details>",
             "icons": [
                 30963
             ]
