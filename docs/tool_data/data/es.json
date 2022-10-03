@@ -19874,7 +19874,7 @@
         "3637": {
             "title": "隊長附炸彈 ‧ 自殺 ‧ 無法控制",
             "desc": "隊長出現「炸彈」圖示。<br /><br />敵人下回合<br />扣除自身生命力&nbsp;100%，<br />期間不受任何攻擊傷害及<br />無視所有控制技能。",
-            "custom_desc": "<ul><li>炸彈僅有視覺效果</li></ul>",
+            "custom_desc": "<ul><li>炸彈僅有視覺效果，沒有實際作用</li></ul>",
             "icons": [
                 1105,
                 1055,
@@ -30930,9 +30930,12 @@
             "custom_desc": ""
         },
         "5646": {
-            "title": "",
+            "title": "咆哮",
             "desc": "　",
-            "custom_desc": "敵人大吼的特效技能，在遊戲內也會異常顯示出來的樣子"
+            "custom_desc": "<ul><li>視覺特效技能</li><li>敵人進場時咆哮</li></ul>",
+            "keywords": [
+                "特效"
+            ]
         },
         "5647": {
             "title": "【瘴氣】",
@@ -32696,12 +32699,12 @@
         "5954": {
             "title": "【突擊】",
             "desc": "•&nbsp;突擊&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">ambush 2*30</span>"
         },
         "5955": {
             "title": "【突擊】",
             "desc": "•&nbsp;突擊&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">ambush 2*50</span>"
         },
         "5956": {
             "title": "【突擊】",
@@ -32846,7 +32849,10 @@
         "5975": {
             "title": "",
             "desc": "　",
-            "custom_desc": "登勢大嬸大吼的特效技能"
+            "custom_desc": "<ul><li>視覺特效技能</li><li>登勢大嬸進場的大吼</li><li>文字內容：家賃払えエエエエエ！</li></ul>",
+            "keywords": [
+                "特效"
+            ]
         },
         "5976": {
             "title": "【隊中有「志村妙」- 減攻、減防】",
@@ -35041,24 +35047,30 @@
             "custom_desc": ""
         },
         "6302": {
-            "title": "",
+            "title": "分身",
             "desc": "　",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>視覺特效技能</li><li>在敵人背後產生3個分身</li><li>進場時「畫面效果」設定至少需為LOW才會顯示</li></ul>",
+            "keywords": [
+                "特效"
+            ]
         },
         "6303": {
-            "title": "",
+            "title": "分身",
             "desc": "　",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>視覺特效技能</li><li>在敵人背後產生5個分身</li><li>進場時「畫面效果」設定至少需為LOW才會顯示</li></ul>",
+            "keywords": [
+                "特效"
+            ]
         },
         "6304": {
             "title": "【迷霧】",
             "desc": "•&nbsp;受到突擊後<br />⇒&nbsp;霧化&nbsp;8&nbsp;固定位置",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">fixed_position 000010000101010010101000010000"
         },
         "6305": {
             "title": "【燃燒之地】",
             "desc": "•&nbsp;受到突擊後<br />⇒&nbsp;燃燒&nbsp;8&nbsp;個固定位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">fixed_position 010000101000010010000101000010"
         },
         "6306": {
             "title": "【獵【英雄協會】】",
