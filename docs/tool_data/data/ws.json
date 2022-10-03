@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.505",
-        "dv": 19980,
-        "time": 1663322256
+        "version": "2022.510",
+        "dv": 20035,
+        "time": 1664782395
     },
     "ws": {
         "10001": {
@@ -2728,6 +2728,31 @@
         "10574": {
             "title": "",
             "desc": "•&nbsp;暗屬性敵人攻擊力&nbsp;4&nbsp;倍<br /><br />•&nbsp;敵人所受傷害減至&nbsp;10%",
+            "custom_desc": ""
+        },
+        "10575": {
+            "title": "",
+            "desc": "•&nbsp;累計&nbsp;10&nbsp;回合<br />⇒&nbsp;下回合起可點擊<br />&nbsp;&nbsp;&nbsp;&nbsp;右上方技能圖示<br />⇒&nbsp;對敵方全體造成&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;999&nbsp;億點無屬性傷害<br />&nbsp;&nbsp;&nbsp;(此傷害無視敵人技能<br />&nbsp;&nbsp;&nbsp;&nbsp;及我方技能加乘)<br /><br />*&nbsp;發動後，<br />&nbsp;&nbsp;將重置累計回合數&nbsp;&nbsp;",
+            "custom_desc": ""
+        },
+        "10576": {
+            "title": "",
+            "desc": "•&nbsp;累計&nbsp;20&nbsp;回合<br />⇒&nbsp;下回合起可點擊<br />&nbsp;&nbsp;&nbsp;&nbsp;右上方技能圖示<br />⇒&nbsp;對敵方全體造成&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;999&nbsp;億點無屬性傷害<br />&nbsp;&nbsp;&nbsp;(此傷害無視敵人技能<br />&nbsp;&nbsp;&nbsp;&nbsp;及我方技能加乘)<br /><br />*&nbsp;發動後，<br />&nbsp;&nbsp;將重置累計回合數&nbsp;&nbsp;",
+            "custom_desc": ""
+        },
+        "10577": {
+            "title": "",
+            "desc": "•&nbsp;累計&nbsp;30&nbsp;回合<br />⇒&nbsp;下回合起可點擊<br />&nbsp;&nbsp;&nbsp;&nbsp;右上方技能圖示<br />⇒&nbsp;對敵方全體造成&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;999&nbsp;億點無屬性傷害<br />&nbsp;&nbsp;&nbsp;(此傷害無視敵人技能<br />&nbsp;&nbsp;&nbsp;&nbsp;及我方技能加乘)<br /><br />*&nbsp;發動後，<br />&nbsp;&nbsp;將重置累計回合數&nbsp;&nbsp;",
+            "custom_desc": ""
+        },
+        "10578": {
+            "title": "",
+            "desc": "•&nbsp;固定&nbsp;16&nbsp;個位置<br />⇒&nbsp;出現【KING】<br />&nbsp;&nbsp;&nbsp;【龍卷】【埼玉】<br />&nbsp;&nbsp;&nbsp;【傑諾斯】地型<br />•&nbsp;根據首次起手轉珠的位置，<br />&nbsp;&nbsp;&nbsp;獲得不同效果：<br /><br />【KING】地型<br />⓵&nbsp;擊中敵人後<br />⇒&nbsp;使受影響目標<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無法行動&nbsp;1&nbsp;回合<br /><br />【龍卷】地型<br />⓵&nbsp;無視「燃燒」<br />&nbsp;&nbsp;&nbsp;&nbsp;(不包括「煉獄之火」)<br />⓶&nbsp;無視「黏腐」<br />⓷&nbsp;觸碰「連環光牢」<br />&nbsp;&nbsp;&nbsp;&nbsp;射擊位置仍可移動符石<br /><br />【埼玉】<br />⓵&nbsp;無視敵人防禦力<br />⓶&nbsp;無視指定減傷抗性敵技<br /><br />【傑諾斯】<br />⓵&nbsp;全隊攻擊力變&nbsp;0<br />⓶&nbsp;減少&nbsp;90%&nbsp;所受傷害",
+            "custom_desc": ""
+        },
+        "10579": {
+            "title": "",
+            "desc": "•&nbsp;隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現【埼玉】地型<br />•&nbsp;於【埼玉】地型<br />&nbsp;&nbsp;首次起手轉珠<br />⇒&nbsp;於全隊發動攻擊後<br />&nbsp;&nbsp;&nbsp;&nbsp;對敵方全體造成<br />&nbsp;&nbsp;&nbsp;&nbsp;999&nbsp;億點無屬性傷害<br />&nbsp;&nbsp;&nbsp;(此傷害無視敵人技能<br />&nbsp;&nbsp;&nbsp;&nbsp;及我方技能加乘)",
             "custom_desc": ""
         }
     }

@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.507",
-        "dv": 11453,
-        "time": 1663925007
+        "version": "2022.510",
+        "dv": 11480,
+        "time": 1664782395
     },
     "monster": {
         "1": {
@@ -18657,10 +18657,50 @@
             "attribute": 1,
             "race": 1
         },
+        "10291": {
+            "name": "銀牙",
+            "attribute": 1,
+            "race": 1
+        },
+        "10292": {
+            "name": "傑諾斯",
+            "attribute": 2,
+            "race": 10
+        },
+        "10293": {
+            "name": "戰慄的龍卷",
+            "attribute": 3,
+            "race": 1
+        },
+        "10294": {
+            "name": "埼玉",
+            "attribute": 4,
+            "race": 1
+        },
+        "10295": {
+            "name": "KING",
+            "attribute": 5,
+            "race": 1
+        },
+        "10296": {
+            "name": "地獄的吹雪",
+            "attribute": 3,
+            "race": 1
+        },
+        "10297": {
+            "name": "無照騎士",
+            "attribute": 3,
+            "race": 1
+        },
         "10298": {
             "name": "毒霧小子",
             "attribute": 3,
             "race": 7
+        },
+        "10299": {
+            "name": "音速的索尼克",
+            "attribute": 5,
+            "race": 1
         },
         "10302": {
             "name": "墨染章瞳 ‧ 密克",
@@ -18670,6 +18710,11 @@
         "10303": {
             "name": "聲潮籟音 ‧ 蜜亞",
             "attribute": 4,
+            "race": 3
+        },
+        "10304": {
+            "name": "潮浪絞殺 ‧ 旺妲",
+            "attribute": 3,
             "race": 3
         },
         "10306": {
