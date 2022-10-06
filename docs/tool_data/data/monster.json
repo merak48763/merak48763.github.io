@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2022.510",
-        "dv": 11480,
-        "time": 1664782395
+        "dv": 11507,
+        "time": 1665053480
     },
     "monster": {
         "1": {
@@ -13920,6 +13920,11 @@
             "attribute": 3,
             "race": 4
         },
+        "2801": {
+            "name": "幻想繪本 ‧ 凱瑟琳",
+            "attribute": 3,
+            "race": 1
+        },
         "3001": {
             "name": "野望滅絕 ‧ 薩魯曼",
             "attribute": 5,
@@ -16612,6 +16617,11 @@
             "attribute": 3,
             "race": 4
         },
+        "6589": {
+            "name": "霞色金曦 ‧ 凱瑟琳",
+            "attribute": 3,
+            "race": 1
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -18702,6 +18712,11 @@
             "attribute": 5,
             "race": 1
         },
+        "10300": {
+            "name": "餓狼",
+            "attribute": 5,
+            "race": 1
+        },
         "10302": {
             "name": "墨染章瞳 ‧ 密克",
             "attribute": 5,
@@ -18717,9 +18732,24 @@
             "attribute": 3,
             "race": 3
         },
+        "10305": {
+            "name": "千肢百觸 ‧ 奧利弗",
+            "attribute": 2,
+            "race": 3
+        },
         "10306": {
             "name": "華燈出遊 ‧ 秋奈",
             "attribute": 5,
+            "race": 1
+        },
+        "10313": {
+            "name": "血噬捕獸夾 ‧ 亞爾曼",
+            "attribute": 1,
+            "race": 8
+        },
+        "10319": {
+            "name": "商戰爭鋒 ‧ 羅森",
+            "attribute": 2,
             "race": 1
         },
         "5001": {
@@ -19045,6 +19075,11 @@
             "name": "金果君",
             "attribute": 4,
             "race": 3
+        },
+        "50067": {
+            "name": "隕石",
+            "attribute": 5,
+            "race": 7
         }
     },
     "attribute_names": [
