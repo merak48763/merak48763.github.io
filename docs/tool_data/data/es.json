@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.510",
+        "version": "2022.511",
         "dv": 20047,
-        "time": 1665053480
+        "time": 1665148427
     },
     "es": {
         "0": {
@@ -3723,7 +3723,10 @@
         "498": {
             "title": "隨機縱向燃燒10%",
             "desc": "每回合敵人會隨機燃燒&nbsp;1&nbsp;直行的符石，每觸碰&nbsp;1&nbsp;粒被燃燒的符石，將扣除召喚師&nbsp;10%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
         },
         "499": {
             "title": "縱橫射擊",
@@ -3867,7 +3870,10 @@
         "525": {
             "title": "獵成員-%扣血",
             "desc": "召喚師隊伍中成員愈多，敵人發動攻擊時會扣除召喚師愈多百分比的生命力&nbsp;(無視所有減傷效果和意志技能)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "喋血屠刀"
+            ]
         },
         "526": {
             "title": "人類技能回復",
@@ -4432,7 +4438,12 @@
         "625": {
             "title": "敵轉暗 ‧ 木暗防禦90% ‧ 攻後雙重風化-禁錮1員2回",
             "desc": "首回合敵人會轉變換為暗屬性。<br />木及暗屬性的攻擊傷害減至&nbsp;10%。每當召喚師受到攻擊時：敵人會隨機封鎖&nbsp;1&nbsp;個成員的主動技能及其攻擊，持續&nbsp;2&nbsp;回合&nbsp;(可疊加)；另外，敵人會隨機將&nbsp;2&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                253,
+                255,
+                853
+            ]
         },
         "626": {
             "title": "敵轉水 ‧ 首消水木Combo同等盾 ‧ 首扣50%-次扣100%",
@@ -4917,7 +4928,12 @@
         "708": {
             "title": "附加消除重置 ‧ 越攻越強",
             "desc": "首回合敵人會消除召喚師所有附加效果，其技能&nbsp;CD&nbsp;將被重置。<br />敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": "<span class=\"annotation\">trojan_attack</span>"
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                852,
+                854,
+                1001
+            ]
         },
         "709": {
             "title": "附加消除重置 ‧ 越戰越強-金",
@@ -5853,7 +5869,12 @@
         "884": {
             "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒該屬性才能對敵人造成傷害<br />⇒否則敵人承受傷害變為&nbsp;1<br /><br />敵人會令召喚師的攻擊力減至&nbsp;20%，持續&nbsp;4&nbsp;回合。<br /><br />當受到敵人攻擊時，敵人會將最左及最右兩側直行的符石風化，一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114,
+                902,
+                957
+            ]
         },
         "885": {
             "title": "突擊50% ‧ 攻後水橫縱輪轉",
@@ -6309,9 +6330,14 @@
             "custom_desc": ""
         },
         "974": {
-            "title": "無法控制 ‧ 越扣越強25% ‧ 不倒意志50%-半血回復",
+            "title": "無法控制 ‧ 扣血25%-越戰越強 ‧ 不倒意志50%-半血回復",
             "desc": "敵人會無視所有控制技能。<br />每回合敵人發動攻擊時會扣除召喚師&nbsp;25%&nbsp;生命力，敵人生命力愈低時，扣除召喚師愈多的生命力，最多扣除&nbsp;100%。(無視所有減傷效果和意志技能)<br />敵人當前生命力大於&nbsp;50%&nbsp;時，下一次所受傷害不會使其死亡&nbsp;(包括主動技)。當敵人生命力剩&nbsp;1&nbsp;點時，敵人會回復&nbsp;50%&nbsp;生命力&nbsp;。",
-            "custom_desc": "",
+            "custom_desc": "<details><summary>v2022.51測試結論</summary><table><tbody><tr><td>剩餘血量</td><td>100%</td><td>75%</td><td>50%</td><td>25%</td></tr><tr><td>扣血量</td><td>25%</td><td>50%</td><td>75%</td><td>100%</td></tr></tbody></table><ul><li>各點間的扣血量不會成長<br />（例：剩餘60%血量，對應扣血50%）</li></ul></details>",
+            "icons": [
+                855,
+                1001,
+                812
+            ],
             "keywords": [
                 "喋血屠刀"
             ]
@@ -15970,9 +15996,12 @@
             "custom_desc": ""
         },
         "2832": {
-            "title": "",
+            "title": "首回外圍轉水 ‧ 水禁消 ‧ 引爆水增攻-減傷 ‧ 無法控制",
             "desc": "首回合場上外側的符石轉化為水符石。<br />水符石無法被消除。<br />每回合結束時，引爆所有水符石，引爆的符石數量愈多，敵人下一次的攻擊力愈高及所受傷害減少愈多。<br />敵人無視所有控制技能",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">explode_increase_attack</span><span class=\"annotation\">explode_reduce_damage 5</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "2833": {
             "title": "",
@@ -16440,11 +16469,14 @@
         "2924": {
             "title": "CD1 ‧ 技能封鎖1回 ‧ 光引爆狂擊-龍脈吸收減傷 ‧ 無視減傷",
             "desc": "攻擊頻率變為&nbsp;CD&nbsp;1。<br />首回合封鎖所有成員的主動技能&nbsp;1&nbsp;回合。<br />首回合引爆所有光符石，以永久提升攻擊力；並吸取龍脈儀的能量，以永久減少所受傷害。<br />敵人無視所有減傷效果和意志技能",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">explode_increase_attack</span>",
             "icons": [
                 853,
                 1001,
                 1009
+            ],
+            "keywords": [
+                "減傷抗性"
             ]
         },
         "2925": {
@@ -16485,7 +16517,7 @@
         "2932": {
             "title": "100%減傷盾-越攻越弱 ‧ 首消心傷害吸收 ‧ 無視減傷",
             "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，敵人攻擊次數愈多，減傷狀態削弱愈多。<br />首批消除心符石的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br />敵人無視所有減傷效果和意志技能",
-            "custom_desc": "<span class=\"annotation\">crumbling_walls</span>",
+            "custom_desc": "<span class=\"annotation\">crumbling_walls 100 95 90 85 80 65 40 15 0</span>",
             "keywords": [
                 "減傷抗性"
             ]
@@ -17621,9 +17653,12 @@
             "custom_desc": ""
         },
         "3126": {
-            "title": "",
+            "title": "CD1 ‧ 黑白符石 ‧ 首回暗引爆狂擊-龍脈吸收減傷 ‧ 無法控制",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br />所有符石變為黑白色。<br />首回合引爆所有暗符石，以永久提升攻擊力；並吸取龍脈儀的能量，以永久減少所受傷害。<br />無視所有控制技能",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">explode_increase_attack</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "3127": {
             "title": "",
@@ -18213,10 +18248,11 @@
             "custom_desc": ""
         },
         "3223": {
-            "title": "CD2 ‧ 附加消除重置 ‧ 暗引爆減傷-1顆5% ‧ 一擊必殺",
+            "title": "CD2 ‧ 附加消除重置 ‧ 引爆暗減傷 ‧ 一擊必殺",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;2。<br />首回合消除召喚師所有附加效果，其技能&nbsp;CD&nbsp;將被重置。<br />首回合引爆所有暗符石，以永久減少所受傷害。<br />敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">explode_reduce_damage 5</span>",
             "keywords": [
+                "減傷抗性",
                 "喋血屠刀",
                 "扣血100%"
             ]
@@ -18268,7 +18304,7 @@
             "custom_desc": ""
         },
         "3232": {
-            "title": "木屬防禦75% ‧ 五屬追擊盾",
+            "title": "木屬防禦75% ‧ 五屬盾-追擊",
             "desc": "木屬性的攻擊傷害減至&nbsp;25%。<br />同時消除水、火、木、光及暗符石，才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性符石，敵人額外增加&nbsp;1&nbsp;連擊",
             "custom_desc": "",
             "icons": [
@@ -18278,13 +18314,16 @@
             ]
         },
         "3233": {
-            "title": "木屬防禦90% ‧ 強化五屬追擊盾",
+            "title": "木屬防禦90% ‧ 五屬強化盾-追擊",
             "desc": "木屬性的攻擊傷害減至&nbsp;10%。<br />同時消除水強化、火強化、木強化、光強化及暗強化符石，才會對敵人造成攻擊傷害。每欠消除&nbsp;1&nbsp;種屬性強化符石，敵人額外增加&nbsp;1&nbsp;連擊",
             "custom_desc": "",
             "icons": [
                 253,
                 1054,
                 1761
+            ],
+            "keywords": [
+                "五屬盾"
             ]
         },
         "3234": {
@@ -18371,9 +18410,12 @@
             "custom_desc": ""
         },
         "3246": {
-            "title": "",
+            "title": "CD1 ‧ 首回引爆心減傷 ‧ 4重燃燒20% ‧ 血弱70%-狂擊5倍-無視減傷",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br />首回合引爆所有心符石，以永久減少所受傷害。<br />隨機燃燒&nbsp;4&nbsp;個位置，每觸碰被燃燒的位置，將扣除召喚師&nbsp;20%&nbsp;生命力。<br />敵人生命力為&nbsp;70%&nbsp;或以下時，下回合開始敵人的攻擊力提升&nbsp;5&nbsp;倍並無視所有減傷效果和意志技能",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">explode_reduce_damage 5</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "3247": {
             "title": "",
@@ -18974,14 +19016,22 @@
             "custom_desc": ""
         },
         "3359": {
-            "title": "",
+            "title": "攻前盾 ‧ 首攻火心引爆狂擊減傷 ‧ 無視減傷",
             "desc": "敵人無視任何攻擊傷害，直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />首次受到敵人攻擊時，敵人會引爆所有心及火符石，以永久提升攻擊力及永久減少所受傷害。<br /><br />無視所有減傷效果和意志技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "3361": {
-            "title": "100%減傷盾-越攻越弱 ‧ 首消火傷害吸收 ‧ 雙重燃燒20% ‧ 無視減傷",
+            "title": "100%減傷盾-越攻越弱 ‧ 首消火傷害吸收-雙重燃燒20% ‧ 無視減傷",
             "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，敵人攻擊次數愈多，減傷狀態削弱愈多。<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;時，敵人回復相等於該回合召喚師所造成傷害的血量，並隨機燃燒&nbsp;2&nbsp;個位置，每觸碰被燃燒的位置，將扣除召喚師&nbsp;20%&nbsp;生命力。<br /><br />無視所有減傷效果和意志技能",
-            "custom_desc": "<span class=\"annotation\">crumbling_walls</span>",
+            "custom_desc": "<span class=\"annotation\">crumbling_walls 100 95 90 85 80 65 40 15 0</span>",
+            "icons": [
+                1001,
+                262,
+                1009
+            ],
             "keywords": [
                 "減傷抗性"
             ]
@@ -18990,6 +19040,11 @@
             "title": "CD2 ‧ 附加盾 ‧ 強化盾 ‧ 一擊必殺",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;2。<br /><br />敵人身上有附加效果時，才能對敵人造成攻擊傷害。<br /><br />•&nbsp;消除屬性強化符石<br />⇒該屬性才能對敵人造成傷害<br />⇒否則敵人承受傷害變為&nbsp;1<br /><br />敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
+            "icons": [
+                904,
+                902,
+                1121
+            ],
             "keywords": [
                 "喋血屠刀",
                 "扣血100%"
@@ -19024,9 +19079,12 @@
             "custom_desc": ""
         },
         "3367": {
-            "title": "",
+            "title": "CD1 ‧ 光攻盾 ‧ 1回技能封鎖 ‧ 首回暗引爆狂擊-龍脈吸收減傷 ‧ 無視減傷",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有光屬性的攻擊才會對敵人造成傷害。<br /><br />1&nbsp;回合內，封鎖所有成員的主動技能。<br /><br />首回合引爆所有暗符石，以永久提升攻擊力；並吸取龍脈儀的能量，以永久減少所受傷害。<br /><br />無視所有減傷效果和意志技能",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">explode_increase_attack</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "3368": {
             "title": "",
@@ -20050,9 +20108,12 @@
             "custom_desc": ""
         },
         "3560": {
-            "title": "",
+            "title": "CD1 ‧ 1回禁錮 ‧ 首回木引爆減傷 ‧ 回復力變0",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />1&nbsp;回合內，封鎖所有成員的<br />主動技能及其攻擊。<br /><br />首回合引爆所有木符石，<br />以永久減少所受傷害。<br /><br />召喚師的回復力變&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">explode_reduce_damage 10</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "3561": {
             "title": "",
@@ -20758,9 +20819,12 @@
             "custom_desc": ""
         },
         "3670": {
-            "title": "",
+            "title": "CD1 ‧ 首回木引爆狂擊-龍脈吸收減傷 ‧ 始終盾 ‧ 無視減傷",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合引爆所有木符石，<br />以永久提升攻擊力；<br />並吸取龍脈儀的能量，<br />以永久減少所受傷害。<br /><br />每回合以指定位置&nbsp;(綠色漩渦)&nbsp;的符石開始轉珠及在指定位置&nbsp;(紅色漩渦)&nbsp;結束轉珠，才會發動攻擊和回復。<br />(達成條件前，無法進行回復)<br /><br />無視所有減傷效果和<br />意志技能。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">explode_increase_attack</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "3671": {
             "title": "",
@@ -20994,9 +21058,17 @@
             "custom_desc": ""
         },
         "3712": {
-            "title": "",
+            "title": "[5回攻擊零化] ‧ 軌跡燃燒5000 ‧ 無視減傷",
             "desc": "5&nbsp;回合內，全隊攻擊力減至&nbsp;0<br /><br />燃燒移動符石時觸碰的位置，<br />每觸碰被燃燒的位置，<br />對召喚師造成&nbsp;5000&nbsp;點傷害。<br /><br />無視所有減傷效果和<br />意志技能。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114,
+                951,
+                1009
+            ],
+            "keywords": [
+                "疲憊狀態"
+            ]
         },
         "3713": {
             "title": "",
@@ -22237,7 +22309,7 @@
         "3906": {
             "title": "【減傷抗性 - 首消符石種類】",
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害",
-            "custom_desc": "",
+            "custom_desc": "於傷害結算後，發動攻擊前變更減傷量",
             "icons": [
                 1021
             ]
@@ -22258,14 +22330,20 @@
             "custom_desc": ""
         },
         "3910": {
-            "title": "",
+            "title": "CD1 ‧ 首消多種減傷盾20% ‧ 越攻越強 ‧ 無視減傷",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次<br /><br />無視所有減傷效果和<br />意志技能。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "3911": {
-            "title": "",
+            "title": "CD1 ‧ 首消多種減傷盾25% ‧ 越攻越強 ‧ 無視減傷",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次<br /><br />無視所有減傷效果和<br />意志技能。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "3912": {
             "title": "",
@@ -23299,11 +23377,14 @@
         "4103": {
             "title": "CD1 ‧ 首回暗引爆狂擊-龍脈吸收減傷 ‧ 軌跡隱藏 ‧ 無法控制",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合引爆所有暗符石，<br />以永久提升攻擊力；<br />並吸取龍脈儀的能量，<br />以永久減少所受傷害。<br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />無視所有控制技能。",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">explode_increase_attack</span>",
             "icons": [
                 955,
                 1001,
                 855
+            ],
+            "keywords": [
+                "減傷抗性"
             ]
         },
         "4104": {
@@ -24497,7 +24578,10 @@
         "4320": {
             "title": "【攻速變更 ‧ 絕對領域 - 10 億 ‧ 引爆攻擊 - 光．吸取龍脈儀 - 固防 ‧ 無法控制】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;絕對領域&nbsp;-&nbsp;10&nbsp;億&nbsp;‧&nbsp;引爆攻擊&nbsp;-&nbsp;光．吸取龍脈儀&nbsp;-&nbsp;固防&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />隊伍中成員的單一攻擊<br />達&nbsp;10&nbsp;億才能對敵人<br />造成攻擊傷害。<br /><br />首回合引爆所有光符石，<br />以永久提升攻擊力；<br />並吸取龍脈儀的能量，<br />以永久減少所受傷害。<br /><br />無視所有控制技能。",
-            "custom_desc": "<span class=\"annotation\">explode_increase_attack</span>"
+            "custom_desc": "<span class=\"annotation\">explode_increase_attack</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4321": {
             "title": "【絕對領域 - 200 萬 ‧ 愈攻愈強 ‧ 三原屬盾】",
@@ -25527,22 +25611,42 @@
         "4492": {
             "title": "【凝結 ‧ 水連擊零化 ‧ 無法控制】",
             "desc": "<em>【凝結&nbsp;‧&nbsp;水連擊零化&nbsp;‧&nbsp;無法控制】</em><br /><br />每回合移動符石前，<br />隨機凝結&nbsp;1&nbsp;粒符石，<br />移動符石並消除凝結符石<br />四側其中&nbsp;1&nbsp;個位置的符石<br />可解除凝結；<br />場上凝結符石愈多，<br />敵人所受傷害減少愈多。<br /><br />首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0&nbsp;<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />無視所有控制技能。",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>凝結無法被種族符石防禦</li><li>每顆凝結符石會使敵人所受傷害乘以0.5</li></ul>",
+            "icons": [
+                974,
+                1114,
+                855
+            ]
         },
         "4493": {
             "title": "【雙重凝結 ‧ 水連擊零化 ‧ 無法控制】",
             "desc": "<em>【雙重凝結&nbsp;‧&nbsp;水連擊零化&nbsp;‧&nbsp;無法控制】</em><br /><br />每回合移動符石前，隨機<br />「雙重凝結」&nbsp;2&nbsp;粒符石，<br />移動符石並消除凝結符石<br />四側其中&nbsp;1&nbsp;個位置的符石<br />可解除「一重凝結」<br />(首批消除的符石每次<br />只可解除「一重凝結」)；<br />場上凝結符石愈多，<br />敵人所受傷害減少愈多。<br /><br />首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0&nbsp;<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />無視所有控制技能。",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>凝結無法被種族符石防禦</li><li>每顆凝結符石會使敵人所受傷害乘以0.5</li></ul>",
+            "icons": [
+                974,
+                1114,
+                855
+            ]
         },
         "4494": {
             "title": "【雙重凝結 ‧ 水連擊零化 ‧ 無法控制】",
             "desc": "<em>【雙重凝結&nbsp;‧&nbsp;水連擊零化&nbsp;‧&nbsp;無法控制】</em><br /><br />每回合移動符石前，隨機<br />「雙重凝結」&nbsp;3&nbsp;粒符石，<br />移動符石並消除凝結符石<br />四側其中&nbsp;1&nbsp;個位置的符石<br />可解除「一重凝結」<br />(首批消除的符石每次<br />只可解除「一重凝結」)；<br />場上凝結符石愈多，<br />敵人所受傷害減少愈多。<br /><br />首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0&nbsp;<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />無視所有控制技能。",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>凝結無法被種族符石防禦</li><li>每顆凝結符石會使敵人所受傷害乘以0.5</li></ul>",
+            "icons": [
+                974,
+                1114,
+                855
+            ]
         },
         "4495": {
             "title": "【三重凝結 ‧ 水連擊零化 ‧ 無法控制】",
             "desc": "<em>【三重凝結&nbsp;‧&nbsp;水連擊零化&nbsp;‧&nbsp;無法控制】</em><br /><br />每回合移動符石前，隨機<br />「三重凝結」&nbsp;3&nbsp;粒符石，<br />移動符石並消除凝結符石<br />四側其中&nbsp;1&nbsp;個位置的符石<br />可解除「一重凝結」<br />(首批消除的符石每次<br />只可解除「一重凝結」)；<br />場上凝結符石愈多，<br />敵人所受傷害減少愈多。<br /><br />首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0&nbsp;<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />無視所有控制技能。",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>凝結無法被種族符石防禦</li><li>每顆凝結符石會使敵人所受傷害乘以0.5</li></ul>",
+            "icons": [
+                974,
+                1114,
+                855
+            ]
         },
         "4496": {
             "title": "【燃燒之軌 800 ‧ 亡命爆擊 6000 ‧ 非水弱攻 80%】",
@@ -27386,9 +27490,12 @@
             "custom_desc": ""
         },
         "4866": {
-            "title": "",
+            "title": "【攻速變更 ‧ 時光流逝 ‧ 首消符石種類 - 減傷 ‧ 愈攻愈強 ‧ 防禦崩壞】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;時光流逝&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;愈攻愈強&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />99&nbsp;回合內，<br />移動符石時間減少&nbsp;99&nbsp;秒<br />(最多減至&nbsp;2&nbsp;秒)<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次<br /><br />無視所有減傷效果和<br />意志技能。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4867": {
             "title": "",
@@ -27555,64 +27662,100 @@
             "custom_desc": ""
         },
         "4897": {
-            "title": "",
+            "title": "【攻速變更 ‧ 首消符石種類 - 減傷 ‧ 愈戰愈強 ‧ 無法控制】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;愈戰愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害<br /><br />敵人生命力愈低時，<br />攻擊力會大幅提升，<br />達到一定血量時會連撃&nbsp;2&nbsp;次<br /><br />無視所有控制技能。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4898": {
-            "title": "",
+            "title": "【攻速變更 ‧ 首消符石種類 - 減傷 ‧ 愈戰愈強 ‧ 無法控制】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;愈戰愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害<br /><br />敵人生命力愈低時，<br />攻擊力會大幅提升，<br />達到一定血量時會連撃&nbsp;2&nbsp;次<br /><br />無視所有控制技能。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4899": {
-            "title": "",
+            "title": "【攻速變更 ‧ 首消符石種類 - 減傷 ‧ 愈戰愈強 ‧ 無法控制】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;愈戰愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害<br /><br />敵人生命力愈低時，<br />攻擊力會大幅提升，<br />達到一定血量時會連撃&nbsp;2&nbsp;次<br /><br />無視所有控制技能。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4900": {
-            "title": "",
+            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 反噬】",
             "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;反噬】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害<br /><br />敵人會反擊召喚師的<br />100%&nbsp;攻擊傷害<br />(需要消除符石)，<br />最多反擊&nbsp;999,999",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4901": {
-            "title": "",
+            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 反噬】",
             "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;反噬】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害<br /><br />敵人會反擊召喚師的<br />100%&nbsp;攻擊傷害<br />(需要消除符石)，<br />最多反擊&nbsp;999,999",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4902": {
-            "title": "",
+            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 反噬】",
             "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;反噬】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害<br /><br />敵人會反擊召喚師的<br />100%&nbsp;攻擊傷害<br />(需要消除符石)，<br />最多反擊&nbsp;999,999",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4903": {
-            "title": "",
+            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 瘴霧】",
             "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;瘴霧】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害<br /><br />隨機在&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4904": {
-            "title": "",
+            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 瘴霧】",
             "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;瘴霧】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害<br /><br />隨機在&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4905": {
-            "title": "",
+            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 瘴霧】",
             "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;瘴霧】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害<br /><br />隨機在&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4906": {
-            "title": "",
+            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 愈戰愈強】",
             "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;愈戰愈強】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害<br /><br />敵人生命力愈低時，<br />攻擊力會大幅提升，<br />達到一定血量時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4907": {
-            "title": "",
+            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 愈戰愈強】",
             "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;愈戰愈強】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害<br /><br />敵人生命力愈低時，<br />攻擊力會大幅提升，<br />達到一定血量時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4908": {
-            "title": "",
+            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 愈戰愈強】",
             "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;愈戰愈強】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害<br /><br />敵人生命力愈低時，<br />攻擊力會大幅提升，<br />達到一定血量時會連撃&nbsp;2&nbsp;次",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4909": {
             "title": "【攻速變更 ‧ 首消符石種類 - 減傷 ‧ 全消水盾 ‧ 一擊必殺】",
@@ -28207,9 +28350,12 @@
             "custom_desc": ""
         },
         "4993": {
-            "title": "",
+            "title": "【攻速變更 ‧ 突擊 ‧ 碎裂 ‧ 愈戰愈強 - 連擊 ‧ 首消符石種類 - 減傷 ‧ 無法控制】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;突擊&nbsp;‧&nbsp;碎裂&nbsp;‧&nbsp;愈戰愈強&nbsp;-&nbsp;連擊&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合優先突擊&nbsp;1&nbsp;次。<br /><br />隨機碎裂&nbsp;9&nbsp;個位置，<br />該位置內的符石<br />無法被消除或引爆。<br /><br />敵人會在&nbsp;1&nbsp;回合內<br />連續攻擊&nbsp;2&nbsp;次，<br />敵人生命力愈低時，<br />連擊次數愈多。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害<br /><br />無視所有控制技能。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_multi_attack</span>",
+            "keywords": [
+                "減傷抗性"
+            ]
         },
         "4994": {
             "title": "【全消暗盾 ‧ 指定 5 連擊盾】",
@@ -28920,7 +29066,7 @@
         "5108": {
             "title": "【雙重凝結 - 追擊】",
             "desc": "每回合隨機<br />「雙重凝結」3&nbsp;粒符石，<br />移動符石並消除凝結符石<br />四側其中&nbsp;1&nbsp;個位置的符石<br />可解除「一重凝結」<br />(首批消除的符石每次<br />只可解除「一重凝結」)；<br />場上凝結符石愈多，<br />敵人所受傷害減少愈多。<br />敵人發動攻擊時會根據<br />場上凝結符石的數量<br />額外追打。<br />",
-            "custom_desc": "<ul><li>每顆凝結符石會使敵人所受傷害乘以0.1</li></ul>",
+            "custom_desc": "<ul><li>凝結無法被種族符石防禦</li><li>每顆凝結符石會使敵人所受傷害乘以0.1</li></ul>",
             "icons": [
                 994
             ]
@@ -28928,7 +29074,7 @@
         "5109": {
             "title": "【三重凝結 - 追擊】",
             "desc": "每回合隨機<br />「三重凝結」3&nbsp;粒符石，<br />移動符石並消除凝結符石<br />四側其中&nbsp;1&nbsp;個位置的符石<br />可解除「一重凝結」<br />(首批消除的符石每次<br />只可解除「一重凝結」)；<br />場上凝結符石愈多，<br />敵人所受傷害減少愈多。<br />敵人發動攻擊時會根據<br />場上凝結符石的數量<br />額外追打。",
-            "custom_desc": "<ul><li>每顆凝結符石會使敵人所受傷害乘以0.1</li></ul>",
+            "custom_desc": "<ul><li>凝結無法被種族符石防禦</li><li>每顆凝結符石會使敵人所受傷害乘以0.1</li></ul>",
             "icons": [
                 994
             ]
@@ -28936,7 +29082,7 @@
         "5110": {
             "title": "【雙重凝結 - 追擊】",
             "desc": "每回合隨機<br />「雙重凝結」6&nbsp;粒符石，<br />移動符石並消除凝結符石<br />四側其中&nbsp;1&nbsp;個位置的符石<br />可解除「一重凝結」<br />(首批消除的符石每次<br />只可解除「一重凝結」)；<br />場上凝結符石愈多，<br />敵人所受傷害減少愈多。<br />敵人發動攻擊時會根據<br />場上凝結符石的數量<br />額外追打。<br />",
-            "custom_desc": "<ul><li>每顆凝結符石會使敵人所受傷害乘以0.1</li></ul>",
+            "custom_desc": "<ul><li>凝結無法被種族符石防禦</li><li>每顆凝結符石會使敵人所受傷害乘以0.1</li></ul>",
             "icons": [
                 994
             ]
@@ -28944,7 +29090,7 @@
         "5111": {
             "title": "【三重凝結 - 追擊】",
             "desc": "每回合隨機<br />「三重凝結」6&nbsp;粒符石，<br />移動符石並消除凝結符石<br />四側其中&nbsp;1&nbsp;個位置的符石<br />可解除「一重凝結」<br />(首批消除的符石每次<br />只可解除「一重凝結」)；<br />場上凝結符石愈多，<br />敵人所受傷害減少愈多。<br />敵人發動攻擊時會根據<br />場上凝結符石的數量<br />額外追打。",
-            "custom_desc": "<ul><li>每顆凝結符石會使敵人所受傷害乘以0.1</li></ul>",
+            "custom_desc": "<ul><li>凝結無法被種族符石防禦</li><li>每顆凝結符石會使敵人所受傷害乘以0.1</li></ul>",
             "icons": [
                 994
             ]
@@ -31775,7 +31921,7 @@
         "5555": {
             "title": "【雙重凝結 - 追擊】",
             "desc": "•&nbsp;每回合隨機將&nbsp;2&nbsp;粒符石&nbsp;<br />⇒「雙重凝結」<br />•&nbsp;移動符石並消除凝結符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />⇒&nbsp;可解除「一重凝結」<br />&nbsp;&nbsp;&nbsp;&nbsp;(首批消除的符石每次<br />&nbsp;&nbsp;&nbsp;&nbsp;只可解除「一重凝結」)<br />•&nbsp;凝結符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;場上凝結符石愈多<br />⇒&nbsp;敵人所受傷害減少愈多<br />•&nbsp;敵人發動攻擊時會根據<br />&nbsp;&nbsp;場上凝結符石的數量<br />⇒&nbsp;額外追打",
-            "custom_desc": "<ul><li>每顆凝結符石會使敵人所受傷害乘以0.1</li></ul>",
+            "custom_desc": "<ul><li>凝結無法被種族符石防禦</li><li>每顆凝結符石會使敵人所受傷害乘以0.1</li></ul>",
             "icons": [
                 994
             ]
@@ -31783,7 +31929,7 @@
         "5556": {
             "title": "【雙重凝結 - 追擊】",
             "desc": "•&nbsp;每回合隨機將&nbsp;4&nbsp;粒符石&nbsp;<br />⇒「雙重凝結」<br />•&nbsp;移動符石並消除凝結符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />⇒&nbsp;可解除「一重凝結」<br />&nbsp;&nbsp;&nbsp;&nbsp;(首批消除的符石每次<br />&nbsp;&nbsp;&nbsp;&nbsp;只可解除「一重凝結」)<br />•&nbsp;凝結符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;場上凝結符石愈多<br />⇒&nbsp;敵人所受傷害減少愈多<br />•&nbsp;敵人發動攻擊時會根據<br />&nbsp;&nbsp;場上凝結符石的數量<br />⇒&nbsp;額外追打",
-            "custom_desc": "<ul><li>每顆凝結符石會使敵人所受傷害乘以0.1</li></ul>",
+            "custom_desc": "<ul><li>凝結無法被種族符石防禦</li><li>每顆凝結符石會使敵人所受傷害乘以0.1</li></ul>",
             "icons": [
                 994
             ]
@@ -36470,7 +36616,7 @@
         "6302": {
             "title": "分身",
             "desc": "　",
-            "custom_desc": "<ul><li>視覺特效技能</li><li>在敵人背後產生3個分身</li><li>進場時「畫面效果」設定至少需為LOW才會顯示</li></ul>",
+            "custom_desc": "<ul><li>視覺特效技能</li><li>在敵人背後產生2個分身</li><li>進場時「畫面效果」設定至少需為LOW才會顯示</li></ul>",
             "keywords": [
                 "特效"
             ]
