@@ -15903,7 +15903,7 @@
             ]
         },
         "2815": {
-            "title": "CD1 ‧ 龍脈重置 ‧ 剋屬初級拼圖盾 ‧ 扣血100% ‧ 無法控制",
+            "title": "CD1 ‧ 龍脈重置 ‧ 剋屬初級拼圖盾 ‧ 一擊必殺 ‧ 無法控制",
             "desc": "首回合敵人會清空龍脈儀的能量，攻擊頻率變為&nbsp;CD&nbsp;1。<br />需以指定的形狀消除克制敵人屬性的符石&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害。<br />敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)。<br />敵人無視所有控制技能",
             "custom_desc": "",
             "keywords": [
@@ -15912,7 +15912,7 @@
             ]
         },
         "2816": {
-            "title": "CD1 ‧ 龍脈重置 ‧ 剋屬初級拼圖盾-限 ‧ 扣血100% ‧ 無法控制",
+            "title": "CD1 ‧ 龍脈重置 ‧ 剋屬初級拼圖盾-限 ‧ 一擊必殺 ‧ 無法控制",
             "desc": "首回合敵人會清空龍脈儀的能量，攻擊頻率變為&nbsp;CD&nbsp;1。<br />需以指定的形狀消除克制敵人屬性的符石&nbsp;(不可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害。<br />敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)。<br />敵人無視所有控制技能",
             "custom_desc": "",
             "keywords": [
@@ -18757,7 +18757,7 @@
             "custom_desc": ""
         },
         "3306": {
-            "title": "CD4 ‧ 10+10+木心幻變盾 ‧ 扣血100%",
+            "title": "CD4 ‧ 10+10+木心幻變盾 ‧ 一擊必殺",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;4。<br />敵人分別將&nbsp;2&nbsp;個位置轉化為心及木屬幻變空間，經過幻變空間的起手符石會轉化為該幻變空間的種類符石。<br />消除&nbsp;10&nbsp;粒或以上心符石及&nbsp;10&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害。<br />敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "keywords": [
@@ -18766,7 +18766,7 @@
             ]
         },
         "3307": {
-            "title": "CD2 ‧ 15+15+木心幻變盾 ‧ 扣血100%",
+            "title": "CD2 ‧ 15+15+木心幻變盾 ‧ 一擊必殺",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;2。<br />敵人分別將&nbsp;2&nbsp;個位置轉化為心及木屬幻變空間，經過幻變空間的起手符石會轉化為該幻變空間的種類符石。<br />消除&nbsp;15&nbsp;粒或以上心符石及&nbsp;15&nbsp;粒或以上木符石，才會對敵人造成攻擊傷害。<br />敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "keywords": [
@@ -19477,7 +19477,7 @@
             ]
         },
         "3442": {
-            "title": "首攻CD2 ‧ 強化五屬盾 ‧ 扣血100% ‧ 無法控制",
+            "title": "首攻CD2 ‧ 強化五屬盾 ‧ 一擊必殺 ‧ 無法控制",
             "desc": "敵人首次攻擊變為&nbsp;<em>CD&nbsp;2</em>。<br /><br />同時消除水強化、火強化、木強化、光強化及暗強化符石才會對敵人造成攻擊傷害。<br /><br />敵人發動攻擊時會扣除召喚師&nbsp;<em>100%</em>&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)。<br /><br />無視所有控制技能",
             "custom_desc": "",
             "keywords": [
@@ -19640,7 +19640,7 @@
             "custom_desc": ""
         },
         "3469": {
-            "title": "(無限回消暗減攻99%) ‧ 4顆暗電擊 ‧ 扣血100%",
+            "title": "(無限回消暗減攻99%) ‧ 4顆暗電擊 ‧ 一擊必殺",
             "desc": "首回合對召喚師施加永久的負面狀態：每回合<em>消除暗符石</em>時，全隊<em>攻擊力減至&nbsp;1%</em>。<br /><br />每回合<em>電擊&nbsp;4&nbsp;粒</em>暗符石；如有符石被電擊而未被消除時，該回合無法對敵人造成攻擊傷害。被電擊的符石一經觸碰，即時停止移動符石。<br /><br />敵人發動攻擊時會扣除召喚師<em>&nbsp;100%</em>&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "keywords": [
@@ -19704,7 +19704,7 @@
             "custom_desc": ""
         },
         "3480": {
-            "title": "CD1 ‧ 首回隱藏圍城 ‧ 神外超級技能重置 ‧ 扣血100%",
+            "title": "CD1 ‧ 首回隱藏圍城 ‧ 神外超級技能重置 ‧ 一擊必殺",
             "desc": "敵人首次攻擊變為&nbsp;<em>CD&nbsp;1</em>。<br /><br />首回合敵人會將所有符石<br />⇒&nbsp;轉化為<em>隱藏符石</em>。<br /><br /><em>重置神族以外</em>成員的主動<em>技能&nbsp;CD、EP</em>&nbsp;及累積戰鬥回合數。<br /><br />敵人發動攻擊時會扣除召喚師<em>&nbsp;100%&nbsp;</em>生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "keywords": [
@@ -20604,7 +20604,7 @@
             ]
         },
         "3636": {
-            "title": "CD1 ‧ 附加盾 ‧ 人族強化初級拼圖盾 ‧ 扣血100%",
+            "title": "CD1 ‧ 附加盾 ‧ 人族強化初級拼圖盾 ‧ 一擊必殺",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />敵人身上有附加效果時，<br />才能對敵人造成攻擊傷害。<br /><br />以指定形狀消除人族強化符石<br />(可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人發動攻擊時會<br />扣除召喚師&nbsp;100%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)",
             "custom_desc": "",
             "keywords": [
@@ -23470,94 +23470,211 @@
             "custom_desc": ""
         },
         "4118": {
-            "title": "",
+            "title": "水幻火 ‧ 水連擊零化",
             "desc": "將所有水符石<br />⇒&nbsp;幻化成火符石<br /><br />首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0&nbsp;<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4119": {
-            "title": "",
+            "title": "火幻木 ‧ 火連擊零化",
             "desc": "將所有火符石<br />⇒&nbsp;幻化成木符石<br /><br />首批消除火符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消火符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4120": {
-            "title": "",
+            "title": "木幻水 ‧ 木連擊零化",
             "desc": "將所有木符石<br />⇒&nbsp;幻化成水符石<br /><br />首批消除木符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消木符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4121": {
-            "title": "",
+            "title": "光幻暗 ‧ 光連擊零化",
             "desc": "將所有光符石<br />⇒&nbsp;幻化成暗符石<br /><br />首批消除光符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消光符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4122": {
-            "title": "",
+            "title": "暗幻光 ‧ 暗連擊零化",
             "desc": "將所有暗符石<br />⇒&nbsp;幻化成光符石<br /><br />首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4123": {
-            "title": "",
+            "title": "三屬幻心 ‧ 心連擊零化",
             "desc": "將所有水、火、木符石<br />⇒&nbsp;幻化成心符石<br /><br />首批消除心符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消心符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4124": {
-            "title": "",
+            "title": "光暗幻心 ‧ 心連擊零化",
             "desc": "將所有光、暗符石<br />⇒&nbsp;幻化成心符石<br /><br />首批消除心符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消心符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4125": {
-            "title": "",
+            "title": "水幻火 ‧ 首消全水盾",
             "desc": "將所有水符石<br />⇒&nbsp;幻化成火符石<br /><br />•&nbsp;首批消除場上所有水符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                261
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4126": {
-            "title": "",
+            "title": "火幻木 ‧ 首消全火盾",
             "desc": "將所有火符石<br />⇒&nbsp;幻化成木符石<br /><br />•&nbsp;首批消除場上所有火符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                262
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4127": {
-            "title": "",
+            "title": "木幻水 ‧ 首消全木盾",
             "desc": "將所有木符石<br />⇒&nbsp;幻化成水符石<br /><br />•&nbsp;首批消除場上所有木符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                263
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4128": {
-            "title": "",
+            "title": "光幻暗 ‧ 首消全光盾",
             "desc": "將所有光符石<br />⇒&nbsp;幻化成暗符石<br /><br />•&nbsp;首批消除場上所有光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除光符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                264
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4129": {
-            "title": "",
+            "title": "暗幻光 ‧ 首消全暗盾",
             "desc": "將所有暗符石<br />⇒&nbsp;幻化成光符石<br /><br />•&nbsp;首批消除場上所有暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除暗符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                265
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4130": {
-            "title": "",
+            "title": "三屬幻心 ‧ 首消全心盾",
             "desc": "將所有水、火、木符石<br />⇒&nbsp;幻化成心符石<br /><br />•&nbsp;首批消除場上所有心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除心符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                266
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4131": {
-            "title": "",
+            "title": "光暗幻心 ‧ 首消全心盾",
             "desc": "將所有光、暗符石<br />⇒&nbsp;幻化成心符石<br /><br />•&nbsp;首批消除場上所有心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除心符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                266
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4132": {
-            "title": "",
+            "title": "水幻光-火幻暗-木幻心 ‧ 7+Combo追擊盾",
             "desc": "將所有水符石<br />⇒&nbsp;幻化成光符石<br /><br />將所有火符石<br />⇒&nbsp;幻化成暗符石<br /><br />將所有木符石<br />⇒&nbsp;幻化成心符石<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                57
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4133": {
-            "title": "",
+            "title": "水幻光-火幻暗-木幻心 ‧ 8+Combo追擊盾",
             "desc": "將所有水符石<br />⇒&nbsp;幻化成光符石<br /><br />將所有火符石<br />⇒&nbsp;幻化成暗符石<br /><br />將所有木符石<br />⇒&nbsp;幻化成心符石<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                58
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4134": {
-            "title": "",
+            "title": "水幻光-火幻暗-木幻心 ‧ 9+Combo追擊盾",
             "desc": "將所有水符石<br />⇒&nbsp;幻化成光符石<br /><br />將所有火符石<br />⇒&nbsp;幻化成暗符石<br /><br />將所有木符石<br />⇒&nbsp;幻化成心符石<br /><br />9&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                59
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4135": {
             "title": "水幻光-火幻暗-木幻心 ‧ 首消5Combo盾 ‧ 越攻越強",
             "desc": "將所有水符石<br />⇒&nbsp;幻化成光符石<br /><br />將所有火符石<br />⇒&nbsp;幻化成暗符石<br /><br />將所有木符石<br />⇒&nbsp;幻化成心符石<br /><br />首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                975,
+                5,
+                1001
+            ],
             "keywords": [
                 "移形換影",
                 "固定連擊盾"
@@ -23567,6 +23684,11 @@
             "title": "水幻光-火幻暗-木幻心 ‧ 首消6Combo盾 ‧ 越攻越強",
             "desc": "將所有水符石<br />⇒&nbsp;幻化成光符石<br /><br />將所有火符石<br />⇒&nbsp;幻化成暗符石<br /><br />將所有木符石<br />⇒&nbsp;幻化成心符石<br /><br />首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                975,
+                6,
+                1001
+            ],
             "keywords": [
                 "移形換影",
                 "固定連擊盾"
@@ -23576,30 +23698,61 @@
             "title": "水幻光-火幻暗-木幻心 ‧ 首消7Combo盾 ‧ 越攻越強",
             "desc": "將所有水符石<br />⇒&nbsp;幻化成光符石<br /><br />將所有火符石<br />⇒&nbsp;幻化成暗符石<br /><br />將所有木符石<br />⇒&nbsp;幻化成心符石<br /><br />首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                975,
+                7,
+                1001
+            ],
             "keywords": [
                 "移形換影",
                 "固定連擊盾"
             ]
         },
         "4138": {
-            "title": "",
+            "title": "光幻水-暗幻火-心幻木 ‧ 7+Combo追擊盾",
             "desc": "將所有光符石<br />⇒&nbsp;幻化成水符石<br /><br />將所有暗符石<br />⇒&nbsp;幻化成火符石<br /><br />將所有心符石<br />⇒&nbsp;幻化成木符石<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                57
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4139": {
-            "title": "",
+            "title": "光幻水-暗幻火-心幻木 ‧ 8+Combo追擊盾",
             "desc": "將所有光符石<br />⇒&nbsp;幻化成水符石<br /><br />將所有暗符石<br />⇒&nbsp;幻化成火符石<br /><br />將所有心符石<br />⇒&nbsp;幻化成木符石<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                58
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4140": {
-            "title": "",
+            "title": "光幻水-暗幻火-心幻木 ‧ 9+Combo追擊盾",
             "desc": "將所有光符石<br />⇒&nbsp;幻化成水符石<br /><br />將所有暗符石<br />⇒&nbsp;幻化成火符石<br /><br />將所有心符石<br />⇒&nbsp;幻化成木符石<br /><br />9&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975,
+                59
+            ],
+            "keywords": [
+                "移形換影"
+            ]
         },
         "4141": {
             "title": "光幻水-暗幻火-心幻木 ‧ 首消5Combo盾 ‧ 越攻越強",
             "desc": "將所有光符石<br />⇒&nbsp;幻化成水符石<br /><br />將所有暗符石<br />⇒&nbsp;幻化成火符石<br /><br />將所有心符石<br />⇒&nbsp;幻化成木符石<br /><br />首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                975,
+                5,
+                1001
+            ],
             "keywords": [
                 "移形換影",
                 "固定連擊盾"
@@ -23609,6 +23762,11 @@
             "title": "光幻水-暗幻火-心幻木 ‧ 首消6Combo盾 ‧ 越攻越強",
             "desc": "將所有光符石<br />⇒&nbsp;幻化成水符石<br /><br />將所有暗符石<br />⇒&nbsp;幻化成火符石<br /><br />將所有心符石<br />⇒&nbsp;幻化成木符石<br /><br />首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                975,
+                6,
+                1001
+            ],
             "keywords": [
                 "移形換影",
                 "固定連擊盾"
@@ -23618,6 +23776,11 @@
             "title": "光幻水-暗幻火-心幻木 ‧ 首消7Combo盾 ‧ 越攻越強",
             "desc": "將所有光符石<br />⇒&nbsp;幻化成水符石<br /><br />將所有暗符石<br />⇒&nbsp;幻化成火符石<br /><br />將所有心符石<br />⇒&nbsp;幻化成木符石<br /><br />首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                975,
+                7,
+                1001
+            ],
             "keywords": [
                 "移形換影",
                 "固定連擊盾"
@@ -24351,12 +24514,22 @@
         "4285": {
             "title": "【絕對領域 - 200 萬 (傷害護盾) ‧ 突擊 ‧ 符石轉暗 ‧ 抓手地型】",
             "desc": "•&nbsp;單一傷害達&nbsp;200&nbsp;萬的成員<br />⇒&nbsp;才能對敵人造成傷害<br /><br />•&nbsp;突擊&nbsp;1&nbsp;次<br /><br />•&nbsp;進場時將&nbsp;7&nbsp;個<br />&nbsp;&nbsp;固定位置的符石<br />⇒&nbsp;轉化為暗符石<br /><br />【移動符石時顯示】<br />•&nbsp;隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現抓手地型<br />•&nbsp;抓手地型的符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;全隊攻擊力變為&nbsp;0<br />⓷&nbsp;敵人連擊&nbsp;3&nbsp;次<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">ambush 10</span><span class=\"annotation\">fixed_board 005000000000505050000000005000000000005000000000005000000000</span>",
+            "icons": [
+                102,
+                1212,
+                981
+            ]
         },
         "4286": {
             "title": "【絕對領域 - 500 萬 (傷害護盾) ‧ 突擊 ‧ 符石轉暗 ‧ 抓手地型】",
             "desc": "•&nbsp;單一傷害達&nbsp;500&nbsp;萬的成員<br />⇒&nbsp;才能對敵人造成傷害<br /><br />•&nbsp;突擊&nbsp;1&nbsp;次<br /><br />•&nbsp;進場時將&nbsp;7&nbsp;個<br />&nbsp;&nbsp;固定位置的符石<br />⇒&nbsp;轉化為暗符石<br /><br />•&nbsp;其後首回合，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;1&nbsp;橫行符石<br />⇒&nbsp;轉化為暗符石<br />•&nbsp;次回合隨機將&nbsp;1&nbsp;直行符石<br />⇒&nbsp;轉化為暗符石<br />＊以上循環周而復始<br /><br />【移動符石時顯示】<br />•&nbsp;隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現抓手地型<br />•&nbsp;抓手地型的符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;全隊攻擊力變為&nbsp;0<br />⓷&nbsp;敵人連擊&nbsp;3&nbsp;次<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">ambush 65</span><span class=\"annotation\">fixed_board 005000000000505050000000005000000000005000000000005000000000</span>",
+            "icons": [
+                103,
+                1212,
+                981
+            ]
         },
         "4287": {
             "title": "【絕對領域 - 1,000 萬 (傷害護盾) ‧ 突擊 ‧ 符石轉暗 ‧ 抓手地型】",
@@ -24366,17 +24539,34 @@
         "4288": {
             "title": "【絕對領域 - 2,000 萬 (傷害護盾) ‧ 突擊 ‧ 符石轉暗 ‧ 抓手地型 ‧ 復活 - 加攻血防 - 攻速變更 - 符石轉暗及弱化 20%】",
             "desc": "•&nbsp;單一傷害達&nbsp;2,000&nbsp;萬的成員<br />⇒&nbsp;才能對敵人造成傷害<br /><br />•&nbsp;突擊&nbsp;1&nbsp;次<br /><br />•&nbsp;進場時將&nbsp;7&nbsp;個<br />&nbsp;&nbsp;固定位置的符石<br />⇒&nbsp;轉化為暗符石<br /><br />•&nbsp;其後首回合，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;1&nbsp;橫行符石<br />⇒&nbsp;轉化為暗符石<br />•&nbsp;次回合隨機將&nbsp;1&nbsp;直行符石<br />⇒&nbsp;轉化為暗符石<br />＊以上循環周而復始<br /><br />【移動符石時顯示】<br />•&nbsp;隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現抓手地型<br />•&nbsp;抓手地型的符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;全隊攻擊力變為&nbsp;0<br />⓷&nbsp;敵人連擊&nbsp;3&nbsp;次<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />敵人死亡後會復活&nbsp;1&nbsp;次，<br />其攻擊力、生命力、防禦力<br />3&nbsp;倍，攻擊頻率變為&nbsp;CD&nbsp;1，<br />並將&nbsp;7&nbsp;個固定位置的符石<br />轉化為暗符石並鎖定，<br />每消除&nbsp;1&nbsp;粒被鎖定的符石，<br />全隊攻擊力減少&nbsp;20%。<br />(發動龍刻脈動視作<br />消除場上的鎖定符石)<br /><br />",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">ambush 100</span><span class=\"annotation\">fixed_board 005000000000505050000000005000000000005000000000005000000000</span>",
+            "icons": [
+                105,
+                1212,
+                981,
+                1052
+            ]
         },
         "4289": {
             "title": "【絕對領域 - 200 萬 ‧ 突擊 ‧ 燃燒之地 10% - 符石轉火 ‧ 反首消火符石盾】",
             "desc": "<em>【絕對領域&nbsp;-&nbsp;200&nbsp;萬&nbsp;‧&nbsp;突擊&nbsp;‧&nbsp;燃燒之地&nbsp;10%&nbsp;-&nbsp;符石轉火&nbsp;‧&nbsp;反首消火符石盾】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;200&nbsp;萬才能對敵人<br />造成攻擊傷害。<br /><br />首回合優先突擊&nbsp;1&nbsp;次。<br /><br />隨機燃燒&nbsp;2&nbsp;個位置，<br />其後每回合將燃燒位置<br />的符石轉化為火符石；<br />每觸碰被燃燒的位置，<br />將扣除召喚師&nbsp;10%&nbsp;生命力。<br /><br />•&nbsp;首批消除火符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">ambush 10</span>",
+            "icons": [
+                102,
+                292,
+                951
+            ]
         },
         "4290": {
             "title": "【絕對領域 - 500 萬 ‧ 突擊 ‧ 燃燒之地 10% - 符石轉火 ‧ 反首消火符石盾 ‧ 防禦崩壞】",
             "desc": "<em>【絕對領域&nbsp;-&nbsp;500&nbsp;萬&nbsp;‧&nbsp;突擊&nbsp;‧&nbsp;燃燒之地&nbsp;10%&nbsp;-&nbsp;符石轉火&nbsp;‧&nbsp;反首消火符石盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;500&nbsp;萬才能對敵人<br />造成攻擊傷害。<br /><br />首回合優先突擊&nbsp;1&nbsp;次。<br /><br />隨機燃燒&nbsp;3&nbsp;個位置，<br />其後每回合將燃燒位置<br />的符石轉化為火符石；<br />每觸碰被燃燒的位置，<br />將扣除召喚師&nbsp;10%&nbsp;生命力。<br /><br />•&nbsp;首批消除火符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和意志技能",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">ambush 65</span>",
+            "icons": [
+                103,
+                292,
+                951,
+                1009
+            ]
         },
         "4291": {
             "title": "【絕對領域 - 1000 萬 ‧ 伏擊 ‧ 燃燒之地 20% - 符石轉火 ‧ 反首消火符石盾 - 反擊 ‧ 防禦崩壞】",
@@ -24398,6 +24588,12 @@
             "title": "【絕對領域 - 5 億 ‧ 克制敵屬強化限制形狀盾 - 反擊 ‧ 指定 6 連擊盾 ‧ 無法控制】",
             "desc": "<em>【絕對領域&nbsp;-&nbsp;5&nbsp;億&nbsp;‧&nbsp;克制敵屬強化限制形狀盾&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;指定&nbsp;6&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;5&nbsp;億才能對敵人<br />造成攻擊傷害。<br /><br />以指定形狀消除<br />克制敵人屬性的強化符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害；<br />如無法達成上述條件及<br />對敵人發動攻擊，<br />敵人會反擊自身&nbsp;200%<br />攻擊傷害。<br /><br />首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
             "custom_desc": "",
+            "icons": [
+                108,
+                1007,
+                6,
+                855
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -24406,6 +24602,12 @@
             "title": "【絕對領域 - 5 億 ‧ 符石淨化 ‧ 反擊突破 ‧ 指定 7 連擊盾 ‧ 無法控制】",
             "desc": "<em>【絕對領域&nbsp;-&nbsp;5&nbsp;億&nbsp;‧&nbsp;符石淨化&nbsp;‧&nbsp;反擊突破&nbsp;‧&nbsp;指定&nbsp;7&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;5&nbsp;億才能對敵人<br />造成攻擊傷害。<br /><br />首回合及敵人發動攻擊時<br />⇒&nbsp;將場上的符石<br />&nbsp;&nbsp;&nbsp;&nbsp;變回原始模樣<br /><br />敵人只會受到<br />強化符石的攻擊傷害；<br />若受到非強化符石的攻擊，<br />敵人反擊自身200%&nbsp;<br />攻擊傷害。<br /><br />首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
             "custom_desc": "",
+            "icons": [
+                108,
+                902,
+                6,
+                855
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -24414,6 +24616,12 @@
             "title": "【絕對領域 - 5 億 ‧ 反首消心符石盾 - 反擊 ‧ 指定 8 連擊盾 ‧ 無法控制】",
             "desc": "<em>【絕對領域&nbsp;-&nbsp;5&nbsp;億&nbsp;‧&nbsp;反首消心符石盾&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;指定&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;5&nbsp;億才能對敵人<br />造成攻擊傷害。<br /><br />首批消除心符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害<br /><br />首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
             "custom_desc": "",
+            "icons": [
+                108,
+                316,
+                8,
+                855
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -24421,32 +24629,86 @@
         "4296": {
             "title": "【絕對領域 - 2,000 萬 ‧ 防禦盾 25% ‧ 隱匿之途 ‧ 回復弱化】",
             "desc": "<em>【絕對領域&nbsp;-&nbsp;2,000&nbsp;萬&nbsp;‧&nbsp;防禦盾&nbsp;25%&nbsp;‧&nbsp;隱匿之途&nbsp;‧&nbsp;回復弱化】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;2,000&nbsp;萬才能對敵人<br />造成攻擊傷害。<br /><br />每回合攻擊最多只能造成<br />敵人生命力&nbsp;25%&nbsp;的傷害&nbsp;<br />(主動技除外)。<br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />所有成員的回復力減至&nbsp;10%。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                105,
+                903,
+                955,
+                1118
+            ]
         },
         "4297": {
             "title": "【絕對領域 - 2,000 萬 ‧ 防禦盾 25% ‧ 燃燒之軌 5000 ‧ 回復弱化】",
             "desc": "<em>【絕對領域&nbsp;-&nbsp;2,000&nbsp;萬&nbsp;‧&nbsp;防禦盾&nbsp;25%&nbsp;‧&nbsp;燃燒之軌&nbsp;5000&nbsp;‧&nbsp;回復弱化】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;2,000&nbsp;萬才能對敵人<br />造成攻擊傷害。<br /><br />每回合攻擊最多只能造成<br />敵人生命力&nbsp;25%&nbsp;的傷害&nbsp;<br />(主動技除外)。<br /><br />燃燒移動符石時觸碰的位置<br />每觸碰被燃燒的位置，<br />對召喚師造成&nbsp;5000&nbsp;點傷害。<br /><br />所有成員的回復力減至&nbsp;10%。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                105,
+                903,
+                951,
+                1118
+            ]
         },
         "4298": {
             "title": "【絕對領域 - 2,000 萬 ‧ 防禦盾 25% ‧ 起結有序 ‧ 回復弱化】",
             "desc": "<em>【絕對領域&nbsp;-&nbsp;2,000&nbsp;萬&nbsp;‧&nbsp;防禦盾&nbsp;25%&nbsp;‧&nbsp;起結有序&nbsp;‧&nbsp;回復弱化】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;2,000&nbsp;萬才能對敵人<br />造成攻擊傷害。<br /><br />每回合攻擊最多只能造成<br />敵人生命力&nbsp;25%&nbsp;的傷害&nbsp;<br />(主動技除外)。<br /><br />每回合以指定位置&nbsp;(綠色漩渦)&nbsp;的符石開始轉珠及在指定位置&nbsp;(紅色漩渦)&nbsp;結束轉珠，才會發動攻擊和回復。<br />(達成條件前，無法進行回復)<br /><br />所有成員的回復力減至&nbsp;10%。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                105,
+                903,
+                1008,
+                1118
+            ]
         },
         "4299": {
             "title": "【絕對領域 - 1 ‧ 電能印記 ‧ 粒子砲 ‧ 無法控制】",
             "desc": "<em>【絕對領域&nbsp;-&nbsp;1&nbsp;‧&nbsp;電能印記&nbsp;‧&nbsp;粒子砲&nbsp;‧&nbsp;無法控制】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;1&nbsp;才能對敵人<br />造成攻擊傷害。<br /><br />每回合所有符石<br />⇒&nbsp;附加電能印記<br /><br />每消除&nbsp;1&nbsp;粒電能印記符石<br />⇒&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;40&nbsp;重印記力量<br />⇒&nbsp;觸發「陽電子炮」<br />並可對敵人造成攻擊傷害<br /><br />敵人每隔&nbsp;3&nbsp;回合發動粒子砲。<br /><br />無視所有控制技能。",
-            "custom_desc": "粒子砲傷害 999,999"
+            "custom_desc": "<ul><li>電能印記不占用左上狀態</li><li>粒子砲傷害 999,999</li></ul>",
+            "icons": [
+                1108,
+                855,
+                1121
+            ],
+            "alticons": [
+                [
+                    1211,
+                    855,
+                    1121
+                ]
+            ]
         },
         "4300": {
             "title": "【絕對領域 - 1 ‧ 電能印記 ‧ 粒子砲 ‧ 無法控制】",
             "desc": "<em>【絕對領域&nbsp;-&nbsp;1&nbsp;‧&nbsp;電能印記&nbsp;‧&nbsp;粒子砲&nbsp;‧&nbsp;無法控制】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;1&nbsp;才能對敵人<br />造成攻擊傷害。<br /><br />每回合所有符石<br />⇒&nbsp;附加電能印記<br /><br />每消除&nbsp;1&nbsp;粒電能印記符石<br />⇒&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;60&nbsp;重印記力量<br />⇒&nbsp;觸發「陽電子炮」<br />並可對敵人造成攻擊傷害<br /><br />敵人每隔&nbsp;4&nbsp;回合發動粒子砲。<br /><br />無視所有控制技能。",
-            "custom_desc": "粒子砲傷害 999,999"
+            "custom_desc": "<ul><li>電能印記不占用左上狀態</li><li>粒子砲傷害 999,999</li></ul>",
+            "icons": [
+                1108,
+                855,
+                1121
+            ],
+            "alticons": [
+                [
+                    1211,
+                    855,
+                    1121
+                ]
+            ]
         },
         "4301": {
             "title": "【絕對領域 - 1 ‧ 電能印記 ‧ 粒子砲 ‧ 無法控制】",
             "desc": "<em>【絕對領域&nbsp;-&nbsp;1&nbsp;‧&nbsp;電能印記&nbsp;‧&nbsp;粒子砲&nbsp;‧&nbsp;無法控制】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;1&nbsp;才能對敵人<br />造成攻擊傷害。<br /><br />每回合所有符石<br />⇒&nbsp;附加電能印記<br /><br />每消除&nbsp;1&nbsp;粒電能印記符石<br />⇒&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;80&nbsp;重印記力量<br />⇒&nbsp;觸發「陽電子炮」<br />並可對敵人造成攻擊傷害<br /><br />敵人每隔&nbsp;5&nbsp;回合發動粒子砲。<br /><br />無視所有控制技能。",
-            "custom_desc": "粒子砲傷害 999,999"
+            "custom_desc": "<ul><li>電能印記不占用左上狀態</li><li>粒子砲傷害 999,999</li></ul>",
+            "icons": [
+                1108,
+                855,
+                1121
+            ],
+            "alticons": [
+                [
+                    1211,
+                    855,
+                    1121
+                ]
+            ]
         },
         "4302": {
             "title": "【自戕 ‧ 三重石化 ‧ 攻擊無效】",
@@ -24597,6 +24859,11 @@
             "title": "【絕對領域 - 500 萬 ‧ 愈攻愈強 ‧ 三原屬強化盾】",
             "desc": "<em>【絕對領域&nbsp;-&nbsp;500&nbsp;萬&nbsp;‧&nbsp;愈攻愈強&nbsp;‧&nbsp;三原屬強化盾】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;500&nbsp;萬才能對敵人<br />造成攻擊傷害。<br /><br />首回合敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升<br /><br />同時消除<br />「水、火、木」強化符石，<br />才能對敵人造成攻擊傷害。",
             "custom_desc": "<span class=\"annotation\">trojan_hp_attack</span>",
+            "icons": [
+                103,
+                1721,
+                812
+            ],
             "keywords": [
                 "三屬盾",
                 "越扣越強",
@@ -28510,6 +28777,11 @@
             "title": "【攻速變更 ‧ 33 連擊盾 ‧ 消心禁咒 ‧ 一擊必殺】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;33&nbsp;連擊盾&nbsp;‧&nbsp;消心禁咒&nbsp;‧&nbsp;一擊必殺】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />33&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。<br /><br />心符石無法被消除。<br /><br />敵人發動攻擊時會<br />扣除召喚師&nbsp;100%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)",
             "custom_desc": "",
+            "icons": [
+                79,
+                306,
+                1121
+            ],
             "keywords": [
                 "喋血屠刀",
                 "扣血100%"
