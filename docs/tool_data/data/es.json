@@ -6344,7 +6344,7 @@
         "974": {
             "title": "無法控制 ‧ 扣血25%-越戰越強 ‧ 不倒意志50%-半血回復",
             "desc": "敵人會無視所有控制技能。<br />每回合敵人發動攻擊時會扣除召喚師&nbsp;25%&nbsp;生命力，敵人生命力愈低時，扣除召喚師愈多的生命力，最多扣除&nbsp;100%。(無視所有減傷效果和意志技能)<br />敵人當前生命力大於&nbsp;50%&nbsp;時，下一次所受傷害不會使其死亡&nbsp;(包括主動技)。當敵人生命力剩&nbsp;1&nbsp;點時，敵人會回復&nbsp;50%&nbsp;生命力&nbsp;。",
-            "custom_desc": "<details><summary>v2022.51測試結論</summary><table><tbody><tr><td>剩餘血量</td><td>100%</td><td>75%</td><td>50%</td><td>25%</td></tr><tr><td>扣血量</td><td>25%</td><td>50%</td><td>75%</td><td>100%</td></tr></tbody></table><ul><li>各點間的扣血量不會成長<br />（例：剩餘60%血量，對應扣血50%）</li></ul></details>",
+            "custom_desc": "<details><summary>v2022.51測試結論</summary><span class=\"annotation\">table 剩餘血量,100%,75%,50%,25% 扣血量,25%,50%,75%,100%</span><ul><li>各點間的扣血量不會成長<br />（例：剩餘60%血量，對應扣血50%）</li></ul></details>",
             "icons": [
                 855,
                 1001,
@@ -10910,7 +10910,7 @@
         "1841": {
             "title": "累積15+火符石盾 ‧ 越攻越狂",
             "desc": "召喚師需累積消除&nbsp;15&nbsp;粒或以上的火符石，才會對敵人造成攻擊傷害。<br />敵人攻擊次數愈多時，攻擊力會大幅提升及攻擊頻率會改變",
-            "custom_desc": "<details><summary>越攻越狂</summary><table><tbody><tr><td>攻擊次數</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>倍率</td><td>1</td><td>2</td><td>4</td><td>16</td></tr><tr><td>CD變為</td><td>1</td><td>2</td><td>3</td><td>3</td></tr></tbody></table><ul><li>第4次攻擊起停止變更</li></ul></details>",
+            "custom_desc": "<details><summary>越攻越狂</summary><span class=\"annotation\">table 攻擊次數,1,2,3,4 倍率,1,2,4,16 CD變為,1,2,3,3</span><ul><li>第4次攻擊起停止變更</li></ul></details>",
             "icons": [
                 252,
                 1001
@@ -10924,7 +10924,7 @@
         "1843": {
             "title": "累積30+火符石盾 ‧ 越攻越狂 ‧ 無視減傷",
             "desc": "召喚師需累積消除&nbsp;30&nbsp;粒或以上的火符石，才會對敵人造成攻擊傷害。<br />敵人攻擊次數愈多時，攻擊力會大幅提升及攻擊頻率會改變。<br />敵人無視所有減傷效果和意志技能",
-            "custom_desc": "<details><summary>越攻越狂</summary><table><tbody><tr><td>攻擊次數</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>倍率</td><td>1</td><td>2</td><td>4</td><td>16</td></tr><tr><td>CD變為</td><td>1</td><td>2</td><td>3</td><td>3</td></tr></tbody></table><ul><li>第4次攻擊起停止變更</li></ul></details>",
+            "custom_desc": "<details><summary>越攻越狂</summary><span class=\"annotation\">table 攻擊次數,1,2,3,4 倍率,1,2,4,16 CD變為,1,2,3,3</span><ul><li>第4次攻擊起停止變更</li></ul></details>",
             "icons": [
                 252,
                 1001,
@@ -10939,7 +10939,7 @@
         "1845": {
             "title": "累積50+火符石盾 ‧ 越攻越狂 ‧ 無視減傷",
             "desc": "召喚師需累積消除&nbsp;50&nbsp;粒或以上的火符石，才會對敵人造成攻擊傷害。<br />敵人攻擊次數愈多時，攻擊力會大幅提升及攻擊頻率會改變。<br />敵人無視所有減傷效果和意志技能",
-            "custom_desc": "<details><summary>越攻越狂</summary><table><tbody><tr><td>攻擊次數</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>倍率</td><td>1</td><td>2</td><td>4</td><td>16</td></tr><tr><td>CD變為</td><td>1</td><td>2</td><td>3</td><td>3</td></tr></tbody></table><ul><li>第4次攻擊起停止變更</li></ul></details>",
+            "custom_desc": "<details><summary>越攻越狂</summary><span class=\"annotation\">table 攻擊次數,1,2,3,4 倍率,1,2,4,16 CD變為,1,2,3,3</span><ul><li>第4次攻擊起停止變更</li></ul></details>",
             "icons": [
                 252,
                 1001,
@@ -32856,7 +32856,7 @@
             "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，<br />敵人攻擊次數愈多，<br />減傷狀態削弱愈多。",
             "custom_desc": "<span class=\"annotation\">crumbling_walls</span>",
             "icons": [
-                11011
+                11001
             ]
         },
         "5530": {
@@ -33344,12 +33344,7 @@
             "desc": "•&nbsp;敵人生命分為&nbsp;2&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />▋階段&nbsp;2<br />【弱化圍城&nbsp;20%&nbsp;‧&nbsp;2&nbsp;倍攻】",
             "custom_desc": "",
             "icons": [
-                0
-            ],
-            "alticons": [
-                [
-                    1114
-                ]
+                1114
             ]
         },
         "5589": {
@@ -33357,12 +33352,7 @@
             "desc": "•&nbsp;敵人生命分為&nbsp;2&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />▋階段&nbsp;2<br />【邪惡能量符石圍城&nbsp;50%】<br />【4&nbsp;倍攻】",
             "custom_desc": "",
             "icons": [
-                0
-            ],
-            "alticons": [
-                [
-                    1114
-                ]
+                1114
             ]
         },
         "5590": {
@@ -34155,7 +34145,10 @@
         "5692": {
             "title": "【燃燒之軌】",
             "desc": "•&nbsp;燃燒移動符石時觸碰的位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
         },
         "5693": {
             "title": "【燃燒之軌】",
@@ -36496,7 +36489,10 @@
         "6005": {
             "title": "【隱身 - 加攻】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;隱身期間敵人的<br />&nbsp;&nbsp;攻擊力&nbsp;10&nbsp;倍",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1001
+            ]
         },
         "6006": {
             "title": "【隱身 - 加攻】",
@@ -38591,12 +38587,18 @@
         "6306": {
             "title": "【獵【英雄協會】】",
             "desc": "•&nbsp;隊中【英雄協會】<br />&nbsp;&nbsp;成員愈多<br />⇒&nbsp;敵人攻擊力提升愈多",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">table 成員數量,1,2,3,4,5,6 倍率,,4.6,,,,10</span>",
+            "icons": [
+                1215
+            ]
         },
         "6307": {
             "title": "【符石轉水、暗】",
             "desc": "•&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量及位置的<br />&nbsp;&nbsp;&nbsp;&nbsp;水及暗符石",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">fixed_board 105010501050501050105010105010501050501050105010105010501050</span>",
+            "icons": [
+                981
+            ]
         },
         "6308": {
             "title": "【固定連擊凝護 - 愈攻愈強】",
