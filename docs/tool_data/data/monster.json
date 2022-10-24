@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.512",
-        "dv": 11532,
-        "time": 1665743699
+        "version": "2022.600",
+        "dv": 11589,
+        "time": 1666557336
     },
     "monster": {
         "1": {
@@ -16647,6 +16647,86 @@
             "attribute": 3,
             "race": 4
         },
+        "6573": {
+            "name": "幽怨新娘 ‧ 烏爾德",
+            "attribute": 1,
+            "race": 5
+        },
+        "6574": {
+            "name": "淘氣剪刀手 ‧ 斯庫爾德",
+            "attribute": 2,
+            "race": 5
+        },
+        "6575": {
+            "name": "甜酒血族 ‧ 薇兒丹蒂",
+            "attribute": 3,
+            "race": 5
+        },
+        "6576": {
+            "name": "聖殿死者 ‧ 伊登",
+            "attribute": 4,
+            "race": 5
+        },
+        "6577": {
+            "name": "獵巫死者 ‧ 布倫希爾德",
+            "attribute": 5,
+            "race": 5
+        },
+        "6578": {
+            "name": "水縹舞孃 ‧ 卡珊德拉",
+            "attribute": 1,
+            "race": 1
+        },
+        "6579": {
+            "name": "緋舞天火 ‧ 美狄亞",
+            "attribute": 2,
+            "race": 1
+        },
+        "6580": {
+            "name": "浮世若煙 ‧ 喀耳刻",
+            "attribute": 3,
+            "race": 1
+        },
+        "6581": {
+            "name": "愛恨交纏之歌 ‧ 美狄亞",
+            "attribute": 2,
+            "race": 1
+        },
+        "6582": {
+            "name": "孤高傲火 ‧ 美狄亞",
+            "attribute": 2,
+            "race": 1
+        },
+        "6583": {
+            "name": "比翼浪花 ‧ 卡珊德拉",
+            "attribute": 1,
+            "race": 1
+        },
+        "6584": {
+            "name": "熱潮浪漫 ‧ 美狄亞",
+            "attribute": 2,
+            "race": 1
+        },
+        "6585": {
+            "name": "夢覺涼夏 ‧ 喀耳刻",
+            "attribute": 3,
+            "race": 1
+        },
+        "6586": {
+            "name": "舞蝶飛雪 · 卡珊德拉",
+            "attribute": 1,
+            "race": 1
+        },
+        "6587": {
+            "name": "鎂光燈下 ‧ 美狄亞",
+            "attribute": 2,
+            "race": 1
+        },
+        "6588": {
+            "name": "魅巫曾甜 ‧ 喀耳刻",
+            "attribute": 3,
+            "race": 1
+        },
         "6589": {
             "name": "霞色金曦 ‧ 凱瑟琳",
             "attribute": 3,
@@ -18782,9 +18862,24 @@
             "attribute": 5,
             "race": 1
         },
+        "10311": {
+            "name": "冰與火之心 · 辛西亞",
+            "attribute": 1,
+            "race": 1
+        },
         "10313": {
             "name": "血噬捕獸夾 ‧ 亞爾曼",
             "attribute": 1,
+            "race": 8
+        },
+        "10314": {
+            "name": "深林毒巫 · 約克",
+            "attribute": 3,
+            "race": 3
+        },
+        "10318": {
+            "name": "血夜祭宴 · 雪萊",
+            "attribute": 2,
             "race": 8
         },
         "10319": {

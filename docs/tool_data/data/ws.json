@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.512",
-        "dv": 20078,
-        "time": 1665743699
+        "version": "2022.600",
+        "dv": 20309,
+        "time": 1666557336
     },
     "ws": {
         "10001": {
@@ -2753,6 +2753,136 @@
         "10579": {
             "title": "",
             "desc": "•&nbsp;隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現【埼玉】地型<br />•&nbsp;於【埼玉】地型<br />&nbsp;&nbsp;首次起手轉珠<br />⇒&nbsp;於全隊發動攻擊後<br />&nbsp;&nbsp;&nbsp;&nbsp;對敵方全體造成<br />&nbsp;&nbsp;&nbsp;&nbsp;999&nbsp;億點無屬性傷害<br />&nbsp;&nbsp;&nbsp;(此傷害無視敵人技能<br />&nbsp;&nbsp;&nbsp;&nbsp;及我方技能加乘)",
+            "custom_desc": ""
+        },
+        "10581": {
+            "title": "",
+            "desc": "•&nbsp;回合開始時倒數&nbsp;20&nbsp;秒<br />•&nbsp;倒數至&nbsp;0&nbsp;秒時<br />⇒&nbsp;立即進入敵人行動階段",
+            "custom_desc": ""
+        },
+        "10582": {
+            "title": "",
+            "desc": "•&nbsp;回合開始時倒數&nbsp;15&nbsp;秒<br />•&nbsp;倒數至&nbsp;0&nbsp;秒時<br />⇒&nbsp;立即進入敵人行動階段",
+            "custom_desc": ""
+        },
+        "10583": {
+            "title": "",
+            "desc": "•&nbsp;回合開始時倒數&nbsp;10&nbsp;秒<br />•&nbsp;倒數至&nbsp;0&nbsp;秒時<br />⇒&nbsp;立即進入敵人行動階段",
+            "custom_desc": ""
+        },
+        "10584": {
+            "title": "",
+            "desc": "•&nbsp;回合開始時倒數&nbsp;5&nbsp;秒<br />•&nbsp;倒數至&nbsp;0&nbsp;秒時<br />⇒&nbsp;立即進入敵人行動階段",
+            "custom_desc": ""
+        },
+        "10585": {
+            "title": "",
+            "desc": "•&nbsp;每個成員攻擊力、<br />&nbsp;&nbsp;&nbsp;後追打上限為&nbsp;100",
+            "custom_desc": ""
+        },
+        "10586": {
+            "title": "",
+            "desc": "•&nbsp;每個成員攻擊力、<br />&nbsp;&nbsp;&nbsp;後追打上限為&nbsp;1,000",
+            "custom_desc": ""
+        },
+        "10587": {
+            "title": "",
+            "desc": "•&nbsp;每個成員攻擊力、<br />&nbsp;&nbsp;&nbsp;後追打上限為&nbsp;10,000",
+            "custom_desc": ""
+        },
+        "10588": {
+            "title": "",
+            "desc": "•&nbsp;每回合將場上的符石<br />⇒&nbsp;變回原始模樣",
+            "custom_desc": ""
+        },
+        "10589": {
+            "title": "",
+            "desc": "•&nbsp;首次發動主動技能<br />⇒&nbsp;封鎖自身以外所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)&nbsp;",
+            "custom_desc": ""
+        },
+        "10590": {
+            "title": "",
+            "desc": "•&nbsp;發動主動技能<br />&nbsp;&nbsp;每添加或轉化&nbsp;1&nbsp;粒符石<br />⇒&nbsp;消耗召喚師&nbsp;3%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10591": {
+            "title": "",
+            "desc": "•&nbsp;發動主動技能<br />&nbsp;&nbsp;每引爆或移除&nbsp;1&nbsp;粒符石<br />⇒&nbsp;消耗召喚師&nbsp;3%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10593": {
+            "title": "",
+            "desc": "•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算回復加乘)",
+            "custom_desc": ""
+        },
+        "10594": {
+            "title": "",
+            "desc": "•&nbsp;每首批消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;回復&nbsp;2%&nbsp;生命力<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法進行回復。",
+            "custom_desc": ""
+        },
+        "10595": {
+            "title": "",
+            "desc": "•&nbsp;每首批消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;回復&nbsp;5%&nbsp;生命力<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法進行回復。",
+            "custom_desc": ""
+        },
+        "10596": {
+            "title": "",
+            "desc": "•&nbsp;每首批消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;回復&nbsp;10%&nbsp;生命力<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法進行回復。",
+            "custom_desc": ""
+        },
+        "10597": {
+            "title": "",
+            "desc": "•&nbsp;進場時累積&nbsp;0%&nbsp;崩壞值狀態<br />•&nbsp;回合結束時<br />⇒累積&nbsp;10%&nbsp;崩壞值狀態<br />•&nbsp;當累積至&nbsp;100%&nbsp;崩壞值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;進入下一層數&nbsp;(Wave)<br />⇒&nbsp;清空崩壞值狀態",
+            "custom_desc": ""
+        },
+        "10598": {
+            "title": "",
+            "desc": "•&nbsp;進場時累積&nbsp;0%&nbsp;崩壞值狀態<br />•&nbsp;回合結束時<br />⇒累積&nbsp;20%&nbsp;崩壞值狀態<br />•&nbsp;當累積至&nbsp;100%&nbsp;崩壞值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;進入下一層數&nbsp;(Wave)<br />⇒&nbsp;清空崩壞值狀態",
+            "custom_desc": ""
+        },
+        "10599": {
+            "title": "",
+            "desc": "•&nbsp;進場時累積&nbsp;0%&nbsp;崩壞值狀態<br />•&nbsp;回合結束時<br />⇒累積&nbsp;25%&nbsp;崩壞值狀態<br />•&nbsp;當累積至&nbsp;100%&nbsp;崩壞值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;進入下一層數&nbsp;(Wave)<br />⇒&nbsp;清空崩壞值狀態",
+            "custom_desc": ""
+        },
+        "10600": {
+            "title": "",
+            "desc": "•&nbsp;進場時累積&nbsp;0%&nbsp;崩壞值狀態<br />•&nbsp;回合結束時<br />⇒累積&nbsp;50%&nbsp;崩壞值狀態<br />•&nbsp;當累積至&nbsp;100%&nbsp;崩壞值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;進入下一層數&nbsp;(Wave)<br />⇒&nbsp;清空崩壞值狀態",
+            "custom_desc": ""
+        },
+        "10601": {
+            "title": "",
+            "desc": "•&nbsp;每次發動主動技能後<br />⇒&nbsp;累積&nbsp;10%&nbsp;崩壞值狀態<br />•&nbsp;當累積至&nbsp;100%&nbsp;崩壞值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;進入下一層數&nbsp;(Wave)<br />⇒&nbsp;清空崩壞值狀態",
+            "custom_desc": ""
+        },
+        "10602": {
+            "title": "",
+            "desc": "•&nbsp;每次發動主動技能後<br />⇒&nbsp;累積&nbsp;20%&nbsp;崩壞值狀態<br />•&nbsp;當累積至&nbsp;100%&nbsp;崩壞值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;進入下一層數&nbsp;(Wave)<br />⇒&nbsp;清空崩壞值狀態",
+            "custom_desc": ""
+        },
+        "10603": {
+            "title": "",
+            "desc": "•&nbsp;每次發動主動技能後<br />⇒&nbsp;累積&nbsp;25%&nbsp;崩壞值狀態<br />•&nbsp;當累積至&nbsp;100%&nbsp;崩壞值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;進入下一層數&nbsp;(Wave)<br />⇒&nbsp;清空崩壞值狀態",
+            "custom_desc": ""
+        },
+        "10604": {
+            "title": "",
+            "desc": "•&nbsp;每次發動主動技能後<br />⇒&nbsp;累積&nbsp;50%&nbsp;崩壞值狀態<br />•&nbsp;當累積至&nbsp;100%&nbsp;崩壞值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;進入下一層數&nbsp;(Wave)<br />⇒&nbsp;清空崩壞值狀態",
+            "custom_desc": ""
+        },
+        "10605": {
+            "title": "",
+            "desc": "•&nbsp;當前沒有紙皮狀態<br />⇒&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10606": {
+            "title": "",
+            "desc": "•&nbsp;當前沒有紙皮狀態<br />⇒&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10607": {
+            "title": "",
+            "desc": "•&nbsp;當前沒有紙皮狀態<br />⇒&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;5%&nbsp;生命力",
             "custom_desc": ""
         }
     }
