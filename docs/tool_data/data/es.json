@@ -40027,27 +40027,42 @@
         "6411": {
             "title": "【10 步限制】",
             "desc": "•&nbsp;每回合只能移動&nbsp;10&nbsp;步，<br />&nbsp;&nbsp;步數用盡時將停止移動符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1033
+            ]
         },
         "6412": {
             "title": "【20 步限制】",
             "desc": "•&nbsp;每回合只能移動&nbsp;20&nbsp;步，<br />&nbsp;&nbsp;步數用盡時將停止移動符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1033
+            ]
         },
         "6413": {
             "title": "【30 步限制】",
             "desc": "•&nbsp;每回合只能移動&nbsp;30&nbsp;步，<br />&nbsp;&nbsp;步數用盡時將停止移動符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1033
+            ]
         },
         "6414": {
             "title": "【40 步限制】",
             "desc": "•&nbsp;每回合只能移動&nbsp;40&nbsp;步，<br />&nbsp;&nbsp;步數用盡時將停止移動符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1033
+            ]
         },
         "6415": {
             "title": "【50 步限制】",
             "desc": "•&nbsp;每回合只能移動&nbsp;50&nbsp;步，<br />&nbsp;&nbsp;步數用盡時將停止移動符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1033
+            ]
         },
         "6416": {
             "title": "【首消水符石 - 隱身】",
@@ -40087,22 +40102,34 @@
         "6423": {
             "title": "【亡命 - 刷新護盾】",
             "desc": "•&nbsp;敵人死亡後<br />⇒&nbsp;刷新護盾",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                501
+            ]
         },
         "6424": {
             "title": "【亡命 - 護盾上限 30,000、回復護盾】",
             "desc": "•&nbsp;召喚師沒有護盾或<br />&nbsp;&nbsp;護盾上限&nbsp;&lt;30,000&nbsp;點<br />⇒&nbsp;敵人死亡後<br />&nbsp;&nbsp;&nbsp;&nbsp;提升護盾上限至&nbsp;30,000&nbsp;點<br /><br />•&nbsp;敵人死亡後<br />⇒&nbsp;回復&nbsp;30,000&nbsp;點護盾",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                502
+            ]
         },
         "6425": {
             "title": "【亡命 - 護盾上限 60,000、回復護盾】",
             "desc": "•&nbsp;召喚師沒有護盾或<br />&nbsp;&nbsp;護盾上限&nbsp;&lt;60,000&nbsp;點<br />⇒&nbsp;敵人死亡後<br />&nbsp;&nbsp;&nbsp;&nbsp;提升護盾上限至&nbsp;60,000&nbsp;點<br /><br />•&nbsp;敵人死亡後<br />⇒&nbsp;回復&nbsp;60,000&nbsp;點護盾",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                503
+            ]
         },
         "6426": {
             "title": "【亡命 - 護盾上限 100,000、回復護盾】",
             "desc": "•&nbsp;召喚師沒有護盾或<br />&nbsp;&nbsp;護盾上限&nbsp;&lt;100,000&nbsp;點<br />⇒&nbsp;敵人死亡後<br />&nbsp;&nbsp;&nbsp;&nbsp;提升護盾上限至&nbsp;100,000&nbsp;點<br /><br />•&nbsp;敵人死亡後<br />⇒&nbsp;回復&nbsp;100,000&nbsp;點護盾",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                504
+            ]
         },
         "6427": {
             "title": "【50 步紙皮狀態】",
@@ -40182,127 +40209,352 @@
         "6442": {
             "title": "【符石轉水】",
             "desc": "•&nbsp;每回合將火符石<br />⇒&nbsp;轉化為水符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "6443": {
             "title": "【符石轉火】",
             "desc": "•&nbsp;每回合將木符石<br />⇒&nbsp;轉化為火符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "6444": {
             "title": "【符石轉木】",
             "desc": "•&nbsp;每回合將水符石<br />⇒&nbsp;轉化為木符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "6445": {
             "title": "【符石轉光】",
             "desc": "•&nbsp;每回合將暗符石<br />⇒&nbsp;轉化為光符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "6446": {
             "title": "【符石轉暗】",
             "desc": "•&nbsp;每回合將光符石<br />⇒&nbsp;轉化為暗符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                981
+            ]
         },
         "6447": {
             "title": "【水以外弱攻】",
             "desc": "•&nbsp;1&nbsp;回合內<br />⇒&nbsp;水屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                251
+            ],
+            "alticons": [
+                []
+            ]
         },
         "6448": {
             "title": "【水以外弱攻】",
             "desc": "•&nbsp;2&nbsp;回合內<br />⇒&nbsp;水屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                251
+            ],
+            "alticons": [
+                [
+                    251
+                ],
+                []
+            ]
         },
         "6449": {
             "title": "【水以外弱攻】",
             "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;水屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                251
+            ],
+            "alticons": [
+                [
+                    251
+                ],
+                [
+                    251
+                ],
+                []
+            ]
         },
         "6450": {
             "title": "【水以外弱攻】",
             "desc": "•&nbsp;4&nbsp;回合內<br />⇒&nbsp;水屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                251
+            ],
+            "alticons": [
+                [
+                    251
+                ],
+                [
+                    251
+                ],
+                [
+                    251
+                ],
+                []
+            ]
         },
         "6451": {
             "title": "【火以外弱攻】",
             "desc": "•&nbsp;1&nbsp;回合內<br />⇒&nbsp;火屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                252
+            ],
+            "alticons": [
+                []
+            ]
         },
         "6452": {
             "title": "【火以外弱攻】",
             "desc": "•&nbsp;2&nbsp;回合內<br />⇒&nbsp;火屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                252
+            ],
+            "alticons": [
+                [
+                    252
+                ],
+                []
+            ]
         },
         "6453": {
             "title": "【火以外弱攻】",
             "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;火屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                252
+            ],
+            "alticons": [
+                [
+                    252
+                ],
+                [
+                    252
+                ],
+                []
+            ]
         },
         "6454": {
             "title": "【火以外弱攻】",
             "desc": "•&nbsp;4&nbsp;回合內<br />⇒&nbsp;火屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                252
+            ],
+            "alticons": [
+                [
+                    252
+                ],
+                [
+                    252
+                ],
+                [
+                    252
+                ],
+                []
+            ]
         },
         "6455": {
             "title": "【木以外弱攻】",
             "desc": "•&nbsp;1&nbsp;回合內<br />⇒&nbsp;木屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                253
+            ],
+            "alticons": [
+                []
+            ]
         },
         "6456": {
             "title": "【木以外弱攻】",
             "desc": "•&nbsp;2&nbsp;回合內<br />⇒&nbsp;木屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                253
+            ],
+            "alticons": [
+                [
+                    253
+                ],
+                []
+            ]
         },
         "6457": {
             "title": "【木以外弱攻】",
             "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;木屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                253
+            ],
+            "alticons": [
+                [
+                    253
+                ],
+                [
+                    253
+                ],
+                []
+            ]
         },
         "6458": {
             "title": "【木以外弱攻】",
             "desc": "•&nbsp;4&nbsp;回合內<br />⇒&nbsp;木屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                253
+            ],
+            "alticons": [
+                [
+                    253
+                ],
+                [
+                    253
+                ],
+                [
+                    253
+                ],
+                []
+            ]
         },
         "6459": {
             "title": "【光以外弱攻】",
             "desc": "•&nbsp;1&nbsp;回合內<br />⇒&nbsp;光屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                254
+            ],
+            "alticons": [
+                []
+            ]
         },
         "6460": {
             "title": "【光以外弱攻】",
             "desc": "•&nbsp;2&nbsp;回合內<br />⇒&nbsp;光屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                254
+            ],
+            "alticons": [
+                [
+                    254
+                ],
+                []
+            ]
         },
         "6461": {
             "title": "【光以外弱攻】",
             "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;光屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                254
+            ],
+            "alticons": [
+                [
+                    254
+                ],
+                [
+                    254
+                ],
+                []
+            ]
         },
         "6462": {
             "title": "【光以外弱攻】",
             "desc": "•&nbsp;4&nbsp;回合內<br />⇒&nbsp;光屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                254
+            ],
+            "alticons": [
+                [
+                    254
+                ],
+                [
+                    254
+                ],
+                [
+                    254
+                ],
+                []
+            ]
         },
         "6463": {
             "title": "【暗以外弱攻】",
             "desc": "•&nbsp;1&nbsp;回合內<br />⇒&nbsp;暗屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                255
+            ],
+            "alticons": [
+                []
+            ]
         },
         "6464": {
             "title": "【暗以外弱攻】",
             "desc": "•&nbsp;2&nbsp;回合內<br />⇒&nbsp;暗屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                255
+            ],
+            "alticons": [
+                [
+                    255
+                ],
+                []
+            ]
         },
         "6465": {
             "title": "【暗以外弱攻】",
             "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;暗屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                255
+            ],
+            "alticons": [
+                [
+                    255
+                ],
+                [
+                    255
+                ],
+                []
+            ]
         },
         "6466": {
             "title": "【暗以外弱攻】",
             "desc": "•&nbsp;4&nbsp;回合內<br />⇒&nbsp;暗屬性以外傷害減至&nbsp;0%",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                255
+            ],
+            "alticons": [
+                [
+                    255
+                ],
+                [
+                    255
+                ],
+                [
+                    255
+                ],
+                []
+            ]
         },
         "6467": {
             "title": "【首消 ≥4 組屬性符石凝護】",
@@ -40342,92 +40594,146 @@
         "6474": {
             "title": "【凍結符石狀態解除 - 燃燒之地】",
             "desc": "•&nbsp;進場時<br />⇒&nbsp;燃燒「凍結符石」的位置<br />⇒&nbsp;並解除「凍結符石」狀態<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
         },
         "6475": {
             "title": "【凍結符石狀態解除 - 燃燒之地】",
             "desc": "•&nbsp;進場時<br />⇒&nbsp;燃燒「凍結符石」的位置<br />⇒&nbsp;並解除「凍結符石」狀態<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
         },
         "6476": {
             "title": "【凍結符石狀態解除 - 燃燒之地】",
             "desc": "•&nbsp;進場時<br />⇒&nbsp;燃燒「凍結符石」的位置<br />⇒&nbsp;並解除「凍結符石」狀態<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
         },
         "6477": {
             "title": "【加護符石】",
             "desc": "•&nbsp;每回合將五屬符石各&nbsp;1&nbsp;粒<br />⇒&nbsp;添加為加護符石<br />⇒&nbsp;最多加至五屬加護符石各&nbsp;1&nbsp;粒",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                916
+            ]
         },
         "6478": {
             "title": "【加護符石】",
             "desc": "•&nbsp;每回合將五屬符石各&nbsp;2&nbsp;粒<br />⇒&nbsp;添加為加護符石<br />⇒&nbsp;最多加至五屬加護符石各&nbsp;2&nbsp;粒",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                916
+            ]
         },
         "6479": {
             "title": "【加護符石】",
             "desc": "•&nbsp;每回合將五屬符石各&nbsp;3&nbsp;粒<br />⇒&nbsp;添加為加護符石<br />⇒&nbsp;最多加至五屬加護符石各&nbsp;3&nbsp;粒",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                916
+            ]
         },
         "6480": {
             "title": "【爆破炸彈 - 水】",
             "desc": "•&nbsp;每回合將所有水符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;15,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
         },
         "6481": {
             "title": "【爆破炸彈 - 火】",
             "desc": "•&nbsp;每回合將所有火符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;15,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
         },
         "6482": {
             "title": "【爆破炸彈 - 木】",
             "desc": "•&nbsp;每回合將所有木符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;15,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
         },
         "6483": {
             "title": "【爆破炸彈 - 光】",
             "desc": "•&nbsp;每回合將所有光符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;15,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
         },
         "6484": {
             "title": "【爆破炸彈 - 暗】",
             "desc": "•&nbsp;每回合將所有暗符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;15,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
         },
         "6485": {
             "title": "【爆破炸彈 - 心】",
             "desc": "•&nbsp;每回合將所有心符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;15,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
         },
         "6486": {
             "title": "【爆破炸彈 - 水】",
             "desc": "•&nbsp;每回合將所有水符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;60,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
         },
         "6487": {
             "title": "【爆破炸彈 - 火】",
             "desc": "•&nbsp;每回合將所有火符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;60,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
         },
         "6488": {
             "title": "【爆破炸彈 - 木】",
             "desc": "•&nbsp;每回合將所有木符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;60,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
         },
         "6489": {
             "title": "【爆破炸彈 - 光】",
             "desc": "•&nbsp;每回合將所有光符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;60,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
         },
         "6490": {
             "title": "【爆破炸彈 - 暗】",
             "desc": "•&nbsp;每回合將所有暗符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;60,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
         },
         "6491": {
             "title": "【爆破炸彈 - 心】",
             "desc": "•&nbsp;每回合將所有心符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;60,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
         },
         "6492": {
             "title": "【力的印記 - 水】",
