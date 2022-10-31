@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.600",
-        "dv": 11589,
-        "time": 1666557336
+        "version": "2022.601",
+        "dv": 11627,
+        "time": 1667186218
     },
     "monster": {
         "1": {
@@ -16009,6 +16009,11 @@
             "attribute": 4,
             "race": 2
         },
+        "6422": {
+            "name": "根源倒錯 ‧ 迪亞布羅",
+            "attribute": 2,
+            "race": 3
+        },
         "6424": {
             "name": "",
             "attribute": 5,
@@ -18887,6 +18892,61 @@
             "attribute": 2,
             "race": 1
         },
+        "10327": {
+            "name": "殺手＜睡美人＞",
+            "attribute": 2,
+            "race": 1
+        },
+        "10328": {
+            "name": "間諜＜黃昏＞",
+            "attribute": 3,
+            "race": 1
+        },
+        "10329": {
+            "name": "讀心超能．安妮亞",
+            "attribute": 5,
+            "race": 1
+        },
+        "10330": {
+            "name": "洛伊德與安妮亞與約兒與彭德",
+            "attribute": 2,
+            "race": 1
+        },
+        "10331": {
+            "name": "弗朗基．富蘭克林",
+            "attribute": 1,
+            "race": 1
+        },
+        "10332": {
+            "name": "貝琪．布萊克貝爾",
+            "attribute": 2,
+            "race": 1
+        },
+        "10334": {
+            "name": "亨利．韓德森",
+            "attribute": 4,
+            "race": 1
+        },
+        "10335": {
+            "name": "達米安與艾彌爾與尤恩",
+            "attribute": 5,
+            "race": 1
+        },
+        "10337": {
+            "name": "安妮亞．佛傑",
+            "attribute": 2,
+            "race": 1
+        },
+        "10338": {
+            "name": "洛伊德．佛傑",
+            "attribute": 4,
+            "race": 1
+        },
+        "10339": {
+            "name": "約兒．佛傑",
+            "attribute": 5,
+            "race": 1
+        },
         "5001": {
             "name": "UNKNOWN"
         },
@@ -19215,6 +19275,11 @@
             "name": "隕石",
             "attribute": 5,
             "race": 7
+        },
+        "50069": {
+            "name": "初代校長的銅像",
+            "attribute": 4,
+            "race": 1
         }
     },
     "attribute_names": [

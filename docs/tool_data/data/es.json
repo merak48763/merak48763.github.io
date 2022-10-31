@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.600",
-        "dv": 20309,
-        "time": 1666557336
+        "version": "2022.601",
+        "dv": 20363,
+        "time": 1667186218
     },
     "es": {
         "0": {
@@ -36171,7 +36171,7 @@
         "5934": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">quiz 50063,50064,50065,50066 310,311,312,313,314,315,316,317,318,319,320,321,322,329,330,331,332,333,334,335,336,337,338,339,340,341,360,361,362,363,364,365,366,367,368,369,370,371,372,373,377,378,379,383,384,385,386</span>",
             "icons": [
                 1038
             ]
@@ -36179,7 +36179,7 @@
         "5935": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">quiz 50063,50064,50065,50066 310,311,312,313,314,315,316,317,318,319,320,321,322,329,330,331,332,333,334,335,336,337,338,339,340,341,360,361,362,363,364,365,366,367,368,369,370,371,372,373,377,378,379,383,384,385,386</span>",
             "icons": [
                 1038
             ]
@@ -36187,7 +36187,7 @@
         "5936": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">quiz 50063,50064,50065,50066 323,324,325,326,327,328,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359</span>",
             "icons": [
                 1038
             ]
@@ -36195,7 +36195,7 @@
         "5937": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">quiz 50063,50064,50065,50066 310,311,312,313,314,315,316,317,318,319,320,321,322,329,330,331,332,333,334,335,336,337,338,339,340,341,360,361,362,363,364,365,366,367,368,369,370,371,372,373,377,378,379,383,384,385,386</span>",
             "icons": [
                 1038
             ]
@@ -36203,7 +36203,7 @@
         "5938": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">quiz 50063,50064,50065,50066 310,311,312,313,314,315,316,317,318,319,320,321,322,329,330,331,332,333,334,335,336,337,338,339,340,341,360,361,362,363,364,365,366,367,368,369,370,371,372,373,377,378,379,383,384,385,386</span>",
             "icons": [
                 1038
             ]
@@ -36211,7 +36211,7 @@
         "5939": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">quiz 50063,50064,50065,50066 323,324,325,326,327,328,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,374,375,376,380,381,382,387,388,389</span>",
             "icons": [
                 1038
             ]
@@ -40024,6 +40024,56 @@
             "custom_desc": "",
             "icons": []
         },
+        "6399": {
+            "title": "【污水 ‧ 限制形狀凝護】",
+            "desc": "•&nbsp;噴發污水<br /><br />•&nbsp;在指定位置消除符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": ""
+        },
+        "6400": {
+            "title": "【清技及 EP ‧ 自戕】",
+            "desc": "•&nbsp;首批消除符石<br />⇒&nbsp;將所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP<br />&nbsp;&nbsp;&nbsp;&nbsp;及累積戰鬥回合數重置<br /><br />•&nbsp;回合結束時，<br />敵人扣除&nbsp;100%&nbsp;自身生命力，<br />期間不會受到任何傷害。",
+            "custom_desc": ""
+        },
+        "6401": {
+            "title": "【隊中有「約兒．佛傑」- 減攻、減防．隊中有「約兒．佛傑」及「洛伊德．佛傑」- 加攻、減防】",
+            "desc": "•&nbsp;隊中有「約兒．佛傑」<br />⓵&nbsp;敵人攻擊力減至&nbsp;1<br />⓶&nbsp;敵人防禦力減至&nbsp;1<br /><br />•&nbsp;隊中有「約兒．佛傑」及<br />「洛伊德．佛傑」<br />⓵&nbsp;則敵人攻擊力&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人防禦力減至&nbsp;1",
+            "custom_desc": ""
+        },
+        "6403": {
+            "title": "【「起結有序 - 角色符石、固定連擊」凝護 - 愈攻愈強】",
+            "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;25%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;達成首消固定連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(敵人無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
+            "custom_desc": ""
+        },
+        "6404": {
+            "title": "【「起結有序 - 角色符石、固定連擊」凝護 - 愈攻愈強】",
+            "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;20%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;達成首消固定連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(敵人無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
+            "custom_desc": ""
+        },
+        "6405": {
+            "title": "【「起結有序 - 角色符石、全消」凝護 - 愈攻愈強】",
+            "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;2&nbsp;個指定種類的<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所有符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定種類符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(敵人無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
+            "custom_desc": ""
+        },
+        "6406": {
+            "title": "【「起結有序 - 角色符石、全消」凝護 - 愈攻愈強】",
+            "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;3&nbsp;個指定種類的<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所有符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定種類符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(敵人無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
+            "custom_desc": ""
+        },
+        "6407": {
+            "title": "【「全消、反首消符石」凝護 - 同歸於盡】",
+            "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;首批消除所有指定屬性符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定屬性符石)<br />⓶&nbsp;沒有首批消除上述<br />&nbsp;&nbsp;&nbsp;&nbsp;指定屬性以外的屬性符石<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人行動時<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "6408": {
+            "title": "【「全消、反首消符石」凝護 - 同歸於盡】",
+            "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;首批消除&nbsp;2&nbsp;個指定屬性的<br />&nbsp;&nbsp;&nbsp;&nbsp;所有符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定屬性符石)<br />⓶&nbsp;沒有首批消除上述<br />&nbsp;&nbsp;&nbsp;&nbsp;指定屬性以外的屬性符石<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人行動時<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "6409": {
+            "title": "【「全消、反首消符石」凝護 - 同歸於盡】",
+            "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;首批消除&nbsp;3&nbsp;個指定屬性的<br />&nbsp;&nbsp;&nbsp;&nbsp;所有符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定屬性符石)<br />⓶&nbsp;沒有首批消除上述<br />&nbsp;&nbsp;&nbsp;&nbsp;指定屬性以外的屬性符石<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人行動時<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力",
+            "custom_desc": ""
+        },
         "6411": {
             "title": "【10 步限制】",
             "desc": "•&nbsp;每回合只能移動&nbsp;10&nbsp;步，<br />&nbsp;&nbsp;步數用盡時將停止移動符石",
@@ -40133,7 +40183,7 @@
         },
         "6427": {
             "title": "【50 步紙皮狀態】",
-            "desc": "•&nbsp;敵人死亡後<br />⓵&nbsp;當前沒有紙皮狀態<br />⇒&nbsp;施加&nbsp;50&nbsp;步紙皮狀態<br />⓶&nbsp;當前紙皮狀態&nbsp;&lt;100&nbsp;步&nbsp;&nbsp;&nbsp;&nbsp;<br />⇒&nbsp;刷新至&nbsp;50&nbsp;步紙皮狀態<br />⇒&nbsp;步數用盡後，<br />&nbsp;&nbsp;&nbsp;&nbsp;回合結束時狀態消失",
+            "desc": "•&nbsp;敵人死亡後<br />⓵&nbsp;當前沒有紙皮狀態<br />⇒&nbsp;施加&nbsp;50&nbsp;步紙皮狀態<br />⓶&nbsp;當前紙皮狀態&nbsp;&lt;50&nbsp;步&nbsp;&nbsp;&nbsp;&nbsp;<br />⇒&nbsp;刷新至&nbsp;50&nbsp;步紙皮狀態<br />⇒&nbsp;步數用盡後，<br />&nbsp;&nbsp;&nbsp;&nbsp;回合結束時狀態消失",
             "custom_desc": ""
         },
         "6428": {
@@ -40143,7 +40193,7 @@
         },
         "6429": {
             "title": "【200 步紙皮狀態】",
-            "desc": "•&nbsp;敵人死亡後<br />⓵&nbsp;當前沒有紙皮狀態<br />⇒&nbsp;施加&nbsp;200&nbsp;步紙皮狀態<br />⓶&nbsp;當前紙皮狀態&nbsp;&lt;100&nbsp;步&nbsp;&nbsp;&nbsp;&nbsp;<br />⇒&nbsp;刷新至&nbsp;200&nbsp;步紙皮狀態<br />⇒&nbsp;步數用盡後，<br />&nbsp;&nbsp;&nbsp;&nbsp;回合結束時狀態消失",
+            "desc": "•&nbsp;敵人死亡後<br />⓵&nbsp;當前沒有紙皮狀態<br />⇒&nbsp;施加&nbsp;200&nbsp;步紙皮狀態<br />⓶&nbsp;當前紙皮狀態&nbsp;&lt;200&nbsp;步&nbsp;&nbsp;&nbsp;&nbsp;<br />⇒&nbsp;刷新至&nbsp;200&nbsp;步紙皮狀態<br />⇒&nbsp;步數用盡後，<br />&nbsp;&nbsp;&nbsp;&nbsp;回合結束時狀態消失",
             "custom_desc": ""
         },
         "6430": {

@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.600",
-        "dv": 20309,
-        "time": 1666557336
+        "version": "2022.601",
+        "dv": 20363,
+        "time": 1667186218
     },
     "ws": {
         "10001": {
@@ -2753,6 +2753,11 @@
         "10579": {
             "title": "",
             "desc": "•&nbsp;隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現【埼玉】地型<br />•&nbsp;於【埼玉】地型<br />&nbsp;&nbsp;首次起手轉珠<br />⇒&nbsp;於全隊發動攻擊後<br />&nbsp;&nbsp;&nbsp;&nbsp;對敵方全體造成<br />&nbsp;&nbsp;&nbsp;&nbsp;999&nbsp;億點無屬性傷害<br />&nbsp;&nbsp;&nbsp;(此傷害無視敵人技能<br />&nbsp;&nbsp;&nbsp;&nbsp;及我方技能加乘)",
+            "custom_desc": ""
+        },
+        "10580": {
+            "title": "",
+            "desc": "•&nbsp;達成下述條件<br />⓵&nbsp;發動角色符石<br />⓶&nbsp;於指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首批消除角色符石<br />⇒&nbsp;回合結束時，該角色<br />&nbsp;▋主動技能&nbsp;CD&nbsp;變&nbsp;0<br />&nbsp;▋EP&nbsp;回滿",
             "custom_desc": ""
         },
         "10581": {
