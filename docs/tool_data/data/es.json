@@ -40036,7 +40036,10 @@
         "6400": {
             "title": "【清技及 EP ‧ 自戕】",
             "desc": "•&nbsp;首批消除符石<br />⇒&nbsp;將所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP<br />&nbsp;&nbsp;&nbsp;&nbsp;及累積戰鬥回合數重置<br /><br />•&nbsp;回合結束時，<br />敵人扣除&nbsp;100%&nbsp;自身生命力，<br />期間不會受到任何傷害。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                308
+            ]
         },
         "6401": {
             "title": "【隊中有「約兒．佛傑」- 減攻、減防．隊中有「約兒．佛傑」及「洛伊德．佛傑」- 加攻、減防】",
@@ -40046,7 +40049,7 @@
         "6402": {
             "title": "敵視",
             "desc": "BOSS_DESC_6402",
-            "custom_desc": "<ul><li>視覺特效技能</li><li>隊伍中有<span class=\"annotation\">monster_icon 10329</span>時，敵人前方出現無能狂怒特效，並將隊伍中<span class=\"annotation\">monster_icon 10329</span>的外觀轉換</li></ul>",
+            "custom_desc": "<ul><li>視覺特效技能</li><li>隊伍中有<span class=\"annotation\">monster_icon 10329</span>時，敵人前方出現生氣特效，並將隊伍中<span class=\"annotation\">monster_icon 10329</span>的外觀轉換</li><li>進場時「畫面效果」設定至少需為LOW才會顯示生氣特效</li></ul>",
             "keywords": [
                 "特效"
             ]
