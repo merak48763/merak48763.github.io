@@ -40085,17 +40085,26 @@
         "6407": {
             "title": "【「全消、反首消符石」凝護 - 同歸於盡】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;首批消除所有指定屬性符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定屬性符石)<br />⓶&nbsp;沒有首批消除上述<br />&nbsp;&nbsp;&nbsp;&nbsp;指定屬性以外的屬性符石<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人行動時<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>抓起場上的符石，觀察畫面左方的<span class=\"annotation\">monster_icon 10333</span>表情 (´ㅅ`)</li><li>(´ㅅ`) 沒變臉 ⇒ 全首消</li><li>///(´Д`) 變臉 ⇒ 反首消</li></ul>",
+            "icons": [
+                1216
+            ]
         },
         "6408": {
             "title": "【「全消、反首消符石」凝護 - 同歸於盡】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;首批消除&nbsp;2&nbsp;個指定屬性的<br />&nbsp;&nbsp;&nbsp;&nbsp;所有符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定屬性符石)<br />⓶&nbsp;沒有首批消除上述<br />&nbsp;&nbsp;&nbsp;&nbsp;指定屬性以外的屬性符石<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人行動時<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>抓起場上的符石，觀察畫面左方的<span class=\"annotation\">monster_icon 10333</span>表情 (´ㅅ`)</li><li>(´ㅅ`) 沒變臉 ⇒ 全首消</li><li>///(´Д`) 變臉 ⇒ 反首消</li></ul>",
+            "icons": [
+                1216
+            ]
         },
         "6409": {
             "title": "【「全消、反首消符石」凝護 - 同歸於盡】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;首批消除&nbsp;3&nbsp;個指定屬性的<br />&nbsp;&nbsp;&nbsp;&nbsp;所有符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定屬性符石)<br />⓶&nbsp;沒有首批消除上述<br />&nbsp;&nbsp;&nbsp;&nbsp;指定屬性以外的屬性符石<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人行動時<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>抓起場上的符石，觀察畫面左方的<span class=\"annotation\">monster_icon 10333</span>表情 (´ㅅ`)</li><li>(´ㅅ`) 沒變臉 ⇒ 全首消</li><li>///(´Д`) 變臉 ⇒ 反首消</li></ul>",
+            "icons": [
+                1216
+            ]
         },
         "6411": {
             "title": "【10 步限制】",
