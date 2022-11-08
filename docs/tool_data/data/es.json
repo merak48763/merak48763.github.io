@@ -40068,7 +40068,7 @@
         "6405": {
             "title": "【「起結有序 - 角色符石、全消」凝護 - 愈攻愈強】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;2&nbsp;個指定種類的<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所有符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定種類符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(敵人無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 50 100</span>",
+            "custom_desc": "<ul><li>有<span class=\"annotation\">monster_icon 10334</span>的語音</li><li>未達成條件時：「<ruby>ノット<rp>(</rp><rt>Not</rt><rp>)</rp></ruby><ruby>エレガント<rp>(</rp><rt>elegant</rt><rp>)</rp></ruby>！」</li><li>達成條件時：「<ruby>エ…エレガント<rp>(</rp><rt>E…Elegant</rt><rp>)</rp></ruby>！<ruby>ヴェリー<rp>(</rp><rt>Very</rt><rp>)</rp></ruby><ruby>エレガント<rp>(</rp><rt>elegant</rt><rp>)</rp></ruby>！」</li></ul><span class=\"annotation\">trojan_hp_attack 50 100</span>",
             "icons": [
                 1025,
                 812
@@ -40077,7 +40077,7 @@
         "6406": {
             "title": "【「起結有序 - 角色符石、全消」凝護 - 愈攻愈強】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;3&nbsp;個指定種類的<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所有符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定種類符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;&nbsp;&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(敵人無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 50 100</span>",
+            "custom_desc": "<ul><li>有<span class=\"annotation\">monster_icon 10334</span>的語音</li><li>未達成條件時：「<ruby>ノット<rp>(</rp><rt>Not</rt><rp>)</rp></ruby><ruby>エレガント<rp>(</rp><rt>elegant</rt><rp>)</rp></ruby>！」</li><li>達成條件時：「<ruby>エ…エレガント<rp>(</rp><rt>E…Elegant</rt><rp>)</rp></ruby>！<ruby>ヴェリー<rp>(</rp><rt>Very</rt><rp>)</rp></ruby><ruby>エレガント<rp>(</rp><rt>elegant</rt><rp>)</rp></ruby>！」</li></ul><span class=\"annotation\">trojan_hp_attack 50 100</span>",
             "icons": [
                 1026,
                 812
