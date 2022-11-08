@@ -40044,7 +40044,8 @@
         "6401": {
             "title": "【隊中有「約兒．佛傑」- 減攻、減防．隊中有「約兒．佛傑」及「洛伊德．佛傑」- 加攻、減防】",
             "desc": "•&nbsp;隊中有「約兒．佛傑」<br />⓵&nbsp;敵人攻擊力減至&nbsp;1<br />⓶&nbsp;敵人防禦力減至&nbsp;1<br /><br />•&nbsp;隊中有「約兒．佛傑」及<br />「洛伊德．佛傑」<br />⓵&nbsp;則敵人攻擊力&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人防禦力減至&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>隊伍中有<span class=\"annotation\">monster_icon 10339</span>及<span class=\"annotation\">monster_icon 10338</span>，且進場時「畫面效果」設定為HIGH，會顯示粉紅泡泡進場特效</li></ul>",
+            "icons": []
         },
         "6402": {
             "title": "敵視",
@@ -40088,6 +40089,9 @@
             "custom_desc": "<ul><li>抓起場上的符石，觀察畫面左方的<span class=\"annotation\">monster_icon 10333</span>表情 (´ㅅ`)</li><li>(´ㅅ`) 沒變臉 ⇒ 全首消</li><li>///(´Д`) 變臉 ⇒ 反首消</li></ul>",
             "icons": [
                 1216
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "6408": {
@@ -40096,6 +40100,9 @@
             "custom_desc": "<ul><li>抓起場上的符石，觀察畫面左方的<span class=\"annotation\">monster_icon 10333</span>表情 (´ㅅ`)</li><li>(´ㅅ`) 沒變臉 ⇒ 全首消</li><li>///(´Д`) 變臉 ⇒ 反首消</li></ul>",
             "icons": [
                 1216
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "6409": {
@@ -40104,6 +40111,9 @@
             "custom_desc": "<ul><li>抓起場上的符石，觀察畫面左方的<span class=\"annotation\">monster_icon 10333</span>表情 (´ㅅ`)</li><li>(´ㅅ`) 沒變臉 ⇒ 全首消</li><li>///(´Д`) 變臉 ⇒ 反首消</li></ul>",
             "icons": [
                 1216
+            ],
+            "keywords": [
+                "亡命爆擊"
             ]
         },
         "6411": {
