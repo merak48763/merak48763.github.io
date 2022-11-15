@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.602",
+        "version": "2022.610",
         "dv": 20371,
-        "time": 1668152534
+        "time": 1668489279
     },
     "es": {
         "0": {
@@ -40086,7 +40086,7 @@
         "6407": {
             "title": "【「全消、反首消符石」凝護 - 同歸於盡】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;首批消除所有指定屬性符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定屬性符石)<br />⓶&nbsp;沒有首批消除上述<br />&nbsp;&nbsp;&nbsp;&nbsp;指定屬性以外的屬性符石<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人行動時<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力",
-            "custom_desc": "<ul><li>抓起場上的符石，觀察畫面左方的<span class=\"annotation\">monster_icon 10333</span>表情 (´ㅅ`)</li><li>(´ㅅ`) 沒變臉 ⇒ 全首消</li><li>///(´Д`) 變臉 ⇒ 反首消</li></ul>",
+            "custom_desc": "<ul><li>抓起場上的符石，觀察畫面左方<span class=\"annotation\">monster_icon 10333</span>的表情 (´ㅅ`)</li><li>(´ㅅ`) 沒變臉 ⇒ 全首消</li><li>///(´Д`) 變臉 ⇒ 反首消</li></ul>",
             "icons": [
                 1216
             ],
@@ -40097,7 +40097,7 @@
         "6408": {
             "title": "【「全消、反首消符石」凝護 - 同歸於盡】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;首批消除&nbsp;2&nbsp;個指定屬性的<br />&nbsp;&nbsp;&nbsp;&nbsp;所有符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定屬性符石)<br />⓶&nbsp;沒有首批消除上述<br />&nbsp;&nbsp;&nbsp;&nbsp;指定屬性以外的屬性符石<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人行動時<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力",
-            "custom_desc": "<ul><li>抓起場上的符石，觀察畫面左方的<span class=\"annotation\">monster_icon 10333</span>表情 (´ㅅ`)</li><li>(´ㅅ`) 沒變臉 ⇒ 全首消</li><li>///(´Д`) 變臉 ⇒ 反首消</li></ul>",
+            "custom_desc": "<ul><li>抓起場上的符石，觀察畫面左方<span class=\"annotation\">monster_icon 10333</span>的表情 (´ㅅ`)</li><li>(´ㅅ`) 沒變臉 ⇒ 全首消</li><li>///(´Д`) 變臉 ⇒ 反首消</li></ul>",
             "icons": [
                 1216
             ],
@@ -40108,7 +40108,7 @@
         "6409": {
             "title": "【「全消、反首消符石」凝護 - 同歸於盡】",
             "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />⓵&nbsp;首批消除&nbsp;3&nbsp;個指定屬性的<br />&nbsp;&nbsp;&nbsp;&nbsp;所有符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定屬性符石)<br />⓶&nbsp;沒有首批消除上述<br />&nbsp;&nbsp;&nbsp;&nbsp;指定屬性以外的屬性符石<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;若沒有達成上述條件<br />⇒&nbsp;敵人行動時<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力",
-            "custom_desc": "<ul><li>抓起場上的符石，觀察畫面左方的<span class=\"annotation\">monster_icon 10333</span>表情 (´ㅅ`)</li><li>(´ㅅ`) 沒變臉 ⇒ 全首消</li><li>///(´Д`) 變臉 ⇒ 反首消</li></ul>",
+            "custom_desc": "<ul><li>抓起場上的符石，觀察畫面左方<span class=\"annotation\">monster_icon 10333</span>的表情 (´ㅅ`)</li><li>(´ㅅ`) 沒變臉 ⇒ 全首消</li><li>///(´Д`) 變臉 ⇒ 反首消</li></ul>",
             "icons": [
                 1216
             ],
@@ -40830,42 +40830,66 @@
         "6492": {
             "title": "【力的印記 - 水】",
             "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加力的印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />•&nbsp;疊至最高&nbsp;20&nbsp;重印記力量<br />⇒&nbsp;才能對敵人造成傷害<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空力的印記及印記力量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1218
+            ]
         },
         "6493": {
             "title": "【力的印記 - 水】",
             "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加力的印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />•&nbsp;疊至最高&nbsp;40&nbsp;重印記力量<br />⇒&nbsp;才能對敵人造成傷害<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空力的印記及印記力量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1218
+            ]
         },
         "6494": {
             "title": "【力的印記 - 水】",
             "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加力的印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />•&nbsp;疊至最高&nbsp;60&nbsp;重印記力量<br />⇒&nbsp;才能對敵人造成傷害<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空力的印記及印記力量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1218
+            ]
         },
         "6495": {
             "title": "【水限制形狀凝護】",
             "desc": "•&nbsp;在指定位置消除水符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1217
+            ]
         },
         "6496": {
             "title": "【火限制形狀凝護】",
             "desc": "•&nbsp;在指定位置消除火符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1217
+            ]
         },
         "6497": {
             "title": "【木限制形狀凝護】",
             "desc": "•&nbsp;在指定位置消除木符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1217
+            ]
         },
         "6498": {
             "title": "【光限制形狀凝護】",
             "desc": "•&nbsp;在指定位置消除光符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1217
+            ]
         },
         "6499": {
             "title": "【暗限制形狀凝護】",
             "desc": "•&nbsp;在指定位置消除暗符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1217
+            ]
         }
     }
 }
