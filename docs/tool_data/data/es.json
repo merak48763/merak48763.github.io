@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2022.611",
-        "dv": 20379,
-        "time": 1668757538
+        "dv": 20382,
+        "time": 1669288336
     },
     "es": {
         "0": {
@@ -21055,9 +21055,13 @@
             "custom_desc": ""
         },
         "3693": {
-            "title": "",
+            "title": "首回刷新版面-6顆轉木 ‧ 6+Combo盾 ‧ 木連擊零化",
             "desc": "首回合將所有符石隨機轉換，<br />並將&nbsp;6&nbsp;粒符石轉化為木符石<br /><br />6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。<br /><br />首批消除木符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消木符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                56,
+                981
+            ]
         },
         "3694": {
             "title": "",
@@ -25074,6 +25078,10 @@
             "title": "【攻速變更 ‧ 非光弱攻 ‧ 9 連擊盾 ‧ 黑洞】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;非光弱攻&nbsp;‧&nbsp;9&nbsp;連擊盾&nbsp;‧&nbsp;黑洞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />光屬性以外的攻擊傷害<br />⇒&nbsp;減至&nbsp;10%<br /><br />9&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;變為黑洞<br /><br />召喚師在黑洞位置結束轉珠<br />⓵&nbsp;全隊攻擊力減至&nbsp;0<br />⓶&nbsp;敵人發動攻擊時<br />⇒扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)。",
             "custom_desc": "",
+            "icons": [
+                254,
+                59
+            ],
             "keywords": [
                 "喋血屠刀"
             ]
@@ -25476,12 +25484,20 @@
         "4391": {
             "title": "【轉化符石技能無效 ‧ 4 組屬性符石盾】",
             "desc": "<em>【轉化符石技能無效&nbsp;‧&nbsp;4&nbsp;組屬性符石盾】</em><br /><br />我方所有轉化符石效果無效。<br /><br />首批消除&nbsp;≥4&nbsp;組屬性符石，<br />才能對敵人造成攻擊傷害。<br />",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1066,
+                204
+            ]
         },
         "4392": {
             "title": "【轉化符石技能無效 ‧ 6 組屬性符石盾】",
             "desc": "<em>【轉化符石技能無效&nbsp;‧&nbsp;6&nbsp;組屬性符石盾】</em><br /><br />我方所有轉化符石效果無效。<br /><br />首批消除&nbsp;≥6&nbsp;組屬性符石，<br />才能對敵人造成攻擊傷害。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1066,
+                206
+            ]
         },
         "4393": {
             "title": "【轉化符石技能無效 ‧ 8 組屬性符石盾】",
@@ -25591,6 +25607,11 @@
             "title": "【隱匿之途 ‧ 指定 4 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;4&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />將移動符石時所觸碰的符石<br />⇒&nbsp;轉化為隱藏符石<br /><br />首批消除&nbsp;4&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                4,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25599,6 +25620,11 @@
             "title": "【隱匿之途 ‧ 指定 5 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;5&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />將移動符石時所觸碰的符石<br />⇒&nbsp;轉化為隱藏符石<br /><br />首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                5,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25620,6 +25646,11 @@
             "title": "【隱匿之途 ‧ 指定 7 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;7&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />將移動符石時所觸碰的符石<br />⇒&nbsp;轉化為隱藏符石<br /><br />首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                7,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25628,6 +25659,11 @@
             "title": "【隱匿之途 ‧ 指定 8 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />將移動符石時所觸碰的符石<br />⇒&nbsp;轉化為隱藏符石<br /><br />首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                8,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25636,6 +25672,11 @@
             "title": "【隱匿之途 ‧ 指定 9 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;9&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />將移動符石時所觸碰的符石<br />⇒&nbsp;轉化為隱藏符石<br /><br />首批消除&nbsp;9&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                9,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25644,6 +25685,11 @@
             "title": "【隱匿之途 ‧ 指定 10 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;10&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />將移動符石時所觸碰的符石<br />⇒&nbsp;轉化為隱藏符石<br /><br />首批消除&nbsp;10&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                10,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25652,6 +25698,11 @@
             "title": "【隱匿之途 ‧ 指定 4 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;4&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />首批消除&nbsp;4&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                4,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25660,6 +25711,11 @@
             "title": "【隱匿之途 ‧ 指定 5 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;5&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                5,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25668,6 +25724,11 @@
             "title": "【隱匿之途 ‧ 指定 6 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;6&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                6,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25676,6 +25737,11 @@
             "title": "【隱匿之途 ‧ 指定 7 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;7&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                7,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25684,6 +25750,11 @@
             "title": "【隱匿之途 ‧ 指定 8 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                8,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25692,6 +25763,11 @@
             "title": "【隱匿之途 ‧ 指定 9 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;9&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />首批消除&nbsp;9&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                9,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25700,6 +25776,11 @@
             "title": "【隱匿之途 ‧ 指定 10 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【隱匿之途&nbsp;‧&nbsp;指定&nbsp;10&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />首批消除&nbsp;10&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                10,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25708,6 +25789,11 @@
             "title": "【前路茫茫 ‧ 指定 4 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【前路茫茫&nbsp;‧&nbsp;指定&nbsp;4&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />首批消除&nbsp;4&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                4,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25716,6 +25802,11 @@
             "title": "【前路茫茫 ‧ 指定 5 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【前路茫茫&nbsp;‧&nbsp;指定&nbsp;5&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                5,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25724,6 +25815,11 @@
             "title": "【前路茫茫 ‧ 指定 6 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【前路茫茫&nbsp;‧&nbsp;指定&nbsp;6&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                6,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25732,6 +25828,11 @@
             "title": "【前路茫茫 ‧ 指定 7 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【前路茫茫&nbsp;‧&nbsp;指定&nbsp;7&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                7,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25740,6 +25841,11 @@
             "title": "【前路茫茫 ‧ 指定 8 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【前路茫茫&nbsp;‧&nbsp;指定&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                8,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25748,6 +25854,11 @@
             "title": "【前路茫茫 ‧ 指定 9 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【前路茫茫&nbsp;‧&nbsp;指定&nbsp;9&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />首批消除&nbsp;9&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                9,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -25756,6 +25867,11 @@
             "title": "【前路茫茫 ‧ 指定 10 連擊盾 ‧ 愈攻愈強】",
             "desc": "<em>【前路茫茫&nbsp;‧&nbsp;指定&nbsp;10&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />首批消除&nbsp;10&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
+            "icons": [
+                955,
+                10,
+                1001
+            ],
             "keywords": [
                 "固定連擊盾"
             ]
@@ -26897,62 +27013,98 @@
         "4662": {
             "title": "【固定天降 1 連擊盾】",
             "desc": "天降消除&nbsp;1&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                151
+            ]
         },
         "4663": {
             "title": "【固定天降 2 連擊盾】",
             "desc": "天降消除&nbsp;2&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                152
+            ]
         },
         "4664": {
             "title": "【固定天降 3 連擊盾】",
             "desc": "天降消除&nbsp;3&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                153
+            ]
         },
         "4665": {
             "title": "【固定天降 4 連擊盾】",
             "desc": "天降消除&nbsp;4&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                154
+            ]
         },
         "4666": {
             "title": "【固定天降 5 連擊盾】",
             "desc": "天降消除&nbsp;5&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                155
+            ]
         },
         "4667": {
             "title": "【固定天降 6 連擊盾】",
             "desc": "天降消除&nbsp;6&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                156
+            ]
         },
         "4668": {
             "title": "【天降 ≥1 連擊盾】",
             "desc": "天降消除&nbsp;≥1&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                161
+            ]
         },
         "4669": {
             "title": "【天降 ≥2 連擊盾】",
             "desc": "天降消除&nbsp;≥2&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                162
+            ]
         },
         "4670": {
             "title": "【天降 ≥3 連擊盾】",
             "desc": "天降消除&nbsp;≥3&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                163
+            ]
         },
         "4671": {
             "title": "【天降 ≥4 連擊盾】",
             "desc": "天降消除&nbsp;≥4&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                164
+            ]
         },
         "4672": {
             "title": "【天降 ≥5 連擊盾】",
             "desc": "天降消除&nbsp;≥5&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                165
+            ]
         },
         "4673": {
             "title": "【天降 ≥6 連擊盾】",
             "desc": "天降消除&nbsp;≥6&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                166
+            ]
         },
         "4674": {
             "title": "【消除 2 組敵屬、1 組敵人克屬符石】",
@@ -29489,22 +29641,26 @@
         "5079": {
             "title": "【首攻 CD1】",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "5080": {
             "title": "【首攻 CD2】",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;2。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "5081": {
             "title": "【首攻 CD3】",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;3。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "5082": {
             "title": "【首攻 CD4】",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;4。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "5083": {
             "title": "【裝備龍刻 - 突擊 - 擊碎龍脈儀 ‧ 沒有裝備龍刻 - 先制喋血屠刀】",
@@ -35843,7 +35999,7 @@
         "5888": {
             "title": "【30 次受擊護盾】",
             "desc": "敵人受到&nbsp;30&nbsp;次傷害後，<br />下回合才能對其造成傷害，<br />否則敵人承受傷害變為&nbsp;1。<br /><br />達成上述條件時，<br />敵人的攻擊變為&nbsp;CD&nbsp;1，<br />並會在&nbsp;CD&nbsp;0&nbsp;時<br />重置連擊數目及<br />完全回復生命力。",
-            "custom_desc": "",
+            "custom_desc": "<ul><li>達成條件瞬間變更為CD 2，次回合開始時即為CD 1</li><li>所以在達成條件的回合，敵人不會發動攻擊</li><li>重置連擊數並發動攻擊後，敵人會變為CD 2，目前得到的回覆是正設</li></ul>",
             "icons": [
                 901
             ]
@@ -35894,12 +36050,14 @@
         "5895": {
             "title": "【自戕】",
             "desc": "•&nbsp;進場時敵人<br />⇒&nbsp;扣除自身&nbsp;20%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "5896": {
             "title": "【自戕】",
             "desc": "•&nbsp;進場時敵人<br />⇒&nbsp;扣除自身&nbsp;10%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "5897": {
             "title": "【攻擊自戕】",
