@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.611",
-        "dv": 11657,
-        "time": 1669288336
+        "version": "2022.700",
+        "dv": 11717,
+        "time": 1670215527
     },
     "monster": {
         "1": {
@@ -13960,6 +13960,11 @@
             "attribute": 2,
             "race": 2
         },
+        "2811": {
+            "name": "虎吼光甲 ‧ 劍齒虎",
+            "attribute": 4,
+            "race": 10
+        },
         "3001": {
             "name": "野望滅絕 ‧ 薩魯曼",
             "attribute": 5,
@@ -16752,6 +16757,26 @@
             "attribute": 3,
             "race": 1
         },
+        "6595": {
+            "name": "愛野美奈子",
+            "attribute": 4,
+            "race": 1
+        },
+        "6596": {
+            "name": "月野兔",
+            "attribute": 4,
+            "race": 1
+        },
+        "6597": {
+            "name": "小小兔",
+            "attribute": 2,
+            "race": 1
+        },
+        "6598": {
+            "name": "虎牙鎏金 ‧ 劍齒虎",
+            "attribute": 4,
+            "race": 10
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -18997,6 +19022,76 @@
             "attribute": 5,
             "race": 1
         },
+        "10341": {
+            "name": "超級水手水星",
+            "attribute": 1,
+            "race": 1
+        },
+        "10342": {
+            "name": "超級水手火星",
+            "attribute": 2,
+            "race": 1
+        },
+        "10343": {
+            "name": "超級水手木星",
+            "attribute": 3,
+            "race": 1
+        },
+        "10344": {
+            "name": "超級水手月亮",
+            "attribute": 4,
+            "race": 1
+        },
+        "10345": {
+            "name": "永恆水手月亮",
+            "attribute": 4,
+            "race": 1
+        },
+        "10346": {
+            "name": "超級水手土星",
+            "attribute": 5,
+            "race": 1
+        },
+        "10347": {
+            "name": "超級水手小月亮與艾利歐斯",
+            "attribute": 2,
+            "race": 1
+        },
+        "10348": {
+            "name": "超級水手金星",
+            "attribute": 4,
+            "race": 1
+        },
+        "10349": {
+            "name": "超級水手冥王星",
+            "attribute": 5,
+            "race": 1
+        },
+        "10350": {
+            "name": "露娜與阿提米斯與黛安娜",
+            "attribute": 5,
+            "race": 7
+        },
+        "10351": {
+            "name": "新希蕾妮蒂女王與安迪米歐國王",
+            "attribute": 4,
+            "race": 5
+        },
+        "10352": {
+            "name": "超級水手海王星",
+            "attribute": 1,
+            "race": 1
+        },
+        "10354": {
+            "name": "晚禮服假面",
+            "attribute": 3,
+            "race": 1
+        },
+        "10355": {
+            "name": "帕拉帕拉",
+            "attribute": 1,
+            "race": 3
+        },
         "5001": {
             "name": "UNKNOWN"
         },
@@ -19335,6 +19430,11 @@
             "name": "初代校長的銅像",
             "attribute": 4,
             "race": 1
+        },
+        "50070": {
+            "name": "暴走的動物",
+            "attribute": 5,
+            "race": 2
         }
     },
     "attribute_names": [

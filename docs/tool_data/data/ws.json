@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.611",
-        "dv": 20379,
-        "time": 1668757538
+        "version": "2022.700",
+        "dv": 20698,
+        "time": 1670215527
     },
     "ws": {
         "10001": {
@@ -2888,6 +2888,166 @@
         "10607": {
             "title": "",
             "desc": "•&nbsp;當前沒有紙皮狀態<br />⇒&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;5%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "10608": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥3&nbsp;粒水符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;增加連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;3&nbsp;粒水符石<br />⇒&nbsp;增加&nbsp;1&nbsp;Combo<br />⇒&nbsp;最多可增加&nbsp;15&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10609": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥3&nbsp;粒火符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;增加連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;3&nbsp;粒火符石<br />⇒&nbsp;增加&nbsp;1&nbsp;Combo<br />⇒&nbsp;最多可增加&nbsp;15&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10610": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥3&nbsp;粒木符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;增加連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;3&nbsp;粒木符石<br />⇒&nbsp;增加&nbsp;1&nbsp;Combo<br />⇒&nbsp;最多可增加&nbsp;15&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10611": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥3&nbsp;粒光符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;增加連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;3&nbsp;粒光符石<br />⇒&nbsp;增加&nbsp;1&nbsp;Combo<br />⇒&nbsp;最多可增加&nbsp;15&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10612": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥3&nbsp;粒暗符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;增加連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;3&nbsp;粒暗符石<br />⇒&nbsp;增加&nbsp;1&nbsp;Combo<br />⇒&nbsp;最多可增加&nbsp;15&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10613": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥3&nbsp;粒心符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;增加連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;3&nbsp;粒心符石<br />⇒&nbsp;增加&nbsp;1&nbsp;Combo<br />⇒&nbsp;最多可增加&nbsp;15&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10614": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥3&nbsp;粒符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;增加連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;3&nbsp;粒符石<br />⇒&nbsp;增加&nbsp;1&nbsp;Combo<br />⇒&nbsp;最多可增加&nbsp;15&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10615": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥1&nbsp;組水符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;減少連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;1&nbsp;組水符石<br />⇒&nbsp;減少&nbsp;10&nbsp;Combo<br />⇒&nbsp;最多可減少&nbsp;50&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10616": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥1&nbsp;組火符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;減少連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;1&nbsp;組火符石<br />⇒&nbsp;減少&nbsp;10&nbsp;Combo<br />⇒&nbsp;最多可減少&nbsp;50&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10617": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥1&nbsp;組木符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;減少連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;1&nbsp;組木符石<br />⇒&nbsp;減少&nbsp;10&nbsp;Combo<br />⇒&nbsp;最多可減少&nbsp;50&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10618": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥1&nbsp;組光符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;減少連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;1&nbsp;組光符石<br />⇒&nbsp;減少&nbsp;10&nbsp;Combo<br />⇒&nbsp;最多可減少&nbsp;50&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10619": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥1&nbsp;組暗符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;減少連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;1&nbsp;組暗符石<br />⇒&nbsp;減少&nbsp;10&nbsp;Combo<br />⇒&nbsp;最多可減少&nbsp;50&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10620": {
+            "title": "",
+            "desc": "•&nbsp;首批消除&nbsp;≥1&nbsp;組心符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;回合狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;減少連擊&nbsp;(Combo)<br />＊每首批消除&nbsp;1&nbsp;組心符石<br />⇒&nbsp;減少&nbsp;10&nbsp;Combo<br />⇒&nbsp;最多可減少&nbsp;50&nbsp;Combo",
+            "custom_desc": ""
+        },
+        "10621": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組水符石<br />⇒&nbsp;增加&nbsp;4&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;28&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10622": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組火符石<br />⇒&nbsp;增加&nbsp;4&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;28&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10623": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組木符石<br />⇒&nbsp;增加&nbsp;4&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;28&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10624": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組光符石<br />⇒&nbsp;增加&nbsp;4&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;28&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10625": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組暗符石<br />⇒&nbsp;增加&nbsp;4&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;28&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10626": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組心符石<br />⇒&nbsp;增加&nbsp;4&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;28&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10627": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組符石<br />⇒&nbsp;增加&nbsp;4&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;28&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10628": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組&nbsp;≥9&nbsp;粒水符石<br />⇒&nbsp;增加&nbsp;14&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;42&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10629": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組&nbsp;≥9&nbsp;粒火符石<br />⇒&nbsp;增加&nbsp;14&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;42&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10630": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組&nbsp;≥9&nbsp;粒木符石<br />⇒&nbsp;增加&nbsp;14&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;42&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10631": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組&nbsp;≥9&nbsp;粒光符石<br />⇒&nbsp;增加&nbsp;14&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;42&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10632": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組&nbsp;≥9&nbsp;粒暗符石<br />⇒&nbsp;增加&nbsp;14&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;42&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10633": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組&nbsp;≥9&nbsp;粒心符石<br />⇒&nbsp;增加&nbsp;14&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;42&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10634": {
+            "title": "",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;組&nbsp;≥9&nbsp;粒符石<br />⇒&nbsp;增加&nbsp;14&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;最多可增加&nbsp;42&nbsp;連擊&nbsp;(Combo)",
+            "custom_desc": ""
+        },
+        "10635": {
+            "title": "",
+            "desc": "•&nbsp;克制敵人屬性以外的<br />&nbsp;&nbsp;傷害減至&nbsp;25%",
+            "custom_desc": ""
+        },
+        "10636": {
+            "title": "",
+            "desc": "•&nbsp;克制敵人屬性以外的<br />&nbsp;&nbsp;傷害減至&nbsp;10%",
+            "custom_desc": ""
+        },
+        "10637": {
+            "title": "",
+            "desc": "•&nbsp;克制敵人屬性以外的<br />&nbsp;&nbsp;傷害減至&nbsp;5%",
+            "custom_desc": ""
+        },
+        "10638": {
+            "title": "",
+            "desc": "•&nbsp;克制敵人屬性以外的<br />&nbsp;&nbsp;傷害減至&nbsp;1%",
+            "custom_desc": ""
+        },
+        "10639": {
+            "title": "",
+            "desc": "•&nbsp;符石兼具無效",
             "custom_desc": ""
         }
     }
