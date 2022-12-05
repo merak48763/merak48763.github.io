@@ -22405,7 +22405,7 @@
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害",
             "custom_desc": "每首批消除一組符石後，即時變更減傷量",
             "icons": [
-                1019
+                1921
             ]
         },
         "3905": {
@@ -22413,7 +22413,7 @@
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害",
             "custom_desc": "於傷害結算後，發動攻擊前變更減傷量",
             "icons": [
-                1020
+                1922
             ]
         },
         "3906": {
@@ -22421,7 +22421,7 @@
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害",
             "custom_desc": "於傷害結算後，發動攻擊前變更減傷量",
             "icons": [
-                1021
+                1923
             ]
         },
         "3907": {
@@ -33277,7 +33277,7 @@
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害",
             "custom_desc": "",
             "icons": [
-                1019
+                1921
             ]
         },
         "5549": {
@@ -33285,7 +33285,7 @@
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害",
             "custom_desc": "",
             "icons": [
-                1020
+                1922
             ]
         },
         "5550": {
@@ -33293,7 +33293,7 @@
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害",
             "custom_desc": "",
             "icons": [
-                1021
+                1923
             ]
         },
         "5551": {
@@ -39109,7 +39109,7 @@
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害",
             "custom_desc": "",
             "icons": [
-                11019
+                11921
             ]
         },
         "6256": {
@@ -39117,7 +39117,7 @@
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害",
             "custom_desc": "",
             "icons": [
-                11020
+                11922
             ]
         },
         "6257": {
@@ -39125,7 +39125,7 @@
             "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害",
             "custom_desc": "",
             "icons": [
-                11021
+                11923
             ]
         },
         "6258": {
@@ -41181,267 +41181,426 @@
         "6513": {
             "title": "【減傷抗性 - 消水符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組水符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1801
+            ]
         },
         "6514": {
             "title": "【減傷抗性 - 消水符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組水符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1811
+            ]
         },
         "6515": {
             "title": "【減傷抗性 - 消水符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組水符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1821
+            ]
         },
         "6516": {
             "title": "【減傷抗性 - 消火符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組火符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1802
+            ]
         },
         "6517": {
             "title": "【減傷抗性 - 消火符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組火符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1812
+            ]
         },
         "6518": {
             "title": "【減傷抗性 - 消火符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組火符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1822
+            ]
         },
         "6519": {
             "title": "【減傷抗性 - 消木符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組木符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1803
+            ]
         },
         "6520": {
             "title": "【減傷抗性 - 消木符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組木符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1813
+            ]
         },
         "6521": {
             "title": "【減傷抗性 - 消木符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組木符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1823
+            ]
         },
         "6522": {
             "title": "【減傷抗性 - 消光符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組光符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1804
+            ]
         },
         "6523": {
             "title": "【減傷抗性 - 消光符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組光符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1814
+            ]
         },
         "6524": {
             "title": "【減傷抗性 - 消光符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組光符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1824
+            ]
         },
         "6525": {
             "title": "【減傷抗性 - 消暗符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組暗符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1805
+            ]
         },
         "6526": {
             "title": "【減傷抗性 - 消暗符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組暗符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1815
+            ]
         },
         "6527": {
             "title": "【減傷抗性 - 消暗符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組暗符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1825
+            ]
         },
         "6528": {
             "title": "【減傷抗性 - 消心符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組心符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1806
+            ]
         },
         "6529": {
             "title": "【減傷抗性 - 消心符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組心符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1816
+            ]
         },
         "6530": {
             "title": "【減傷抗性 - 消心符石】",
             "desc": "•&nbsp;每消除&nbsp;1&nbsp;組心符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1826
+            ]
         },
         "6531": {
             "title": "【減傷抗性 - 消水符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組水符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;10%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1831
+            ]
         },
         "6532": {
             "title": "【減傷抗性 - 消水符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組水符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1841
+            ]
         },
         "6533": {
             "title": "【減傷抗性 - 消水符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組水符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1851
+            ]
         },
         "6534": {
             "title": "【減傷抗性 - 消水符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組水符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1861
+            ]
         },
         "6535": {
             "title": "【減傷抗性 - 消火符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組火符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;10%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1832
+            ]
         },
         "6536": {
             "title": "【減傷抗性 - 消火符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組火符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1842
+            ]
         },
         "6537": {
             "title": "【減傷抗性 - 消火符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組火符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1852
+            ]
         },
         "6538": {
             "title": "【減傷抗性 - 消火符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組火符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1862
+            ]
         },
         "6539": {
             "title": "【減傷抗性 - 消木符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組木符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;10%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1833
+            ]
         },
         "6540": {
             "title": "【減傷抗性 - 消木符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組木符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1843
+            ]
         },
         "6541": {
             "title": "【減傷抗性 - 消木符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組木符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1853
+            ]
         },
         "6542": {
             "title": "【減傷抗性 - 消木符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組木符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1863
+            ]
         },
         "6543": {
             "title": "【減傷抗性 - 消光符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組光符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;10%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1834
+            ]
         },
         "6544": {
             "title": "【減傷抗性 - 消光符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組光符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1844
+            ]
         },
         "6545": {
             "title": "【減傷抗性 - 消光符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組光符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1854
+            ]
         },
         "6546": {
             "title": "【減傷抗性 - 消光符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組光符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1864
+            ]
         },
         "6547": {
             "title": "【減傷抗性 - 消暗符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組暗符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;10%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1835
+            ]
         },
         "6548": {
             "title": "【減傷抗性 - 消暗符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組暗符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1845
+            ]
         },
         "6549": {
             "title": "【減傷抗性 - 消暗符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組暗符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1855
+            ]
         },
         "6550": {
             "title": "【減傷抗性 - 消暗符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組暗符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1865
+            ]
         },
         "6551": {
             "title": "【減傷抗性 - 消心符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組心符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;10%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1836
+            ]
         },
         "6552": {
             "title": "【減傷抗性 - 消心符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組心符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1846
+            ]
         },
         "6553": {
             "title": "【減傷抗性 - 消心符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組心符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1856
+            ]
         },
         "6554": {
             "title": "【減傷抗性 - 消心符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每消除&nbsp;1&nbsp;組心符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1866
+            ]
         },
         "6555": {
             "title": "【減傷抗性 - 消除符石組數】",
             "desc": "消除多於&nbsp;1&nbsp;組符石：<br />每消除多&nbsp;1&nbsp;組符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;10%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1901
+            ]
         },
         "6556": {
             "title": "【減傷抗性 - 消除符石組數】",
             "desc": "消除多於&nbsp;1&nbsp;組符石：<br />每消除多&nbsp;1&nbsp;組符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1902
+            ]
         },
         "6557": {
             "title": "【減傷抗性 - 消除符石組數】",
             "desc": "消除多於&nbsp;1&nbsp;組符石：<br />每消除多&nbsp;1&nbsp;組符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1903
+            ]
         },
         "6558": {
             "title": "【減傷抗性 - 消除符石組數】",
             "desc": "消除多於&nbsp;1&nbsp;組符石：<br />每消除多&nbsp;1&nbsp;組符石<br />⇒&nbsp;該回合敵人增加<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1904
+            ]
         },
         "6559": {
             "title": "【減傷抗性 - 消除符石組數減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;消除多於&nbsp;1&nbsp;組符石：<br />&nbsp;&nbsp;&nbsp;每消除多&nbsp;1&nbsp;組符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;10%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1911
+            ]
         },
         "6560": {
             "title": "【減傷抗性 - 消除符石組數減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;消除多於&nbsp;1&nbsp;組符石：<br />&nbsp;&nbsp;&nbsp;每消除多&nbsp;1&nbsp;組符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1912
+            ]
         },
         "6561": {
             "title": "【減傷抗性 - 消除符石組數減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;消除多於&nbsp;1&nbsp;組符石：<br />&nbsp;&nbsp;&nbsp;每消除多&nbsp;1&nbsp;組符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1913
+            ]
         },
         "6562": {
             "title": "【減傷抗性 - 消除符石組數減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;消除多於&nbsp;1&nbsp;組符石：<br />&nbsp;&nbsp;&nbsp;每消除多&nbsp;1&nbsp;組符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1914
+            ]
         },
         "6563": {
             "title": "【減傷抗性 - 首消符石種類減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;首批消除多於&nbsp;1&nbsp;種符石：<br />&nbsp;&nbsp;&nbsp;每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1931
+            ]
         },
         "6564": {
             "title": "【減傷抗性 - 首消符石種類減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;首批消除多於&nbsp;1&nbsp;種符石：<br />&nbsp;&nbsp;&nbsp;每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1932
+            ]
         },
         "6565": {
             "title": "【減傷抗性 - 首消符石種類減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;首批消除多於&nbsp;1&nbsp;種符石：<br />&nbsp;&nbsp;&nbsp;每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1933
+            ]
         },
         "6566": {
             "title": "【減傷抗性 ‧ 吸取龍脈儀 - 減少抗性】",
@@ -41451,17 +41610,26 @@
         "6567": {
             "title": "【減傷抗性 - 首消符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每累積首批消除&nbsp;1&nbsp;粒符石<br />⇒&nbsp;敵人減少&nbsp;1%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1934
+            ]
         },
         "6568": {
             "title": "【減傷抗性 - 首消符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每累積首批消除&nbsp;1&nbsp;粒符石<br />⇒&nbsp;敵人減少&nbsp;2%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1935
+            ]
         },
         "6569": {
             "title": "【減傷抗性 - 首消符石減少抗性】",
             "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;每累積首批消除&nbsp;1&nbsp;粒符石<br />⇒&nbsp;敵人減少&nbsp;5%&nbsp;減傷抗性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1936
+            ]
         },
         "6570": {
             "title": "【吸收水屬成員攻擊傷害 - 化血】",
