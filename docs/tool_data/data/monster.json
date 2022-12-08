@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.700",
-        "dv": 11717,
-        "time": 1670215527
+        "version": "2022.701",
+        "dv": 11732,
+        "time": 1670491881
     },
     "monster": {
         "1": {
@@ -16757,6 +16757,21 @@
             "attribute": 3,
             "race": 1
         },
+        "6592": {
+            "name": "水野亞美",
+            "attribute": 1,
+            "race": 1
+        },
+        "6593": {
+            "name": "火野麗",
+            "attribute": 2,
+            "race": 1
+        },
+        "6594": {
+            "name": "木野真琴",
+            "attribute": 3,
+            "race": 1
+        },
         "6595": {
             "name": "愛野美奈子",
             "attribute": 4,
@@ -19090,6 +19105,16 @@
         "10355": {
             "name": "帕拉帕拉",
             "attribute": 1,
+            "race": 3
+        },
+        "10356": {
+            "name": "維斯維斯",
+            "attribute": 2,
+            "race": 3
+        },
+        "10359": {
+            "name": "吉爾科尼亞",
+            "attribute": 5,
             "race": 3
         },
         "5001": {
