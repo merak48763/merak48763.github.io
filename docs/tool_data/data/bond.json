@@ -2232,6 +2232,18 @@
         ]
     },
     {
+        "owner": 10353,
+        "condition": 10352,
+        "conditionType": 2,
+        "ability": 20005,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
         "owner": 10354,
         "condition": 10344,
         "conditionType": 1,

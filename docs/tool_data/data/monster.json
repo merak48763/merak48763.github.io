@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.701",
-        "dv": 11732,
-        "time": 1670491881
+        "version": "2022.702",
+        "dv": 11766,
+        "time": 1671098847
     },
     "monster": {
         "1": {
@@ -16792,6 +16792,31 @@
             "attribute": 4,
             "race": 10
         },
+        "6601": {
+            "name": "星夢彈奏 ‧ 珞答以",
+            "attribute": 1,
+            "race": 3
+        },
+        "6602": {
+            "name": "熱音狂飆 ‧ 維珍尼亞",
+            "attribute": 2,
+            "race": 10
+        },
+        "6603": {
+            "name": "嬌巧狙擊 ‧ 烏瑞亞",
+            "attribute": 3,
+            "race": 3
+        },
+        "6604": {
+            "name": "萌龍響樂 ‧ 卑彌呼",
+            "attribute": 4,
+            "race": 4
+        },
+        "6605": {
+            "name": "魅魔奏音 ‧ 艾莉亞",
+            "attribute": 5,
+            "race": 8
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -18972,6 +18997,36 @@
             "attribute": 3,
             "race": 1
         },
+        "10321": {
+            "name": "星夢彈奏 ‧ 珞答以",
+            "attribute": 1,
+            "race": 3
+        },
+        "10322": {
+            "name": "熱音狂飆 ‧ 維珍尼亞",
+            "attribute": 2,
+            "race": 10
+        },
+        "10323": {
+            "name": "嬌巧狙擊 ‧ 烏瑞亞",
+            "attribute": 3,
+            "race": 3
+        },
+        "10324": {
+            "name": "萌龍響樂 ‧ 卑彌呼",
+            "attribute": 4,
+            "race": 4
+        },
+        "10325": {
+            "name": "魅魔奏音 ‧ 艾莉亞",
+            "attribute": 5,
+            "race": 8
+        },
+        "10326": {
+            "name": "偶像之光 ‧ NOVA-H",
+            "attribute": 4,
+            "race": 10
+        },
         "10327": {
             "name": "殺手＜睡美人＞",
             "attribute": 2,
@@ -19097,6 +19152,11 @@
             "attribute": 1,
             "race": 1
         },
+        "10353": {
+            "name": "超級水手天王星",
+            "attribute": 4,
+            "race": 1
+        },
         "10354": {
             "name": "晚禮服假面",
             "attribute": 3,
@@ -19110,6 +19170,11 @@
         "10356": {
             "name": "維斯維斯",
             "attribute": 2,
+            "race": 3
+        },
+        "10357": {
+            "name": "朱恩朱恩",
+            "attribute": 3,
             "race": 3
         },
         "10359": {
