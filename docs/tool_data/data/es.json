@@ -41756,62 +41756,98 @@
         "6590": {
             "title": "【弱化圍城 10% ‧ 水弱化符石 10%】",
             "desc": "•&nbsp;進場時鎖定場上所有符石，<br />&nbsp;&nbsp;回合結束時<br />&nbsp;&nbsp;鎖定場上的水符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;10%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114
+            ]
         },
         "6591": {
             "title": "【弱化圍城 10% ‧ 火弱化符石 10%】",
             "desc": "•&nbsp;進場時鎖定場上所有符石，<br />&nbsp;&nbsp;回合結束時<br />&nbsp;&nbsp;鎖定場上的火符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;10%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114
+            ]
         },
         "6592": {
             "title": "【弱化圍城 10% ‧ 木弱化符石 10%】",
             "desc": "•&nbsp;進場時鎖定場上所有符石，<br />&nbsp;&nbsp;回合結束時<br />&nbsp;&nbsp;鎖定場上的木符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;10%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114
+            ]
         },
         "6593": {
             "title": "【弱化圍城 10% ‧ 光弱化符石 10%】",
             "desc": "•&nbsp;進場時鎖定場上所有符石，<br />&nbsp;&nbsp;回合結束時<br />&nbsp;&nbsp;鎖定場上的光符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;10%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114
+            ]
         },
         "6594": {
             "title": "【弱化圍城 10% ‧ 暗弱化符石 10%】",
             "desc": "•&nbsp;進場時鎖定場上所有符石，<br />&nbsp;&nbsp;回合結束時<br />&nbsp;&nbsp;鎖定場上的暗符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;10%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114
+            ]
         },
         "6595": {
             "title": "【弱化圍城 10% ‧ 心弱化符石 10%】",
             "desc": "•&nbsp;進場時鎖定場上所有符石，<br />&nbsp;&nbsp;回合結束時<br />&nbsp;&nbsp;鎖定場上的心符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;10%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114
+            ]
         },
         "6596": {
             "title": "【弱化圍城 20% ‧ 水弱化符石 20%】",
             "desc": "•&nbsp;進場時鎖定場上所有符石，<br />&nbsp;&nbsp;回合結束時<br />&nbsp;&nbsp;鎖定場上的水符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;20%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114
+            ]
         },
         "6597": {
             "title": "【弱化圍城 20% ‧ 火弱化符石 20%】",
             "desc": "•&nbsp;進場時鎖定場上所有符石，<br />&nbsp;&nbsp;回合結束時<br />&nbsp;&nbsp;鎖定場上的火符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;20%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114
+            ]
         },
         "6598": {
             "title": "【弱化圍城 20% ‧ 木弱化符石 20%】",
             "desc": "•&nbsp;進場時鎖定場上所有符石，<br />&nbsp;&nbsp;回合結束時<br />&nbsp;&nbsp;鎖定場上的木符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;20%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114
+            ]
         },
         "6599": {
             "title": "【弱化圍城 20% ‧ 光弱化符石 20%】",
             "desc": "•&nbsp;進場時鎖定場上所有符石，<br />&nbsp;&nbsp;回合結束時<br />&nbsp;&nbsp;鎖定場上的光符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;20%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114
+            ]
         },
         "6600": {
             "title": "【弱化圍城 20% ‧ 暗弱化符石 20%】",
             "desc": "•&nbsp;進場時鎖定場上所有符石，<br />&nbsp;&nbsp;回合結束時<br />&nbsp;&nbsp;鎖定場上的暗符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;20%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114
+            ]
         },
         "6601": {
             "title": "【弱化圍城 20% ‧ 心弱化符石 20%】",
             "desc": "•&nbsp;進場時鎖定場上所有符石，<br />&nbsp;&nbsp;回合結束時<br />&nbsp;&nbsp;鎖定場上的心符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;20%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1114
+            ]
         },
         "6602": {
             "title": "【愈攻愈強 - 追擊】",
