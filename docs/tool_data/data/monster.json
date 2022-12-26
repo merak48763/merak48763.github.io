@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2022.702",
-        "dv": 11766,
-        "time": 1671098847
+        "dv": 11772,
+        "time": 1671700604
     },
     "monster": {
         "1": {
@@ -19177,8 +19177,18 @@
             "attribute": 3,
             "race": 3
         },
+        "10358": {
+            "name": "瑟雷瑟雷",
+            "attribute": 5,
+            "race": 3
+        },
         "10359": {
             "name": "吉爾科尼亞",
+            "attribute": 5,
+            "race": 3
+        },
+        "10360": {
+            "name": "妮黑蕾雅",
             "attribute": 5,
             "race": 3
         },
