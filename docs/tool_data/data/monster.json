@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.702",
-        "dv": 11772,
-        "time": 1671700604
+        "version": "2022.710",
+        "dv": 11814,
+        "time": 1672636282
     },
     "monster": {
         "1": {
@@ -13965,6 +13965,26 @@
             "attribute": 4,
             "race": 10
         },
+        "2812": {
+            "name": "猛將悟能 ‧ 豬八戒",
+            "attribute": 4,
+            "race": 2
+        },
+        "2813": {
+            "name": "幻速武鎧 ‧ 希",
+            "attribute": 3,
+            "race": 10
+        },
+        "2814": {
+            "name": "霸王入陣 ‧ 項羽",
+            "attribute": 4,
+            "race": 1
+        },
+        "2900": {
+            "name": "十年創紀 ‧ 瘋頭",
+            "attribute": 1,
+            "race": 7
+        },
         "3001": {
             "name": "野望滅絕 ‧ 薩魯曼",
             "attribute": 5,
@@ -16792,6 +16812,11 @@
             "attribute": 4,
             "race": 10
         },
+        "6599": {
+            "name": "颯爽真姿．豬八戒",
+            "attribute": 4,
+            "race": 2
+        },
         "6601": {
             "name": "星夢彈奏 ‧ 珞答以",
             "attribute": 1,
@@ -16816,6 +16841,16 @@
             "name": "魅魔奏音 ‧ 艾莉亞",
             "attribute": 5,
             "race": 8
+        },
+        "6606": {
+            "name": "幻瓏倩狐 ‧ 姜湘",
+            "attribute": 2,
+            "race": 5
+        },
+        "6607": {
+            "name": "靈芝孢子 ‧ 奇諾",
+            "attribute": 2,
+            "race": 3
         },
         "6999": {
             "name": "米拉珍",
@@ -18947,6 +18982,21 @@
             "attribute": 5,
             "race": 1
         },
+        "10308": {
+            "name": "鮮味小籠包",
+            "attribute": 4,
+            "race": 7
+        },
+        "10309": {
+            "name": "幻瓏倩狐 ‧ 姜湘",
+            "attribute": 2,
+            "race": 5
+        },
+        "10310": {
+            "name": "靈芝孢子 ‧ 奇諾",
+            "attribute": 2,
+            "race": 3
+        },
         "10311": {
             "name": "冰與火之心 · 辛西亞",
             "attribute": 1,
@@ -19191,6 +19241,31 @@
             "name": "妮黑蕾雅",
             "attribute": 5,
             "race": 3
+        },
+        "10361": {
+            "name": "空靈音色 ‧ 言洛語",
+            "attribute": 4,
+            "race": 1
+        },
+        "10362": {
+            "name": "孤寂心謠 ‧ 華霜婷",
+            "attribute": 5,
+            "race": 1
+        },
+        "10363": {
+            "name": "魔障囚夢 ‧ 夜夫人",
+            "attribute": 1,
+            "race": 8
+        },
+        "10364": {
+            "name": "炙炎巨翼 ‧ 惡想機械人",
+            "attribute": 2,
+            "race": 10
+        },
+        "10365": {
+            "name": "謎之少女",
+            "attribute": 4,
+            "race": 1
         },
         "5001": {
             "name": "UNKNOWN"
