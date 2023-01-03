@@ -1,5 +1,101 @@
 [
     {
+        "owner": 10036,
+        "condition": 10198,
+        "conditionType": 1,
+        "ability": 20002,
+        "args": [
+            100,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10037,
+        "condition": 10235,
+        "conditionType": 1,
+        "ability": 20005,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10038,
+        "condition": 10138,
+        "conditionType": 1,
+        "ability": 20002,
+        "args": [
+            100,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10039,
+        "condition": 10235,
+        "conditionType": 1,
+        "ability": 20020,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10040,
+        "condition": 10050,
+        "conditionType": 1,
+        "ability": 20005,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10041,
+        "condition": 10137,
+        "conditionType": 1,
+        "ability": 20002,
+        "args": [
+            50,
+            2,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10042,
+        "condition": 10056,
+        "conditionType": 1,
+        "ability": 20005,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10043,
+        "condition": 10309,
+        "conditionType": 1,
+        "ability": 20005,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
         "owner": 10044,
         "condition": 10045,
         "conditionType": 2,
@@ -64,6 +160,54 @@
         "condition": 10053,
         "conditionType": 2,
         "ability": 20003,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10049,
+        "condition": 10170,
+        "conditionType": 1,
+        "ability": 20003,
+        "args": [
+            2,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10049,
+        "condition": 10050,
+        "conditionType": 1,
+        "ability": 20002,
+        "args": [
+            100,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10050,
+        "condition": 10049,
+        "conditionType": 1,
+        "ability": 20003,
+        "args": [
+            2,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10050,
+        "condition": 10118,
+        "conditionType": 1,
+        "ability": 20005,
         "args": [
             1,
             0,
@@ -966,6 +1110,30 @@
         "ability": 20020,
         "args": [
             0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10167,
+        "condition": 10162,
+        "conditionType": 1,
+        "ability": 20002,
+        "args": [
+            50,
+            2,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10168,
+        "condition": 10048,
+        "conditionType": 1,
+        "ability": 20007,
+        "args": [
+            1,
             0,
             0,
             0
@@ -2318,6 +2486,18 @@
     {
         "owner": 10365,
         "condition": 10366,
+        "conditionType": 2,
+        "ability": 20003,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10366,
+        "condition": 10365,
         "conditionType": 2,
         "ability": 20003,
         "args": [
