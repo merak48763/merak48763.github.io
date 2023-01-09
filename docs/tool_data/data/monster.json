@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.710",
-        "dv": 11814,
-        "time": 1672721991
+        "version": "2022.711",
+        "dv": 11832,
+        "time": 1673234374
     },
     "monster": {
         "1": {
@@ -13960,6 +13960,26 @@
             "attribute": 2,
             "race": 2
         },
+        "2803": {
+            "name": "瑩淚幻愛 ‧ 安德洛",
+            "attribute": 1,
+            "race": 3
+        },
+        "2804": {
+            "name": "熾爓守義 ‧ 珀耳修",
+            "attribute": 2,
+            "race": 5
+        },
+        "2805": {
+            "name": "神弦聖樂 ‧ 奧菲斯",
+            "attribute": 4,
+            "race": 5
+        },
+        "2806": {
+            "name": "闇影銳爪 ‧ 琳叩斯",
+            "attribute": 5,
+            "race": 2
+        },
         "2811": {
             "name": "虎吼光甲 ‧ 劍齒虎",
             "attribute": 4,
@@ -18982,6 +19002,11 @@
             "attribute": 5,
             "race": 1
         },
+        "10307": {
+            "name": "空想禮裝 ‧ 莉莉絲",
+            "attribute": 5,
+            "race": 10
+        },
         "10308": {
             "name": "鮮味小籠包",
             "attribute": 4,
@@ -19266,6 +19291,11 @@
             "name": "謎之少女",
             "attribute": 4,
             "race": 1
+        },
+        "10368": {
+            "name": "神月破夜 ‧ 阿提密斯",
+            "attribute": 3,
+            "race": 5
         },
         "5001": {
             "name": "UNKNOWN"
