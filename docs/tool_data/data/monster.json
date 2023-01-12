@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.711",
-        "dv": 11832,
-        "time": 1673234374
+        "version": "2022.713",
+        "dv": 44848,
+        "time": 1673518029
     },
     "monster": {
         "1": {
@@ -16872,6 +16872,12 @@
             "attribute": 2,
             "race": 3
         },
+        "6608": {
+            "name": "神創 ‧ 零覓"
+        },
+        "6609": {
+            "name": "魔滅 ‧ 一願"
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -19292,10 +19298,30 @@
             "attribute": 4,
             "race": 1
         },
+        "10366": {
+            "name": "小白",
+            "attribute": 1,
+            "race": 1
+        },
         "10368": {
             "name": "神月破夜 ‧ 阿提密斯",
             "attribute": 3,
             "race": 5
+        },
+        "10369": {
+            "name": "瑞兔迎福 ‧ 比涅希",
+            "attribute": 2,
+            "race": 2
+        },
+        "10370": {
+            "name": "神創 ‧ 零覓",
+            "attribute": 5,
+            "race": 5
+        },
+        "10371": {
+            "name": "魔滅 ‧ 一願",
+            "attribute": 4,
+            "race": 8
         },
         "5001": {
             "name": "UNKNOWN"
