@@ -32547,32 +32547,50 @@
         "5438": {
             "title": "【水符石起手盾】",
             "desc": "需以水符石首次起手轉珠，<br />否則該回合攻擊力變為&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                431
+            ]
         },
         "5439": {
             "title": "【火符石起手盾】",
             "desc": "需以火符石首次起手轉珠，<br />否則該回合攻擊力變為&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                432
+            ]
         },
         "5440": {
             "title": "【木符石起手盾】",
             "desc": "需以木符石首次起手轉珠，<br />否則該回合攻擊力變為&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                433
+            ]
         },
         "5441": {
             "title": "【光符石起手盾】",
             "desc": "需以光符石首次起手轉珠，<br />否則該回合攻擊力變為&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                434
+            ]
         },
         "5442": {
             "title": "【暗符石起手盾】",
             "desc": "需以暗符石首次起手轉珠，<br />否則該回合攻擊力變為&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                435
+            ]
         },
         "5443": {
             "title": "【心符石起手盾】",
             "desc": "需以心符石首次起手轉珠，<br />否則該回合攻擊力變為&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                436
+            ]
         },
         "5444": {
             "title": "【敵屬符石起手盾】",
@@ -41224,7 +41242,7 @@
             ]
         },
         "6501": {
-            "title": "敵技6500",
+            "title": "敵技6501",
             "desc": "•&nbsp;隨機鎖定&nbsp;2&nbsp;個位置<br />•「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;角色符石需置於<br />&nbsp;&nbsp;&nbsp;鎖定位置內，該角色才能<br />&nbsp;&nbsp;&nbsp;對敵人造成攻擊傷害。<br />•&nbsp;其他成員攻擊力變&nbsp;0<br /><br />•&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量的五屬及心符石<br /><br />•&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態。",
             "custom_desc": "八封災厄 (核心張開階段的本體)",
             "keywords": [
