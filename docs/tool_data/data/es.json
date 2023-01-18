@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2022.713",
-        "dv": 20857,
-        "time": 20865
+        "dv": 20896,
+        "time": 1674001692
     },
     "es": {
         "0": {
@@ -11073,17 +11073,28 @@
         "1868": {
             "title": "暗攻盾 ‧ 技能封鎖 ‧ 獵人魔",
             "desc": "只有暗屬性的攻擊才會對敵人造成攻擊傷害。<br />首回合敵人會永久封鎖所有成員的主動技能。<br />若召喚師隊伍中有魔族或人類成員時，敵人攻擊力提升",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1641,
+                853
+            ]
         },
         "1869": {
             "title": "暗屬防禦盾 ‧ 單直行轉暗-雙直行暗轉光 ‧ 首消暗追擊零化",
             "desc": "暗屬性的攻擊無法對敵人造成攻擊傷害。<br /><br />首回合敵人會將單數直行的符石轉化為暗符石，並將雙數直行的暗符石轉化為光符石。<br /><br />首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                255,
+                981
+            ]
         },
         "1870": {
             "title": "CD3-防禦0 ‧ 一擊必殺",
             "desc": "敵人首次攻擊延長至&nbsp;CD&nbsp;3。<br />敵人的防禦力減至&nbsp;0。<br />每回合敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
+            "icons": [
+                1121
+            ],
             "keywords": [
                 "喋血屠刀",
                 "扣血100%"
@@ -11092,7 +11103,11 @@
         "1871": {
             "title": "CD1 ‧ 同歸於盡",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br />每回合發動攻擊時會令召喚師死亡並扣除自身&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1121,
+                1006
+            ]
         },
         "1872": {
             "title": "",
@@ -31163,7 +31178,7 @@
         },
         "5268": {
             "title": "【「起結有序 - 固定 6 連擊」凝護 ‧ 無法控制】",
-            "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;20%&nbsp;生命力：<br /><br />⓵&nbsp;每回合以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害及<br />不會被附上狀態。<br /><br />達成上述條件：<br />⓵&nbsp;敵人不會發動攻擊<br /><br />未有達成上述條件：<br />⓵&nbsp;無法進行回復<br />⓶&nbsp;敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />&nbsp;&nbsp;&nbsp;&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
+            "desc": "同時達成以下&nbsp;2&nbsp;個條件，<br />可扣除敵人&nbsp;25%&nbsp;生命力：<br /><br />⓵&nbsp;每回合以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠&nbsp;(角色頭像優先)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及在指定位置結束轉珠<br /><br />⓶&nbsp;首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br /><br />除此以外，<br />敵人不會受到任何傷害及<br />不會被附上狀態。<br /><br />達成上述條件：<br />⓵&nbsp;敵人不會發動攻擊<br /><br />未有達成上述條件：<br />⓵&nbsp;無法進行回復<br />⓶&nbsp;敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />&nbsp;&nbsp;&nbsp;&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
             "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 6,
@@ -32562,7 +32577,10 @@
         "5444": {
             "title": "【敵屬符石起手盾】",
             "desc": "需以敵人屬性符石<br />首次起手轉珠，<br />否則該回合攻擊力變為&nbsp;0。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                437
+            ]
         },
         "5445": {
             "title": "【亡命 - 符石轉換】",
@@ -37274,12 +37292,15 @@
         "6037": {
             "title": "【移動符石時間愈長 - 加攻】",
             "desc": "•&nbsp;移動符石時間愈長<br />⇒&nbsp;敵人攻擊力愈高",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>初始狀態為1倍</li><li>1秒後變為2倍，其後每0.5秒增加1倍</li><li>最高增加至20倍</li></ul>",
+            "icons": [
+                1060
+            ]
         },
         "6038": {
             "title": "【移動符石時間愈長 - 加攻】",
             "desc": "•&nbsp;移動符石時間愈長<br />⇒&nbsp;敵人攻擊力愈高",
-            "custom_desc": "<ul><li>每1秒增加1倍</li><li>最高第20秒增加至20倍</li></ul>",
+            "custom_desc": "<ul><li>初始狀態為1倍</li><li>2秒後變為2倍，其後每1秒增加1倍</li><li>最高增加至20倍</li></ul>",
             "icons": [
                 1060
             ]
@@ -41194,55 +41215,89 @@
                 1217
             ]
         },
+        "6500": {
+            "title": "敵技6500",
+            "desc": "#title0#【「全消、反首消符石」凝護&nbsp;-&nbsp;屬性轉換&nbsp;‧&nbsp;無法控制】<br />#desc0#<br />•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;20%&nbsp;生命力<br /><br />⓵&nbsp;首批消除所有指定種類符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定種類符石)<br />⓶&nbsp;不能首批消除<br />&nbsp;&nbsp;&nbsp;&nbsp;敵人屬性符石<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態。<br /><br />•&nbsp;達成上述條件<br />⓵&nbsp;敵人不會發動攻擊<br />⓶&nbsp;敵人轉換屬性<br /><br />#title0#【符石轉換&nbsp;‧&nbsp;敵技轉換】<br />#desc0#<br />•&nbsp;敵人會根據自身屬性<br />⓵&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量的五屬及心符石<br />⓶&nbsp;出現不同敵技：<br />#title1#【水】碎裂&nbsp;10&nbsp;格<br />#desc1#<br />•&nbsp;每回合碎裂&nbsp;10&nbsp;個固定位置<br />•&nbsp;該位置內的符石<br />⇒&nbsp;無法消除或引爆<br />#title1#【火】燃燒之軌&nbsp;10000&nbsp;‧&nbsp;火焰地型&nbsp;20000<br />#desc1#<br />•&nbsp;燃燒移動符石時觸碰的位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;10000&nbsp;點傷害<br /><br />•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害<br />#title1#【木】瘴氣&nbsp;20%<br />#desc1#<br />•&nbsp;每回合在最左方及<br />&nbsp;&nbsp;最右方直行位置<br />⇒&nbsp;施放瘴氣<br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br />#title1#【光】結界地型&nbsp;30&nbsp;格&nbsp;‧&nbsp;隱匿之途<br />#desc1#<br />•&nbsp;6x5&nbsp;個位置出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆<br /><br />•&nbsp;將移動符石時所觸碰的<br />&nbsp;&nbsp;符石轉化為隱藏符石<br />#title1#【暗】幽閉空間&nbsp;‧&nbsp;技能錮縛<br />#desc1#<br />•&nbsp;所有符石變為黑白色<br /><br />•&nbsp;永久封鎖所有成員的<br />&nbsp;&nbsp;主動技能",
+            "custom_desc": "八封災厄 (核心封閉階段的本體)",
+            "keywords": [
+                "災厄級"
+            ]
+        },
+        "6501": {
+            "title": "敵技6500",
+            "desc": "•&nbsp;隨機鎖定&nbsp;2&nbsp;個位置<br />•「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;角色符石需置於<br />&nbsp;&nbsp;&nbsp;鎖定位置內，該角色才能<br />&nbsp;&nbsp;&nbsp;對敵人造成攻擊傷害。<br />•&nbsp;其他成員攻擊力變&nbsp;0<br /><br />•&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量的五屬及心符石<br /><br />•&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態。",
+            "custom_desc": "八封災厄 (核心張開階段的本體)",
+            "keywords": [
+                "災厄級"
+            ]
+        },
+        "6502": {
+            "title": "【封王核心】",
+            "desc": "#title0#【封王核心】<br />#desc0#<br /><br />#title0#【吸取龍脈儀&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;同歸於盡】<br />#desc0#<br />•&nbsp;進場時吸取龍脈儀的能量<br /><br />•&nbsp;每回合消除召喚師<br />&nbsp;&nbsp;所有附加效果，<br />&nbsp;&nbsp;相關技能&nbsp;CD&nbsp;將被重置<br /><br />•&nbsp;敵人行動時會<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br /><br />#title0#【核心封閉時】<br />#desc0#•「維度粉碎&nbsp;‧&nbsp;猶格索托斯」<br />&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒&nbsp;張開核心<br /><br />#title0#【核心張開後】<br />#desc0#<br />#title1#【全消心盾】<br />#desc1#<br />•&nbsp;首批消除場上所有心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除心符石)<br /><br />#title1#【減傷抗性&nbsp;-&nbsp;首消符石種類】<br />#desc1#<br />•&nbsp;首批消除多於&nbsp;1&nbsp;種符石：<br />&nbsp;&nbsp;&nbsp;每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;100%&nbsp;所受傷害",
+            "custom_desc": "八封災厄 (核心)",
+            "keywords": [
+                "災厄級"
+            ]
+        },
         "6503": {
             "title": "【30 粒符石護盾】",
             "desc": "•&nbsp;累積首批消除&nbsp;30&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6504": {
             "title": "【60 粒符石護盾】",
             "desc": "•&nbsp;累積首批消除&nbsp;60&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6505": {
             "title": "【90 粒符石護盾】",
             "desc": "•&nbsp;累積首批消除&nbsp;90&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6506": {
             "title": "【120 粒符石護盾】",
             "desc": "•&nbsp;累積首批消除&nbsp;120&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6507": {
             "title": "【150 粒符石護盾】",
             "desc": "•&nbsp;累積首批消除&nbsp;150&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6508": {
             "title": "【180 粒符石護盾】",
             "desc": "•&nbsp;累積首批消除&nbsp;180&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6509": {
             "title": "【210 粒符石護盾】",
             "desc": "•&nbsp;累積首批消除&nbsp;210&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6510": {
             "title": "【240 粒符石護盾】",
             "desc": "•&nbsp;累積首批消除&nbsp;240&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6511": {
             "title": "【270 粒符石護盾】",
             "desc": "•&nbsp;累積首批消除&nbsp;270&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6512": {
             "title": "【300 粒符石護盾】",
             "desc": "•&nbsp;累積首批消除&nbsp;300&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6513": {
             "title": "【減傷抗性 - 消水符石】",
