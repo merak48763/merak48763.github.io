@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.713",
-        "dv": 20896,
-        "time": 1674027604
+        "version": "2023.100",
+        "dv": 21053,
+        "time": 1675083449
     },
     "es": {
         "0": {
@@ -36485,7 +36485,7 @@
         "5940": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">quiz 50063,50064,50065,50066 393,394,395,396,397,398,399,400,401,402,403,404,405,406,407</span>",
             "icons": [
                 1038
             ]
@@ -38422,7 +38422,7 @@
         "6175": {
             "title": "【屬性以外弱攻 (循環)】",
             "desc": "•&nbsp;指定屬性以外弱攻&nbsp;0%<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
-            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init ?屬性</span>",
+            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init 剋制敵人的屬性</span>",
             "icons": [
                 40251
             ],
@@ -40273,37 +40273,58 @@
         "6391": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;2&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                825
+            ]
         },
         "6392": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;3&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                825
+            ]
         },
         "6393": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;4&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                825
+            ]
         },
         "6394": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;5&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                825
+            ]
         },
         "6395": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;6&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                825
+            ]
         },
         "6396": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;7&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                825
+            ]
         },
         "6397": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;8&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                825
+            ]
         },
         "6398": {
             "title": "【符石淨化】",
@@ -41280,7 +41301,9 @@
             "desc": "#title0#【封王核心】<br />#desc0#<br /><br />#title0#【吸取龍脈儀&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;喋血屠刀】<br />#desc0#<br />•&nbsp;進場時吸取龍脈儀的能量<br /><br />•&nbsp;每回合消除召喚師<br />&nbsp;&nbsp;所有附加效果，<br />&nbsp;&nbsp;相關技能&nbsp;CD&nbsp;將被重置<br /><br />•&nbsp;敵人發動攻擊時會<br />&nbsp;&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;意志技能)<br /><br />#title0#【核心封閉時】<br />#desc0#•「維度粉碎&nbsp;‧&nbsp;猶格索托斯」<br />&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒&nbsp;張開核心<br /><br />#title0#【核心張開後】<br />#desc0#<br />#title1#【全消心盾】<br />#desc1#<br />•&nbsp;首批消除場上所有心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除心符石)<br /><br />#title1#【減傷抗性&nbsp;-&nbsp;首消符石種類】<br />#desc1#<br />•&nbsp;首批消除多於&nbsp;1&nbsp;種符石：<br />&nbsp;&nbsp;&nbsp;每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;100%&nbsp;所受傷害",
             "custom_desc": "八封災厄 (核心)",
             "keywords": [
-                "災厄級"
+                "災厄級",
+                "一擊必殺",
+                "扣血100%"
             ]
         },
         "6503": {
@@ -42116,6 +42139,226 @@
             "icons": [
                 82
             ]
+        },
+        "6624": {
+            "title": "【隊中有【調查兵團】- 綑綁】",
+            "desc": "•&nbsp;隊中有【調查兵團】成員<br />⇒&nbsp;綑綁敵人，<br />&nbsp;&nbsp;&nbsp;&nbsp;使受影響目標無法行動<br />•【調查兵團】成員愈多<br />⇒&nbsp;持續回合愈多<br />⇒&nbsp;5&nbsp;個【調查兵團】成員<br />&nbsp;&nbsp;&nbsp;&nbsp;可綑綁敵人&nbsp;3&nbsp;回合",
+            "custom_desc": ""
+        },
+        "6625": {
+            "title": "【隊中有「里維兵長」- 自戕】",
+            "desc": "•&nbsp;隊中有「里維兵長」<br />⇒&nbsp;回合結束時，敵人扣除<br />&nbsp;&nbsp;&nbsp;&nbsp;100%&nbsp;自身生命力",
+            "custom_desc": ""
+        },
+        "6628": {
+            "title": "【指定《進擊的巨人》合作角色 - 回技及 EP】",
+            "desc": "•&nbsp;指定《進擊的巨人》<br />&nbsp;&nbsp;合作角色<br />⓵&nbsp;主動技能&nbsp;CD&nbsp;變&nbsp;0&nbsp;<br />⓶&nbsp;EP&nbsp;回滿",
+            "custom_desc": ""
+        },
+        "6629": {
+            "title": "【指定《進擊的巨人》合作角色 - 回技及 EP、亢奮】",
+            "desc": "•&nbsp;指定《進擊的巨人》<br />&nbsp;&nbsp;合作角色<br />⓵&nbsp;主動技能&nbsp;CD&nbsp;變&nbsp;0&nbsp;<br />⓶&nbsp;EP&nbsp;回滿<br />⓷&nbsp;進入&nbsp;7&nbsp;回合亢奮狀態",
+            "custom_desc": ""
+        },
+        "6631": {
+            "title": "【雙重凝結 - 追擊】",
+            "desc": "•&nbsp;每回合隨機將&nbsp;2&nbsp;粒符石&nbsp;<br />⇒「雙重凝結」<br />•&nbsp;移動符石並消除凝結符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />⇒&nbsp;可解除「一重凝結」<br />&nbsp;&nbsp;&nbsp;&nbsp;(首批消除的符石每次<br />&nbsp;&nbsp;&nbsp;&nbsp;只可解除「一重凝結」)<br />•&nbsp;凝結符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;場上凝結符石愈多<br />⇒&nbsp;敵人所受傷害減少愈多<br />•&nbsp;敵人發動攻擊時會根據<br />&nbsp;&nbsp;場上凝結符石的數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6632": {
+            "title": "【雙重凝結 - 追擊】",
+            "desc": "•&nbsp;每回合隨機將&nbsp;4&nbsp;粒符石&nbsp;<br />⇒「雙重凝結」<br />•&nbsp;移動符石並消除凝結符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />⇒&nbsp;可解除「一重凝結」<br />&nbsp;&nbsp;&nbsp;&nbsp;(首批消除的符石每次<br />&nbsp;&nbsp;&nbsp;&nbsp;只可解除「一重凝結」)<br />•&nbsp;凝結符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;場上凝結符石愈多<br />⇒&nbsp;敵人所受傷害減少愈多<br />•&nbsp;敵人發動攻擊時會根據<br />&nbsp;&nbsp;場上凝結符石的數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6633": {
+            "title": "【雙重凝結 - 追擊】",
+            "desc": "•&nbsp;每回合隨機將&nbsp;6&nbsp;粒符石&nbsp;<br />⇒「雙重凝結」<br />•&nbsp;移動符石並消除凝結符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />⇒&nbsp;可解除「一重凝結」<br />&nbsp;&nbsp;&nbsp;&nbsp;(首批消除的符石每次<br />&nbsp;&nbsp;&nbsp;&nbsp;只可解除「一重凝結」)<br />•&nbsp;凝結符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;場上凝結符石愈多<br />⇒&nbsp;敵人所受傷害減少愈多<br />•&nbsp;敵人發動攻擊時會根據<br />&nbsp;&nbsp;場上凝結符石的數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6634": {
+            "title": "【終結倒數】",
+            "desc": "•&nbsp;敵人倒數&nbsp;2&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br />•&nbsp;若隊長為【調查兵團】成員<br />⇒&nbsp;則倒數&nbsp;6&nbsp;回合後<br />&nbsp;&nbsp;&nbsp;&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "6635": {
+            "title": "【終結倒數】",
+            "desc": "•&nbsp;敵人倒數&nbsp;3&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br />•&nbsp;若隊長為【調查兵團】成員<br />⇒&nbsp;則倒數&nbsp;7&nbsp;回合後<br />&nbsp;&nbsp;&nbsp;&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "6636": {
+            "title": "【終結倒數】",
+            "desc": "•&nbsp;敵人倒數&nbsp;4&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br />•&nbsp;若隊長為【調查兵團】成員<br />⇒&nbsp;則倒數&nbsp;8&nbsp;回合後<br />&nbsp;&nbsp;&nbsp;&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "6637": {
+            "title": "【終結倒數】",
+            "desc": "•&nbsp;敵人倒數&nbsp;5&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br />•&nbsp;若隊長為【調查兵團】成員<br />⇒&nbsp;則倒數&nbsp;9&nbsp;回合後<br />&nbsp;&nbsp;&nbsp;&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "6638": {
+            "title": "【引爆符石】",
+            "desc": "•&nbsp;受到敵人攻擊，<br />&nbsp;&nbsp;回合結束時<br />⇒&nbsp;引爆所有符石",
+            "custom_desc": ""
+        },
+        "6639": {
+            "title": "【水十字限盾 (≥1 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6640": {
+            "title": "【水十字限盾 (≥2 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6641": {
+            "title": "【水十字限盾 (≥3 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6642": {
+            "title": "【水十字限盾】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;指定組數或以上的<br />&nbsp;&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6643": {
+            "title": "【火十字限盾 (≥1 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6644": {
+            "title": "【火十字限盾 (≥2 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6645": {
+            "title": "【火十字限盾 (≥3 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6646": {
+            "title": "【火十字限盾】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;指定組數或以上的<br />&nbsp;&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6647": {
+            "title": "【木十字限盾 (≥1 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6648": {
+            "title": "【木十字限盾 (≥2 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6649": {
+            "title": "【木十字限盾 (≥3 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6650": {
+            "title": "【木十字限盾】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;指定組數或以上的<br />&nbsp;&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6651": {
+            "title": "【光十字限盾 (≥1 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6652": {
+            "title": "【光十字限盾 (≥2 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6653": {
+            "title": "【光十字限盾 (≥3 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6654": {
+            "title": "【光十字限盾】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;指定組數或以上的<br />&nbsp;&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6655": {
+            "title": "【暗十字限盾 (≥1 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6656": {
+            "title": "【暗十字限盾 (≥2 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6657": {
+            "title": "【暗十字限盾 (≥3 組)】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6658": {
+            "title": "【暗十字限盾】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;指定組數或以上的<br />&nbsp;&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6659": {
+            "title": "【根據水成員數量 - 追擊】",
+            "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中水屬性成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6660": {
+            "title": "【根據火成員數量 - 追擊】",
+            "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中火屬性成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6661": {
+            "title": "【根據木成員數量 - 追擊】",
+            "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中木屬性成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6662": {
+            "title": "【根據光成員數量 - 追擊】",
+            "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中光屬性成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6663": {
+            "title": "【根據暗成員數量 - 追擊】",
+            "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中暗屬性成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6664": {
+            "title": "【根據人類成員數量 - 追擊】",
+            "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中人類成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6665": {
+            "title": "【根據獸類成員數量 - 追擊】",
+            "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中獸類成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6666": {
+            "title": "【根據妖精類成員數量 - 追擊】",
+            "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中妖精類成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6667": {
+            "title": "【根據龍類成員數量 - 追擊】",
+            "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中龍類成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6668": {
+            "title": "【根據神族成員數量 - 追擊】",
+            "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中神族成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6669": {
+            "title": "【根據魔族成員數量 - 追擊】",
+            "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中魔族成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6670": {
+            "title": "【根據機械族成員數量 - 追擊】",
+            "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中機械族成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
         }
     }
 }

@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.713",
-        "dv": 11877,
-        "time": 1674827990
+        "version": "2023.100",
+        "dv": 11943,
+        "time": 1675083449
     },
     "monster": {
         "1": {
@@ -14000,6 +14000,11 @@
             "attribute": 4,
             "race": 1
         },
+        "2816": {
+            "name": "朦朧心愫 ‧ 凱拉",
+            "attribute": 2,
+            "race": 5
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -16912,6 +16917,11 @@
             "attribute": 4,
             "race": 8
         },
+        "6610": {
+            "name": "漫漶曉情 ‧ 凱拉",
+            "attribute": 2,
+            "race": 5
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -19357,6 +19367,76 @@
             "attribute": 4,
             "race": 8
         },
+        "10381": {
+            "name": "狂擊拳者 ‧ 吉姆",
+            "attribute": 4,
+            "race": 2
+        },
+        "10382": {
+            "name": "米卡莎 ‧ 阿卡曼",
+            "attribute": 1,
+            "race": 1
+        },
+        "10383": {
+            "name": "艾連 ‧ 葉卡",
+            "attribute": 2,
+            "race": 1
+        },
+        "10384": {
+            "name": "進擊的巨人",
+            "attribute": 2,
+            "race": 1
+        },
+        "10385": {
+            "name": "莎夏 ‧ 布勞斯",
+            "attribute": 3,
+            "race": 1
+        },
+        "10386": {
+            "name": "阿爾敏 ‧ 亞魯雷特",
+            "attribute": 4,
+            "race": 1
+        },
+        "10388": {
+            "name": "里維兵長",
+            "attribute": 5,
+            "race": 1
+        },
+        "10389": {
+            "name": "約翰 ‧ 基爾休坦",
+            "attribute": 2,
+            "race": 1
+        },
+        "10390": {
+            "name": "希絲特莉亞 ‧ 雷斯",
+            "attribute": 4,
+            "race": 1
+        },
+        "10391": {
+            "name": "漢吉 ‧ 佐耶",
+            "attribute": 5,
+            "race": 1
+        },
+        "10392": {
+            "name": "艾爾文 ‧ 史密斯",
+            "attribute": 5,
+            "race": 1
+        },
+        "10394": {
+            "name": "無垢巨人",
+            "attribute": 3,
+            "race": 7
+        },
+        "10395": {
+            "name": "超大型巨人 (貝爾托特)",
+            "attribute": 2,
+            "race": 1
+        },
+        "10400": {
+            "name": "萊納 ‧ 布朗與盔甲巨人",
+            "attribute": 4,
+            "race": 1
+        },
         "5001": {
             "name": "UNKNOWN"
         },
@@ -19700,6 +19780,45 @@
             "name": "暴走的動物",
             "attribute": 5,
             "race": 2
+        },
+        "50071": {
+            "name": "無垢巨人",
+            "attribute": 3,
+            "race": 7
+        },
+        "50072": {
+            "name": "無垢巨人",
+            "attribute": 3,
+            "race": 7
+        },
+        "50073": {
+            "name": "無垢巨人",
+            "attribute": 3,
+            "race": 7
+        },
+        "50074": {
+            "name": "無垢巨人",
+            "attribute": 3,
+            "race": 7
+        },
+        "50075": {
+            "name": "無垢巨人"
+        },
+        "50076": {
+            "name": "無垢巨人"
+        },
+        "50077": {
+            "name": "無垢巨人"
+        },
+        "50080": {
+            "name": "超大型巨人 (貝爾托特)",
+            "attribute": 4,
+            "race": 1
+        },
+        "50084": {
+            "name": "萊納 ‧ 布朗與盔甲巨人",
+            "attribute": 4,
+            "race": 1
         }
     },
     "attribute_names": [

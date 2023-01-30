@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2022.713",
-        "dv": 20896,
-        "time": 1674001692
+        "version": "2023.100",
+        "dv": 21053,
+        "time": 1675083449
     },
     "ws": {
         "10001": {
@@ -3048,6 +3048,116 @@
         "10639": {
             "title": "",
             "desc": "•&nbsp;符石兼具無效",
+            "custom_desc": ""
+        },
+        "10640": {
+            "title": "",
+            "desc": "•&nbsp;持續在不同位置<br />⇒&nbsp;出現&nbsp;1&nbsp;個轟裂地型<br />•&nbsp;轟裂地型的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": ""
+        },
+        "10641": {
+            "title": "",
+            "desc": "•&nbsp;持續在不同位置<br />⇒&nbsp;出現&nbsp;3&nbsp;個轟裂地型<br />•&nbsp;轟裂地型的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": ""
+        },
+        "10642": {
+            "title": "",
+            "desc": "•&nbsp;持續在不同位置<br />⇒&nbsp;出現&nbsp;5&nbsp;個轟裂地型<br />•&nbsp;轟裂地型的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": ""
+        },
+        "10643": {
+            "title": "",
+            "desc": "•&nbsp;持續在不同位置<br />⇒&nbsp;出現&nbsp;1&nbsp;個轟裂地型<br />•&nbsp;轟裂地型的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": ""
+        },
+        "10644": {
+            "title": "",
+            "desc": "•&nbsp;持續在不同位置<br />⇒&nbsp;出現&nbsp;3&nbsp;個轟裂地型<br />•&nbsp;轟裂地型的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": ""
+        },
+        "10645": {
+            "title": "",
+            "desc": "•&nbsp;持續在不同位置<br />⇒&nbsp;出現&nbsp;5&nbsp;個轟裂地型<br />•&nbsp;轟裂地型的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": ""
+        },
+        "10646": {
+            "title": "",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現岩石地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;岩石地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「頭昏」狀態",
+            "custom_desc": ""
+        },
+        "10647": {
+            "title": "",
+            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現岩石地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;岩石地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「頭昏」狀態",
+            "custom_desc": ""
+        },
+        "10648": {
+            "title": "",
+            "desc": "•&nbsp;累計&nbsp;10&nbsp;回合<br />⇒&nbsp;下回合起可點擊<br />&nbsp;&nbsp;&nbsp;&nbsp;右上方技能圖示<br />⇒&nbsp;對敵方全體造成&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;999&nbsp;億點無屬性傷害<br />&nbsp;&nbsp;&nbsp;(此傷害無視敵人技能<br />&nbsp;&nbsp;&nbsp;&nbsp;及我方技能加乘)<br /><br />*&nbsp;發動後，<br />&nbsp;&nbsp;將重置累計回合數&nbsp;&nbsp;",
+            "custom_desc": ""
+        },
+        "10649": {
+            "title": "",
+            "desc": "•&nbsp;人類成員的攻擊力&nbsp;10&nbsp;倍",
+            "custom_desc": ""
+        },
+        "10650": {
+            "title": "",
+            "desc": "•&nbsp;獸類成員的攻擊力&nbsp;10&nbsp;倍",
+            "custom_desc": ""
+        },
+        "10651": {
+            "title": "",
+            "desc": "•&nbsp;妖精類成員的攻擊力&nbsp;10&nbsp;倍",
+            "custom_desc": ""
+        },
+        "10652": {
+            "title": "",
+            "desc": "•&nbsp;龍類成員的攻擊力&nbsp;10&nbsp;倍",
+            "custom_desc": ""
+        },
+        "10653": {
+            "title": "",
+            "desc": "•&nbsp;神族成員的攻擊力&nbsp;10&nbsp;倍",
+            "custom_desc": ""
+        },
+        "10654": {
+            "title": "",
+            "desc": "•&nbsp;魔族成員的攻擊力&nbsp;10&nbsp;倍",
+            "custom_desc": ""
+        },
+        "10655": {
+            "title": "",
+            "desc": "•&nbsp;機械族成員的攻擊力&nbsp;10&nbsp;倍",
+            "custom_desc": ""
+        },
+        "10656": {
+            "title": "",
+            "desc": "•&nbsp;若移動符石前<br />&nbsp;&nbsp;隊伍生命力為&nbsp;&gt;80%<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10657": {
+            "title": "",
+            "desc": "•&nbsp;若移動符石前<br />&nbsp;&nbsp;隊伍生命力為&nbsp;&gt;50%<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10658": {
+            "title": "",
+            "desc": "•&nbsp;若移動符石前<br />&nbsp;&nbsp;隊伍生命力為&nbsp;&gt;20%<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10659": {
+            "title": "",
+            "desc": "•&nbsp;若移動符石前<br />&nbsp;&nbsp;隊伍生命力為&nbsp;&lt;80%<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10660": {
+            "title": "",
+            "desc": "•&nbsp;若移動符石前<br />&nbsp;&nbsp;隊伍生命力為&nbsp;&lt;50%<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10661": {
+            "title": "",
+            "desc": "•&nbsp;若移動符石前<br />&nbsp;&nbsp;隊伍生命力為&nbsp;&lt;20%<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
             "custom_desc": ""
         }
     }
