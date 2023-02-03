@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.100",
-        "dv": 21053,
-        "time": 1675083449
+        "dv": 21059,
+        "time": 1675390945
     },
     "es": {
         "0": {
@@ -40501,7 +40501,7 @@
             "desc": "•&nbsp;敵人死亡後<br />⇒&nbsp;刷新護盾",
             "custom_desc": "",
             "icons": [
-                501
+                931
             ]
         },
         "6424": {
@@ -40509,7 +40509,7 @@
             "desc": "•&nbsp;召喚師沒有護盾或<br />&nbsp;&nbsp;護盾上限&nbsp;&lt;30,000&nbsp;點<br />⇒&nbsp;敵人死亡後<br />&nbsp;&nbsp;&nbsp;&nbsp;提升護盾上限至&nbsp;30,000&nbsp;點<br /><br />•&nbsp;敵人死亡後<br />⇒&nbsp;回復&nbsp;30,000&nbsp;點護盾",
             "custom_desc": "",
             "icons": [
-                502
+                932
             ]
         },
         "6425": {
@@ -40517,7 +40517,7 @@
             "desc": "•&nbsp;召喚師沒有護盾或<br />&nbsp;&nbsp;護盾上限&nbsp;&lt;60,000&nbsp;點<br />⇒&nbsp;敵人死亡後<br />&nbsp;&nbsp;&nbsp;&nbsp;提升護盾上限至&nbsp;60,000&nbsp;點<br /><br />•&nbsp;敵人死亡後<br />⇒&nbsp;回復&nbsp;60,000&nbsp;點護盾",
             "custom_desc": "",
             "icons": [
-                503
+                933
             ]
         },
         "6426": {
@@ -40525,7 +40525,7 @@
             "desc": "•&nbsp;召喚師沒有護盾或<br />&nbsp;&nbsp;護盾上限&nbsp;&lt;100,000&nbsp;點<br />⇒&nbsp;敵人死亡後<br />&nbsp;&nbsp;&nbsp;&nbsp;提升護盾上限至&nbsp;100,000&nbsp;點<br /><br />•&nbsp;敵人死亡後<br />⇒&nbsp;回復&nbsp;100,000&nbsp;點護盾",
             "custom_desc": "",
             "icons": [
-                504
+                934
             ]
         },
         "6427": {
@@ -40548,7 +40548,7 @@
             "desc": "•&nbsp;敵人發動攻擊&nbsp;(突擊除外)<br />⇒&nbsp;根據敵人攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;永久囚錮召喚師生命力上限<br />＊召喚師死亡後重置",
             "custom_desc": "<ul><li>總生命力上限不變，被囚錮的部分無法回血</li><li>受到囚錮後，回合結束時會去除超過上限的血量</li><li>最多囚錮至 1 點</li></ul>",
             "icons": [
-                540
+                840
             ]
         },
         "6431": {
@@ -40566,7 +40566,7 @@
             "desc": "•&nbsp;敵人發動攻擊&nbsp;(突擊除外)<br />⇒&nbsp;永久囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;10%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊召喚師死亡後重置",
             "custom_desc": "<ul><li>總生命力上限不變，被囚錮的部分無法回血</li><li>受到囚錮後，回合結束時會去除超過上限的血量</li><li>以囚錮發動當下血量的百分比計算，扣除定值的生命上限</li></ul>",
             "icons": [
-                531
+                831
             ]
         },
         "6434": {
@@ -40574,7 +40574,7 @@
             "desc": "•&nbsp;敵人發動攻擊&nbsp;(突擊除外)<br />⇒&nbsp;永久囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊召喚師死亡後重置",
             "custom_desc": "<ul><li>總生命力上限不變，被囚錮的部分無法回血</li><li>受到囚錮後，回合結束時會去除超過上限的血量</li><li>以囚錮發動當下血量的百分比計算，扣除定值的生命上限</li></ul>",
             "icons": [
-                532
+                832
             ]
         },
         "6435": {
@@ -40582,7 +40582,7 @@
             "desc": "•&nbsp;敵人發動攻擊&nbsp;(突擊除外)<br />⇒&nbsp;永久囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;30%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊召喚師死亡後重置",
             "custom_desc": "<ul><li>總生命力上限不變，被囚錮的部分無法回血</li><li>受到囚錮後，回合結束時會去除超過上限的血量</li><li>以囚錮發動當下血量的百分比計算，扣除定值的生命上限</li></ul>",
             "icons": [
-                533
+                833
             ]
         },
         "6436": {
@@ -40590,7 +40590,7 @@
             "desc": "•&nbsp;敵人發動攻擊&nbsp;(突擊除外)<br />⇒&nbsp;永久囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;40%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊召喚師死亡後重置",
             "custom_desc": "<ul><li>總生命力上限不變，被囚錮的部分無法回血</li><li>受到囚錮後，回合結束時會去除超過上限的血量</li><li>以囚錮發動當下血量的百分比計算，扣除定值的生命上限</li></ul>",
             "icons": [
-                534
+                834
             ]
         },
         "6437": {
@@ -40598,7 +40598,7 @@
             "desc": "•&nbsp;敵人發動攻擊&nbsp;(突擊除外)<br />⇒&nbsp;永久囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊召喚師死亡後重置",
             "custom_desc": "<ul><li>總生命力上限不變，被囚錮的部分無法回血</li><li>受到囚錮後，回合結束時會去除超過上限的血量</li><li>以囚錮發動當下血量的百分比計算，扣除定值的生命上限</li></ul>",
             "icons": [
-                535
+                835
             ]
         },
         "6438": {
@@ -40606,7 +40606,7 @@
             "desc": "•&nbsp;敵人發動攻擊&nbsp;(突擊除外)<br />⇒&nbsp;永久囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;60%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊召喚師死亡後重置",
             "custom_desc": "<ul><li>總生命力上限不變，被囚錮的部分無法回血</li><li>受到囚錮後，回合結束時會去除超過上限的血量</li><li>以囚錮發動當下血量的百分比計算，扣除定值的生命上限</li></ul>",
             "icons": [
-                536
+                836
             ]
         },
         "6439": {
@@ -40614,7 +40614,7 @@
             "desc": "•&nbsp;敵人發動攻擊&nbsp;(突擊除外)<br />⇒&nbsp;永久囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;70%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊召喚師死亡後重置",
             "custom_desc": "<ul><li>總生命力上限不變，被囚錮的部分無法回血</li><li>受到囚錮後，回合結束時會去除超過上限的血量</li><li>以囚錮發動當下血量的百分比計算，扣除定值的生命上限</li></ul>",
             "icons": [
-                537
+                837
             ]
         },
         "6440": {
@@ -40622,7 +40622,7 @@
             "desc": "•&nbsp;敵人發動攻擊&nbsp;(突擊除外)<br />⇒&nbsp;永久囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;80%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊召喚師死亡後重置",
             "custom_desc": "<ul><li>總生命力上限不變，被囚錮的部分無法回血</li><li>受到囚錮後，回合結束時會去除超過上限的血量</li><li>以囚錮發動當下血量的百分比計算，扣除定值的生命上限</li></ul>",
             "icons": [
-                538
+                838
             ]
         },
         "6441": {
@@ -40630,7 +40630,7 @@
             "desc": "•&nbsp;敵人發動攻擊&nbsp;(突擊除外)<br />⇒&nbsp;永久囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;90%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊召喚師死亡後重置",
             "custom_desc": "<ul><li>總生命力上限不變，被囚錮的部分無法回血</li><li>受到囚錮後，回合結束時會去除超過上限的血量</li><li>以囚錮發動當下血量的百分比計算，扣除定值的生命上限</li></ul>",
             "icons": [
-                539
+                839
             ]
         },
         "6442": {
@@ -42153,7 +42153,10 @@
         "6628": {
             "title": "【指定《進擊的巨人》合作角色 - 回技及 EP】",
             "desc": "•&nbsp;指定《進擊的巨人》<br />&nbsp;&nbsp;合作角色<br />⓵&nbsp;主動技能&nbsp;CD&nbsp;變&nbsp;0&nbsp;<br />⓶&nbsp;EP&nbsp;回滿",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "6629": {
             "title": "【指定《進擊的巨人》合作角色 - 回技及 EP、亢奮】",
@@ -42203,102 +42206,162 @@
         "6639": {
             "title": "【水十字限盾 (≥1 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                451
+            ]
         },
         "6640": {
             "title": "【水十字限盾 (≥2 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                451
+            ]
         },
         "6641": {
             "title": "【水十字限盾 (≥3 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                451
+            ]
         },
         "6642": {
             "title": "【水十字限盾】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;指定組數或以上的<br />&nbsp;&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                451
+            ]
         },
         "6643": {
             "title": "【火十字限盾 (≥1 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                452
+            ]
         },
         "6644": {
             "title": "【火十字限盾 (≥2 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                452
+            ]
         },
         "6645": {
             "title": "【火十字限盾 (≥3 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                452
+            ]
         },
         "6646": {
             "title": "【火十字限盾】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;指定組數或以上的<br />&nbsp;&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                452
+            ]
         },
         "6647": {
             "title": "【木十字限盾 (≥1 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                453
+            ]
         },
         "6648": {
             "title": "【木十字限盾 (≥2 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                453
+            ]
         },
         "6649": {
             "title": "【木十字限盾 (≥3 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                453
+            ]
         },
         "6650": {
             "title": "【木十字限盾】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;指定組數或以上的<br />&nbsp;&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                453
+            ]
         },
         "6651": {
             "title": "【光十字限盾 (≥1 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                454
+            ]
         },
         "6652": {
             "title": "【光十字限盾 (≥2 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                454
+            ]
         },
         "6653": {
             "title": "【光十字限盾 (≥3 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                454
+            ]
         },
         "6654": {
             "title": "【光十字限盾】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;指定組數或以上的<br />&nbsp;&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                454
+            ]
         },
         "6655": {
             "title": "【暗十字限盾 (≥1 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                455
+            ]
         },
         "6656": {
             "title": "【暗十字限盾 (≥2 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                455
+            ]
         },
         "6657": {
             "title": "【暗十字限盾 (≥3 組)】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                455
+            ]
         },
         "6658": {
             "title": "【暗十字限盾】",
             "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;指定組數或以上的<br />&nbsp;&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                455
+            ]
         },
         "6659": {
             "title": "【根據水成員數量 - 追擊】",
