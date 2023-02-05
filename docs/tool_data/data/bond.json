@@ -2508,6 +2508,30 @@
         ]
     },
     {
+        "owner": 10367,
+        "condition": 10365,
+        "conditionType": 2,
+        "ability": 20003,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10367,
+        "condition": 10366,
+        "conditionType": 2,
+        "ability": 20002,
+        "args": [
+            50,
+            2,
+            0,
+            0
+        ]
+    },
+    {
         "owner": 10382,
         "condition": 10383,
         "conditionType": 1,
