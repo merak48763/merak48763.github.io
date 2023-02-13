@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.100",
-        "dv": 21059,
-        "time": 1675390945
+        "version": "2023.101",
+        "dv": 21106,
+        "time": 1676271995
     },
     "es": {
         "0": {
@@ -42143,11 +42143,25 @@
         "6624": {
             "title": "【隊中有【調查兵團】- 綑綁】",
             "desc": "•&nbsp;隊中有【調查兵團】成員<br />⇒&nbsp;綑綁敵人，<br />&nbsp;&nbsp;&nbsp;&nbsp;使受影響目標無法行動<br />•【調查兵團】成員愈多<br />⇒&nbsp;持續回合愈多<br />⇒&nbsp;5&nbsp;個【調查兵團】成員<br />&nbsp;&nbsp;&nbsp;&nbsp;可綑綁敵人&nbsp;3&nbsp;回合",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1068
+            ]
         },
         "6625": {
             "title": "【隊中有「里維兵長」- 自戕】",
             "desc": "•&nbsp;隊中有「里維兵長」<br />⇒&nbsp;回合結束時，敵人扣除<br />&nbsp;&nbsp;&nbsp;&nbsp;100%&nbsp;自身生命力",
+            "custom_desc": "",
+            "icons": []
+        },
+        "6626": {
+            "title": "【非裝備「雷槍」龍刻武裝成員 - 弱攻】",
+            "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有裝備「雷槍」<br />&nbsp;&nbsp;&nbsp;龍刻武裝的成員<br />⇒&nbsp;才會對其造成完整傷害",
+            "custom_desc": ""
+        },
+        "6627": {
+            "title": "【非裝備「雷槍」龍刻武裝成員 - 弱攻】",
+            "desc": "•&nbsp;敵人所受傷害減至&nbsp;25%<br />•&nbsp;只有裝備「雷槍」<br />&nbsp;&nbsp;&nbsp;龍刻武裝的成員<br />⇒&nbsp;才會對其造成完整傷害",
             "custom_desc": ""
         },
         "6628": {
@@ -42181,27 +42195,42 @@
         "6634": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;2&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br />•&nbsp;若隊長為【調查兵團】成員<br />⇒&nbsp;則倒數&nbsp;6&nbsp;回合後<br />&nbsp;&nbsp;&nbsp;&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1059
+            ]
         },
         "6635": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;3&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br />•&nbsp;若隊長為【調查兵團】成員<br />⇒&nbsp;則倒數&nbsp;7&nbsp;回合後<br />&nbsp;&nbsp;&nbsp;&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1059
+            ]
         },
         "6636": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;4&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br />•&nbsp;若隊長為【調查兵團】成員<br />⇒&nbsp;則倒數&nbsp;8&nbsp;回合後<br />&nbsp;&nbsp;&nbsp;&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1059
+            ]
         },
         "6637": {
             "title": "【終結倒數】",
             "desc": "•&nbsp;敵人倒數&nbsp;5&nbsp;回合後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br />•&nbsp;若隊長為【調查兵團】成員<br />⇒&nbsp;則倒數&nbsp;9&nbsp;回合後<br />&nbsp;&nbsp;&nbsp;&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1059
+            ]
         },
         "6638": {
             "title": "【引爆符石】",
             "desc": "•&nbsp;受到敵人攻擊，<br />&nbsp;&nbsp;回合結束時<br />⇒&nbsp;引爆所有符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1220
+            ]
         },
         "6639": {
             "title": "【水十字限盾 (≥1 組)】",
