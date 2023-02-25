@@ -42157,12 +42157,18 @@
         "6626": {
             "title": "【非裝備「雷槍」龍刻武裝成員 - 弱攻】",
             "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有裝備「雷槍」<br />&nbsp;&nbsp;&nbsp;龍刻武裝的成員<br />⇒&nbsp;才會對其造成完整傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1222
+            ]
         },
         "6627": {
             "title": "【非裝備「雷槍」龍刻武裝成員 - 弱攻】",
             "desc": "•&nbsp;敵人所受傷害減至&nbsp;25%<br />•&nbsp;只有裝備「雷槍」<br />&nbsp;&nbsp;&nbsp;龍刻武裝的成員<br />⇒&nbsp;才會對其造成完整傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1222
+            ]
         },
         "6628": {
             "title": "【指定《進擊的巨人》合作角色 - 回技及 EP】",
@@ -42180,17 +42186,26 @@
         "6631": {
             "title": "【雙重凝結 - 追擊】",
             "desc": "•&nbsp;每回合隨機將&nbsp;2&nbsp;粒符石&nbsp;<br />⇒「雙重凝結」<br />•&nbsp;移動符石並消除凝結符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />⇒&nbsp;可解除「一重凝結」<br />&nbsp;&nbsp;&nbsp;&nbsp;(首批消除的符石每次<br />&nbsp;&nbsp;&nbsp;&nbsp;只可解除「一重凝結」)<br />•&nbsp;凝結符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;場上凝結符石愈多<br />⇒&nbsp;敵人所受傷害減少愈多<br />•&nbsp;敵人發動攻擊時會根據<br />&nbsp;&nbsp;場上凝結符石的數量<br />⇒&nbsp;額外追打",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1221
+            ]
         },
         "6632": {
             "title": "【雙重凝結 - 追擊】",
             "desc": "•&nbsp;每回合隨機將&nbsp;4&nbsp;粒符石&nbsp;<br />⇒「雙重凝結」<br />•&nbsp;移動符石並消除凝結符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />⇒&nbsp;可解除「一重凝結」<br />&nbsp;&nbsp;&nbsp;&nbsp;(首批消除的符石每次<br />&nbsp;&nbsp;&nbsp;&nbsp;只可解除「一重凝結」)<br />•&nbsp;凝結符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;場上凝結符石愈多<br />⇒&nbsp;敵人所受傷害減少愈多<br />•&nbsp;敵人發動攻擊時會根據<br />&nbsp;&nbsp;場上凝結符石的數量<br />⇒&nbsp;額外追打",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1221
+            ]
         },
         "6633": {
             "title": "【雙重凝結 - 追擊】",
             "desc": "•&nbsp;每回合隨機將&nbsp;6&nbsp;粒符石&nbsp;<br />⇒「雙重凝結」<br />•&nbsp;移動符石並消除凝結符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />⇒&nbsp;可解除「一重凝結」<br />&nbsp;&nbsp;&nbsp;&nbsp;(首批消除的符石每次<br />&nbsp;&nbsp;&nbsp;&nbsp;只可解除「一重凝結」)<br />•&nbsp;凝結符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;場上凝結符石愈多<br />⇒&nbsp;敵人所受傷害減少愈多<br />•&nbsp;敵人發動攻擊時會根據<br />&nbsp;&nbsp;場上凝結符石的數量<br />⇒&nbsp;額外追打",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1221
+            ]
         },
         "6634": {
             "title": "【終結倒數】",

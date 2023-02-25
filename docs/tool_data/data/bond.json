@@ -2532,6 +2532,78 @@
         ]
     },
     {
+        "owner": 10373,
+        "condition": 10372,
+        "conditionType": 1,
+        "ability": 20002,
+        "args": [
+            50,
+            2,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10373,
+        "condition": 10408,
+        "conditionType": 1,
+        "ability": 20003,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10374,
+        "condition": 10375,
+        "conditionType": 2,
+        "ability": 20004,
+        "args": [
+            3,
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10375,
+        "condition": 10374,
+        "conditionType": 2,
+        "ability": 20004,
+        "args": [
+            4,
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10376,
+        "condition": 10374,
+        "conditionType": 2,
+        "ability": 20003,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10376,
+        "condition": 10375,
+        "conditionType": 2,
+        "ability": 20005,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
         "owner": 10382,
         "condition": 10383,
         "conditionType": 1,
