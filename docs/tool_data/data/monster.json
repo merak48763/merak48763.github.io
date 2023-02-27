@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.101",
-        "dv": 11997,
-        "time": 1676604223
+        "version": "2023.110",
+        "dv": 12024,
+        "time": 1677495762
     },
     "monster": {
         "1": {
@@ -16811,6 +16811,12 @@
             "race": 5,
             "rarity": 6
         },
+        "2817": {
+            "name": "爆旋擊殺 ‧ 千千",
+            "attribute": 5,
+            "race": 3,
+            "rarity": 6
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -20306,6 +20312,24 @@
             "race": 5,
             "rarity": 6
         },
+        "6611": {
+            "name": "奪命陀旋 ‧ 千千",
+            "attribute": 5,
+            "race": 3,
+            "rarity": 2
+        },
+        "6612": {
+            "name": "血眷臣服 ‧ 卡蜜拉",
+            "attribute": 1,
+            "race": 8,
+            "rarity": 6
+        },
+        "6613": {
+            "name": "爆破高手 ‧ 諾貝爾",
+            "attribute": 3,
+            "race": 10,
+            "rarity": 6
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -23250,6 +23274,36 @@
             "name": "血眷臣服 ‧ 卡蜜拉",
             "attribute": 1,
             "race": 8,
+            "rarity": 6
+        },
+        "10373": {
+            "name": "爆破高手 ‧ 諾貝爾",
+            "attribute": 3,
+            "race": 10,
+            "rarity": 6
+        },
+        "10374": {
+            "name": "風神怒疾 ‧ 志那都",
+            "attribute": 3,
+            "race": 5,
+            "rarity": 5
+        },
+        "10375": {
+            "name": "雷神耀天 ‧ 晴賀",
+            "attribute": 4,
+            "race": 5,
+            "rarity": 5
+        },
+        "10376": {
+            "name": "雛祭令嬡 ‧ 京子",
+            "attribute": 5,
+            "race": 5,
+            "rarity": 6
+        },
+        "10379": {
+            "name": "靈花預言 ‧ 啟明花",
+            "attribute": 1,
+            "race": 3,
             "rarity": 6
         },
         "10381": {

@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.101",
-        "dv": 21106,
-        "time": 1676271995
+        "version": "2023.110",
+        "dv": 21133,
+        "time": 1677495762
     },
     "es": {
         "0": {
@@ -30848,7 +30848,7 @@
         },
         "5227": {
             "title": "【結界地型】",
-            "desc": "•&nbsp;隨機&nbsp;2x2&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;隨機&nbsp;2x2&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "",
             "icons": [
                 965
@@ -30856,7 +30856,7 @@
         },
         "5228": {
             "title": "【結界地型】",
-            "desc": "•&nbsp;隨機&nbsp;2x3&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;隨機&nbsp;2x3&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "",
             "icons": [
                 965
@@ -30864,7 +30864,7 @@
         },
         "5229": {
             "title": "【結界地型】",
-            "desc": "•&nbsp;隨機&nbsp;2x4&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;隨機&nbsp;2x4&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "",
             "icons": [
                 965
@@ -30872,7 +30872,7 @@
         },
         "5230": {
             "title": "【結界地型】",
-            "desc": "•&nbsp;隨機&nbsp;2x5&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;隨機&nbsp;2x5&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "",
             "icons": [
                 965
@@ -30880,7 +30880,7 @@
         },
         "5231": {
             "title": "【結界地型】",
-            "desc": "•&nbsp;隨機&nbsp;3x3&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;隨機&nbsp;3x3&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "",
             "icons": [
                 965
@@ -30888,7 +30888,7 @@
         },
         "5232": {
             "title": "【結界地型】",
-            "desc": "•&nbsp;隨機&nbsp;3x4&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;隨機&nbsp;3x4&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "",
             "icons": [
                 965
@@ -30896,7 +30896,7 @@
         },
         "5233": {
             "title": "【結界地型】",
-            "desc": "•&nbsp;隨機&nbsp;3x5&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;隨機&nbsp;3x5&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "",
             "icons": [
                 965
@@ -30904,7 +30904,7 @@
         },
         "5234": {
             "title": "【結界地型】",
-            "desc": "•&nbsp;隨機&nbsp;4x4&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;隨機&nbsp;4x4&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "",
             "icons": [
                 965
@@ -30912,7 +30912,7 @@
         },
         "5235": {
             "title": "【結界地型】",
-            "desc": "•&nbsp;隨機&nbsp;4x5&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;隨機&nbsp;4x5&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "",
             "icons": [
                 965
@@ -30920,7 +30920,7 @@
         },
         "5236": {
             "title": "【結界地型】",
-            "desc": "•&nbsp;隨機&nbsp;5x5&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;隨機&nbsp;5x5&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "",
             "icons": [
                 965
@@ -30928,7 +30928,7 @@
         },
         "5237": {
             "title": "【結界地型】",
-            "desc": "•&nbsp;6x5&nbsp;個位置出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;6x5&nbsp;個位置出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "",
             "icons": [
                 965
@@ -30936,7 +30936,7 @@
         },
         "5238": {
             "title": "【結界地型】",
-            "desc": "•&nbsp;固定&nbsp;4x3&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;固定&nbsp;4x3&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "<ul><li>固定出現於版面中央的4x3個位置</li></ul>",
             "icons": [
                 965
@@ -36493,7 +36493,7 @@
         "5941": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">quiz 50051,50050 408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427</span>",
             "icons": [
                 1038
             ]
@@ -36801,7 +36801,7 @@
         },
         "5980": {
             "title": "【攻速變更 ‧ 隊中有「沖田總悟」- 符石轉暗 - 反首消光符石盾-化血-反擊 - 結界地型 ‧ 隊中沒有「沖田總悟」-  符石轉光 - 反首消光符石盾-化血-反擊 - 結界地型】",
-            "desc": "•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />•&nbsp;進場時若隊中<em>&nbsp;有</em><br />&nbsp;「沖田總悟」<br />⓵&nbsp;進場時將所有光符石<br />⇒&nbsp;轉化為暗符石<br />⓶&nbsp;首批消除光符石及擊中敵人<br />▋無法對敵人造成傷害<br />▋敵人回復相等於&nbsp;<br />&nbsp;&nbsp;該傷害的血量<br />▋敵人反擊&nbsp;<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害<br />⓷&nbsp;隨機&nbsp;2x2&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />▋地型內只能首批消除符石<br />▋地型內的符石<br />⇒&nbsp;不能轉化或引爆<br /><br />•&nbsp;進場時若隊中<em>沒有</em><br />&nbsp;「沖田總悟」<br />⓵&nbsp;進場時將所有暗符石<br />⇒&nbsp;轉化為光符石<br />⓶&nbsp;首批消除光符石及擊中敵人<br />▋無法對敵人造成傷害<br />▋敵人回復相等於&nbsp;<br />&nbsp;&nbsp;該傷害的血量<br />▋敵人反擊&nbsp;<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br />⓷&nbsp;6x5&nbsp;個位置出現結界地型<br />▋地型內只能首批消除符石<br />▋地型內的符石<br />⇒&nbsp;不能轉化或引爆",
+            "desc": "•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />•&nbsp;進場時若隊中<em>&nbsp;有</em><br />&nbsp;「沖田總悟」<br />⓵&nbsp;進場時將所有光符石<br />⇒&nbsp;轉化為暗符石<br />⓶&nbsp;首批消除光符石及擊中敵人<br />▋無法對敵人造成傷害<br />▋敵人回復相等於&nbsp;<br />&nbsp;&nbsp;該傷害的血量<br />▋敵人反擊&nbsp;<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害<br />⓷&nbsp;隨機&nbsp;2x2&nbsp;個位置<br />⇒&nbsp;出現結界地型<br />▋地型內只能首批消除符石<br />▋地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列<br /><br />•&nbsp;進場時若隊中<em>沒有</em><br />&nbsp;「沖田總悟」<br />⓵&nbsp;進場時將所有暗符石<br />⇒&nbsp;轉化為光符石<br />⓶&nbsp;首批消除光符石及擊中敵人<br />▋無法對敵人造成傷害<br />▋敵人回復相等於&nbsp;<br />&nbsp;&nbsp;該傷害的血量<br />▋敵人反擊&nbsp;<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br />⓷&nbsp;6x5&nbsp;個位置出現結界地型<br />▋地型內只能首批消除符石<br />▋地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列",
             "custom_desc": "",
             "icons": [
                 981,
@@ -38357,7 +38357,7 @@
         },
         "6167": {
             "title": "【結界地型．石化狀態 - 結界地型失效】",
-            "desc": "•&nbsp;6x5&nbsp;個位置出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆<br /><br />•&nbsp;敵人置身石化狀態時<br />⇒&nbsp;上述「結界地型」失效",
+            "desc": "•&nbsp;6x5&nbsp;個位置出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化、引爆或排列<br /><br />•&nbsp;敵人置身石化狀態時<br />⇒&nbsp;上述「結界地型」失效",
             "custom_desc": "",
             "icons": [
                 965
