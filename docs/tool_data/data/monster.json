@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.110",
-        "dv": 12024,
-        "time": 1677495762
+        "dv": 12039,
+        "time": 1677749647
     },
     "monster": {
         "1": {
@@ -16775,6 +16775,30 @@
             "race": 2,
             "rarity": 7
         },
+        "2807": {
+            "name": "燦翼燃冀 ‧ 希波呂",
+            "attribute": 2,
+            "race": 5,
+            "rarity": 7
+        },
+        "2808": {
+            "name": "繁星命脈 ‧ 斯克勒",
+            "attribute": 3,
+            "race": 5,
+            "rarity": 7
+        },
+        "2809": {
+            "name": "星光庇佑 ‧ 米堤與波子",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 7
+        },
+        "2810": {
+            "name": "捨情焚身 ‧ 拉冬",
+            "attribute": 3,
+            "race": 4,
+            "rarity": 7
+        },
         "2811": {
             "name": "虎吼光甲 ‧ 劍齒虎",
             "attribute": 4,
@@ -23298,6 +23322,12 @@
             "name": "雛祭令嬡 ‧ 京子",
             "attribute": 5,
             "race": 5,
+            "rarity": 6
+        },
+        "10377": {
+            "name": "天皇雛偶 ‧ 和輝",
+            "attribute": 3,
+            "race": 10,
             "rarity": 6
         },
         "10379": {
