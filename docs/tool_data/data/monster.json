@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.110",
-        "dv": 12039,
-        "time": 1677749647
+        "version": "2023.111",
+        "dv": 12055,
+        "time": 1678959062
     },
     "monster": {
         "1": {
@@ -9282,7 +9282,7 @@
             "rarity": 5
         },
         "1547": {
-            "name": "希望之車‧ 御夫座希波呂",
+            "name": "希望之車 ‧ 御夫座希波呂",
             "attribute": 2,
             "race": 5,
             "rarity": 6
@@ -20354,6 +20354,18 @@
             "race": 10,
             "rarity": 6
         },
+        "6614": {
+            "name": "制霸拳皇 ‧ 阿里",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 6
+        },
+        "6615": {
+            "name": "染血教徒 ‧ 馬克白",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 6
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -23330,11 +23342,23 @@
             "race": 10,
             "rarity": 6
         },
+        "10378": {
+            "name": "絕倫法術 ‧ 戴倫",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
         "10379": {
             "name": "靈花預言 ‧ 啟明花",
             "attribute": 1,
             "race": 3,
             "rarity": 6
+        },
+        "10380": {
+            "name": "高危炮堡 ‧ 日本城",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 7
         },
         "10381": {
             "name": "狂擊拳者 ‧ 吉姆",
@@ -23494,6 +23518,18 @@
             "attribute": 5,
             "race": 1,
             "rarity": 7
+        },
+        "10408": {
+            "name": "制霸拳皇 ‧ 阿里",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 6
+        },
+        "10409": {
+            "name": "染血教徒 ‧ 馬克白",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 6
         },
         "5001": {
             "name": "UNKNOWN"
