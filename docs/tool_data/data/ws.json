@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.111",
-        "dv": 21173,
-        "time": 1678959062
+        "version": "2023.200",
+        "dv": 21301,
+        "time": 1679904061
     },
     "ws": {
         "10001": {
@@ -3158,6 +3158,91 @@
         "10661": {
             "title": "",
             "desc": "•&nbsp;若移動符石前<br />&nbsp;&nbsp;隊伍生命力為&nbsp;&lt;20%<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10662": {
+            "title": "",
+            "desc": "•&nbsp;燃燒移動符石時觸碰的位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成指定傷害<br />•&nbsp;此層&nbsp;(Wave)&nbsp;的戰鬥回合愈多<br />⇒&nbsp;觸碰被燃燒位置<br />&nbsp;&nbsp;&nbsp;&nbsp;所造成的傷害愈多<br />⇒&nbsp;每次觸碰最多可造成<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點傷害",
+            "custom_desc": ""
+        },
+        "10663": {
+            "title": "",
+            "desc": "•&nbsp;持續燃燒移動符石時<br />&nbsp;&nbsp;&nbsp;觸碰的位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成指定傷害<br />•&nbsp;此層&nbsp;(Wave)&nbsp;的戰鬥回合愈多<br />⇒&nbsp;觸碰被燃燒位置<br />&nbsp;&nbsp;&nbsp;&nbsp;所造成的傷害愈多<br />⇒&nbsp;每次觸碰最多可造成<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點傷害",
+            "custom_desc": ""
+        },
+        "10664": {
+            "title": "",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有火符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "custom_desc": ""
+        },
+        "10665": {
+            "title": "",
+            "desc": "•&nbsp;此層&nbsp;(Wave)&nbsp;單數戰鬥回合<br />⇒&nbsp;將移動符石時所觸碰的<br />&nbsp;&nbsp;&nbsp;符石轉化為隱藏符石<br />•&nbsp;此層&nbsp;(Wave)&nbsp;雙數戰鬥回合<br />⇒&nbsp;將移動符石時所觸碰的<br />&nbsp;&nbsp;&nbsp;&nbsp;符石變為黑白色",
+            "custom_desc": ""
+        },
+        "10666": {
+            "title": "",
+            "desc": "•&nbsp;此層&nbsp;(Wave)&nbsp;單數戰鬥回合<br />⇒&nbsp;持續將移動符石時所觸碰<br />&nbsp;&nbsp;&nbsp;&nbsp;的符石轉化為隱藏符石<br />•&nbsp;此層&nbsp;(Wave)&nbsp;雙數戰鬥回合<br />⇒&nbsp;持續將移動符石時所觸碰<br />&nbsp;&nbsp;&nbsp;&nbsp;的符石變為黑白色",
+            "custom_desc": ""
+        },
+        "10667": {
+            "title": "",
+            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;鎖定所有暗符石<br />•&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "custom_desc": ""
+        },
+        "10668": {
+            "title": "",
+            "desc": "•&nbsp;發動主動技能<br />⓵&nbsp;該位置成員進入&nbsp;1&nbsp;回合<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弱攻狀態：攻擊力變&nbsp;0<br />⓶&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根據弱攻狀態成員<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;的數量，對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20,000&nbsp;點傷害<br />",
+            "custom_desc": ""
+        },
+        "10669": {
+            "title": "",
+            "desc": "•&nbsp;發動主動技能<br />⓵&nbsp;該位置身旁成員<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入&nbsp;1&nbsp;回合弱攻狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0<br />⓶&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根據弱攻狀態成員<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;的數量，對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20,000&nbsp;點傷害",
+            "custom_desc": ""
+        },
+        "10670": {
+            "title": "",
+            "desc": "•&nbsp;發動主動技能<br />⇒&nbsp;該位置成員進入&nbsp;1&nbsp;回合<br />&nbsp;&nbsp;&nbsp;&nbsp;制約狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋自身技能不會冷卻<br />▋自身&nbsp;EP&nbsp;不會增加<br />▋自身不受回技或回&nbsp;EP&nbsp;影響<br />",
+            "custom_desc": ""
+        },
+        "10671": {
+            "title": "",
+            "desc": "•&nbsp;發動主動技能<br />⇒&nbsp;該位置身旁成員<br />&nbsp;&nbsp;&nbsp;&nbsp;進入&nbsp;1&nbsp;回合制約狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋自身技能不會冷卻<br />▋自身&nbsp;EP&nbsp;不會增加<br />▋自身不受回技或回&nbsp;EP&nbsp;影響<br />",
+            "custom_desc": ""
+        },
+        "10672": {
+            "title": "",
+            "desc": "•&nbsp;發動主動技能<br />⇒&nbsp;該位置成員進入&nbsp;1&nbsp;回合<br />&nbsp;&nbsp;&nbsp;&nbsp;削血狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;在該成員直行<br />&nbsp;&nbsp;&nbsp;&nbsp;每消除&nbsp;1&nbsp;粒符石<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />",
+            "custom_desc": ""
+        },
+        "10673": {
+            "title": "",
+            "desc": "•&nbsp;發動主動技能<br />⇒&nbsp;該位置身旁成員<br />&nbsp;&nbsp;&nbsp;&nbsp;進入&nbsp;1&nbsp;回合削血狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;在該成員直行<br />&nbsp;&nbsp;&nbsp;&nbsp;每消除&nbsp;1&nbsp;粒符石<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />",
+            "custom_desc": ""
+        },
+        "10674": {
+            "title": "",
+            "desc": "•&nbsp;發動主動技能<br />⇒&nbsp;該位置成員進入&nbsp;1&nbsp;回合<br />&nbsp;&nbsp;&nbsp;&nbsp;禁消自身屬性符石狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;該成員屬性符石<br />&nbsp;&nbsp;&nbsp;&nbsp;無法被消除",
+            "custom_desc": ""
+        },
+        "10675": {
+            "title": "",
+            "desc": "•&nbsp;發動主動技能<br />⇒&nbsp;該位置身旁成員<br />&nbsp;&nbsp;&nbsp;&nbsp;進入&nbsp;1&nbsp;回合<br />&nbsp;&nbsp;&nbsp;&nbsp;禁消自身屬性符石狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;該成員屬性符石<br />&nbsp;&nbsp;&nbsp;&nbsp;無法被消除",
+            "custom_desc": ""
+        },
+        "10676": {
+            "title": "",
+            "desc": "•&nbsp;每次發動主動技能<br />⇒&nbsp;召喚師累積&nbsp;25%&nbsp;弱攻值<br />•&nbsp;當累積至&nbsp;100%&nbsp;弱攻值<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;進入下一層數&nbsp;(Wave)<br />⇒&nbsp;清空弱攻值狀態",
+            "custom_desc": ""
+        },
+        "10677": {
+            "title": "",
+            "desc": "•&nbsp;每次發動主動技能<br />⇒&nbsp;召喚師累積&nbsp;50%&nbsp;弱攻值<br />•&nbsp;當累積至&nbsp;100%&nbsp;弱攻值<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;進入下一層數&nbsp;(Wave)<br />⇒&nbsp;清空弱攻值狀態",
+            "custom_desc": ""
+        },
+        "10678": {
+            "title": "",
+            "desc": "•&nbsp;移動符石時間固定為&nbsp;30&nbsp;秒",
             "custom_desc": ""
         }
     }

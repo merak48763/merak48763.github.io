@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.111",
-        "dv": 21173,
-        "time": 1678959062
+        "version": "2023.200",
+        "dv": 21301,
+        "time": 1679904061
     },
     "es": {
         "0": {
@@ -1907,6 +1907,14 @@
             "icons": [
                 1010,
                 957
+            ]
+        },
+        "230": {
+            "title": "【轉珠時間無限】",
+            "desc": "轉珠時間無限",
+            "custom_desc": "",
+            "icons": [
+                1003
             ]
         },
         "231": {
@@ -42474,6 +42482,155 @@
         "6670": {
             "title": "【根據機械族成員數量 - 追擊】",
             "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中機械族成員數量<br />⇒&nbsp;額外追打",
+            "custom_desc": ""
+        },
+        "6699": {
+            "title": "【回技】",
+            "desc": "•&nbsp;所有成員的主動技能<br />&nbsp;&nbsp;CD&nbsp;變&nbsp;0",
+            "custom_desc": ""
+        },
+        "6700": {
+            "title": "【回技及 EP】",
+            "desc": "•&nbsp;所有成員的主動技能<br />⓵&nbsp;CD&nbsp;變&nbsp;0<br />⓶&nbsp;EP&nbsp;回滿",
+            "custom_desc": ""
+        },
+        "6701": {
+            "title": "",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6702": {
+            "title": "",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6703": {
+            "title": "",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6704": {
+            "title": "",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6705": {
+            "title": "圖案拼圖凝護 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "RedBook (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1113
+            ]
+        },
+        "6706": {
+            "title": "圖案拼圖凝護 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "GreenBook (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1113
+            ]
+        },
+        "6707": {
+            "title": "",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6708": {
+            "title": "",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6709": {
+            "title": "",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6710": {
+            "title": "",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6711": {
+            "title": "圖案拼圖凝護 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "BlueBook (3x3)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1113
+            ]
+        },
+        "6712": {
+            "title": "",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6713": {
+            "title": "",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6714": {
+            "title": "【符石轉換】",
+            "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為五屬符石各&nbsp;6&nbsp;粒",
+            "custom_desc": ""
+        },
+        "6715": {
+            "title": "【全消水凝護 - 愈攻愈強】",
+            "desc": "•&nbsp;首批消除場上所有水符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6716": {
+            "title": "【全消火凝護 - 愈攻愈強】",
+            "desc": "•&nbsp;首批消除場上所有火符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6717": {
+            "title": "【全消木凝護 - 愈攻愈強】",
+            "desc": "•&nbsp;首批消除場上所有木符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6718": {
+            "title": "【全消光凝護 - 愈攻愈強】",
+            "desc": "•&nbsp;首批消除場上所有光符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6719": {
+            "title": "【全消暗凝護 - 愈攻愈強】",
+            "desc": "•&nbsp;首批消除場上所有暗符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6720": {
+            "title": "【全消心凝護 - 愈攻愈強】",
+            "desc": "•&nbsp;首批消除場上所有心符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": ""
+        },
+        "6721": {
+            "title": "【符石轉換】",
+            "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
+            "custom_desc": ""
+        },
+        "6722": {
+            "title": "【符石轉換】",
+            "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
+            "custom_desc": ""
+        },
+        "6723": {
+            "title": "【符石轉換】",
+            "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
+            "custom_desc": ""
+        },
+        "6724": {
+            "title": "【符石轉換】",
+            "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
+            "custom_desc": ""
+        },
+        "6725": {
+            "title": "【符石轉換】",
+            "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
+            "custom_desc": ""
+        },
+        "6726": {
+            "title": "【符石轉換】",
+            "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
             "custom_desc": ""
         }
     }

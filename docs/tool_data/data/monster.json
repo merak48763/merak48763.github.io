@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.111",
-        "dv": 12055,
-        "time": 1678959062
+        "version": "2023.200",
+        "dv": 12089,
+        "time": 1679904061
     },
     "monster": {
         "1": {
@@ -16841,6 +16841,42 @@
             "race": 3,
             "rarity": 6
         },
+        "2818": {
+            "name": "傲姿護獸 ‧ 芭絲蒂",
+            "attribute": 3,
+            "race": 2,
+            "rarity": 6
+        },
+        "2820": {
+            "name": "佈雨傳善 ‧ 泰芙努特",
+            "attribute": 1,
+            "race": 2,
+            "rarity": 8
+        },
+        "2821": {
+            "name": "戰龍翺天 ‧ 賽特",
+            "attribute": 2,
+            "race": 4,
+            "rarity": 8
+        },
+        "2822": {
+            "name": "風龍振翮 ‧ 舒",
+            "attribute": 3,
+            "race": 4,
+            "rarity": 8
+        },
+        "2823": {
+            "name": "曜陽指引 ‧ 拉",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 8
+        },
+        "2824": {
+            "name": "亡路引靈 ‧ 奧西利斯",
+            "attribute": 5,
+            "race": 5,
+            "rarity": 8
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -16863,6 +16899,12 @@
             "name": "巧智破關 ‧ 加諾奧斯",
             "attribute": 4,
             "race": 8,
+            "rarity": 6
+        },
+        "2904": {
+            "name": "化諜尋寶 ‧ 冰花",
+            "attribute": 3,
+            "race": 1,
             "rarity": 6
         },
         "3001": {
@@ -19805,6 +19847,12 @@
             "race": 3,
             "rarity": 6
         },
+        "6520": {
+            "name": "殘暴凶戾 ‧ 本耶普",
+            "attribute": 2,
+            "race": 2,
+            "rarity": 7
+        },
         "6521": {
             "name": "女帝的銘誓 ‧ 美索不達米亞",
             "attribute": 3,
@@ -20364,6 +20412,12 @@
             "name": "染血教徒 ‧ 馬克白",
             "attribute": 1,
             "race": 5,
+            "rarity": 6
+        },
+        "6616": {
+            "name": "高傲獸護 ‧ 芭絲蒂",
+            "attribute": 3,
+            "race": 2,
             "rarity": 6
         },
         "6999": {
@@ -23529,6 +23583,18 @@
             "name": "染血教徒 ‧ 馬克白",
             "attribute": 1,
             "race": 5,
+            "rarity": 6
+        },
+        "10411": {
+            "name": "光艦升空 ‧ 金字塔",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 6
+        },
+        "10412": {
+            "name": "闖墓竊寶 ‧ 雅菈施",
+            "attribute": 5,
+            "race": 1,
             "rarity": 6
         },
         "5001": {
