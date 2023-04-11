@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.200",
-        "dv": 12089,
-        "time": 1679904061
+        "version": "2023.203",
+        "dv": 12123,
+        "time": 1681204602
     },
     "monster": {
         "1": {
@@ -20420,6 +20420,30 @@
             "race": 2,
             "rarity": 6
         },
+        "6618": {
+            "name": "驕陽永耀 ‧ 阿圖姆",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 7
+        },
+        "6619": {
+            "name": "疏狂妖刀客 ‧ 柳生十兵衛",
+            "attribute": 5,
+            "race": 3,
+            "rarity": 6
+        },
+        "6620": {
+            "name": "雪色罪印 ‧ 白雪",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "6621": {
+            "name": "荒誕愚言 ‧ 皮諾丘",
+            "attribute": 3,
+            "race": 3,
+            "rarity": 6
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -23585,6 +23609,12 @@
             "race": 5,
             "rarity": 6
         },
+        "10410": {
+            "name": "驕陽永耀 ‧ 阿圖姆",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 7
+        },
         "10411": {
             "name": "光艦升空 ‧ 金字塔",
             "attribute": 4,
@@ -23595,6 +23625,54 @@
             "name": "闖墓竊寶 ‧ 雅菈施",
             "attribute": 5,
             "race": 1,
+            "rarity": 6
+        },
+        "10413": {
+            "name": "不腐神醫 ‧ 印何闐",
+            "attribute": 2,
+            "race": 5,
+            "rarity": 6
+        },
+        "10414": {
+            "name": "聖獅護靈 ‧ 法蒂亞 ",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 6
+        },
+        "10415": {
+            "name": "破生水晶龍",
+            "attribute": 1,
+            "race": 4,
+            "rarity": 6
+        },
+        "10416": {
+            "name": "疏狂妖刀客 ‧ 柳生十兵衛",
+            "attribute": 5,
+            "race": 3,
+            "rarity": 6
+        },
+        "10417": {
+            "name": "雪色罪印 ‧ 白雪",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "10418": {
+            "name": "始計忍 ‧ 百地颯",
+            "attribute": 4,
+            "race": 3,
+            "rarity": 5
+        },
+        "10420": {
+            "name": "盜金行善 ‧ 石川五右衛門",
+            "attribute": 5,
+            "race": 10,
+            "rarity": 6
+        },
+        "10440": {
+            "name": "荒誕愚言 ‧ 皮諾丘",
+            "attribute": 3,
+            "race": 3,
             "rarity": 6
         },
         "5001": {
