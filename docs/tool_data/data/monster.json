@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.203",
-        "dv": 12123,
-        "time": 1681204602
+        "version": "2023.204",
+        "dv": 12138,
+        "time": 1681703025
     },
     "monster": {
         "1": {
@@ -16907,6 +16907,18 @@
             "race": 1,
             "rarity": 6
         },
+        "2911": {
+            "name": "暴虐之翼 ‧ 路西法",
+            "attribute": 4,
+            "race": 5,
+            "rarity": 8
+        },
+        "2912": {
+            "name": "魂靈相依 ‧ 路西法與米迦勒",
+            "attribute": 4,
+            "race": 5,
+            "rarity": 8
+        },
         "3001": {
             "name": "野望滅絕 ‧ 薩魯曼",
             "attribute": 5,
@@ -20444,6 +20456,18 @@
             "race": 3,
             "rarity": 6
         },
+        "6622": {
+            "name": "無機混沌 ‧ 路西法",
+            "attribute": 4,
+            "race": 5,
+            "rarity": 8
+        },
+        "6623": {
+            "name": "混沌之翼 ‧ 路西法",
+            "attribute": 4,
+            "race": 5,
+            "rarity": 8
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -23663,10 +23687,22 @@
             "race": 3,
             "rarity": 5
         },
+        "10419": {
+            "name": "影行忍 ‧ 百地凪",
+            "attribute": 5,
+            "race": 3,
+            "rarity": 5
+        },
         "10420": {
             "name": "盜金行善 ‧ 石川五右衛門",
             "attribute": 5,
             "race": 10,
+            "rarity": 6
+        },
+        "10421": {
+            "name": "笑裡藏刀 ‧ 澤庵宗彭",
+            "attribute": 3,
+            "race": 8,
             "rarity": 6
         },
         "10440": {
