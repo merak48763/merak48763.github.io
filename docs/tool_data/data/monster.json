@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.204",
-        "dv": 12138,
-        "time": 1681703025
+        "version": "2023.210",
+        "dv": 12178,
+        "time": 1682330249
     },
     "monster": {
         "1": {
@@ -16847,6 +16847,12 @@
             "race": 2,
             "rarity": 6
         },
+        "2819": {
+            "name": "怦然心動 ‧ 毛倡妓",
+            "attribute": 1,
+            "race": 8,
+            "rarity": 6
+        },
         "2820": {
             "name": "佈雨傳善 ‧ 泰芙努特",
             "attribute": 1,
@@ -20432,6 +20438,12 @@
             "race": 2,
             "rarity": 6
         },
+        "6617": {
+            "name": "暖扣心弦 ‧ 毛倡妓",
+            "attribute": 1,
+            "race": 8,
+            "rarity": 6
+        },
         "6618": {
             "name": "驕陽永耀 ‧ 阿圖姆",
             "attribute": 4,
@@ -20463,7 +20475,7 @@
             "rarity": 8
         },
         "6623": {
-            "name": "混沌之翼 ‧ 路西法",
+            "name": "暴虐之翼 ‧ 路西法",
             "attribute": 4,
             "race": 5,
             "rarity": 8
@@ -23702,6 +23714,72 @@
         "10421": {
             "name": "笑裡藏刀 ‧ 澤庵宗彭",
             "attribute": 3,
+            "race": 8,
+            "rarity": 6
+        },
+        "10422": {
+            "name": "豐盛便當",
+            "attribute": 2,
+            "race": 7,
+            "rarity": 3
+        },
+        "10424": {
+            "name": "狗卷棘",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "10425": {
+            "name": "禪院真希",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10426": {
+            "name": "熊貓",
+            "attribute": 3,
+            "race": 2,
+            "rarity": 6
+        },
+        "10427": {
+            "name": "虎杖悠仁",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10428": {
+            "name": "五條悟",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10429": {
+            "name": "釘崎野薔薇",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10430": {
+            "name": "七海建人",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10431": {
+            "name": "伏黑惠",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10434": {
+            "name": "兩面宿儺",
+            "attribute": 5,
+            "race": 8,
+            "rarity": 7
+        },
+        "10435": {
+            "name": "真人",
+            "attribute": 1,
             "race": 8,
             "rarity": 6
         },
