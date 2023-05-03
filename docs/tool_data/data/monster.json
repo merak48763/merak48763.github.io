@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.210",
-        "dv": 12178,
-        "time": 1682330249
+        "version": "2023.212",
+        "dv": 12191,
+        "time": 1683011272
     },
     "monster": {
         "1": {
@@ -16913,6 +16913,12 @@
             "race": 1,
             "rarity": 6
         },
+        "2905": {
+            "name": "虛影歷奇 ‧ 羅剎女",
+            "attribute": 5,
+            "race": 8,
+            "rarity": 6
+        },
         "2911": {
             "name": "暴虐之翼 ‧ 路西法",
             "attribute": 4,
@@ -23771,6 +23777,18 @@
             "race": 1,
             "rarity": 6
         },
+        "10432": {
+            "name": "禪院真依",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10433": {
+            "name": "東堂葵",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 2
+        },
         "10434": {
             "name": "兩面宿儺",
             "attribute": 5,
@@ -23781,6 +23799,18 @@
             "name": "真人",
             "attribute": 1,
             "race": 8,
+            "rarity": 6
+        },
+        "10437": {
+            "name": "花御",
+            "attribute": 3,
+            "race": 8,
+            "rarity": 6
+        },
+        "10438": {
+            "name": "究極機械丸",
+            "attribute": 4,
+            "race": 10,
             "rarity": 6
         },
         "10440": {
