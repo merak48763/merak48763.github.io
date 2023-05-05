@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.212",
-        "dv": 12191,
-        "time": 1683011272
+        "dv": 12195,
+        "time": 1683196435
     },
     "monster": {
         "1": {
@@ -23787,7 +23787,7 @@
             "name": "東堂葵",
             "attribute": 4,
             "race": 1,
-            "rarity": 2
+            "rarity": 6
         },
         "10434": {
             "name": "兩面宿儺",
@@ -23798,6 +23798,12 @@
         "10435": {
             "name": "真人",
             "attribute": 1,
+            "race": 8,
+            "rarity": 6
+        },
+        "10436": {
+            "name": "漏瑚",
+            "attribute": 2,
             "race": 8,
             "rarity": 6
         },
