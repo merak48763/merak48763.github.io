@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.212",
-        "dv": 21400,
-        "time": 1683196435
+        "dv": 21407,
+        "time": 1683797386
     },
     "ws": {
         "10001": {
@@ -2807,7 +2807,7 @@
         },
         "10590": {
             "title": "",
-            "desc": "•&nbsp;發動主動技能<br />&nbsp;&nbsp;每添加或轉化&nbsp;1&nbsp;粒符石<br />⇒&nbsp;消耗召喚師&nbsp;3%&nbsp;生命力",
+            "desc": "•&nbsp;發動主動技能<br />&nbsp;&nbsp;每添加或轉化&nbsp;1&nbsp;粒符石<br />⇒&nbsp;消耗召喚師&nbsp;3%&nbsp;生命力<br />&nbsp;&nbsp;(轉化種族強化符石每粒消耗&nbsp;6%)",
             "custom_desc": ""
         },
         "10591": {

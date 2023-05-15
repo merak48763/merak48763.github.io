@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.212",
-        "dv": 21400,
-        "time": 1683196435
+        "dv": 21407,
+        "time": 1683797386
     },
     "es": {
         "0": {
@@ -23120,7 +23120,7 @@
         },
         "4024": {
             "title": "【回復顛倒】",
-            "desc": "•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;相應效果的生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(此效果不計算回復加乘)",
+            "desc": "•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)",
             "custom_desc": "",
             "icons": [
                 1057
@@ -23630,7 +23630,7 @@
         },
         "4114": {
             "title": "",
-            "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />每回合隨機將&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為心符石<br /><br />我方所有轉化符石效果無效。<br /><br />透過「消除心符石或<br />兼具心符石效果」的<br />回復效果變為扣血效果",
+            "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />每回合隨機將&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為心符石<br /><br />我方所有轉化符石效果無效。<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)",
             "custom_desc": ""
         },
         "4115": {
@@ -24541,7 +24541,7 @@
         },
         "4256": {
             "title": "",
-            "desc": "•&nbsp;首批消除場上所有心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除心符石)<br /><br />透過「消除心符石或<br />兼具心符石效果」的<br />回復效果變為扣血效果。<br /><br />無視所有控制技能。",
+            "desc": "•&nbsp;首批消除場上所有心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除心符石)<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4257": {
@@ -24672,7 +24672,7 @@
         },
         "4281": {
             "title": "敵技4281",
-            "desc": "•&nbsp;進場時消除召喚師<br />&nbsp;&nbsp;所有附加效果。<br /><br />•&nbsp;進場時對召喚師<br />&nbsp;&nbsp;施加負面效果疲憊狀態：<br />&nbsp;&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;全隊攻擊力減至&nbsp;0%。<br /><br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;4&nbsp;粒符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;30,000&nbsp;點傷害<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算回復加乘)",
+            "desc": "•&nbsp;進場時消除召喚師<br />&nbsp;&nbsp;所有附加效果。<br /><br />•&nbsp;進場時對召喚師<br />&nbsp;&nbsp;施加負面效果疲憊狀態：<br />&nbsp;&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;全隊攻擊力減至&nbsp;0%。<br /><br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;4&nbsp;粒符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;30,000&nbsp;點傷害<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)",
             "custom_desc": "胞質核災厄 (核心封閉階段的本體)",
             "keywords": [
                 "災厄級"
@@ -24965,12 +24965,12 @@
         },
         "4312": {
             "title": "【絕對領域 - 2,000 萬 ‧ 暗連擊零化 ‧ 回復顛倒】",
-            "desc": "<em>【絕對領域&nbsp;-&nbsp;2,000&nbsp;萬&nbsp;‧&nbsp;暗連擊零化&nbsp;‧&nbsp;回復顛倒】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;2,000&nbsp;萬才能對敵人<br />造成攻擊傷害。<br /><br />首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />透過「消除心符石或<br />兼具心符石效果」的<br />回復效果變為扣血效果。",
+            "desc": "<em>【絕對領域&nbsp;-&nbsp;2,000&nbsp;萬&nbsp;‧&nbsp;暗連擊零化&nbsp;‧&nbsp;回復顛倒】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;2,000&nbsp;萬才能對敵人<br />造成攻擊傷害。<br /><br />首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)",
             "custom_desc": ""
         },
         "4313": {
             "title": "【絕對領域 - 5,000 萬 ‧ 暗連擊零化 ‧ 回復顛倒 ‧ 轉化符石技能無效】",
-            "desc": "<em>【絕對領域&nbsp;-&nbsp;5,000&nbsp;萬&nbsp;‧&nbsp;暗連擊零化&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;5,000&nbsp;萬才能對敵人<br />造成攻擊傷害。<br /><br />首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />透過「消除心符石或<br />兼具心符石效果」的<br />回復效果變為扣血效果。<br /><br />我方所有轉化符石效果無效。",
+            "desc": "<em>【絕對領域&nbsp;-&nbsp;5,000&nbsp;萬&nbsp;‧&nbsp;暗連擊零化&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;5,000&nbsp;萬才能對敵人<br />造成攻擊傷害。<br /><br />首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)<br /><br />我方所有轉化符石效果無效。",
             "custom_desc": "",
             "icons": [
                 106,
@@ -25466,12 +25466,12 @@
         },
         "4374": {
             "title": "【攻速變更 ‧ 非剋敵屬攻擊零化 ‧ 回復顛倒 ‧ 首消火影化血】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非剋敵屬攻擊零化&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;首消火影化血&nbsp;】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有克制敵人屬性的攻擊<br />才會對敵人造成傷害。<br /><br />透過「消除心符石或<br />兼具心符石效果」的<br />回復效果變為扣血效果。<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非剋敵屬攻擊零化&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;首消火影化血&nbsp;】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有克制敵人屬性的攻擊<br />才會對敵人造成傷害。<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。",
             "custom_desc": ""
         },
         "4375": {
             "title": "【攻速變更 ‧ 非剋敵屬攻擊零化 ‧ 回復顛倒 ‧ 首消火影化血 - 反擊】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非剋敵屬攻擊零化&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;首消火影化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有克制敵人屬性的攻擊<br />才會對敵人造成傷害。<br /><br />透過「消除心符石或<br />兼具心符石效果」的<br />回復效果變為扣血效果。<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;500%&nbsp;攻擊傷害。",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非剋敵屬攻擊零化&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;首消火影化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有克制敵人屬性的攻擊<br />才會對敵人造成傷害。<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;500%&nbsp;攻擊傷害。",
             "custom_desc": ""
         },
         "4376": {
@@ -26487,7 +26487,7 @@
         },
         "4541": {
             "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非光攻擊零化&nbsp;‧&nbsp;隱匿之途&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;首消暗流化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有光屬性的攻擊<br />才會對敵人造成傷害。<br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />透過「消除心符石或<br />兼具心符石效果」的<br />回復效果變為扣血效果。<br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害。",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非光攻擊零化&nbsp;‧&nbsp;隱匿之途&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;首消暗流化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有光屬性的攻擊<br />才會對敵人造成傷害。<br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)<br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害。",
             "custom_desc": ""
         },
         "4542": {
@@ -29017,7 +29017,7 @@
         },
         "4978": {
             "title": "",
-            "desc": "<em>【弱化圍城&nbsp;‧&nbsp;心符石弱化&nbsp;20%&nbsp;‧&nbsp;回復顛倒】</em><br /><br />首回合鎖定場上所有符石，<br />其後每回合鎖定心符石；<br />每消除&nbsp;1&nbsp;粒被鎖定的符石，<br />全隊攻擊力減少&nbsp;20%。<br />(發動龍刻脈動視作<br />消除場上的鎖定符石)<br /><br />所有轉化符石技能效果無效<br />(轉化種族符石而不改變<br />符石種類的技能除外)。<br /><br />透過「消除心符石或<br />兼具心符石效果」的<br />回復效果變為扣血效果。",
+            "desc": "<em>【弱化圍城&nbsp;‧&nbsp;心符石弱化&nbsp;20%&nbsp;‧&nbsp;回復顛倒】</em><br /><br />首回合鎖定場上所有符石，<br />其後每回合鎖定心符石；<br />每消除&nbsp;1&nbsp;粒被鎖定的符石，<br />全隊攻擊力減少&nbsp;20%。<br />(發動龍刻脈動視作<br />消除場上的鎖定符石)<br /><br />所有轉化符石技能效果無效<br />(轉化種族符石而不改變<br />符石種類的技能除外)。<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)",
             "custom_desc": ""
         },
         "4979": {

@@ -3382,5 +3382,41 @@
             0,
             0
         ]
+    },
+    {
+        "owner": 10439,
+        "condition": 10435,
+        "conditionType": 2,
+        "ability": 20010,
+        "args": [
+            1,
+            50,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10439,
+        "condition": 10436,
+        "conditionType": 2,
+        "ability": 20010,
+        "args": [
+            1,
+            50,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10439,
+        "condition": 10437,
+        "conditionType": 2,
+        "ability": 20010,
+        "args": [
+            1,
+            50,
+            0,
+            0
+        ]
     }
 ]
