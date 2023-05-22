@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.212",
-        "dv": 12206,
-        "time": 1683797386
+        "version": "2023.300",
+        "dv": 12234,
+        "time": 1684753687
     },
     "monster": {
         "1": {
@@ -16883,6 +16883,12 @@
             "race": 5,
             "rarity": 8
         },
+        "2825": {
+            "name": "異間爓龍 ‧ 克圖格亞",
+            "attribute": 5,
+            "race": 4,
+            "rarity": 6
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -20486,6 +20492,24 @@
             "race": 5,
             "rarity": 8
         },
+        "6625": {
+            "name": "無序飢餓 ‧ 哈佛",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 6
+        },
+        "6626": {
+            "name": "死亡洗禮 ‧ 夏綠蒂",
+            "attribute": 5,
+            "race": 10,
+            "rarity": 6
+        },
+        "6627": {
+            "name": "冥火龍淵 ‧ 克圖格亞",
+            "attribute": 5,
+            "race": 4,
+            "rarity": 6
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -22940,6 +22964,12 @@
             "race": 5,
             "rarity": 6
         },
+        "10288": {
+            "name": "群魔首魁 ‧ 卡洛 ",
+            "attribute": 3,
+            "race": 8,
+            "rarity": 7
+        },
         "10290": {
             "name": "清涼一夏 ‧ 神魔小妹",
             "attribute": 1,
@@ -23829,6 +23859,36 @@
             "name": "荒誕愚言 ‧ 皮諾丘",
             "attribute": 3,
             "race": 3,
+            "rarity": 6
+        },
+        "10447": {
+            "name": "引禍之箭 ‧ 列拉金",
+            "attribute": 3,
+            "race": 8,
+            "rarity": 6
+        },
+        "10449": {
+            "name": "香糯芋圓",
+            "attribute": 5,
+            "race": 7,
+            "rarity": 3
+        },
+        "10451": {
+            "name": "無私母愛 ‧ 路維亞",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 5
+        },
+        "10455": {
+            "name": "無序飢餓 ‧ 哈佛",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 6
+        },
+        "10456": {
+            "name": "死亡洗禮 ‧ 夏綠蒂",
+            "attribute": 5,
+            "race": 10,
             "rarity": 6
         },
         "5001": {

@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.212",
-        "dv": 21407,
-        "time": 1683797386
+        "version": "2023.300",
+        "dv": 21636,
+        "time": 1684753687
     },
     "es": {
         "0": {
@@ -16175,52 +16175,52 @@
             "custom_desc": ""
         },
         "2854": {
-            "title": "【淨世 ‧ 全消水加攻 - 反之疲憊狀態 ‧ 自戕】",
+            "title": "【淨世 ‧ 天惠攻擊狀態 - 全消水 - 反之疲憊狀態 ‧ 自戕】",
             "desc": "•&nbsp;進場時消除所有附加效果<br /><br />•&nbsp;首批消除場上所有水符石&nbsp;(需消除水符石)，5&nbsp;回合內，全隊攻擊力提升&nbsp;1.5&nbsp;倍；反之，5&nbsp;回合內，全隊攻擊力減至&nbsp;50%。<br /><br />•&nbsp;敵人下回合會扣除自身生命力&nbsp;100%，期間不受任何攻擊傷害及無視所有控制技能",
             "custom_desc": ""
         },
         "2855": {
-            "title": "【淨世 ‧ 全消火加攻 - 反之疲憊狀態 ‧ 自戕】",
+            "title": "【淨世 ‧ 天惠攻擊狀態 - 全消火 - 反之疲憊狀態 ‧ 自戕】",
             "desc": "•&nbsp;進場時消除所有附加效果<br /><br />•&nbsp;首批消除場上所有火符石&nbsp;(需消除火符石)，5&nbsp;回合內，全隊攻擊力提升&nbsp;1.5&nbsp;倍；反之，5&nbsp;回合內，全隊攻擊力減至&nbsp;50%。<br /><br />•&nbsp;敵人下回合會扣除自身生命力&nbsp;100%，期間不受任何攻擊傷害及無視所有控制技能",
             "custom_desc": ""
         },
         "2856": {
-            "title": "【淨世 ‧ 全消木加攻 - 反之疲憊狀態 ‧ 自戕】",
+            "title": "【淨世 ‧ 天惠攻擊狀態 - 全消木 - 反之疲憊狀態 ‧ 自戕】",
             "desc": "•&nbsp;進場時消除所有附加效果<br /><br />•&nbsp;首批消除場上所有木符石&nbsp;(需消除木符石)，5&nbsp;回合內，全隊攻擊力提升&nbsp;1.5&nbsp;倍；反之，5&nbsp;回合內，全隊攻擊力減至&nbsp;50%。<br /><br />•&nbsp;敵人下回合會扣除自身生命力&nbsp;100%，期間不受任何攻擊傷害及無視所有控制技能",
             "custom_desc": ""
         },
         "2857": {
-            "title": "【淨世 ‧ 全消光加攻 - 反之疲憊狀態 ‧ 自戕】",
+            "title": "【淨世 ‧ 天惠攻擊狀態 - 全消光 - 反之疲憊狀態 ‧ 自戕】",
             "desc": "•&nbsp;進場時消除所有附加效果<br /><br />•&nbsp;首批消除場上所有光符石&nbsp;(需消除光符石)，5&nbsp;回合內，全隊攻擊力提升&nbsp;1.5&nbsp;倍；反之，5&nbsp;回合內，全隊攻擊力減至&nbsp;50%。<br /><br />•&nbsp;敵人下回合會扣除自身生命力&nbsp;100%，期間不受任何攻擊傷害及無視所有控制技能",
             "custom_desc": ""
         },
         "2858": {
-            "title": "【淨世 ‧ 全消暗加攻 - 反之疲憊狀態 ‧ 自戕】",
+            "title": "【淨世 ‧ 天惠攻擊狀態 - 全消暗 - 反之疲憊狀態 ‧ 自戕】",
             "desc": "•&nbsp;進場時消除所有附加效果<br /><br />•&nbsp;首批消除場上所有暗符石&nbsp;(需消除暗符石)，5&nbsp;回合內，全隊攻擊力提升&nbsp;1.5&nbsp;倍；反之，5&nbsp;回合內，全隊攻擊力減至&nbsp;50%。<br /><br />•&nbsp;敵人下回合會扣除自身生命力&nbsp;100%，期間不受任何攻擊傷害及無視所有控制技能",
             "custom_desc": ""
         },
         "2859": {
-            "title": "【淨世 ‧ 首消指定粒數水符石加攻 - 反之疲憊狀態 ‧ 自戕】",
+            "title": "【淨世 ‧ 天惠攻擊狀態 - 首消指定粒數水符石 - 反之疲憊狀態 ‧ 自戕】",
             "desc": "•&nbsp;進場時消除所有附加效果<br /><br />•&nbsp;首批消除指定數量的水符石，5&nbsp;回合內，全隊攻擊力提升&nbsp;1.5&nbsp;倍；反之，5&nbsp;回合內，全隊攻擊力減至&nbsp;50%。<br /><br />•&nbsp;敵人下回合會扣除自身生命力&nbsp;100%，期間不受任何攻擊傷害及無視所有控制技能",
             "custom_desc": ""
         },
         "2860": {
-            "title": "【淨世 ‧ 首消指定粒數火符石加攻 - 反之疲憊狀態 ‧ 自戕】",
+            "title": "【淨世 ‧ 天惠攻擊狀態 - 首消指定粒數火符石 - 反之疲憊狀態 ‧ 自戕】",
             "desc": "•&nbsp;進場時消除所有附加效果<br /><br />•&nbsp;首批消除指定數量的火符石，5&nbsp;回合內，全隊攻擊力提升&nbsp;1.5&nbsp;倍；反之，5&nbsp;回合內，全隊攻擊力減至&nbsp;50%。<br /><br />•&nbsp;敵人下回合會扣除自身生命力&nbsp;100%，期間不受任何攻擊傷害及無視所有控制技能",
             "custom_desc": ""
         },
         "2861": {
-            "title": "【淨世 ‧ 首消指定粒數木符石加攻 - 反之疲憊狀態 ‧ 自戕】",
+            "title": "【淨世 ‧ 天惠攻擊狀態 - 首消指定粒數木符石 - 反之疲憊狀態 ‧ 自戕】",
             "desc": "•&nbsp;進場時消除所有附加效果<br /><br />•&nbsp;首批消除指定數量的木符石，5&nbsp;回合內，全隊攻擊力提升&nbsp;1.5&nbsp;倍；反之，5&nbsp;回合內，全隊攻擊力減至&nbsp;50%。<br /><br />•&nbsp;敵人下回合會扣除自身生命力&nbsp;100%，期間不受任何攻擊傷害及無視所有控制技能",
             "custom_desc": ""
         },
         "2862": {
-            "title": "【淨世 ‧ 首消指定粒數光符石加攻 - 反之疲憊狀態 ‧ 自戕】",
+            "title": "【淨世 ‧ 天惠攻擊狀態 - 首消指定粒數光符石 - 反之疲憊狀態 ‧ 自戕】",
             "desc": "•&nbsp;進場時消除所有附加效果<br /><br />•&nbsp;首批消除指定數量的光符石，5&nbsp;回合內，全隊攻擊力提升&nbsp;1.5&nbsp;倍；反之，5&nbsp;回合內，全隊攻擊力減至&nbsp;50%。<br /><br />•&nbsp;敵人下回合會扣除自身生命力&nbsp;100%，期間不受任何攻擊傷害及無視所有控制技能",
             "custom_desc": ""
         },
         "2863": {
-            "title": "【淨世 ‧ 首消指定粒數暗符石加攻 - 反之疲憊狀態 ‧ 自戕】",
+            "title": "【淨世 ‧ 天惠攻擊狀態 - 首消指定粒數暗符石 - 反之疲憊狀態 ‧ 自戕】",
             "desc": "•&nbsp;進場時消除所有附加效果<br /><br />•&nbsp;首批消除指定數量的暗符石，5&nbsp;回合內，全隊攻擊力提升&nbsp;1.5&nbsp;倍；反之，5&nbsp;回合內，全隊攻擊力減至&nbsp;50%。<br /><br />•&nbsp;敵人下回合會扣除自身生命力&nbsp;100%，期間不受任何攻擊傷害及無視所有控制技能",
             "custom_desc": ""
         },
@@ -20917,7 +20917,7 @@
         },
         "3663": {
             "title": "含-幻影旅團-突擊-禁錮旅團成員 ‧ 解鎖技無效 ‧ 首消光傷害吸收 ‧ 無法控制",
-            "desc": "隊伍中有「幻影旅團」成員：<br />⓵&nbsp;首回合優先突擊&nbsp;1&nbsp;次。<br /><br />⓶&nbsp;永久封鎖「幻影旅團」成員<br />的主動技能及其攻擊。<br />(所有解鎖技能無效)<br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />無視所有控制技能。",
+            "desc": "隊伍中有「幻影旅團」成員：<br />⓵&nbsp;首回合優先突擊&nbsp;1&nbsp;次。<br /><br />⓶&nbsp;永久封鎖「幻影旅團」成員<br />的主動技能及其攻擊。<br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />無視所有控制技能。",
             "custom_desc": "<span class=\"annotation\">ambush 10</span>",
             "icons": [
                 264,
@@ -20943,7 +20943,7 @@
         },
         "3665": {
             "title": "含-幻影旅團-突擊-禁錮旅團成員 ‧ 解鎖技無效 ‧ 首消光傷害吸收-連續反彈100% ‧ 無法控制",
-            "desc": "隊伍中有「幻影旅團」成員：<br />⓵&nbsp;首回合優先攻擊&nbsp;1&nbsp;次。<br /><br />⓶&nbsp;永久封鎖「幻影旅團」成員<br />的主動技能及其攻擊。<br />(所有解鎖技能無效)<br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
+            "desc": "隊伍中有「幻影旅團」成員：<br />⓵&nbsp;首回合優先攻擊&nbsp;1&nbsp;次。<br /><br />⓶&nbsp;永久封鎖「幻影旅團」成員<br />的主動技能及其攻擊。<br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
             "custom_desc": "<span class=\"annotation\">ambush 10</span>",
             "icons": [
                 314,
@@ -21331,7 +21331,7 @@
         },
         "3725": {
             "title": "命懸一線 ‧ 三回超級禁錮 ‧ 黑白符石 ‧ 回復力減弱95%",
-            "desc": "首回合召喚師生命力剩&nbsp;1&nbsp;點<br /><br />3&nbsp;回合內，封鎖所有成員的<br />主動技能及其攻擊。<br />(所有解鎖技能無效)<br /><br />所有符石變為黑白色。<br /><br />所有成員的回復力減至&nbsp;5%。",
+            "desc": "首回合召喚師生命力剩&nbsp;1&nbsp;點<br /><br />3&nbsp;回合內，封鎖所有成員的<br />主動技能及其攻擊。<br /><br />所有符石變為黑白色。<br /><br />所有成員的回復力減至&nbsp;5%。",
             "custom_desc": "",
             "keywords": [
                 "金鎖鏈",
@@ -21340,7 +21340,7 @@
         },
         "3726": {
             "title": "命懸一線 ‧ 三回超級禁錮 ‧ 黑白符石-硬4秒轉珠 ‧ 回復力減弱95%",
-            "desc": "首回合召喚師生命力剩&nbsp;1&nbsp;點<br /><br />3&nbsp;回合內，封鎖所有成員的<br />主動技能及其攻擊。<br />(所有解鎖技能無效)<br /><br />所有符石變為黑白色。<br />效果期間，<br />移動符石時間變為<em>&nbsp;4&nbsp;秒</em>。<br />(<em>「界限突破及排珠類」以外</em>的時間技能<em>失效</em>)<br /><br />所有成員的回復力減至&nbsp;5%。",
+            "desc": "首回合召喚師生命力剩&nbsp;1&nbsp;點<br /><br />3&nbsp;回合內，封鎖所有成員的<br />主動技能及其攻擊。<br /><br />所有符石變為黑白色。<br />效果期間，<br />移動符石時間變為<em>&nbsp;4&nbsp;秒</em>。<br />(<em>「界限突破及排珠類」以外</em>的時間技能<em>失效</em>)<br /><br />所有成員的回復力減至&nbsp;5%。",
             "custom_desc": "",
             "keywords": [
                 "金鎖鏈",
@@ -21349,7 +21349,7 @@
         },
         "3727": {
             "title": "命懸一線 ‧ 三回超級禁錮 ‧ 黑白符石-首消6+Combo盾 ‧ 回復力減弱95%",
-            "desc": "首回合召喚師生命力剩&nbsp;1&nbsp;點<br /><br />3&nbsp;回合內，封鎖所有成員的<br />主動技能及其攻擊。<br />(所有解鎖技能無效)<br /><br />所有符石變為黑白色。<br />效果期間，<br />首批消除&nbsp;≥6&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會發動攻擊。<br /><br />所有成員的回復力減至&nbsp;5%。",
+            "desc": "首回合召喚師生命力剩&nbsp;1&nbsp;點<br /><br />3&nbsp;回合內，封鎖所有成員的<br />主動技能及其攻擊。<br /><br />所有符石變為黑白色。<br />效果期間，<br />首批消除&nbsp;≥6&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會發動攻擊。<br /><br />所有成員的回復力減至&nbsp;5%。",
             "custom_desc": "",
             "icons": [
                 956,
@@ -30078,18 +30078,18 @@
             ]
         },
         "5126": {
-            "title": "【錮縛鎖攻 - 金 - 指定粒數盾】",
-            "desc": "以&nbsp;2&nbsp;重金鎖鏈<br />封鎖所有成員的<br />主動技能及攻擊。<br />(所有解鎖技能無效)首批消除指定數量的符石<br />可解&nbsp;1&nbsp;重封鎖。",
+            "title": "【錮縛 - 技能、攻擊 - 指定粒數盾】",
+            "desc": "<em>【錮縛&nbsp;-&nbsp;技能、攻擊&nbsp;-&nbsp;指定粒數盾】</em><br /><br />以&nbsp;2&nbsp;重鎖鏈<br />封鎖所有成員的<br />主動技能及攻擊。<br /><br />首批消除指定數量的符石<br />可解&nbsp;1&nbsp;重封鎖。",
             "custom_desc": ""
         },
         "5127": {
-            "title": "【錮縛鎖攻 - 金 - 指定粒數盾】",
-            "desc": "以&nbsp;3&nbsp;重金鎖鏈<br />封鎖所有成員的<br />主動技能及攻擊。<br />(所有解鎖技能無效)首批消除指定數量的符石<br />可解&nbsp;1&nbsp;重封鎖。",
+            "title": "【錮縛 - 技能、攻擊 - 指定粒數盾】",
+            "desc": "<em>【錮縛&nbsp;-&nbsp;技能、攻擊&nbsp;-&nbsp;指定粒數盾】</em><br /><br />以&nbsp;3&nbsp;重鎖鏈<br />封鎖所有成員的<br />主動技能及攻擊。<br /><br />首批消除指定數量的符石<br />可解&nbsp;1&nbsp;重封鎖。",
             "custom_desc": ""
         },
         "5128": {
-            "title": "【錮縛鎖攻 - 金 - 指定粒數盾】",
-            "desc": "以&nbsp;4&nbsp;重金鎖鏈<br />封鎖所有成員的<br />主動技能及攻擊。<br />(所有解鎖技能無效)首批消除指定數量的符石<br />可解&nbsp;1&nbsp;重封鎖。",
+            "title": "【錮縛 - 技能、攻擊 - 指定粒數盾】",
+            "desc": "<em>【錮縛&nbsp;-&nbsp;技能、攻擊&nbsp;-&nbsp;指定粒數盾】</em><br /><br />以&nbsp;4&nbsp;重鎖鏈<br />封鎖所有成員的<br />主動技能及攻擊。<br /><br />首批消除指定數量的符石<br />可解&nbsp;1&nbsp;重封鎖。",
             "custom_desc": ""
         },
         "5129": {
@@ -30194,7 +30194,7 @@
             ]
         },
         "5140": {
-            "title": "【技能錮縛 - 鎖攻】",
+            "title": "【錮縛 - 技能、攻擊】",
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;1&nbsp;回合。",
             "custom_desc": "",
             "icons": [
@@ -30202,7 +30202,7 @@
             ]
         },
         "5141": {
-            "title": "【技能錮縛 - 鎖攻】",
+            "title": "【錮縛 - 技能、攻擊】",
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;2&nbsp;回合。",
             "custom_desc": "",
             "icons": [
@@ -30210,7 +30210,7 @@
             ]
         },
         "5142": {
-            "title": "【技能錮縛 - 鎖攻】",
+            "title": "【錮縛 - 技能、攻擊】",
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;3&nbsp;回合。",
             "custom_desc": "",
             "icons": [
@@ -30218,7 +30218,7 @@
             ]
         },
         "5143": {
-            "title": "【技能錮縛 - 鎖攻】",
+            "title": "【錮縛 - 技能、攻擊】",
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;4&nbsp;回合。",
             "custom_desc": "",
             "icons": [
@@ -30226,7 +30226,7 @@
             ]
         },
         "5144": {
-            "title": "【技能錮縛 - 鎖攻】",
+            "title": "【錮縛 - 技能、攻擊】",
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;5&nbsp;回合。",
             "custom_desc": "",
             "icons": [
@@ -30951,7 +30951,7 @@
             ]
         },
         "5239": {
-            "title": "【結界守護 - 光牢穿梭】",
+            "title": "【結界守護狀態 - 光牢穿梭】",
             "desc": "於結界地型內<br />首批消除角色符石：<br /><br />3&nbsp;回合內，<br />該角色的角色符石觸碰<br />「連環光牢」射擊位置時<br />&nbsp;&nbsp;仍可移動符石",
             "custom_desc": "<ul><li>屬於附加狀態，會與亢奮、疲憊等狀態衝突</li></ul>",
             "icons": []
@@ -31053,7 +31053,7 @@
             ]
         },
         "5252": {
-            "title": "【灼熱守護 - 黏腐穿梭】",
+            "title": "【灼熱守護狀態 - 黏腐穿梭】",
             "desc": "於灼熱地型內<br />首批消除角色符石：<br /><br />3&nbsp;回合內，該角色符石觸碰<br />黏腐位置時仍可移動符石",
             "custom_desc": "<ul><li>屬於附加狀態，會與亢奮、疲憊等狀態衝突</li></ul>",
             "icons": []
@@ -31422,7 +31422,7 @@
             ]
         },
         "5298": {
-            "title": "【技能錮縛】",
+            "title": "【錮縛 - 技能】",
             "desc": "進場時封鎖所有成員的<br />主動技能&nbsp;1&nbsp;回合。",
             "custom_desc": "",
             "icons": [
@@ -31430,7 +31430,7 @@
             ]
         },
         "5299": {
-            "title": "【技能錮縛】",
+            "title": "【錮縛 - 技能】",
             "desc": "進場時封鎖所有成員的<br />主動技能&nbsp;2&nbsp;回合。",
             "custom_desc": "",
             "icons": [
@@ -31438,7 +31438,7 @@
             ]
         },
         "5300": {
-            "title": "【技能錮縛】",
+            "title": "【錮縛 - 技能】",
             "desc": "進場時封鎖所有成員的<br />主動技能&nbsp;3&nbsp;回合。",
             "custom_desc": "",
             "icons": [
@@ -31446,7 +31446,7 @@
             ]
         },
         "5301": {
-            "title": "【技能錮縛】",
+            "title": "【錮縛 - 技能】",
             "desc": "進場時封鎖所有成員的<br />主動技能&nbsp;4&nbsp;回合。",
             "custom_desc": "",
             "icons": [
@@ -31454,7 +31454,7 @@
             ]
         },
         "5302": {
-            "title": "【技能錮縛】",
+            "title": "【錮縛 - 技能】",
             "desc": "進場時封鎖所有成員的<br />主動技能&nbsp;5&nbsp;回合。",
             "custom_desc": "",
             "icons": [
@@ -31462,7 +31462,7 @@
             ]
         },
         "5303": {
-            "title": "【技能錮縛】",
+            "title": "【錮縛 - 技能】",
             "desc": "進場時永久封鎖<br />所有成員的主動技能。",
             "custom_desc": "",
             "icons": [
@@ -33209,7 +33209,7 @@
             ]
         },
         "5530": {
-            "title": "【〖腐化 ‧ 技能錮縛 - 鎖攻〗】",
+            "title": "【〖腐化 ‧ 錮縛 - 技能、攻擊〗】",
             "desc": "•&nbsp;進場時永久封鎖<br />⇒所有成員的主動技能及攻擊",
             "custom_desc": "",
             "icons": [
@@ -33903,7 +33903,7 @@
             "icons": []
         },
         "5616": {
-            "title": "【休眠】",
+            "title": "【休眠狀態】",
             "desc": "1&nbsp;回合內，所有成員<br />⓵&nbsp;陷入休眠狀態<br />⓶&nbsp;期間無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0",
             "custom_desc": "",
             "icons": [
@@ -33911,7 +33911,7 @@
             ]
         },
         "5617": {
-            "title": "【休眠】",
+            "title": "【休眠狀態】",
             "desc": "2&nbsp;回合內，所有成員<br />⓵&nbsp;陷入休眠狀態<br />⓶&nbsp;期間無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0",
             "custom_desc": "",
             "icons": [
@@ -33919,7 +33919,7 @@
             ]
         },
         "5618": {
-            "title": "【休眠】",
+            "title": "【休眠狀態】",
             "desc": "3&nbsp;回合內，所有成員<br />⓵&nbsp;陷入休眠狀態<br />⓶&nbsp;期間無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0",
             "custom_desc": "",
             "icons": [
@@ -33927,7 +33927,7 @@
             ]
         },
         "5619": {
-            "title": "【休眠】",
+            "title": "【休眠狀態】",
             "desc": "4&nbsp;回合內，所有成員<br />⓵&nbsp;陷入休眠狀態<br />⓶&nbsp;期間無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0",
             "custom_desc": "",
             "icons": [
@@ -33935,7 +33935,7 @@
             ]
         },
         "5620": {
-            "title": "【休眠】",
+            "title": "【休眠狀態】",
             "desc": "5&nbsp;回合內，所有成員<br />⓵&nbsp;陷入休眠狀態<br />⓶&nbsp;期間無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0",
             "custom_desc": "",
             "icons": [
@@ -33943,7 +33943,7 @@
             ]
         },
         "5621": {
-            "title": "【休眠】",
+            "title": "【休眠狀態】",
             "desc": "進場時，所有成員<br />⓵&nbsp;陷入永久休眠狀態<br />⓶&nbsp;期間無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0",
             "custom_desc": "",
             "icons": [
@@ -36133,7 +36133,7 @@
         },
         "5893": {
             "title": "【起動浮標】",
-            "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個成員<br />&nbsp;&nbsp;(不包括合體角色)<br />⇒&nbsp;出現「起動浮標」狀態<br />•&nbsp;場上有「起動浮標」狀態<br />⇒&nbsp;只能發動附加<br />&nbsp;&nbsp;&nbsp;「起動浮標」成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;角色符石&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;(於該角色位置開始轉珠)",
+            "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個成員<br />&nbsp;&nbsp;(不包括合體角色)<br />⇒&nbsp;出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(發動指定角色符石)",
             "custom_desc": "",
             "icons": [
                 1110
@@ -36141,7 +36141,7 @@
         },
         "5894": {
             "title": "【消除起動浮標角色符石盾】",
-            "desc": "•&nbsp;場上有「起動浮標」狀態，<br />&nbsp;&nbsp;消除附加「起動浮標」<br />&nbsp;&nbsp;成員的角色符石<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則全隊攻擊力變&nbsp;0",
+            "desc": "•&nbsp;消除附加「起動浮標」<br />&nbsp;&nbsp;成員的角色符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則全隊攻擊力變&nbsp;0",
             "custom_desc": "",
             "icons": []
         },
@@ -36778,7 +36778,7 @@
             "icons": []
         },
         "5977": {
-            "title": "【隊中有「土方十四郎」- 突擊 - 碎裂 - ≥5 連擊盾-追擊 ‧ 隊中沒有「土方十四郎」- 突擊 - 碎裂 - ≥7 連擊盾-追擊 - 技能錮縛-鎖攻】",
+            "title": "【隊中有「土方十四郎」- 突擊 - 碎裂 - ≥5 連擊盾-追擊 ‧ 隊中沒有「土方十四郎」- 突擊 - 碎裂 - ≥7 連擊盾-追擊 - 錮縛 - 技能、攻擊】",
             "desc": "•&nbsp;進場時若隊中<em>&nbsp;有</em><br />&nbsp;「土方十四郎」<br />⓵&nbsp;突擊&nbsp;1&nbsp;次<br />⓶&nbsp;隨機碎裂&nbsp;3&nbsp;個位置，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該位置內的符石<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無法消除或引爆<br />⓷&nbsp;達成&nbsp;≥5&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊<br /><br />•&nbsp;進場時若隊中<em>沒有</em><br />&nbsp;「土方十四郎」<br />⓵&nbsp;突擊&nbsp;1&nbsp;次<br />⓶&nbsp;隨機碎裂&nbsp;6&nbsp;個位置，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該位置內的符石<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無法消除或引爆<br />⓷&nbsp;達成&nbsp;≥7&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊<br />⓸&nbsp;進場時封鎖所有成員<br />⇒&nbsp;主動技能及攻擊&nbsp;3&nbsp;回合",
             "custom_desc": "<ul><li>隊伍中有<span class=\"annotation\">monster_icon 10181</span>時，突擊敵人攻擊力的10%</li><li>反之，突擊敵人攻擊力的100%</li></ul>",
             "icons": [
@@ -36914,7 +36914,7 @@
             ]
         },
         "5990": {
-            "title": "【隱身 - 技能錮縛】",
+            "title": "【隱身 - 錮縛 - 技能】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;1&nbsp;回合",
             "custom_desc": "",
             "icons": [
@@ -36925,7 +36925,7 @@
             ]
         },
         "5991": {
-            "title": "【隱身 - 技能錮縛】",
+            "title": "【隱身 - 錮縛 - 技能】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;2&nbsp;回合",
             "custom_desc": "",
             "icons": [
@@ -36936,7 +36936,7 @@
             ]
         },
         "5992": {
-            "title": "【隱身 - 技能錮縛】",
+            "title": "【隱身 - 錮縛 - 技能】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;3&nbsp;回合",
             "custom_desc": "",
             "icons": [
@@ -36947,7 +36947,7 @@
             ]
         },
         "5993": {
-            "title": "【隱身 - 技能錮縛】",
+            "title": "【隱身 - 錮縛 - 技能】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;4&nbsp;回合",
             "custom_desc": "",
             "icons": [
@@ -36958,7 +36958,7 @@
             ]
         },
         "5994": {
-            "title": "【隱身 - 技能錮縛】",
+            "title": "【隱身 - 錮縛 - 技能】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;5&nbsp;回合",
             "custom_desc": "",
             "icons": [
@@ -36969,7 +36969,7 @@
             ]
         },
         "5995": {
-            "title": "【隱身 - 技能錮縛-鎖攻】",
+            "title": "【隱身 - 錮縛 - 技能、攻擊】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;1&nbsp;回合",
             "custom_desc": "",
             "icons": [
@@ -36980,7 +36980,7 @@
             ]
         },
         "5996": {
-            "title": "【隱身 - 技能錮縛-鎖攻】",
+            "title": "【隱身 - 錮縛 - 技能、攻擊】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;2&nbsp;回合",
             "custom_desc": "",
             "icons": [
@@ -36991,7 +36991,7 @@
             ]
         },
         "5997": {
-            "title": "【隱身 - 技能錮縛-鎖攻】",
+            "title": "【隱身 - 錮縛 - 技能、攻擊】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;3&nbsp;回合",
             "custom_desc": "",
             "icons": [
@@ -37002,7 +37002,7 @@
             ]
         },
         "5998": {
-            "title": "【隱身 - 技能錮縛-鎖攻】",
+            "title": "【隱身 - 錮縛 - 技能、攻擊】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;4&nbsp;回合",
             "custom_desc": "",
             "icons": [
@@ -37013,7 +37013,7 @@
             ]
         },
         "5999": {
-            "title": "【隱身 - 技能錮縛-鎖攻】",
+            "title": "【隱身 - 錮縛 - 技能、攻擊】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;5&nbsp;回合",
             "custom_desc": "",
             "icons": [
@@ -37594,12 +37594,12 @@
             ]
         },
         "6071": {
-            "title": "【隱身 - 技能錮縛】",
+            "title": "【隱身 - 錮縛 - 技能】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;永久封鎖所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;的主動技能",
             "custom_desc": ""
         },
         "6072": {
-            "title": "【隱身 - 技能錮縛-鎖攻】",
+            "title": "【隱身 - 錮縛 - 技能、攻擊】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;永久封鎖所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;的主動技能及攻擊",
             "custom_desc": "",
             "icons": [
@@ -39480,7 +39480,7 @@
             ]
         },
         "6287": {
-            "title": "【〖腐化 ‧ 休眠〗】",
+            "title": "【〖腐化 ‧ 休眠狀態〗】",
             "desc": "•&nbsp;1&nbsp;回合內，全隊<br />⓵&nbsp;陷入休眠狀態<br />⓶&nbsp;期間無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0<br /><br />•&nbsp;無視〖腐化〗敵技的角色<br />⇒&nbsp;不會陷入休眠狀態",
             "custom_desc": "",
             "icons": [
@@ -39488,7 +39488,7 @@
             ]
         },
         "6288": {
-            "title": "【〖腐化 ‧ 休眠〗】",
+            "title": "【〖腐化 ‧ 休眠狀態〗】",
             "desc": "•&nbsp;2&nbsp;回合內，全隊<br />⓵&nbsp;陷入休眠狀態<br />⓶&nbsp;期間無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0<br /><br />•&nbsp;無視〖腐化〗敵技的角色<br />⇒&nbsp;不會陷入休眠狀態",
             "custom_desc": "",
             "icons": [
@@ -39496,7 +39496,7 @@
             ]
         },
         "6289": {
-            "title": "【〖腐化 ‧ 休眠〗】",
+            "title": "【〖腐化 ‧ 休眠狀態〗】",
             "desc": "•&nbsp;3&nbsp;回合內，全隊<br />⓵&nbsp;陷入休眠狀態<br />⓶&nbsp;期間無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0<br /><br />•&nbsp;無視〖腐化〗敵技的角色<br />⇒&nbsp;不會陷入休眠狀態",
             "custom_desc": "",
             "icons": [
@@ -39504,7 +39504,7 @@
             ]
         },
         "6290": {
-            "title": "【〖腐化 ‧ 休眠〗】",
+            "title": "【〖腐化 ‧ 休眠狀態〗】",
             "desc": "•&nbsp;4&nbsp;回合內，全隊<br />⓵&nbsp;陷入休眠狀態<br />⓶&nbsp;期間無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0<br /><br />•&nbsp;裝備了腐化龍刻武裝的<br />&nbsp;&nbsp;角色不會陷入休眠狀態",
             "custom_desc": "",
             "icons": [
@@ -39512,7 +39512,7 @@
             ]
         },
         "6291": {
-            "title": "【〖腐化 ‧ 休眠〗】",
+            "title": "【〖腐化 ‧ 休眠狀態〗】",
             "desc": "•&nbsp;5&nbsp;回合內，全隊<br />⓵&nbsp;陷入休眠狀態<br />⓶&nbsp;期間無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0<br /><br />•&nbsp;裝備了腐化龍刻武裝的<br />&nbsp;&nbsp;角色不會陷入休眠狀態",
             "custom_desc": "",
             "icons": [
@@ -39520,7 +39520,7 @@
             ]
         },
         "6292": {
-            "title": "【〖腐化 ‧ 休眠〗】",
+            "title": "【〖腐化 ‧ 休眠狀態〗】",
             "desc": "•&nbsp;進場時，全隊<br />⓵&nbsp;陷入永久休眠狀態<br />⓶&nbsp;期間無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0<br /><br />•&nbsp;裝備了腐化龍刻武裝的<br />&nbsp;&nbsp;角色不會陷入休眠狀態",
             "custom_desc": "",
             "icons": [
@@ -41273,7 +41273,7 @@
         },
         "6500": {
             "title": "敵技6500",
-            "desc": "#title0#【「全消、反首消符石」凝護&nbsp;-&nbsp;屬性轉換&nbsp;‧&nbsp;無法控制】<br />#desc0#<br />•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;20%&nbsp;生命力<br /><br />⓵&nbsp;首批消除所有指定種類符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定種類符石)<br />⓶&nbsp;不能首批消除<br />&nbsp;&nbsp;&nbsp;&nbsp;敵人屬性符石<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態。<br /><br />•&nbsp;達成上述條件<br />⓵&nbsp;敵人不會發動攻擊<br />⓶&nbsp;敵人轉換屬性<br /><br />#title0#【符石轉換&nbsp;‧&nbsp;敵技轉換】<br />#desc0#<br />•&nbsp;敵人會根據自身屬性<br />⓵&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量的五屬及心符石<br />⓶&nbsp;出現不同敵技：<br />#title1#【水】碎裂&nbsp;10&nbsp;格<br />#desc1#<br />•&nbsp;每回合碎裂&nbsp;10&nbsp;個固定位置<br />•&nbsp;該位置內的符石<br />⇒&nbsp;無法消除或引爆<br />#title1#【火】燃燒之軌&nbsp;10000&nbsp;‧&nbsp;火焰地型&nbsp;20000<br />#desc1#<br />•&nbsp;燃燒移動符石時觸碰的位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;10000&nbsp;點傷害<br /><br />•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害<br />#title1#【木】瘴氣&nbsp;20%<br />#desc1#<br />•&nbsp;每回合在最左方及<br />&nbsp;&nbsp;最右方直行位置<br />⇒&nbsp;施放瘴氣<br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br />#title1#【光】結界地型&nbsp;30&nbsp;格&nbsp;‧&nbsp;隱匿之途<br />#desc1#<br />•&nbsp;6x5&nbsp;個位置出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆<br /><br />•&nbsp;將移動符石時所觸碰的<br />&nbsp;&nbsp;符石轉化為隱藏符石<br />#title1#【暗】幽閉空間&nbsp;‧&nbsp;技能錮縛<br />#desc1#<br />•&nbsp;所有符石變為黑白色<br /><br />•&nbsp;永久封鎖所有成員的<br />&nbsp;&nbsp;主動技能",
+            "desc": "#title0#【「全消、反首消符石」凝護&nbsp;-&nbsp;屬性轉換&nbsp;‧&nbsp;無法控制】<br />#desc0#<br />•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;20%&nbsp;生命力<br /><br />⓵&nbsp;首批消除所有指定種類符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除指定種類符石)<br />⓶&nbsp;不能首批消除<br />&nbsp;&nbsp;&nbsp;&nbsp;敵人屬性符石<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態。<br /><br />•&nbsp;達成上述條件<br />⓵&nbsp;敵人不會發動攻擊<br />⓶&nbsp;敵人轉換屬性<br /><br />#title0#【符石轉換&nbsp;‧&nbsp;敵技轉換】<br />#desc0#<br />•&nbsp;敵人會根據自身屬性<br />⓵&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量的五屬及心符石<br />⓶&nbsp;出現不同敵技：<br />#title1#【水】碎裂&nbsp;10&nbsp;格<br />#desc1#<br />•&nbsp;每回合碎裂&nbsp;10&nbsp;個固定位置<br />•&nbsp;該位置內的符石<br />⇒&nbsp;無法消除或引爆<br />#title1#【火】燃燒之軌&nbsp;10000&nbsp;‧&nbsp;火焰地型&nbsp;20000<br />#desc1#<br />•&nbsp;燃燒移動符石時觸碰的位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;10000&nbsp;點傷害<br /><br />•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害<br />#title1#【木】瘴氣&nbsp;20%<br />#desc1#<br />•&nbsp;每回合在最左方及<br />&nbsp;&nbsp;最右方直行位置<br />⇒&nbsp;施放瘴氣<br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br />#title1#【光】結界地型&nbsp;30&nbsp;格&nbsp;‧&nbsp;隱匿之途<br />#desc1#<br />•&nbsp;6x5&nbsp;個位置出現結界地型<br />•&nbsp;地型內只能首批消除符石<br />•&nbsp;地型內的符石<br />⇒&nbsp;不能轉化或引爆<br /><br />•&nbsp;將移動符石時所觸碰的<br />&nbsp;&nbsp;符石轉化為隱藏符石<br />#title1#【暗】幽閉空間&nbsp;‧&nbsp;錮縛&nbsp;-&nbsp;技能<br />#desc1#<br />•&nbsp;所有符石變為黑白色<br /><br />•&nbsp;永久封鎖所有成員的<br />&nbsp;&nbsp;主動技能",
             "custom_desc": "八封災厄 (核心封閉階段的本體)<br /><ul><li>屬性順序隨機，五種屬性各出現1次</li><li>需要全消剋制敵人屬性的符石</li><li>轉化敵人屬性、剋制敵人屬性各9顆，其餘4種各3顆</li><li>水<em>【碎裂 10 格】</em>：<span class=\"annotation\">fixed_position 100001010010001100010010100001</span></li></ul>",
             "icons": [
                 981,
@@ -42498,31 +42498,43 @@
             "custom_desc": ""
         },
         "6701": {
-            "title": "",
+            "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
         },
         "6702": {
-            "title": "",
+            "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
         },
         "6703": {
-            "title": "",
+            "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
         },
         "6704": {
-            "title": "",
+            "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
         },
         "6705": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
             "custom_desc": "RedBook (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
-                1113
+                1039
             ]
         },
         "6706": {
@@ -42530,46 +42542,64 @@
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
             "custom_desc": "GreenBook (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
-                1113
+                1039
             ]
         },
         "6707": {
-            "title": "",
+            "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
         },
         "6708": {
-            "title": "",
+            "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
         },
         "6709": {
-            "title": "",
+            "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
         },
         "6710": {
-            "title": "",
+            "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
         },
         "6711": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
             "custom_desc": "BlueBook (3x3)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
-                1113
+                1039
             ]
         },
         "6712": {
-            "title": "",
+            "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
         },
         "6713": {
-            "title": "",
+            "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
         },
         "6714": {
             "title": "【符石轉換】",
@@ -42638,6 +42668,575 @@
             "title": "【符石轉換】",
             "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
             "custom_desc": ""
+        },
+        "6671": {
+            "title": "【幽閉之途狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+            "custom_desc": ""
+        },
+        "6672": {
+            "title": "【幽閉之途狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+            "custom_desc": ""
+        },
+        "6673": {
+            "title": "【幽閉之途狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+            "custom_desc": ""
+        },
+        "6674": {
+            "title": "【幽閉之途狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+            "custom_desc": ""
+        },
+        "6675": {
+            "title": "【幽閉之途狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+            "custom_desc": ""
+        },
+        "6676": {
+            "title": "【幽閉之途狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+            "custom_desc": ""
+        },
+        "6677": {
+            "title": "【幽閉之途狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+            "custom_desc": ""
+        },
+        "6678": {
+            "title": "【沉默狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+            "custom_desc": ""
+        },
+        "6679": {
+            "title": "【沉默狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+            "custom_desc": ""
+        },
+        "6680": {
+            "title": "【沉默狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+            "custom_desc": ""
+        },
+        "6681": {
+            "title": "【沉默狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+            "custom_desc": ""
+        },
+        "6682": {
+            "title": "【沉默狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+            "custom_desc": ""
+        },
+        "6683": {
+            "title": "【沉默狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+            "custom_desc": ""
+        },
+        "6684": {
+            "title": "【沉默狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+            "custom_desc": ""
+        },
+        "6685": {
+            "title": "【痲痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "custom_desc": ""
+        },
+        "6686": {
+            "title": "【痲痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "custom_desc": ""
+        },
+        "6687": {
+            "title": "【痲痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "custom_desc": ""
+        },
+        "6688": {
+            "title": "【痲痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "custom_desc": ""
+        },
+        "6689": {
+            "title": "【痲痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "custom_desc": ""
+        },
+        "6690": {
+            "title": "【痲痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "custom_desc": ""
+        },
+        "6691": {
+            "title": "【痲痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "custom_desc": ""
+        },
+        "6692": {
+            "title": "【亢奮變疲憊狀態】",
+            "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為疲憊狀態",
+            "custom_desc": ""
+        },
+        "6693": {
+            "title": "【亢奮變天罰回復狀態】",
+            "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為天罰回復狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;回復力減至&nbsp;0%",
+            "custom_desc": ""
+        },
+        "6694": {
+            "title": "【亢奮變休眠狀態】",
+            "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為休眠狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "6695": {
+            "title": "【亢奮變風壓狀態】",
+            "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
+            "custom_desc": ""
+        },
+        "6696": {
+            "title": "【亢奮變幽閉之途狀態】",
+            "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為幽閉之途狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+            "custom_desc": ""
+        },
+        "6697": {
+            "title": "【亢奮變沉默狀態】",
+            "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為沉默狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
+            "custom_desc": ""
+        },
+        "6698": {
+            "title": "【亢奮變痲痺狀態】",
+            "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "custom_desc": ""
+        },
+        "6736": {
+            "title": "【請回答問題】",
+            "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
+            "custom_desc": "",
+            "icons": [
+                1038
+            ]
+        },
+        "6737": {
+            "title": "【請回答問題】",
+            "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
+            "custom_desc": "",
+            "icons": [
+                1038
+            ]
+        },
+        "6738": {
+            "title": "【請回答問題】",
+            "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
+            "custom_desc": "",
+            "icons": [
+                1038
+            ]
+        },
+        "6739": {
+            "title": "【請回答問題】",
+            "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
+            "custom_desc": "",
+            "icons": [
+                1038
+            ]
+        },
+        "6740": {
+            "title": "【請回答問題】",
+            "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
+            "custom_desc": "",
+            "icons": [
+                1038
+            ]
+        },
+        "6741": {
+            "title": "【請回答問題】",
+            "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
+            "custom_desc": "",
+            "icons": [
+                1038
+            ]
+        },
+        "6742": {
+            "title": "【請回答問題】",
+            "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
+            "custom_desc": "",
+            "icons": [
+                1038
+            ]
+        },
+        "6743": {
+            "title": "【請回答問題】",
+            "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
+            "custom_desc": "",
+            "icons": [
+                1038
+            ]
+        },
+        "6744": {
+            "title": "【請回答問題】",
+            "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
+            "custom_desc": "",
+            "icons": [
+                1038
+            ]
+        },
+        "6745": {
+            "title": "【請回答問題】",
+            "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
+            "custom_desc": "",
+            "icons": [
+                1038
+            ]
+        },
+        "6746": {
+            "title": "【非威壓狀態 - 弱攻】",
+            "desc": "•&nbsp;敵人所受傷害減至&nbsp;25%<br />•&nbsp;只有敵人置身在威壓狀態<br />⇒&nbsp;才會對其造成完整傷害",
+            "custom_desc": ""
+        },
+        "6747": {
+            "title": "【非威壓狀態 - 弱攻】",
+            "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有敵人置身在威壓狀態<br />⇒&nbsp;才會對其造成完整傷害",
+            "custom_desc": ""
+        },
+        "6748": {
+            "title": "【非威壓狀態 - 弱攻】",
+            "desc": "•&nbsp;只有敵人置身在威壓狀態<br />⇒&nbsp;才能對敵人造成傷害",
+            "custom_desc": ""
+        },
+        "6749": {
+            "title": "【10 次受擊護盾 - 水】",
+            "desc": "•&nbsp;敵人受到&nbsp;10&nbsp;次<br />&nbsp;&nbsp;水屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6750": {
+            "title": "【20 次受擊護盾 - 水】",
+            "desc": "•&nbsp;敵人受到&nbsp;20&nbsp;次<br />&nbsp;&nbsp;水屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6751": {
+            "title": "【30 次受擊護盾 - 水】",
+            "desc": "•&nbsp;敵人受到&nbsp;30&nbsp;次<br />&nbsp;&nbsp;水屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6752": {
+            "title": "【10 次受擊護盾 - 火】",
+            "desc": "•&nbsp;敵人受到&nbsp;10&nbsp;次<br />&nbsp;&nbsp;火屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6753": {
+            "title": "【20 次受擊護盾 - 火】",
+            "desc": "•&nbsp;敵人受到&nbsp;20&nbsp;次<br />&nbsp;&nbsp;火屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6754": {
+            "title": "【30 次受擊護盾 - 火】",
+            "desc": "•&nbsp;敵人受到&nbsp;30&nbsp;次<br />&nbsp;&nbsp;火屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6755": {
+            "title": "【10 次受擊護盾 - 木】",
+            "desc": "•&nbsp;敵人受到&nbsp;10&nbsp;次<br />&nbsp;&nbsp;木屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6756": {
+            "title": "【20 次受擊護盾 - 木】",
+            "desc": "•&nbsp;敵人受到&nbsp;20&nbsp;次<br />&nbsp;&nbsp;木屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6757": {
+            "title": "【30 次受擊護盾 - 木】",
+            "desc": "•&nbsp;敵人受到&nbsp;30&nbsp;次<br />&nbsp;&nbsp;木屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6758": {
+            "title": "【10 次受擊護盾 - 光】",
+            "desc": "•&nbsp;敵人受到&nbsp;10&nbsp;次<br />&nbsp;&nbsp;光屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6759": {
+            "title": "【20 次受擊護盾 - 光】",
+            "desc": "•&nbsp;敵人受到&nbsp;20&nbsp;次<br />&nbsp;&nbsp;光屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6760": {
+            "title": "【30 次受擊護盾 - 光】",
+            "desc": "•&nbsp;敵人受到&nbsp;30&nbsp;次<br />&nbsp;&nbsp;光屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6761": {
+            "title": "【10 次受擊護盾 - 暗】",
+            "desc": "•&nbsp;敵人受到&nbsp;10&nbsp;次<br />&nbsp;&nbsp;暗屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6762": {
+            "title": "【20 次受擊護盾 - 暗】",
+            "desc": "•&nbsp;敵人受到&nbsp;20&nbsp;次<br />&nbsp;&nbsp;暗屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6763": {
+            "title": "【30 次受擊護盾 - 暗】",
+            "desc": "•&nbsp;敵人受到&nbsp;30&nbsp;次<br />&nbsp;&nbsp;暗屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6764": {
+            "title": "【回 EP】",
+            "desc": "•&nbsp;所有成員的主動技能<br />&nbsp;&nbsp;EP&nbsp;回滿",
+            "custom_desc": ""
+        },
+        "6766": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6767": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6768": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6769": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6770": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6771": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6772": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6773": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6774": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6775": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6776": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6777": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6778": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6779": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6780": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6781": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6782": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6783": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6784": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6785": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6786": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6787": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6788": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6789": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6790": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6791": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6792": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6793": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6794": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6795": {
+            "title": "【起動浮標】",
+            "desc": "•&nbsp;指定位置出現「起動浮標」<br />•&nbsp;只能在指定起動浮標位置起手<br />&nbsp;&nbsp;(不能發動角色符石)",
+            "custom_desc": ""
+        },
+        "6796": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6797": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6798": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6799": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6800": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6801": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6802": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6803": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6804": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6805": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6806": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6807": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6808": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
         }
     }
 }

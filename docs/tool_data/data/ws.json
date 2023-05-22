@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.212",
-        "dv": 21407,
-        "time": 1683797386
+        "version": "2023.300",
+        "dv": 21636,
+        "time": 1684753687
     },
     "ws": {
         "10001": {
@@ -1037,67 +1037,67 @@
         },
         "10236": {
             "title": "",
-            "desc": "封鎖第&nbsp;2&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;2&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10237": {
             "title": "",
-            "desc": "封鎖第&nbsp;3&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;3&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10238": {
             "title": "",
-            "desc": "封鎖第&nbsp;4&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;4&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10239": {
             "title": "",
-            "desc": "封鎖第&nbsp;5&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;5&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10240": {
             "title": "",
-            "desc": "封鎖第&nbsp;2&nbsp;及第&nbsp;3&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;2&nbsp;及第&nbsp;3&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10241": {
             "title": "",
-            "desc": "封鎖第&nbsp;2&nbsp;及第&nbsp;4&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;2&nbsp;及第&nbsp;4&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10242": {
             "title": "",
-            "desc": "封鎖第&nbsp;2&nbsp;及第&nbsp;5&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;2&nbsp;及第&nbsp;5&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10243": {
             "title": "",
-            "desc": "封鎖第&nbsp;3&nbsp;及第&nbsp;4&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;3&nbsp;及第&nbsp;4&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10244": {
             "title": "",
-            "desc": "封鎖第&nbsp;3&nbsp;及第&nbsp;5&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;3&nbsp;及第&nbsp;5&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10245": {
             "title": "",
-            "desc": "封鎖第&nbsp;4&nbsp;及第&nbsp;5&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;4&nbsp;及第&nbsp;5&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10246": {
             "title": "",
-            "desc": "封鎖第&nbsp;2、第&nbsp;3&nbsp;及第&nbsp;4&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;2、第&nbsp;3&nbsp;及第&nbsp;4&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10247": {
             "title": "",
-            "desc": "封鎖第&nbsp;3、第&nbsp;4&nbsp;及第&nbsp;5&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;3、第&nbsp;4&nbsp;及第&nbsp;5&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10248": {
             "title": "",
-            "desc": "封鎖第&nbsp;2、第&nbsp;3&nbsp;及第&nbsp;5&nbsp;個成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;2、第&nbsp;3&nbsp;及第&nbsp;5&nbsp;個成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10249": {
@@ -1337,82 +1337,82 @@
         },
         "10296": {
             "title": "",
-            "desc": "機械族以外的回復力減至&nbsp;90%；機械族的回復力提升&nbsp;110%。<br />封鎖機械族以外成員的主動技能<br />所有解鎖技能無效",
+            "desc": "機械族以外的回復力減至&nbsp;90%；機械族的回復力提升&nbsp;110%。<br />封鎖機械族以外成員的主動技能",
             "custom_desc": ""
         },
         "10297": {
             "title": "",
-            "desc": "機械族以外的回復力減至&nbsp;80%；機械族的回復力提升&nbsp;120%。<br />封鎖機械族以外成員的主動技能<br />所有解鎖技能無效",
+            "desc": "機械族以外的回復力減至&nbsp;80%；機械族的回復力提升&nbsp;120%。<br />封鎖機械族以外成員的主動技能",
             "custom_desc": ""
         },
         "10298": {
             "title": "",
-            "desc": "機械族以外的回復力減至&nbsp;70%；機械族的回復力提升&nbsp;130%。<br />封鎖機械族以外成員的主動技能<br />所有解鎖技能無效",
+            "desc": "機械族以外的回復力減至&nbsp;70%；機械族的回復力提升&nbsp;130%。<br />封鎖機械族以外成員的主動技能",
             "custom_desc": ""
         },
         "10299": {
             "title": "",
-            "desc": "機械族以外的回復力減至&nbsp;60%；機械族的回復力提升&nbsp;140%。<br />封鎖機械族以外成員的主動技能<br />所有解鎖技能無效",
+            "desc": "機械族以外的回復力減至&nbsp;60%；機械族的回復力提升&nbsp;140%。<br />封鎖機械族以外成員的主動技能",
             "custom_desc": ""
         },
         "10300": {
             "title": "",
-            "desc": "機械族以外的回復力減至&nbsp;50%；機械族的回復力提升&nbsp;150%。<br />封鎖機械族以外成員的主動技能<br />所有解鎖技能無效",
+            "desc": "機械族以外的回復力減至&nbsp;50%；機械族的回復力提升&nbsp;150%。<br />封鎖機械族以外成員的主動技能",
             "custom_desc": ""
         },
         "10301": {
             "title": "",
-            "desc": "機械族以外的回復力減至&nbsp;40%；機械族的回復力提升&nbsp;160%。<br />封鎖機械族以外成員的主動技能<br />所有解鎖技能無效",
+            "desc": "機械族以外的回復力減至&nbsp;40%；機械族的回復力提升&nbsp;160%。<br />封鎖機械族以外成員的主動技能",
             "custom_desc": ""
         },
         "10302": {
             "title": "",
-            "desc": "機械族以外的回復力減至&nbsp;30%；機械族的回復力提升&nbsp;170%。<br />封鎖機械族以外成員的主動技能<br />所有解鎖技能無效",
+            "desc": "機械族以外的回復力減至&nbsp;30%；機械族的回復力提升&nbsp;170%。<br />封鎖機械族以外成員的主動技能",
             "custom_desc": ""
         },
         "10303": {
             "title": "",
-            "desc": "機械族以外的回復力減至&nbsp;20%；機械族的回復力提升&nbsp;180%。<br />封鎖機械族以外成員的主動技能<br />所有解鎖技能無效",
+            "desc": "機械族以外的回復力減至&nbsp;20%；機械族的回復力提升&nbsp;180%。<br />封鎖機械族以外成員的主動技能",
             "custom_desc": ""
         },
         "10304": {
             "title": "",
-            "desc": "機械族以外的回復力減至&nbsp;10%；機械族的回復力提升&nbsp;190%。<br />封鎖機械族以外成員的主動技能<br />所有解鎖技能無效",
+            "desc": "機械族以外的回復力減至&nbsp;10%；機械族的回復力提升&nbsp;190%。<br />封鎖機械族以外成員的主動技能",
             "custom_desc": ""
         },
         "10305": {
             "title": "",
-            "desc": "機械族以外的回復力減至&nbsp;0；機械族的回復力提升&nbsp;200%。<br />封鎖機械族以外成員的主動技能<br />所有解鎖技能無效",
+            "desc": "機械族以外的回復力減至&nbsp;0；機械族的回復力提升&nbsp;200%。<br />封鎖機械族以外成員的主動技能",
             "custom_desc": ""
         },
         "10306": {
             "title": "",
-            "desc": "封鎖第&nbsp;1&nbsp;個成員以外成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;1&nbsp;個成員以外成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10307": {
             "title": "",
-            "desc": "封鎖第&nbsp;2&nbsp;個成員以外成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;2&nbsp;個成員以外成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10308": {
             "title": "",
-            "desc": "封鎖第&nbsp;3&nbsp;個成員以外成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;3&nbsp;個成員以外成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10309": {
             "title": "",
-            "desc": "封鎖第&nbsp;4&nbsp;個成員以外成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;4&nbsp;個成員以外成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10310": {
             "title": "",
-            "desc": "封鎖第&nbsp;5&nbsp;個成員以外成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;5&nbsp;個成員以外成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10311": {
             "title": "",
-            "desc": "封鎖第&nbsp;6&nbsp;個成員以外成員的主動技能及其攻擊<br />所有解鎖技能無效",
+            "desc": "封鎖第&nbsp;6&nbsp;個成員以外成員的主動技能及其攻擊",
             "custom_desc": ""
         },
         "10312": {
@@ -1807,12 +1807,12 @@
         },
         "10390": {
             "title": "",
-            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「殞命狀態」",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「殞命輪迴」",
             "custom_desc": ""
         },
         "10391": {
             "title": "",
-            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「殞命狀態」",
+            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「殞命輪迴」",
             "custom_desc": ""
         },
         "10392": {
@@ -2162,12 +2162,12 @@
         },
         "10461": {
             "title": "",
-            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「殞命狀態」<br />＊「近藤勳」、<br />&nbsp;&nbsp;&nbsp;「沖田總悟」、「山崎退」<br />&nbsp;&nbsp;&nbsp;&nbsp;不會被鎖定",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「殞命輪迴」<br />＊「近藤勳」、<br />&nbsp;&nbsp;&nbsp;「沖田總悟」、「山崎退」<br />&nbsp;&nbsp;&nbsp;&nbsp;不會被鎖定",
             "custom_desc": ""
         },
         "10462": {
             "title": "",
-            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「殞命狀態」<br />＊「近藤勳」、<br />&nbsp;&nbsp;&nbsp;「沖田總悟」、「山崎退」<br />&nbsp;&nbsp;&nbsp;&nbsp;不會被鎖定",
+            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「殞命輪迴」<br />＊「近藤勳」、<br />&nbsp;&nbsp;&nbsp;「沖田總悟」、「山崎退」<br />&nbsp;&nbsp;&nbsp;&nbsp;不會被鎖定",
             "custom_desc": ""
         },
         "10463": {
@@ -3243,6 +3243,26 @@
         "10678": {
             "title": "",
             "desc": "•&nbsp;移動符石時間固定為&nbsp;30&nbsp;秒",
+            "custom_desc": ""
+        },
+        "10679": {
+            "title": "",
+            "desc": "•&nbsp;每回合結束時<br />⇒&nbsp;囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;10%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊進入下一層數&nbsp;(Wave)&nbsp;或<br />&nbsp;&nbsp;&nbsp;&nbsp;召喚師死亡後重置",
+            "custom_desc": ""
+        },
+        "10680": {
+            "title": "",
+            "desc": "•&nbsp;每回合結束時<br />⇒&nbsp;囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊進入下一層數&nbsp;(Wave)&nbsp;或<br />&nbsp;&nbsp;&nbsp;&nbsp;召喚師死亡後重置",
+            "custom_desc": ""
+        },
+        "10681": {
+            "title": "",
+            "desc": "•&nbsp;每回合結束時<br />⇒&nbsp;囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊進入下一層數&nbsp;(Wave)&nbsp;或<br />&nbsp;&nbsp;&nbsp;&nbsp;召喚師死亡後重置",
+            "custom_desc": ""
+        },
+        "10682": {
+            "title": "",
+            "desc": "•&nbsp;每回合結束時<br />⇒&nbsp;囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊進入下一層數&nbsp;(Wave)&nbsp;或<br />&nbsp;&nbsp;&nbsp;&nbsp;召喚師死亡後重置",
             "custom_desc": ""
         }
     }
