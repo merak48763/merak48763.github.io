@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.300",
-        "dv": 21636,
-        "time": 1684753687
+        "version": "2023.301",
+        "dv": 21646,
+        "time": 1685007641
     },
     "es": {
         "0": {
@@ -5726,7 +5726,10 @@
         "852": {
             "title": "首殺盾",
             "desc": "召喚師必需先擊斃此敵人，才可以對其他敵人造成傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                935
+            ]
         },
         "853": {
             "title": "無法控制 ‧ 喪伴狂蠻50倍",
@@ -42500,7 +42503,7 @@
         "6701": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "LittleBoy (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -42508,7 +42511,7 @@
         "6702": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "LittleGirl (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -42516,7 +42519,7 @@
         "6703": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "Boy (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -42524,7 +42527,7 @@
         "6704": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "Girl (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -42564,7 +42567,7 @@
         "6709": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "Man (3x3)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -42572,7 +42575,7 @@
         "6710": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "Woman (3x3)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -42588,7 +42591,7 @@
         "6712": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "OldMan (4x4)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -42596,7 +42599,7 @@
         "6713": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "OldWoman (4x4)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43137,7 +43140,7 @@
         "6796": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6796 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43145,7 +43148,7 @@
         "6797": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6797 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43153,7 +43156,7 @@
         "6798": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6798 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43161,7 +43164,7 @@
         "6799": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6799 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43169,7 +43172,7 @@
         "6800": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6800 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43177,7 +43180,7 @@
         "6801": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6801 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43185,7 +43188,7 @@
         "6802": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6802 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43193,7 +43196,7 @@
         "6803": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6803 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43201,7 +43204,7 @@
         "6804": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6804 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43209,7 +43212,7 @@
         "6805": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6805 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43217,7 +43220,7 @@
         "6806": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6806 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43225,7 +43228,7 @@
         "6807": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6807 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
@@ -43233,7 +43236,7 @@
         "6808": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "BattlePuzzle6808 (2x2)<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]

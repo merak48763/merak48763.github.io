@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.300",
-        "dv": 21636,
-        "time": 1684753687
+        "version": "2023.301",
+        "dv": 21646,
+        "time": 1685007641
     },
     "ws": {
         "10001": {
@@ -1807,12 +1807,12 @@
         },
         "10390": {
             "title": "",
-            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「殞命輪迴」",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入永久「殞命輪迴」",
             "custom_desc": ""
         },
         "10391": {
             "title": "",
-            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「殞命輪迴」",
+            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入永久「殞命輪迴」",
             "custom_desc": ""
         },
         "10392": {
@@ -2162,12 +2162,12 @@
         },
         "10461": {
             "title": "",
-            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「殞命輪迴」<br />＊「近藤勳」、<br />&nbsp;&nbsp;&nbsp;「沖田總悟」、「山崎退」<br />&nbsp;&nbsp;&nbsp;&nbsp;不會被鎖定",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入永久「殞命輪迴」<br />＊「近藤勳」、<br />&nbsp;&nbsp;&nbsp;「沖田總悟」、「山崎退」<br />&nbsp;&nbsp;&nbsp;&nbsp;不會被鎖定",
             "custom_desc": ""
         },
         "10462": {
             "title": "",
-            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陷入永久「殞命輪迴」<br />＊「近藤勳」、<br />&nbsp;&nbsp;&nbsp;「沖田總悟」、「山崎退」<br />&nbsp;&nbsp;&nbsp;&nbsp;不會被鎖定",
+            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入永久「殞命輪迴」<br />＊「近藤勳」、<br />&nbsp;&nbsp;&nbsp;「沖田總悟」、「山崎退」<br />&nbsp;&nbsp;&nbsp;&nbsp;不會被鎖定",
             "custom_desc": ""
         },
         "10463": {

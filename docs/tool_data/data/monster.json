@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.300",
-        "dv": 12234,
-        "time": 1684753687
+        "version": "2023.301",
+        "dv": 12246,
+        "time": 1685007641
     },
     "monster": {
         "1": {
@@ -16925,6 +16925,12 @@
             "race": 8,
             "rarity": 6
         },
+        "2906": {
+            "name": "長勝女帝 ‧ 美索不達米亞",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
         "2911": {
             "name": "暴虐之翼 ‧ 路西法",
             "attribute": 4,
@@ -23879,6 +23885,18 @@
             "race": 2,
             "rarity": 5
         },
+        "10452": {
+            "name": "血色燎裾 ‧ 萊蒂西亞",
+            "attribute": 2,
+            "race": 8,
+            "rarity": 5
+        },
+        "10453": {
+            "name": "禍心形身  ‧ 卡洛",
+            "attribute": 1,
+            "race": 8,
+            "rarity": 6
+        },
         "10455": {
             "name": "無序飢餓 ‧ 哈佛",
             "attribute": 4,
@@ -23889,6 +23907,12 @@
             "name": "死亡洗禮 ‧ 夏綠蒂",
             "attribute": 5,
             "race": 10,
+            "rarity": 6
+        },
+        "10475": {
+            "name": "戰局統馭 ‧ 凱撒",
+            "attribute": 2,
+            "race": 2,
             "rarity": 6
         },
         "5001": {
