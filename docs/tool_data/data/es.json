@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.301",
-        "dv": 21646,
-        "time": 1685007641
+        "dv": 21656,
+        "time": 1685955348
     },
     "es": {
         "0": {
@@ -30201,7 +30201,7 @@
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;1&nbsp;回合。",
             "custom_desc": "",
             "icons": [
-                853
+                862
             ]
         },
         "5141": {
@@ -30209,7 +30209,7 @@
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;2&nbsp;回合。",
             "custom_desc": "",
             "icons": [
-                853
+                862
             ]
         },
         "5142": {
@@ -30217,7 +30217,7 @@
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;3&nbsp;回合。",
             "custom_desc": "",
             "icons": [
-                853
+                862
             ]
         },
         "5143": {
@@ -30225,7 +30225,7 @@
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;4&nbsp;回合。",
             "custom_desc": "",
             "icons": [
-                853
+                862
             ]
         },
         "5144": {
@@ -30233,7 +30233,7 @@
             "desc": "封鎖所有成員的<br />主動技能及攻擊&nbsp;5&nbsp;回合。",
             "custom_desc": "",
             "icons": [
-                853
+                862
             ]
         },
         "5145": {
@@ -33216,7 +33216,7 @@
             "desc": "•&nbsp;進場時永久封鎖<br />⇒所有成員的主動技能及攻擊",
             "custom_desc": "",
             "icons": [
-                10853
+                10862
             ]
         },
         "5531": {
@@ -36976,7 +36976,7 @@
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;1&nbsp;回合",
             "custom_desc": "",
             "icons": [
-                853
+                862
             ],
             "alticons": [
                 []
@@ -36987,7 +36987,7 @@
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;2&nbsp;回合",
             "custom_desc": "",
             "icons": [
-                853
+                862
             ],
             "alticons": [
                 []
@@ -36998,7 +36998,7 @@
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;3&nbsp;回合",
             "custom_desc": "",
             "icons": [
-                853
+                862
             ],
             "alticons": [
                 []
@@ -37009,7 +37009,7 @@
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;4&nbsp;回合",
             "custom_desc": "",
             "icons": [
-                853
+                862
             ],
             "alticons": [
                 []
@@ -37020,7 +37020,7 @@
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;5&nbsp;回合",
             "custom_desc": "",
             "icons": [
-                853
+                862
             ],
             "alticons": [
                 []
@@ -41307,7 +41307,7 @@
         },
         "6501": {
             "title": "敵技6501",
-            "desc": "•&nbsp;隨機鎖定&nbsp;2&nbsp;個位置<br />•「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;角色符石需置於<br />&nbsp;&nbsp;&nbsp;鎖定位置內，該角色才能<br />&nbsp;&nbsp;&nbsp;對敵人造成攻擊傷害。<br />•&nbsp;其他成員攻擊力變&nbsp;0<br /><br />•&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量的五屬及心符石<br /><br />•&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態。",
+            "desc": "•&nbsp;解除所有成員被封鎖的技能<br /><br />•&nbsp;隨機鎖定&nbsp;2&nbsp;個位置<br />•「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;角色符石需置於<br />&nbsp;&nbsp;&nbsp;鎖定位置內，該角色才能<br />&nbsp;&nbsp;&nbsp;對敵人造成攻擊傷害。<br />•&nbsp;其他成員攻擊力變&nbsp;0<br /><br />•&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量的五屬及心符石<br /><br />•&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態。",
             "custom_desc": "八封災厄 (核心張開階段的本體)<ul><li>轉化火8顆，心6顆，水、木、光、暗各4顆</li></ul>",
             "icons": [
                 981
