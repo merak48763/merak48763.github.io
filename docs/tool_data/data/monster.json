@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.301",
-        "dv": 12254,
-        "time": 1685955348
+        "version": "2023.310",
+        "dv": 12283,
+        "time": 1686644813
     },
     "monster": {
         "1": {
@@ -16889,6 +16889,12 @@
             "race": 4,
             "rarity": 6
         },
+        "2835": {
+            "name": "炙愛烙魂 ‧ 詩蘭捷與賈比爾",
+            "attribute": 2,
+            "race": 2,
+            "rarity": 8
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -20522,6 +20528,12 @@
             "race": 4,
             "rarity": 6
         },
+        "6629": {
+            "name": "炙愛烙魂 ‧ 詩蘭捷與賈比爾",
+            "attribute": 2,
+            "race": 2,
+            "rarity": 8
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -23927,6 +23939,30 @@
             "race": 10,
             "rarity": 6
         },
+        "10457": {
+            "name": "瑰華棋路 ‧ 黑嘉嘉",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 7
+        },
+        "10458": {
+            "name": "棋院紀行 ‧ 黑嘉嘉",
+            "attribute": 5,
+            "race": 5,
+            "rarity": 6
+        },
+        "10466": {
+            "name": "不屈棋士",
+            "attribute": 1,
+            "race": 7,
+            "rarity": 3
+        },
+        "10467": {
+            "name": "無畏棋士",
+            "attribute": 2,
+            "race": 7,
+            "rarity": 3
+        },
         "10475": {
             "name": "戰局統馭 ‧ 凱撒",
             "attribute": 2,
@@ -24394,6 +24430,48 @@
             "attribute": 2,
             "race": 1,
             "rarity": 7
+        },
+        "50112": {
+            "name": "不屈棋士",
+            "attribute": 1,
+            "race": 7,
+            "rarity": 3
+        },
+        "50113": {
+            "name": "無畏棋士",
+            "attribute": 2,
+            "race": 7,
+            "rarity": 3
+        },
+        "50114": {
+            "name": "星運棋士 ‧ 黑嘉嘉",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "50115": {
+            "name": "鮮味小籠包",
+            "attribute": 4,
+            "race": 7,
+            "rarity": 3
+        },
+        "50116": {
+            "name": "香糯芋圓",
+            "attribute": 5,
+            "race": 7,
+            "rarity": 3
+        },
+        "50117": {
+            "name": "策略棋士",
+            "attribute": 3,
+            "race": 7,
+            "rarity": 3
+        },
+        "50118": {
+            "name": "棋院紀行 ‧ 黑嘉嘉",
+            "attribute": 5,
+            "race": 5,
+            "rarity": 6
         }
     },
     "attribute_names": [
