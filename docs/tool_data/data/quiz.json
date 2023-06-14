@@ -1,7 +1,7 @@
 {
     "last_update": {
         "version": "2023.310",
-        "time": 1686644813
+        "time": 1686717503
     },
     "quiz": {
         "1": {
@@ -5044,7 +5044,7 @@
         },
         "488": {
             "question": "黑先白死，下哪是正確的第一手？",
-            "answer": 2,
+            "answer": 0,
             "answer_options": [
                 "H1",
                 "J1",
