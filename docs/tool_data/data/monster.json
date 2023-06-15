@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.310",
-        "dv": 12283,
-        "time": 1686717503
+        "dv": 12309,
+        "time": 1686821607
     },
     "monster": {
         "1": {
@@ -16889,6 +16889,12 @@
             "race": 4,
             "rarity": 6
         },
+        "2826": {
+            "name": "降妖仙旗 ‧ 姜子牙",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 6
+        },
         "2835": {
             "name": "炙愛烙魂 ‧ 詩蘭捷與賈比爾",
             "attribute": 2,
@@ -20528,6 +20534,12 @@
             "race": 4,
             "rarity": 6
         },
+        "6628": {
+            "name": "驍勇督戰 ‧ 姜子牙",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 6
+        },
         "6629": {
             "name": "炙愛烙魂 ‧ 詩蘭捷與賈比爾",
             "attribute": 2,
@@ -23885,10 +23897,52 @@
             "race": 3,
             "rarity": 6
         },
+        "10441": {
+            "name": "小妹三代 ‧ 魚頭與多羅與小車車",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10442": {
+            "name": "悅動間奏 ‧ 小 Air",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10443": {
+            "name": "漫步紅毯 ‧ 心蘋果",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10444": {
+            "name": "華燈俏影 ‧ 毛毛",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10445": {
+            "name": "昭昭登場 ‧ 貓包子",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10446": {
+            "name": "神魔小弟",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 7
+        },
         "10447": {
             "name": "引禍之箭 ‧ 列拉金",
             "attribute": 3,
             "race": 8,
+            "rarity": 6
+        },
+        "10448": {
+            "name": "擊鼓競渡 ‧ 端陽號",
+            "attribute": 1,
+            "race": 10,
             "rarity": 6
         },
         "10449": {
