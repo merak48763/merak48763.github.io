@@ -1,7 +1,7 @@
 {
     "last_update": {
         "version": "2023.310",
-        "time": 1686717503
+        "time": 1686805898
     },
     "quiz": {
         "1": {
@@ -4930,7 +4930,7 @@
                 "七龍珠",
                 "三連星"
             ],
-            "quizImage": "59bf870719b4f45e-2.jpg"
+            "quizImage": "c650e32bbfdc1595-2.jpg"
         },
         "478": {
             "question": "請問，黑棋這手棋的圍棋術語叫什麼？",
@@ -4941,7 +4941,7 @@
                 "尖",
                 "小馬步飛"
             ],
-            "quizImage": "000d01c2dadc5f60-3.jpg"
+            "quizImage": "6692cd85eab8468f-3.jpg"
         },
         "479": {
             "question": "請問，黑棋這手棋的圍棋術語叫什麼？",
@@ -4952,7 +4952,7 @@
                 "跳",
                 "衝"
             ],
-            "quizImage": "15e37036033a0566-4.jpg"
+            "quizImage": "0e0dade333717560-4.jpg"
         },
         "480": {
             "question": "請問，黑棋這手棋的圍棋術語叫什麼？",
@@ -4963,7 +4963,7 @@
                 "尖",
                 "長"
             ],
-            "quizImage": "9f6c38baa4225bf9-5.jpg"
+            "quizImage": "e0c2b2f98b0831c4-5.jpg"
         },
         "481": {
             "question": "請問，黑棋這手棋的圍棋術語叫什麼？",
@@ -4974,7 +4974,7 @@
                 "尖",
                 "長"
             ],
-            "quizImage": "472d4c1d872f1185-6.jpg"
+            "quizImage": "95f373aedc862a62-6.jpg"
         },
         "482": {
             "question": "請問，黑棋這手棋的圍棋術語叫什麼？",
@@ -4985,7 +4985,7 @@
                 "斷",
                 "衝"
             ],
-            "quizImage": "463f0ec4694f69ae-7.jpg"
+            "quizImage": "cc05d626d499cf51-7.jpg"
         },
         "483": {
             "question": "請問，黑棋這手棋的圍棋術語叫什麼？",
@@ -4996,7 +4996,7 @@
                 "飛",
                 "衝"
             ],
-            "quizImage": "5f8df0abf17c9e7b-8.jpg"
+            "quizImage": "b9166e455af3de24-8.jpg"
         },
         "484": {
             "question": "請問，黑棋這手棋的圍棋術語叫什麼？",
@@ -5007,7 +5007,7 @@
                 "小馬步飛",
                 "尖"
             ],
-            "quizImage": "5d39bd7fc2e62628-9.jpg"
+            "quizImage": "c0df0a4392f219d2-9.jpg"
         },
         "485": {
             "question": "請問，黑棋這手棋的圍棋術語叫什麼？",
@@ -5018,7 +5018,7 @@
                 "跳",
                 "穿象眼"
             ],
-            "quizImage": "f43dc89436322cb8-10.jpg"
+            "quizImage": "cc1090efb76f041d-10.jpg"
         },
         "486": {
             "question": "請問，黑棋這手棋的圍棋術語叫什麼？",
@@ -5029,7 +5029,7 @@
                 "衝",
                 "長"
             ],
-            "quizImage": "3836c450b940c302-11.jpg"
+            "quizImage": "a68eaa0d1dff8145-11.jpg"
         },
         "487": {
             "question": "請問，黑棋這手棋的圍棋術語叫什麼？",
@@ -5040,7 +5040,7 @@
                 "拆二",
                 "叫吃"
             ],
-            "quizImage": "68e20258ec4edcee-12.jpg"
+            "quizImage": "d51ecbd7b81c277a-12.jpg"
         },
         "488": {
             "question": "黑先白死，下哪是正確的第一手？",
@@ -5051,7 +5051,7 @@
                 "G1",
                 "D1"
             ],
-            "quizImage": "ac2fa6b2c14ce46b-13.jpg"
+            "quizImage": "47994bbfa7c33cf9-13.jpg"
         },
         "489": {
             "question": "請問白棋這個佈局叫做什麼？",
@@ -5062,7 +5062,7 @@
                 "小林流",
                 "宇宙流"
             ],
-            "quizImage": "54e73d83f70c6f20-14.jpg"
+            "quizImage": "847a2e489de942cf-14.jpg"
         },
         "490": {
             "question": "請問黑棋這個佈局叫做什麼？",
@@ -5073,7 +5073,7 @@
                 "宇宙流",
                 "三連星"
             ],
-            "quizImage": "5b724d0dc593f955-15.jpg"
+            "quizImage": "a2e2cee5b35e6df8-15.jpg"
         },
         "491": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5082,7 +5082,7 @@
                 "A",
                 "B"
             ],
-            "quizImage": "557964ce18ea1ec6-16.jpg"
+            "quizImage": "241835bafffe37a9-16.jpg"
         },
         "492": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5091,7 +5091,7 @@
                 "A",
                 "B"
             ],
-            "quizImage": "ca7914dcb91acb5d-17.jpg"
+            "quizImage": "99dbd20b6dc60e4b-17.jpg"
         },
         "493": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5100,7 +5100,7 @@
                 "B",
                 "A"
             ],
-            "quizImage": "b7adb66afb0a5a15-18.jpg"
+            "quizImage": "d2dfa529350ea7a2-18.jpg"
         },
         "494": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5109,7 +5109,7 @@
                 "B",
                 "A"
             ],
-            "quizImage": "08ebcf1df5306f26-19.jpg"
+            "quizImage": "9172f232fe160345-19.jpg"
         },
         "495": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5118,7 +5118,7 @@
                 "B",
                 "A"
             ],
-            "quizImage": "4b60c14e046cbc81-20.jpg"
+            "quizImage": "b858167f9fd9b242-20.jpg"
         },
         "496": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5127,7 +5127,7 @@
                 "B",
                 "A"
             ],
-            "quizImage": "80e276298c9baffe-21.jpg"
+            "quizImage": "defa5a294b51dcdb-21.jpg"
         },
         "497": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5136,7 +5136,7 @@
                 "B",
                 "A"
             ],
-            "quizImage": "0ce2201366c50cbb-22.jpg"
+            "quizImage": "4a3f712ef479ad3f-22.jpg"
         },
         "498": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5145,7 +5145,7 @@
                 "A",
                 "B"
             ],
-            "quizImage": "30509744ac627176-23.jpg"
+            "quizImage": "8bb40b8e31f49ce6-23.jpg"
         },
         "499": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5154,7 +5154,7 @@
                 "A",
                 "B"
             ],
-            "quizImage": "b04e5612a51636bd-24.jpg"
+            "quizImage": "e9307fe9f40819a7-24.jpg"
         },
         "500": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5163,7 +5163,7 @@
                 "B",
                 "A"
             ],
-            "quizImage": "0dba60019194c1d3-25.jpg"
+            "quizImage": "8e440025882a50df-25.jpg"
         },
         "501": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5172,7 +5172,7 @@
                 "A",
                 "B"
             ],
-            "quizImage": "3bdbda1296f4006e-26.jpg"
+            "quizImage": "cdddf81de7aae25f-26.jpg"
         },
         "502": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5181,7 +5181,7 @@
                 "A",
                 "B"
             ],
-            "quizImage": "b955d98b338f9de0-27.jpg"
+            "quizImage": "f8c5a4ed0bf1da1e-27.jpg"
         },
         "503": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5190,7 +5190,7 @@
                 "B",
                 "A"
             ],
-            "quizImage": "0a4c2dd829a23fb3-28.jpg"
+            "quizImage": "cbe134980b003da4-28.jpg"
         },
         "504": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5199,7 +5199,7 @@
                 "B",
                 "A"
             ],
-            "quizImage": "a4453a66c3054acf-29.jpg"
+            "quizImage": "8005e382bc9bc5f1-29.jpg"
         },
         "505": {
             "question": "【佈局】換黑下，哪邊是最有效率的一手棋？",
@@ -5208,7 +5208,7 @@
                 "B",
                 "A"
             ],
-            "quizImage": "a69248e370756753-30.jpg"
+            "quizImage": "c9415e1993295c4c-30.jpg"
         }
     }
 }
