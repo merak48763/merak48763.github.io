@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.310",
+        "version": "2023.311",
         "dv": 12309,
-        "time": 1686821607
+        "time": 1687230442
     },
     "monster": {
         "1": {
@@ -19441,7 +19441,7 @@
         },
         "6424": {
             "name": "存在質疑 ‧ 路西法",
-            "attribute": 5,
+            "attribute": 4,
             "race": 5,
             "rarity": 8
         },
