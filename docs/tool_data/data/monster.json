@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.311",
-        "dv": 12309,
-        "time": 1687230442
+        "dv": 12316,
+        "time": 1687340867
     },
     "monster": {
         "1": {
@@ -16943,6 +16943,12 @@
             "race": 1,
             "rarity": 6
         },
+        "2907": {
+            "name": "永帝應援 ‧ 秦始皇",
+            "attribute": 1,
+            "race": 8,
+            "rarity": 6
+        },
         "2911": {
             "name": "暴虐之翼 ‧ 路西法",
             "attribute": 4,
@@ -19303,6 +19309,18 @@
             "attribute": 2,
             "race": 8,
             "rarity": 8
+        },
+        "6398": {
+            "name": "纖端核",
+            "attribute": 5,
+            "race": 5,
+            "rarity": 7
+        },
+        "6399": {
+            "name": "殘像肆虐 ‧ 卡俄斯",
+            "attribute": 5,
+            "race": 5,
+            "rarity": 7
         },
         "6359": {
             "name": "莉絲",
