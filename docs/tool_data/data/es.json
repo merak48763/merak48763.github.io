@@ -43242,47 +43242,62 @@
             ]
         },
         "6727": {
-            "title": "",
+            "title": "敵技6727",
             "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【弱化圍城】<br />•&nbsp;每回合鎖定場上所有符石，<br />&nbsp;&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;5%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-            "custom_desc": ""
+            "custom_desc": "九封災厄 (Wave 7) (核心封閉階段的本體)",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "6728": {
-            "title": "",
+            "title": "敵技6728",
             "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【弱化圍城】<br />•&nbsp;每回合鎖定場上所有符石，<br />&nbsp;&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;10%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
             "custom_desc": ""
         },
         "6729": {
-            "title": "",
+            "title": "敵技6729",
             "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【電擊之暗&nbsp;‧&nbsp;電擊符石】<br />•&nbsp;進場時將所有暗符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;3&nbsp;粒符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;如有電擊符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;電擊符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
-            "custom_desc": ""
+            "custom_desc": "九封災厄 (Wave 4) (核心封閉階段的本體)",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "6730": {
-            "title": "",
+            "title": "敵技6730",
             "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【電擊之暗&nbsp;‧&nbsp;電擊符石】<br />•&nbsp;進場時將所有暗符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;3&nbsp;粒符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;如有電擊符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;電擊符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
             "custom_desc": ""
         },
         "6731": {
-            "title": "",
+            "title": "敵技6731",
             "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【暗連擊零化】<br />•&nbsp;首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />【符石轉暗】<br />•&nbsp;每回合將暗以外數量最少的<br />1&nbsp;種屬性符石轉化為暗符石。",
-            "custom_desc": ""
+            "custom_desc": "九封災厄 (Wave 10) (核心封閉階段的本體)",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "6732": {
-            "title": "",
+            "title": "敵技6732",
             "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【暗連擊零化】<br />•&nbsp;首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />【符石轉暗】<br />•&nbsp;每回合將暗以外數量最少的<br />1&nbsp;種屬性符石轉化為暗符石。",
             "custom_desc": ""
         },
         "6733": {
-            "title": "",
+            "title": "敵技6733",
             "desc": "【轉化符石技能無效】<br />•&nbsp;我方所有轉化符石效果無效<br /><br />【黑洞】<br />•&nbsp;進場時隨機&nbsp;9&nbsp;個位置<br />⇒&nbsp;變為黑洞<br />•&nbsp;召喚師在黑洞位置<br />&nbsp;&nbsp;最後結束轉珠<br />⓵&nbsp;全隊傷害減至&nbsp;0<br />⓶&nbsp;敵人發動攻擊時<br />⇒扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />【90&nbsp;步限制】<br />•&nbsp;每回合只能移動&nbsp;90&nbsp;步，<br />&nbsp;&nbsp;步數用盡時將停止移動符石<br /><br />【符石轉換】<br />•&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量的五屬及心符石",
-            "custom_desc": ""
+            "custom_desc": "九封災厄 (核心張開階段的本體)",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "6734": {
-            "title": "",
+            "title": "【封王核心】",
             "desc": "【封王核心】<br /><br />•&nbsp;消耗敵人生命力時<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br /><br />•「殘像肆虐&nbsp;‧&nbsp;卡俄斯」<br />&nbsp;&nbsp;生命力為&nbsp;0&nbsp;<br />⇒&nbsp;張開核心<br /><br />•&nbsp;核心張開時，<br />&nbsp;&nbsp;首批消除&nbsp;≥9&nbsp;組屬性符石<br />⇒&nbsp;才能對核心造成傷害<br />⇒&nbsp;否則核心承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "九封災厄 (核心)",
+            "keywords": [
+                "災厄級"
+            ]
         },
         "6735": {
-            "title": "",
+            "title": "【封王核心】",
             "desc": "【封王核心】<br /><br />•&nbsp;消耗敵人生命力時<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br /><br />•「殘像肆虐&nbsp;‧&nbsp;卡俄斯」<br />&nbsp;&nbsp;生命力為&nbsp;0&nbsp;<br />⇒&nbsp;張開核心<br /><br />•&nbsp;核心張開時，<br />&nbsp;&nbsp;首批消除&nbsp;≥9&nbsp;組屬性符石<br />⇒&nbsp;才能對核心造成傷害<br />⇒&nbsp;否則核心承受傷害變為&nbsp;1",
             "custom_desc": ""
         }
