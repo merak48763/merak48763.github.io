@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.311",
-        "dv": 12316,
-        "time": 1687340867
+        "version": "2023.320",
+        "dv": 12378,
+        "time": 1688359697
     },
     "monster": {
         "1": {
@@ -24023,6 +24023,48 @@
             "race": 5,
             "rarity": 6
         },
+        "10459": {
+            "name": "藤原佐為",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 6
+        },
+        "10460": {
+            "name": "伊角慎一郎",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10461": {
+            "name": "永遠的勁敵 ‧ 塔矢亮",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10462": {
+            "name": "最強的初段 ‧ 進藤光",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10463": {
+            "name": "和谷義高",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "10464": {
+            "name": "越智康介",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10465": {
+            "name": "奈瀨明日美",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
         "10466": {
             "name": "不屈棋士",
             "attribute": 1,
@@ -24034,6 +24076,36 @@
             "attribute": 2,
             "race": 7,
             "rarity": 3
+        },
+        "10468": {
+            "name": "藤崎明",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10469": {
+            "name": "進藤光",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10470": {
+            "name": "塔矢亮",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10471": {
+            "name": "藤原佐為與進藤光",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 7
+        },
+        "10473": {
+            "name": "緒方精次",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
         },
         "10475": {
             "name": "戰局統馭 ‧ 凱撒",
@@ -24502,6 +24574,78 @@
             "attribute": 2,
             "race": 1,
             "rarity": 7
+        },
+        "50098": {
+            "name": "藤原佐為",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 6
+        },
+        "50099": {
+            "name": "藤原佐為與進藤光",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 7
+        },
+        "50100": {
+            "name": "最強的初段 ‧ 進藤光",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "50101": {
+            "name": "永遠的勁敵 ‧ 塔矢亮",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "50102": {
+            "name": "和谷義高",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "50103": {
+            "name": "伊角慎一郎",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "50104": {
+            "name": "越智康介",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "50105": {
+            "name": "奈瀨明日美",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "50106": {
+            "name": "藤崎明",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "50108": {
+            "name": "緒方精次",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "50110": {
+            "name": "進藤光",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "50111": {
+            "name": "塔矢亮",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
         },
         "50112": {
             "name": "不屈棋士",
