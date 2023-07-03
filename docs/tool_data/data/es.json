@@ -38841,7 +38841,7 @@
         "6206": {
             "title": "【消屬性符石禁咒 (循環)】",
             "desc": "•&nbsp;指定屬性符石無法被消除<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
-            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init ?屬性</span>",
+            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init 敵人剋制的屬性</span>",
             "icons": [
                 40301
             ],
@@ -42498,7 +42498,10 @@
         "6700": {
             "title": "【回技及 EP】",
             "desc": "•&nbsp;所有成員的主動技能<br />⓵&nbsp;CD&nbsp;變&nbsp;0<br />⓶&nbsp;EP&nbsp;回滿",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "6701": {
             "title": "戰鬥圖板 - 越扣越強25%",
@@ -42910,77 +42913,122 @@
         "6749": {
             "title": "【10 次受擊護盾 - 水】",
             "desc": "•&nbsp;敵人受到&nbsp;10&nbsp;次<br />&nbsp;&nbsp;水屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                251
+            ]
         },
         "6750": {
             "title": "【20 次受擊護盾 - 水】",
             "desc": "•&nbsp;敵人受到&nbsp;20&nbsp;次<br />&nbsp;&nbsp;水屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                251
+            ]
         },
         "6751": {
             "title": "【30 次受擊護盾 - 水】",
             "desc": "•&nbsp;敵人受到&nbsp;30&nbsp;次<br />&nbsp;&nbsp;水屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                251
+            ]
         },
         "6752": {
             "title": "【10 次受擊護盾 - 火】",
             "desc": "•&nbsp;敵人受到&nbsp;10&nbsp;次<br />&nbsp;&nbsp;火屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                252
+            ]
         },
         "6753": {
             "title": "【20 次受擊護盾 - 火】",
             "desc": "•&nbsp;敵人受到&nbsp;20&nbsp;次<br />&nbsp;&nbsp;火屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                252
+            ]
         },
         "6754": {
             "title": "【30 次受擊護盾 - 火】",
             "desc": "•&nbsp;敵人受到&nbsp;30&nbsp;次<br />&nbsp;&nbsp;火屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                252
+            ]
         },
         "6755": {
             "title": "【10 次受擊護盾 - 木】",
             "desc": "•&nbsp;敵人受到&nbsp;10&nbsp;次<br />&nbsp;&nbsp;木屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                253
+            ]
         },
         "6756": {
             "title": "【20 次受擊護盾 - 木】",
             "desc": "•&nbsp;敵人受到&nbsp;20&nbsp;次<br />&nbsp;&nbsp;木屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                253
+            ]
         },
         "6757": {
             "title": "【30 次受擊護盾 - 木】",
             "desc": "•&nbsp;敵人受到&nbsp;30&nbsp;次<br />&nbsp;&nbsp;木屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                253
+            ]
         },
         "6758": {
             "title": "【10 次受擊護盾 - 光】",
             "desc": "•&nbsp;敵人受到&nbsp;10&nbsp;次<br />&nbsp;&nbsp;光屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                254
+            ]
         },
         "6759": {
             "title": "【20 次受擊護盾 - 光】",
             "desc": "•&nbsp;敵人受到&nbsp;20&nbsp;次<br />&nbsp;&nbsp;光屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                254
+            ]
         },
         "6760": {
             "title": "【30 次受擊護盾 - 光】",
             "desc": "•&nbsp;敵人受到&nbsp;30&nbsp;次<br />&nbsp;&nbsp;光屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                254
+            ]
         },
         "6761": {
             "title": "【10 次受擊護盾 - 暗】",
             "desc": "•&nbsp;敵人受到&nbsp;10&nbsp;次<br />&nbsp;&nbsp;暗屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                255
+            ]
         },
         "6762": {
             "title": "【20 次受擊護盾 - 暗】",
             "desc": "•&nbsp;敵人受到&nbsp;20&nbsp;次<br />&nbsp;&nbsp;暗屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                255
+            ]
         },
         "6763": {
             "title": "【30 次受擊護盾 - 暗】",
             "desc": "•&nbsp;敵人受到&nbsp;30&nbsp;次<br />&nbsp;&nbsp;暗屬性傷害後<br />⇒&nbsp;才能對其造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                255
+            ]
         },
         "6764": {
             "title": "【回 EP】",
@@ -42990,7 +43038,10 @@
         "6765": {
             "title": "【棋魂回技及 EP】",
             "desc": "•&nbsp;所有【棋魂】成員<br />⓵&nbsp;主動技能&nbsp;CD&nbsp;變&nbsp;0&nbsp;<br />⓶&nbsp;EP&nbsp;回滿",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "6766": {
             "title": "【起動浮標】",
