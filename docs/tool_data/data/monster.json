@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.320",
-        "dv": 12378,
-        "time": 1688359697
+        "dv": 12388,
+        "time": 1688634296
     },
     "monster": {
         "1": {
@@ -24101,11 +24101,23 @@
             "race": 5,
             "rarity": 7
         },
+        "10472": {
+            "name": "倉田厚",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
         "10473": {
             "name": "緒方精次",
             "attribute": 5,
             "race": 1,
             "rarity": 6
+        },
+        "10474": {
+            "name": "塔矢行洋",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 7
         },
         "10475": {
             "name": "戰局統馭 ‧ 凱撒",
@@ -24629,11 +24641,23 @@
             "race": 1,
             "rarity": 6
         },
+        "50107": {
+            "name": "倉田厚",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
         "50108": {
             "name": "緒方精次",
             "attribute": 5,
             "race": 1,
             "rarity": 6
+        },
+        "50109": {
+            "name": "塔矢行洋",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 7
         },
         "50110": {
             "name": "進藤光",
