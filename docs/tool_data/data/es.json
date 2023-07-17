@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.320",
-        "dv": 21764,
-        "time": 1688359697
+        "version": "2023.400",
+        "dv": 21816,
+        "time": 1689583547
     },
     "es": {
         "0": {
@@ -26640,27 +26640,27 @@
         },
         "4578": {
             "title": "",
-            "desc": "<em>【符石轉水&nbsp;‧&nbsp;敵屬限制形狀盾&nbsp;‧&nbsp;首消水月化血&nbsp;-&nbsp;反擊】</em><br /><br />每回合隨機將&nbsp;1&nbsp;種<br />水以外的屬性符石<br />⇒&nbsp;轉化為水符石<br /><br />以指定形狀消除<br />與敵人相同屬性的符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。",
+            "desc": "<em>【符石轉水&nbsp;‧&nbsp;敵屬限制形狀盾&nbsp;‧&nbsp;反首消水符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />每回合隨機將&nbsp;1&nbsp;種<br />水以外的屬性符石<br />⇒&nbsp;轉化為水符石<br /><br />以指定形狀消除<br />與敵人相同屬性的符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />•&nbsp;首批消除水符石<br />&nbsp;&nbsp;&nbsp;及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": ""
         },
         "4579": {
             "title": "",
-            "desc": "<em>【符石轉火&nbsp;‧&nbsp;敵屬限制形狀盾&nbsp;‧&nbsp;首消火影化血&nbsp;-&nbsp;反擊】</em><br /><br />每回合隨機將&nbsp;1&nbsp;種<br />火以外的屬性符石<br />⇒&nbsp;轉化為火符石<br /><br />以指定形狀消除<br />與敵人相同屬性的符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。",
+            "desc": "<em>【符石轉火&nbsp;‧&nbsp;敵屬限制形狀盾&nbsp;‧&nbsp;反首消火符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />每回合隨機將&nbsp;1&nbsp;種<br />火以外的屬性符石<br />⇒&nbsp;轉化為火符石<br /><br />以指定形狀消除<br />與敵人相同屬性的符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />•&nbsp;首批消除火符石<br />&nbsp;&nbsp;&nbsp;及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": ""
         },
         "4580": {
             "title": "",
-            "desc": "<em>【符石轉木&nbsp;‧&nbsp;敵屬限制形狀盾&nbsp;‧&nbsp;首消木葉化血&nbsp;-&nbsp;反擊】</em><br /><br />每回合隨機將&nbsp;1&nbsp;種<br />木以外的屬性符石<br />⇒&nbsp;轉化為木符石<br /><br />以指定形狀消除<br />與敵人相同屬性的符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。",
+            "desc": "<em>【符石轉木&nbsp;‧&nbsp;敵屬限制形狀盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />每回合隨機將&nbsp;1&nbsp;種<br />木以外的屬性符石<br />⇒&nbsp;轉化為木符石<br /><br />以指定形狀消除<br />與敵人相同屬性的符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />•&nbsp;首批消除木符石<br />&nbsp;&nbsp;&nbsp;及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": ""
         },
         "4581": {
             "title": "",
-            "desc": "<em>【符石轉光&nbsp;‧&nbsp;敵屬限制形狀盾&nbsp;‧&nbsp;首消光華化血&nbsp;-&nbsp;反擊】</em><br /><br />每回合隨機將&nbsp;1&nbsp;種<br />光以外的屬性符石<br />⇒&nbsp;轉化為光符石<br /><br />以指定形狀消除<br />與敵人相同屬性的符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。",
+            "desc": "<em>【符石轉光&nbsp;‧&nbsp;敵屬限制形狀盾&nbsp;‧&nbsp;反首消光符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />每回合隨機將&nbsp;1&nbsp;種<br />光以外的屬性符石<br />⇒&nbsp;轉化為光符石<br /><br />以指定形狀消除<br />與敵人相同屬性的符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />•&nbsp;首批消除光符石<br />&nbsp;&nbsp;&nbsp;及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": ""
         },
         "4582": {
             "title": "",
-            "desc": "<em>【符石轉暗&nbsp;‧&nbsp;敵屬限制形狀盾&nbsp;‧&nbsp;首消暗流化血&nbsp;-&nbsp;反擊】</em><br /><br />每回合隨機將&nbsp;1&nbsp;種<br />暗以外的屬性符石<br />⇒&nbsp;轉化為暗符石<br /><br />以指定形狀消除<br />與敵人相同屬性的符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。",
+            "desc": "<em>【符石轉暗&nbsp;‧&nbsp;敵屬限制形狀盾&nbsp;‧&nbsp;反首消暗符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />每回合隨機將&nbsp;1&nbsp;種<br />暗以外的屬性符石<br />⇒&nbsp;轉化為暗符石<br /><br />以指定形狀消除<br />與敵人相同屬性的符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />•&nbsp;首批消除暗符石<br />&nbsp;&nbsp;&nbsp;及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": ""
         },
         "4583": {
@@ -43356,6 +43356,94 @@
             "title": "【封王核心】",
             "desc": "【封王核心】<br /><br />•&nbsp;消耗敵人生命力時<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br /><br />•「殘像肆虐&nbsp;‧&nbsp;卡俄斯」<br />&nbsp;&nbsp;生命力為&nbsp;0&nbsp;<br />⇒&nbsp;張開核心<br /><br />•&nbsp;核心張開時，<br />&nbsp;&nbsp;首批消除&nbsp;≥9&nbsp;組屬性符石<br />⇒&nbsp;才能對核心造成傷害<br />⇒&nbsp;否則核心承受傷害變為&nbsp;1",
             "custom_desc": ""
+        },
+        "6809": {
+            "title": "【龍刻脈動 ≥10,001 分損敵】",
+            "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥10,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                231
+            ]
+        },
+        "6810": {
+            "title": "【龍刻脈動 ≥30,001 分損敵】",
+            "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥30,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                232
+            ]
+        },
+        "6811": {
+            "title": "【龍刻脈動 ≥50,001 分損敵】",
+            "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥50,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                233
+            ]
+        },
+        "6812": {
+            "title": "【龍刻脈動 ≥70,001 分損敵】",
+            "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥70,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                234
+            ]
+        },
+        "6813": {
+            "title": "【龍刻脈動 ≥90,001 分損敵】",
+            "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥90,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                235
+            ]
+        },
+        "6814": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6815": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6816": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6817": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6818": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6819": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
         }
     }
 }

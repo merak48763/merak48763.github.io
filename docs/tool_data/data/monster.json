@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.320",
-        "dv": 12388,
-        "time": 1688634296
+        "version": "2023.400",
+        "dv": 12413,
+        "time": 1689583547
     },
     "monster": {
         "1": {
@@ -16901,6 +16901,12 @@
             "race": 2,
             "rarity": 8
         },
+        "2836": {
+            "name": "斬惡鉗影 ‧ 約翰",
+            "attribute": 3,
+            "race": 5,
+            "rarity": 6
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -20564,6 +20570,24 @@
             "race": 2,
             "rarity": 8
         },
+        "6630": {
+            "name": "混濁深潭 ‧ 約翰 ",
+            "attribute": 3,
+            "race": 5,
+            "rarity": 6
+        },
+        "6634": {
+            "name": "豔光游蛇 ‧ 安潔莉娜",
+            "attribute": 3,
+            "race": 3,
+            "rarity": 6
+        },
+        "6635": {
+            "name": "枯骨哀弦 ‧ 夏彥",
+            "attribute": 3,
+            "race": 8,
+            "rarity": 6
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -24122,6 +24146,36 @@
         "10475": {
             "name": "戰局統馭 ‧ 凱撒",
             "attribute": 2,
+            "race": 2,
+            "rarity": 6
+        },
+        "10479": {
+            "name": "炎日戲水 ‧ 莉莉絲",
+            "attribute": 2,
+            "race": 10,
+            "rarity": 7
+        },
+        "10480": {
+            "name": "豔光游蛇 ‧ 安潔莉娜",
+            "attribute": 3,
+            "race": 3,
+            "rarity": 6
+        },
+        "10481": {
+            "name": "枯骨哀弦 ‧ 夏彥",
+            "attribute": 3,
+            "race": 8,
+            "rarity": 6
+        },
+        "10483": {
+            "name": "晴空踏浪 ‧ 瓦斐森",
+            "attribute": 3,
+            "race": 8,
+            "rarity": 5
+        },
+        "10487": {
+            "name": "遐想奇獸 ‧ 幻鯨",
+            "attribute": 1,
             "race": 2,
             "rarity": 6
         },

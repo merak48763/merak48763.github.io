@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.320",
-        "dv": 21764,
-        "time": 1688359697
+        "version": "2023.400",
+        "dv": 21816,
+        "time": 1689583547
     },
     "ws": {
         "10001": {
@@ -3273,6 +3273,56 @@
         "10684": {
             "title": "",
             "desc": "•&nbsp;每次發動主動技能<br />⇒&nbsp;該成員屬性的符石<br />&nbsp;&nbsp;&nbsp;&nbsp;添加邪惡能量<br />•&nbsp;每消除&nbsp;1&nbsp;粒邪惡能量符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;20%<br />•&nbsp;邪惡能量符石不能還原及<br />&nbsp;&nbsp;不能轉化為強化符石",
+            "custom_desc": ""
+        },
+        "10685": {
+            "title": "",
+            "desc": "•「【水韻之境】、水屬性」以外<br />&nbsp;&nbsp;&nbsp;成員的攻擊力減至&nbsp;10%",
+            "custom_desc": ""
+        },
+        "10686": {
+            "title": "",
+            "desc": "•「【火舞之境】、火屬性」以外<br />&nbsp;&nbsp;&nbsp;成員的攻擊力減至&nbsp;10%",
+            "custom_desc": ""
+        },
+        "10687": {
+            "title": "",
+            "desc": "•「【木香之境】、木屬性」以外<br />&nbsp;&nbsp;&nbsp;成員的攻擊力減至&nbsp;10%",
+            "custom_desc": ""
+        },
+        "10688": {
+            "title": "",
+            "desc": "•「【光輝之境】、光屬性」以外<br />&nbsp;&nbsp;&nbsp;成員的攻擊力減至&nbsp;10%",
+            "custom_desc": ""
+        },
+        "10689": {
+            "title": "",
+            "desc": "•「【暗夜之境】、暗屬性」以外<br />&nbsp;&nbsp;&nbsp;成員的攻擊力減至&nbsp;10%",
+            "custom_desc": ""
+        },
+        "10690": {
+            "title": "",
+            "desc": "•「【水韻之境】、水屬性」以外<br />&nbsp;&nbsp;&nbsp;成員的攻擊力減至&nbsp;1%",
+            "custom_desc": ""
+        },
+        "10691": {
+            "title": "",
+            "desc": "•「【火舞之境】、火屬性」以外<br />&nbsp;&nbsp;&nbsp;成員的攻擊力減至&nbsp;1%",
+            "custom_desc": ""
+        },
+        "10692": {
+            "title": "",
+            "desc": "•「【木香之境】、木屬性」以外<br />&nbsp;&nbsp;&nbsp;成員的攻擊力減至&nbsp;1%",
+            "custom_desc": ""
+        },
+        "10693": {
+            "title": "",
+            "desc": "•「【光輝之境】、光屬性」以外<br />&nbsp;&nbsp;&nbsp;成員的攻擊力減至&nbsp;1%",
+            "custom_desc": ""
+        },
+        "10694": {
+            "title": "",
+            "desc": "•「【暗夜之境】、暗屬性」以外<br />&nbsp;&nbsp;&nbsp;成員的攻擊力減至&nbsp;1%",
             "custom_desc": ""
         }
     }
