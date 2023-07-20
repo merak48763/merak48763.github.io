@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.400",
-        "dv": 12413,
-        "time": 1689583547
+        "version": "2023.401",
+        "dv": 12431,
+        "time": 1689851329
     },
     "monster": {
         "1": {
@@ -16895,6 +16895,30 @@
             "race": 5,
             "rarity": 6
         },
+        "2828": {
+            "name": "繁花心扉 ‧ 櫻",
+            "attribute": 2,
+            "race": 3,
+            "rarity": 7
+        },
+        "2830": {
+            "name": "寬恕培植 ‧ 天堂鳥",
+            "attribute": 4,
+            "race": 3,
+            "rarity": 7
+        },
+        "2831": {
+            "name": "披荊斷恨 ‧ 薔薇",
+            "attribute": 5,
+            "race": 3,
+            "rarity": 7
+        },
+        "2833": {
+            "name": "畸愛狙殺 ‧ 芙蓉",
+            "attribute": 2,
+            "race": 3,
+            "rarity": 7
+        },
         "2835": {
             "name": "炙愛烙魂 ‧ 詩蘭捷與賈比爾",
             "attribute": 2,
@@ -24172,6 +24196,18 @@
             "attribute": 3,
             "race": 8,
             "rarity": 5
+        },
+        "10485": {
+            "name": "碩荒制海 ‧ 克洛怡",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 6
+        },
+        "10486": {
+            "name": "永駐的仿魂 ‧ 亞當",
+            "attribute": 3,
+            "race": 10,
+            "rarity": 7
         },
         "10487": {
             "name": "遐想奇獸 ‧ 幻鯨",

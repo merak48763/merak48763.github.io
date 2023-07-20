@@ -1,7 +1,7 @@
 {
     "last_update": {
-        "version": "2023.310",
-        "time": 1686805898
+        "version": "2023.401",
+        "time": 1689851329
     },
     "quiz": {
         "1": {
@@ -5209,6 +5209,369 @@
                 "A"
             ],
             "quizImage": "c9415e1993295c4c-30.jpg"
+        },
+        "506": {
+            "question": "圖中的區域名稱是什麼 ?",
+            "answer": 0,
+            "answer_options": [
+                "寒霜冰川",
+                "熾熱荒土",
+                "神木森林",
+                "洌冰皓原"
+            ],
+            "quizImage": "77a6639d4368e5a3-floor_id_12394_506.png"
+        },
+        "507": {
+            "question": "圖中的區域名稱是什麼 ?",
+            "answer": 1,
+            "answer_options": [
+                "寒霜冰川",
+                "熾熱荒土",
+                "神木森林",
+                "炙熱岩區"
+            ],
+            "quizImage": "6bd9bf182cd01b6d-floor_id_12394_507.png"
+        },
+        "508": {
+            "question": "圖中的區域名稱是什麼 ?",
+            "answer": 2,
+            "answer_options": [
+                "淨水幻泉",
+                "翠柏原森",
+                "神木森林",
+                "僻靜地域"
+            ],
+            "quizImage": "843eb354121ee437-floor_id_12394_508.png"
+        },
+        "509": {
+            "question": "圖中的區域名稱是什麼 ?",
+            "answer": 2,
+            "answer_options": [
+                "星雲神壇",
+                "中央城區",
+                "聖光之城",
+                "默息荒城"
+            ],
+            "quizImage": "439ae7c55f2a3940-floor_id_12394_509.png"
+        },
+        "510": {
+            "question": "圖中的區域名稱是什麼 ?",
+            "answer": 3,
+            "answer_options": [
+                "淨水幻泉",
+                "僻靜地域",
+                "殺戮戰窟",
+                "暗夜深淵"
+            ],
+            "quizImage": "9e24472166f230be-floor_id_12394_510.png"
+        },
+        "511": {
+            "question": "圖中的區域名稱是什麼 ?",
+            "answer": 0,
+            "answer_options": [
+                "競技場",
+                "聖城尼比魯",
+                "祭祀遺址",
+                "挑戰殿堂"
+            ],
+            "quizImage": "871efe83c22d3bd1-floor_id_12394_511.png"
+        },
+        "512": {
+            "question": "圖中的區域名稱是什麼 ?",
+            "answer": 2,
+            "answer_options": [
+                "永恒之牢",
+                "挑戰殿堂",
+                "聖城尼比魯",
+                "殺戮戰窟"
+            ],
+            "quizImage": "c7fcd98542eabe62-floor_id_12394_512.png"
+        },
+        "513": {
+            "question": "圖中的區域名稱是什麼 ?",
+            "answer": 2,
+            "answer_options": [
+                "中央城區",
+                "聖光之城",
+                "祭祀遺址",
+                "敬盼聖殿"
+            ],
+            "quizImage": "de7e55d3c29e9a89-floor_id_12394_513.png"
+        },
+        "514": {
+            "question": "圖中的區域名稱是什麼 ?",
+            "answer": 1,
+            "answer_options": [
+                "殺戮戰窟",
+                "永恒之牢",
+                "僻靜地域",
+                "暗夜深淵"
+            ],
+            "quizImage": "147a130dbb309279-floor_id_12394_514.png"
+        },
+        "515": {
+            "question": "圖中的區域名稱是什麼 ?",
+            "answer": 0,
+            "answer_options": [
+                "迷城入口",
+                "稠密工廠",
+                "神域大殿",
+                "以諾塔"
+            ],
+            "quizImage": "dcc0787552f0f892-floor_id_12394_515.png"
+        },
+        "516": {
+            "question": "以下哪個是圖中沒有的內容 ?",
+            "answer": 3,
+            "answer_options": [
+                "妲已",
+                "妖狐",
+                "藍托",
+                "加諾奧斯"
+            ],
+            "quizImage": "11a8f4f0a0d87fc1-floor_id_12394_516.png"
+        },
+        "517": {
+            "question": "以下哪個是圖中沒有的內容 ?",
+            "answer": 0,
+            "answer_options": [
+                "魔式幻兵",
+                "超獸魔神",
+                "以諾塔",
+                "雪下的城鎮"
+            ],
+            "quizImage": "09e6ada8d8149052-floor_id_12394_517.png"
+        },
+        "518": {
+            "question": "以下哪個是圖中沒有的內容 ?",
+            "answer": 2,
+            "answer_options": [
+                "零石通關",
+                "龍刻",
+                "競技場",
+                "加諾奧斯"
+            ],
+            "quizImage": "46835ec28dab2b20-floor_id_12394_518.png"
+        },
+        "519": {
+            "question": "以下哪個是圖中沒有的內容 ?",
+            "answer": 1,
+            "answer_options": [
+                "尋寶之旅",
+                "虛影世界",
+                "冰花",
+                "九封王"
+            ],
+            "quizImage": "adb3a2129028043c-floor_id_12394_519.png"
+        },
+        "520": {
+            "question": "以下哪個是圖中沒有的內容 ?",
+            "answer": 3,
+            "answer_options": [
+                "虛影世界",
+                "狂歡命運儀",
+                "古幣",
+                "牛魔王"
+            ],
+            "quizImage": "5d38669b4e522dc5-floor_id_12394_520.png"
+        },
+        "521": {
+            "question": "以下哪個是圖中沒有的內容 ?",
+            "answer": 0,
+            "answer_options": [
+                "熾焰萬年靈魂石",
+                "美索不達米亞",
+                "神魔特報",
+                "武鬥飛船"
+            ],
+            "quizImage": "2f1e30cd7ea0caa5-floor_id_12394_521.png"
+        },
+        "522": {
+            "question": "以下哪個系列沒有進化 ?",
+            "answer": 1,
+            "answer_options": [
+                "主角",
+                "瘋頭",
+                "希臘神像",
+                "異界龍"
+            ],
+            "quizImage": null
+        },
+        "523": {
+            "question": "以下哪個系列沒有潛能解放 ?",
+            "answer": 2,
+            "answer_options": [
+                "部落精獸",
+                "不死英雄",
+                "機偶使者",
+                "星詠之歌姬"
+            ],
+            "quizImage": null
+        },
+        "524": {
+            "question": "以下哪個系列沒有異空轉生 ?",
+            "answer": 1,
+            "answer_options": [
+                "巫女",
+                "希臘妖獸",
+                "命運女神",
+                "希臘神"
+            ],
+            "quizImage": null
+        },
+        "525": {
+            "question": "以下哪個系列沒有究極融煉 ?",
+            "answer": 3,
+            "answer_options": [
+                "魔族始源",
+                "北歐神",
+                "希臘神",
+                "中國神獸"
+            ],
+            "quizImage": null
+        },
+        "526": {
+            "question": "以下哪個篇章不是在「旅人的記憶」內 ?",
+            "answer": 0,
+            "answer_options": [
+                "嶄新冒險",
+                "遙古遺碑",
+                "封神仙境",
+                "獵人秘社遺址"
+            ],
+            "quizImage": null
+        },
+        "527": {
+            "question": "以下哪個篇章不是在「旅人的記憶」內 ?",
+            "answer": 2,
+            "answer_options": [
+                "以諾日記",
+                "天竺之巔",
+                "迦南奇歷",
+                "尼河權杖記傳"
+            ],
+            "quizImage": null
+        },
+        "528": {
+            "question": "以下哪個「輪迴」副本曾經在遊戲內出現 ?",
+            "answer": 0,
+            "answer_options": [
+                "不朽輪迴",
+                "不義輪迴",
+                "不愛輪迴",
+                "不斷輪迴"
+            ],
+            "quizImage": null
+        },
+        "529": {
+            "question": "以下哪個「輪迴」副本曾經在遊戲內出現 ?",
+            "answer": 2,
+            "answer_options": [
+                "不詳輪迴",
+                "不忠輪迴",
+                "不滅輪迴",
+                "不變輪迴"
+            ],
+            "quizImage": null
+        },
+        "530": {
+            "question": "以下圖中的角色是哪一位 ?",
+            "answer": 0,
+            "answer_options": [
+                "惡作劇精靈 ‧ 波加特",
+                "冰雪巫師 ‧ 波葛",
+                "掃除小精靈 ‧ 布朗尼",
+                "魅影劍客"
+            ],
+            "quizImage": "0b2123cb56ff5a44-floor_id_12394_530.png"
+        },
+        "531": {
+            "question": "以下圖中的角色是哪一位 ?",
+            "answer": 0,
+            "answer_options": [
+                "魅影劍客",
+                "惡作劇精靈 ‧ 波加特",
+                "冰雪巫師 ‧ 波葛",
+                "掃除小精靈 ‧ 布朗尼"
+            ],
+            "quizImage": "baad6873fe836094-floor_id_12394_531.png"
+        },
+        "532": {
+            "question": "以下哪個作品未曾跟《神魔之塔》合作 ?",
+            "answer": 3,
+            "answer_options": [
+                "哥吉拉",
+                "幽遊白書",
+                "鋼之鍊金術師",
+                "櫻桃小丸子"
+            ],
+            "quizImage": null
+        },
+        "533": {
+            "question": "以下哪個作品未曾跟《神魔之塔》合作 ?",
+            "answer": 1,
+            "answer_options": [
+                "天竺鼠車車",
+                "名偵探柯南",
+                "聖鬥士星矢",
+                "FAIRY TAIL 魔導少年"
+            ],
+            "quizImage": null
+        },
+        "534": {
+            "question": "以下哪個作品未曾跟《神魔之塔》合作 ?",
+            "answer": 2,
+            "answer_options": [
+                "霹靂布袋戲",
+                "軒轅劍",
+                "射鵰英雄傳",
+                "仙劍奇俠傳"
+            ],
+            "quizImage": null
+        },
+        "535": {
+            "question": "以下哪位不是封王 ?",
+            "answer": 3,
+            "answer_options": [
+                "噬日狼",
+                "奧丁",
+                "夏馬西",
+                "宙斯"
+            ],
+            "quizImage": null
+        },
+        "536": {
+            "question": "以下哪位不是封王 ?",
+            "answer": 2,
+            "answer_options": [
+                "姆姆",
+                "喰月狼",
+                "黑帝斯",
+                "毒龍尼德霍格"
+            ],
+            "quizImage": null
+        },
+        "537": {
+            "question": "以下哪位不是封王 ?",
+            "answer": 0,
+            "answer_options": [
+                "希拉",
+                "迪亞布羅",
+                "路西法",
+                "猶格索托斯"
+            ],
+            "quizImage": null
+        },
+        "538": {
+            "question": "以下哪位不是封王 ?",
+            "answer": 2,
+            "answer_options": [
+                "卡俄斯",
+                "薩魯曼",
+                "弗麗嘉",
+                "姬氏"
+            ],
+            "quizImage": null
         }
     }
 }
