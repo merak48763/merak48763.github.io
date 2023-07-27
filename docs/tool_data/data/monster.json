@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.401",
-        "dv": 12431,
-        "time": 1689851329
+        "dv": 12455,
+        "time": 1690453413
     },
     "monster": {
         "1": {
@@ -16895,9 +16895,21 @@
             "race": 5,
             "rarity": 6
         },
+        "2827": {
+            "name": "奇蹟冠禮 ‧ 矢車菊",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 7
+        },
         "2828": {
             "name": "繁花心扉 ‧ 櫻",
             "attribute": 2,
+            "race": 3,
+            "rarity": 7
+        },
+        "2829": {
+            "name": "妒愛陰霾 ‧ 水仙",
+            "attribute": 3,
             "race": 3,
             "rarity": 7
         },
@@ -16913,9 +16925,21 @@
             "race": 3,
             "rarity": 7
         },
+        "2832": {
+            "name": "牽絆永駐 ‧ 鈴蘭",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 7
+        },
         "2833": {
             "name": "畸愛狙殺 ‧ 芙蓉",
             "attribute": 2,
+            "race": 3,
+            "rarity": 7
+        },
+        "2834": {
+            "name": "斷刺煥新 ‧ 風信子",
+            "attribute": 5,
             "race": 3,
             "rarity": 7
         },
@@ -16976,6 +17000,12 @@
         "2907": {
             "name": "永帝應援 ‧ 秦始皇",
             "attribute": 1,
+            "race": 8,
+            "rarity": 6
+        },
+        "2908": {
+            "name": "魅世侵蝕 ‧ 夏娃",
+            "attribute": 3,
             "race": 8,
             "rarity": 6
         },
@@ -20420,6 +20450,12 @@
             "race": 2,
             "rarity": 6
         },
+        "6600": {
+            "name": "霸權傾軋 ‧ 秦始皇",
+            "attribute": 5,
+            "race": 8,
+            "rarity": 8
+        },
         "6601": {
             "name": "星夢彈奏 ‧ 珞答以",
             "attribute": 1,
@@ -20599,6 +20635,18 @@
             "attribute": 3,
             "race": 5,
             "rarity": 6
+        },
+        "6632": {
+            "name": "聖輝漪揚 ‧ 艾莉亞",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 8
+        },
+        "6633": {
+            "name": "炙愛烙魂 ‧ 詩蘭捷與賈比爾",
+            "attribute": 2,
+            "race": 2,
+            "rarity": 8
         },
         "6634": {
             "name": "豔光游蛇 ‧ 安潔莉娜",
@@ -24190,6 +24238,12 @@
             "attribute": 3,
             "race": 8,
             "rarity": 6
+        },
+        "10482": {
+            "name": "獨具獅威 ‧ 奎內塞",
+            "attribute": 2,
+            "race": 2,
+            "rarity": 5
         },
         "10483": {
             "name": "晴空踏浪 ‧ 瓦斐森",
