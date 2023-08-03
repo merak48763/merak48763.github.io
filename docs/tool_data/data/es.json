@@ -6906,37 +6906,58 @@
         "1088": {
             "title": "水屬技能回復",
             "desc": "首回合敵人會將水屬性成員的主動技能&nbsp;CD&nbsp;變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "1089": {
             "title": "火屬技能回復",
             "desc": "首回合敵人會將火屬性成員的主動技能&nbsp;CD&nbsp;變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "1090": {
             "title": "木屬技能回復",
             "desc": "首回合敵人會將木屬性成員的主動技能&nbsp;CD&nbsp;變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "1091": {
             "title": "光屬技能回復",
             "desc": "首回合敵人會將光屬性成員的主動技能&nbsp;CD&nbsp;變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "1092": {
             "title": "暗屬技能回復",
             "desc": "首回合敵人會將暗屬性成員的主動技能&nbsp;CD&nbsp;變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "1093": {
             "title": "三屬技能回復",
             "desc": "首回合敵人會將水、火及木屬性成員的主動技能&nbsp;CD&nbsp;變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "1094": {
             "title": "光暗屬技能回復",
             "desc": "首回合敵人會將光及暗屬性成員的主動技能&nbsp;CD&nbsp;變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                851
+            ]
         },
         "1095": {
             "title": "技能重置 ‧ 溢補盾",
@@ -37161,7 +37182,13 @@
         "6015": {
             "title": "【隱身 - 扣除 99% 現有生命力】",
             "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;99%&nbsp;現有生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                810
+            ],
+            "alticons": [
+                []
+            ]
         },
         "6016": {
             "title": "【風化符石】",
@@ -37351,27 +37378,32 @@
         "6040": {
             "title": "【敵屬變水】",
             "desc": "•&nbsp;敵人轉換為水屬性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6041": {
             "title": "【敵屬變火】",
             "desc": "•&nbsp;敵人轉換為火屬性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6042": {
             "title": "【敵屬變木】",
             "desc": "•&nbsp;敵人轉換為木屬性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6043": {
             "title": "【敵屬變光】",
             "desc": "•&nbsp;敵人轉換為光屬性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6044": {
             "title": "【敵屬變暗】",
             "desc": "•&nbsp;敵人轉換為暗屬性",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6045": {
             "title": "【克制敵屬限制形狀盾 - 反擊】",
@@ -42898,17 +42930,26 @@
         "6746": {
             "title": "【非威壓狀態 - 弱攻】",
             "desc": "•&nbsp;敵人所受傷害減至&nbsp;25%<br />•&nbsp;只有敵人置身在威壓狀態<br />⇒&nbsp;才會對其造成完整傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1260
+            ]
         },
         "6747": {
             "title": "【非威壓狀態 - 弱攻】",
             "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有敵人置身在威壓狀態<br />⇒&nbsp;才會對其造成完整傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1260
+            ]
         },
         "6748": {
             "title": "【非威壓狀態 - 弱攻】",
             "desc": "•&nbsp;只有敵人置身在威壓狀態<br />⇒&nbsp;才能對敵人造成傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1260
+            ]
         },
         "6749": {
             "title": "【10 次受擊護盾 - 水】",
