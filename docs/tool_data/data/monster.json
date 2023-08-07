@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.401",
-        "dv": 12455,
-        "time": 1690776181
+        "version": "2023.410",
+        "dv": 12511,
+        "time": 1691380596
     },
     "monster": {
         "1": {
@@ -24267,6 +24267,120 @@
             "name": "遐想奇獸 ‧ 幻鯨",
             "attribute": 1,
             "race": 2,
+            "rarity": 6
+        },
+        "10491": {
+            "name": "月夜黑貓團 ‧ 小幸",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "10492": {
+            "name": "閃光一劍 ‧ 亞絲娜",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10493": {
+            "name": "巨斧戰士 ‧ 艾基爾",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10494": {
+            "name": "虛擬導航 ‧ 結衣",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 6
+        },
+        "10495": {
+            "name": "黑色劍士 ‧ 桐人",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10496": {
+            "name": "風林火山 ‧ 克萊因",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10497": {
+            "name": "龍使 ‧ 西莉卡",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10498": {
+            "name": "鍛造師 ‧ 莉茲貝特",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10499": {
+            "name": "魔法劍士 ‧ 莉法",
+            "attribute": 3,
+            "race": 3,
+            "rarity": 6
+        },
+        "10500": {
+            "name": "神弓箭手 ‧ 詩音",
+            "attribute": 4,
+            "race": 3,
+            "rarity": 6
+        },
+        "10501": {
+            "name": "絕劍 ‧ 有紀",
+            "attribute": 5,
+            "race": 3,
+            "rarity": 6
+        },
+        "10502": {
+            "name": "水精靈 ‧ 朱涅",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 6
+        },
+        "10503": {
+            "name": "風精靈領主 ‧ 朔夜",
+            "attribute": 3,
+            "race": 3,
+            "rarity": 6
+        },
+        "10504": {
+            "name": "貓精靈領主 ‧ 亞麗莎",
+            "attribute": 4,
+            "race": 3,
+            "rarity": 6
+        },
+        "10507": {
+            "name": "桐人與亞絲娜與結衣",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 7
+        },
+        "10508": {
+            "name": "雜燴兔",
+            "attribute": 3,
+            "race": 7,
+            "rarity": 3
+        },
+        "10510": {
+            "name": "閃耀魔眼",
+            "attribute": 1,
+            "race": 2,
+            "rarity": 6
+        },
+        "10512": {
+            "name": "克拉帝爾",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10513": {
+            "name": "羅莎莉雅",
+            "attribute": 5,
+            "race": 1,
             "rarity": 6
         },
         "5001": {
