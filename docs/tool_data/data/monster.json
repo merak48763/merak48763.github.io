@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.410",
-        "dv": 12511,
-        "time": 1691380596
+        "dv": 12527,
+        "time": 1691663875
     },
     "monster": {
         "1": {
@@ -16955,6 +16955,12 @@
             "race": 5,
             "rarity": 6
         },
+        "2837": {
+            "name": "炮火堡壘 ‧ 斯特靈",
+            "attribute": 2,
+            "race": 10,
+            "rarity": 6
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -20634,6 +20640,12 @@
             "name": "混濁深潭 ‧ 約翰 ",
             "attribute": 3,
             "race": 5,
+            "rarity": 6
+        },
+        "6631": {
+            "name": "巨輪堡壘  ‧ 斯特靈",
+            "attribute": 2,
+            "race": 10,
             "rarity": 6
         },
         "6632": {
@@ -24353,6 +24365,18 @@
             "race": 3,
             "rarity": 6
         },
+        "10505": {
+            "name": "狂戰士補師 ‧ 亞絲娜",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 6
+        },
+        "10506": {
+            "name": "守衛精靈 ‧ 桐人",
+            "attribute": 5,
+            "race": 3,
+            "rarity": 6
+        },
         "10507": {
             "name": "桐人與亞絲娜與結衣",
             "attribute": 4,
@@ -24381,6 +24405,12 @@
             "name": "羅莎莉雅",
             "attribute": 5,
             "race": 1,
+            "rarity": 6
+        },
+        "10514": {
+            "name": "精靈王奧伯龍",
+            "attribute": 3,
+            "race": 3,
             "rarity": 6
         },
         "5001": {
