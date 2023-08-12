@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.410",
-        "dv": 21920,
-        "time": 1691380596
+        "dv": 21940,
+        "time": 1691663875
     },
     "es": {
         "0": {
@@ -398,6 +398,9 @@
             "custom_desc": "",
             "icons": [
                 1009
+            ],
+            "keywords": [
+                "無視減傷"
             ]
         },
         "52": {
@@ -2990,6 +2993,9 @@
             "title": "自爆-命懸一線",
             "desc": "敵人死亡後會讓召喚師生命力剩&nbsp;1&nbsp;點",
             "custom_desc": "",
+            "icons": [
+                1006
+            ],
             "keywords": [
                 "亡命爆擊"
             ]
@@ -4193,7 +4199,10 @@
         "584": {
             "title": "龍脈回復",
             "desc": "首回合敵人會將龍脈儀儲滿",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                856
+            ]
         },
         "585": {
             "title": "三屬盾-限",
@@ -9172,7 +9181,10 @@
         "1511": {
             "title": "(7回人攻2倍) ‧ 自殺",
             "desc": "7&nbsp;回合內，人類成員的攻擊力提升&nbsp;2&nbsp;倍。<br />敵人下回合會扣除自身生命力&nbsp;100%，期間不受任何攻擊傷害及無視所有控制技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                651
+            ]
         },
         "1512": {
             "title": "(3回獸攻2倍) ‧ 自殺",
@@ -14240,9 +14252,12 @@
             "custom_desc": ""
         },
         "2472": {
-            "title": "",
+            "title": "生命回復",
             "desc": "首回合召喚師完全回復生命力",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1117
+            ]
         },
         "2473": {
             "title": "",
@@ -16887,9 +16902,14 @@
             ]
         },
         "2975": {
-            "title": "",
+            "title": "CD1 ‧ 克敵屬以外弱攻 ‧ 一擊不滅 ‧ 愈戰愈強 - 連擊",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br />只有克制敵人屬性的攻擊才會對敵人造成傷害。<br />敵人當前生命力為&nbsp;50%&nbsp;或以上時，下一次所受傷害不會使其死亡&nbsp;(包括主動技)。<br />敵人生命力愈低時，連擊次數愈多",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                901,
+                1001,
+                1058
+            ]
         },
         "2976": {
             "title": "",
@@ -20940,16 +20960,13 @@
             "custom_desc": ""
         },
         "3663": {
-            "title": "含-幻影旅團-突擊-禁錮旅團成員 ‧ 解鎖技無效 ‧ 首消光傷害吸收 ‧ 無法控制",
+            "title": "隊中有【幻影旅團】- 突擊 - 錮縛-技能、攻擊 ‧ 反首消光符石盾 - 化血 ‧ 無法控制",
             "desc": "隊伍中有「幻影旅團」成員：<br />⓵&nbsp;首回合優先突擊&nbsp;1&nbsp;次。<br /><br />⓶&nbsp;永久封鎖「幻影旅團」成員<br />的主動技能及其攻擊。<br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />無視所有控制技能。",
             "custom_desc": "<span class=\"annotation\">ambush 10</span>",
             "icons": [
                 264,
                 855,
                 853
-            ],
-            "keywords": [
-                "金鎖鏈"
             ]
         },
         "3664": {
@@ -20966,16 +20983,13 @@
             ]
         },
         "3665": {
-            "title": "含-幻影旅團-突擊-禁錮旅團成員 ‧ 解鎖技無效 ‧ 首消光傷害吸收-連續反彈100% ‧ 無法控制",
+            "title": "隊中有【幻影旅團】- 突擊 - 錮縛-技能、攻擊 ‧ 反首消光符石盾 - 化血 - 反擊 ‧ 無法控制",
             "desc": "隊伍中有「幻影旅團」成員：<br />⓵&nbsp;首回合優先攻擊&nbsp;1&nbsp;次。<br /><br />⓶&nbsp;永久封鎖「幻影旅團」成員<br />的主動技能及其攻擊。<br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
             "custom_desc": "<span class=\"annotation\">ambush 10</span>",
             "icons": [
                 314,
                 855,
                 853
-            ],
-            "keywords": [
-                "金鎖鏈"
             ]
         },
         "3666": {
@@ -21354,25 +21368,17 @@
             ]
         },
         "3725": {
-            "title": "命懸一線 ‧ 三回超級禁錮 ‧ 黑白符石 ‧ 回復力減弱95%",
+            "title": "命懸一線 ‧ 錮縛 - 技能、攻擊 ‧ 幽閉空間 ‧ 回復弱化",
             "desc": "首回合召喚師生命力剩&nbsp;1&nbsp;點<br /><br />3&nbsp;回合內，封鎖所有成員的<br />主動技能及其攻擊。<br /><br />所有符石變為黑白色。<br /><br />所有成員的回復力減至&nbsp;5%。",
-            "custom_desc": "",
-            "keywords": [
-                "金鎖鏈",
-                "幽閉空間"
-            ]
+            "custom_desc": ""
         },
         "3726": {
-            "title": "命懸一線 ‧ 三回超級禁錮 ‧ 黑白符石-硬4秒轉珠 ‧ 回復力減弱95%",
+            "title": "命懸一線 ‧ 錮縛 - 技能、攻擊 ‧ 幽閉空間 - 4 秒轉珠 ‧ 回復弱化",
             "desc": "首回合召喚師生命力剩&nbsp;1&nbsp;點<br /><br />3&nbsp;回合內，封鎖所有成員的<br />主動技能及其攻擊。<br /><br />所有符石變為黑白色。<br />效果期間，<br />移動符石時間變為<em>&nbsp;4&nbsp;秒</em>。<br />(<em>「界限突破及排珠類」以外</em>的時間技能<em>失效</em>)<br /><br />所有成員的回復力減至&nbsp;5%。",
-            "custom_desc": "",
-            "keywords": [
-                "金鎖鏈",
-                "幽閉空間"
-            ]
+            "custom_desc": ""
         },
         "3727": {
-            "title": "命懸一線 ‧ 三回超級禁錮 ‧ 黑白符石-首消6+Combo盾 ‧ 回復力減弱95%",
+            "title": "命懸一線 ‧ 錮縛 - 技能、攻擊 ‧ 幽閉空間 - 首消 ≥6 連擊盾 ‧ 回復弱化",
             "desc": "首回合召喚師生命力剩&nbsp;1&nbsp;點<br /><br />3&nbsp;回合內，封鎖所有成員的<br />主動技能及其攻擊。<br /><br />所有符石變為黑白色。<br />效果期間，<br />首批消除&nbsp;≥6&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會發動攻擊。<br /><br />所有成員的回復力減至&nbsp;5%。",
             "custom_desc": "",
             "icons": [
@@ -21381,8 +21387,6 @@
                 853
             ],
             "keywords": [
-                "金鎖鏈",
-                "幽閉空間",
                 "首消連擊盾"
             ]
         },
@@ -42195,7 +42199,7 @@
         "6624": {
             "title": "【隊中有【調查兵團】- 綑綁】",
             "desc": "•&nbsp;隊中有【調查兵團】成員<br />⇒&nbsp;綑綁敵人，<br />&nbsp;&nbsp;&nbsp;&nbsp;使受影響目標無法行動<br />•【調查兵團】成員愈多<br />⇒&nbsp;持續回合愈多<br />⇒&nbsp;5&nbsp;個【調查兵團】成員<br />&nbsp;&nbsp;&nbsp;&nbsp;可綑綁敵人&nbsp;3&nbsp;回合",
-            "custom_desc": "<span class=\"annotation\">table 成員數量,1,2,3,4,5,6 回合數,1,1,2,2,3,3</span>",
+            "custom_desc": "<details><summary>綑綁</summary><span class=\"annotation\">table 成員數量,1,2,3,4,5,6 回合數,1,1,2,2,3,3</span></details>",
             "icons": [
                 1068
             ]
@@ -42745,72 +42749,135 @@
         "6678": {
             "title": "【沉默狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1139
+            ]
         },
         "6679": {
             "title": "【沉默狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1139
+            ]
         },
         "6680": {
             "title": "【沉默狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1139
+            ]
         },
         "6681": {
             "title": "【沉默狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1139
+            ]
         },
         "6682": {
             "title": "【沉默狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1139
+            ]
         },
         "6683": {
             "title": "【沉默狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1139
+            ]
         },
         "6684": {
             "title": "【沉默狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1139
+            ]
         },
         "6685": {
             "title": "【痲痺狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1140
+            ],
+            "keywords": [
+                "麻痺狀態"
+            ]
         },
         "6686": {
             "title": "【痲痺狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1140
+            ],
+            "keywords": [
+                "麻痺狀態"
+            ]
         },
         "6687": {
             "title": "【痲痺狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1140
+            ],
+            "keywords": [
+                "麻痺狀態"
+            ]
         },
         "6688": {
             "title": "【痲痺狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1140
+            ],
+            "keywords": [
+                "麻痺狀態"
+            ]
         },
         "6689": {
             "title": "【痲痺狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1140
+            ],
+            "keywords": [
+                "麻痺狀態"
+            ]
         },
         "6690": {
             "title": "【痲痺狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1140
+            ],
+            "keywords": [
+                "麻痺狀態"
+            ]
         },
         "6691": {
             "title": "【痲痺狀態】",
             "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1140
+            ],
+            "keywords": [
+                "麻痺狀態"
+            ]
         },
         "6692": {
             "title": "【亢奮變疲憊狀態】",
@@ -42845,7 +42912,10 @@
         "6698": {
             "title": "【亢奮變痲痺狀態】",
             "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-            "custom_desc": ""
+            "custom_desc": "",
+            "keywords": [
+                "麻痺狀態"
+            ]
         },
         "6736": {
             "title": "【請回答問題】",
