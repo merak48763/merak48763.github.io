@@ -52,3 +52,31 @@ function get_fixed_position(pos_repr) {
     
     return get_fixed_shape('5 6 ' + board_repr);
 }
+
+function generic_board(arg) {
+    // generic_board <w> <h> <shape> <variables...>
+    // ex: generic_board 3 3 010121010 dark,god dark_e
+    const tokens = arg.split(" ");
+    const width = parseInt(tokens[0]);
+    const height = parseInt(tokens[1]);
+    const shape = tokens[2];
+    const variables = [["none"]];
+    tokens.slice(3).forEach(str => {
+        variables.push(str.split(","));
+    });
+
+    const image_base = "/tool_data/image/rune/";
+    let board_html = `<table class="fixed_board">`;
+    for(let r=0; r<height; ++r) {
+        board_html += "<tr>";
+        for(let c=0; c<width; ++c) {
+            const rune_id = parseInt(shape[r*width+c]);
+            const rune_images = variables[rune_id].map(name => `<img src="${image_base}${name}.png" />`);
+            board_html += `<td>${rune_images.join("")}</td>`;
+        }
+        board_html += "</tr>";
+    }
+    board_html += "</table>";
+
+    return board_html;
+}

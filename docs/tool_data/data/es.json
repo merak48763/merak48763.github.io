@@ -25396,7 +25396,7 @@
         "4362": {
             "title": "【封王核心】",
             "desc": "#title0#【封王核心】<br />#desc0#<br /><br />#title0#【核心封閉時】<br />#desc0#•「常世否定&nbsp;‧&nbsp;姬氏」<br />&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒&nbsp;張開核心<br /><br />#title0#【核心張開後】<br />#desc0#<br />#title1#【「水、火、木」強化<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;連擊相等盾】<br />#desc1#•&nbsp;同時首批消除相同組數的<br />&nbsp;「水、火及木」強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />#title1#【十字限盾&nbsp;(≥3&nbsp;組)】<br />#desc1#•&nbsp;以【十】形首批消除<br />&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
-            "custom_desc": "七封災厄 (核心)<br /><ul><li>「無視連擊相等」類技能正常運作</li><li>【十字限盾】不可連同十字外旁邊的符石消除，只消除十字形狀的5顆才算數</li><li>版面參考解 (by 天堂)：<span class=\"annotation\">fixed_board e0b0e0909090b0b0b0e0a0e0a0b090a0a0a0a0909090a0e0a0e090b0b0b0</span></li></ul>",
+            "custom_desc": "七封災厄 (核心)<br /><ul><li>「無視連擊相等」類技能正常運作</li><li>【十字限盾】不可連同十字外旁邊的符石消除，只消除十字形狀的5顆才算數</li><li>版面參考解 (by 天堂)：<span class=\"annotation\">generic_board 6 5 434111333424231222211124241333 water_e fire_e earth_e heart_e</span></li></ul>",
             "keywords": [
                 "災厄級"
             ]
@@ -34077,7 +34077,24 @@
         "5634": {
             "title": "【符石轉換 ‧ 固定連擊凝護】",
             "desc": "•&nbsp;每回合將所有符石轉換<br /><br />•&nbsp;達成首消固定連擊&nbsp;(Combo)<br />⓵&nbsp;可扣除敵人&nbsp;20%&nbsp;生命力<br />⓶&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;沒有達成上述條件<br />⇒&nbsp;敵人發動攻擊",
-            "custom_desc": "<span class=\"annotation\">assigned_combo 5 6 7 8 9</span>"
+            "custom_desc": "<span class=\"annotation\">assigned_combo 5 6 7 8 9</span>",
+            "icons": [
+                5
+            ],
+            "alticons": [
+                [
+                    6
+                ],
+                [
+                    7
+                ],
+                [
+                    8
+                ],
+                [
+                    9
+                ]
+            ]
         },
         "5635": {
             "title": "【符石轉換】",
@@ -38500,7 +38517,7 @@
         "6176": {
             "title": "【屬性連擊零化 (循環)】",
             "desc": "•【指定屬性連擊零化】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init 敵人屬性</span>",
             "icons": [
                 40421
             ],
