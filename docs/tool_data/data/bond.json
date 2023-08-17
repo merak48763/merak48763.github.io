@@ -4282,5 +4282,29 @@
             0,
             0
         ]
+    },
+    {
+        "owner": 10516,
+        "condition": 10517,
+        "conditionType": 2,
+        "ability": 20003,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10517,
+        "condition": 10516,
+        "conditionType": 2,
+        "ability": 20003,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
     }
 ]

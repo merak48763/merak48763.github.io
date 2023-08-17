@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.411",
-        "dv": 12527,
-        "time": 1691742743
+        "dv": 12539,
+        "time": 1692264625
     },
     "monster": {
         "1": {
@@ -24395,6 +24395,12 @@
             "race": 2,
             "rarity": 6
         },
+        "10511": {
+            "name": "骸骨獵殺者",
+            "attribute": 2,
+            "race": 8,
+            "rarity": 6
+        },
         "10512": {
             "name": "克拉帝爾",
             "attribute": 4,
@@ -24411,6 +24417,24 @@
             "name": "精靈王奧伯龍",
             "attribute": 3,
             "race": 3,
+            "rarity": 6
+        },
+        "10516": {
+            "name": "冰之狙擊手 ‧ 詩音",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10517": {
+            "name": "光劍神槍 ‧ 桐人",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10518": {
+            "name": "死槍",
+            "attribute": 5,
+            "race": 1,
             "rarity": 6
         },
         "5001": {
