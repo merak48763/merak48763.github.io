@@ -1,7 +1,7 @@
 {
     "last_update": {
-        "version": "2023.401",
-        "time": 1689851329
+        "version": "2023.411",
+        "time": 1692675660
     },
     "quiz": {
         "1": {
@@ -5570,6 +5570,446 @@
                 "薩魯曼",
                 "弗麗嘉",
                 "姬氏"
+            ],
+            "quizImage": null
+        },
+        "539": {
+            "question": "以下哪位不是封王 ?",
+            "answer": 3,
+            "answer_options": [
+                "姆姆",
+                "夏馬西",
+                "卡俄斯",
+                "莎娜"
+            ],
+            "quizImage": null
+        },
+        "540": {
+            "question": "以下哪位不是中國神系列？",
+            "answer": 2,
+            "answer_options": [
+                "德王顯仁 ‧ 敖廣",
+                "火輪天王 ‧ 哪吒",
+                "顯聖真君 ‧ 楊戩",
+                "風馳於世 ‧ 牛魔王"
+            ],
+            "quizImage": null
+        },
+        "541": {
+            "question": "以下哪位不是代偶規條系列？",
+            "answer": 3,
+            "answer_options": [
+                "編號 6666 ‧ 依貝思",
+                "無束天賦 ‧ 因其都",
+                "編號 8299 ‧ 南納",
+                "夢詠守望 ‧ 英格麗"
+            ],
+            "quizImage": null
+        },
+        "542": {
+            "question": "以下哪位不是妖魔傾城系列？",
+            "answer": 1,
+            "answer_options": [
+                "魔性原罪 · 夏娃",
+                "同位素放射 ‧ 瑪麗居禮",
+                "后儀天下 · 武則天",
+                "殉愛杳渺 · 楊玉環"
+            ],
+            "quizImage": null
+        },
+        "543": {
+            "question": "分解「貝貝豬」可獲得多少金幣？",
+            "answer": 2,
+            "answer_options": [
+                "1,000",
+                "10,000",
+                "500,000",
+                "1,000,000"
+            ],
+            "quizImage": null
+        },
+        "544": {
+            "question": "分解「黃金蝦」可以獲得多少金幣？",
+            "answer": 2,
+            "answer_options": [
+                "500,000",
+                "1,000,000",
+                "1,500,000",
+                "2,000,000"
+            ],
+            "quizImage": null
+        },
+        "545": {
+            "question": "分解「珍寶黃金大蝦」可以獲得多少個金幣？",
+            "answer": 3,
+            "answer_options": [
+                "1,000,000",
+                "1,500,000",
+                "2,000,000",
+                "3,000,000"
+            ],
+            "quizImage": null
+        },
+        "546": {
+            "question": "分解「繁衍之結晶」可獲得多少靈魂？",
+            "answer": 2,
+            "answer_options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "quizImage": null
+        },
+        "547": {
+            "question": "分解「精華搜捕者」可獲得多少靈魂？",
+            "answer": 1,
+            "answer_options": [
+                "1",
+                "10",
+                "100",
+                "1000"
+            ],
+            "quizImage": null
+        },
+        "548": {
+            "question": "分解「蘊魔晶寵」可獲得多少靈魂？",
+            "answer": 0,
+            "answer_options": [
+                "50",
+                "100",
+                "150",
+                "200"
+            ],
+            "quizImage": null
+        },
+        "549": {
+            "question": "分解「金果蛾龍」可獲得多少靈魂？",
+            "answer": 2,
+            "answer_options": [
+                "50",
+                "100",
+                "150",
+                "200"
+            ],
+            "quizImage": null
+        },
+        "550": {
+            "question": "合成「人面雛鳥」可提升多少回合數？",
+            "answer": 1,
+            "answer_options": [
+                "100",
+                "200",
+                "300",
+                "400"
+            ],
+            "quizImage": null
+        },
+        "551": {
+            "question": "合成「人面怪鳥」可提升多少回合數？",
+            "answer": 2,
+            "answer_options": [
+                "1000",
+                "2000",
+                "3000",
+                "4000"
+            ],
+            "quizImage": null
+        },
+        "552": {
+            "question": "合成「人面鳥王」可提升多少回合數？",
+            "answer": 3,
+            "answer_options": [
+                "13160",
+                "13260",
+                "23160",
+                "23260"
+            ],
+            "quizImage": null
+        },
+        "553": {
+            "question": "以下哪位不是人類？",
+            "answer": 1,
+            "answer_options": [
+                "漫步紅毯 ‧ 心蘋果",
+                "刪卡女友 · 小蘋果",
+                "華燈俏影 ‧ 毛毛",
+                "昭昭登場 ‧ 貓包子"
+            ],
+            "quizImage": null
+        },
+        "554": {
+            "question": "以下哪位不是人類？",
+            "answer": 3,
+            "answer_options": [
+                "日輪恩典 ‧ 高文",
+                "晨曦嚮導 ‧ 崔斯坦",
+                "惑語編織 ‧ 加雷斯",
+                "炙烈熔岩 ‧ 克魯非"
+            ],
+            "quizImage": null
+        },
+        "555": {
+            "question": "以下哪位不是獸類？",
+            "answer": 2,
+            "answer_options": [
+                "言采機靈 ‧ 熾夢",
+                "琴息濯洗 ‧ 霏音",
+                "虎吼光甲 ‧ 劍齒虎",
+                "翳沒幽謐 ‧ 洛墨"
+            ],
+            "quizImage": null
+        },
+        "556": {
+            "question": "以下哪位不是獸類？",
+            "answer": 2,
+            "answer_options": [
+                "爆炸鬍子 · 達達摩",
+                "腹鼓震天 · 響狸",
+                "殲敵機鳥 ‧ 加諾奧斯二世",
+                "幸運招財 · 雪喵子"
+            ],
+            "quizImage": null
+        },
+        "557": {
+            "question": "以下哪位不是龍類？",
+            "answer": 3,
+            "answer_options": [
+                "萌龍響樂 ‧ 卑彌呼",
+                "和氏之璧 ‧ 青圭",
+                "林風連繫 ‧ 芭芭拉",
+                "朔月帝女 ‧ 卑彌呼"
+            ],
+            "quizImage": null
+        },
+        "558": {
+            "question": "以下哪位不是龍類？",
+            "answer": 3,
+            "answer_options": [
+                "深潛迴聲 ‧ 烏蘇拉",
+                "爆燃領袖 ‧ 愛格德",
+                "不朽風祭 ‧ 芭芭拉",
+                "水幻冰藍 ‧ 米菲波"
+            ],
+            "quizImage": null
+        },
+        "559": {
+            "question": "以下哪位不是妖精類？",
+            "answer": 0,
+            "answer_options": [
+                "盈水劍舞 · 冰花",
+                "繞尖芬芳 ‧ 睡蓮",
+                "導火指令 ‧ 珞答以",
+                "三焰合舞 ‧ 風花葉"
+            ],
+            "quizImage": null
+        },
+        "560": {
+            "question": "以下哪位不是妖精類？",
+            "answer": 1,
+            "answer_options": [
+                "鶴立史群 ‧ 大力姆",
+                "烈心豔鬥 ‧ 梅根",
+                "樂韻悠揚 ‧ 梅樂蒂",
+                "刻骨銘愛 ‧ 米蘭達"
+            ],
+            "quizImage": null
+        },
+        "561": {
+            "question": "以下哪位不是神族？",
+            "answer": 1,
+            "answer_options": [
+                "風神怒疾 ‧ 志那都",
+                "武裝狂醫 · 新月",
+                "雷神耀天 ‧ 晴賀",
+                "雛祭令嬡 ‧ 京子"
+            ],
+            "quizImage": null
+        },
+        "562": {
+            "question": "以下哪位不是神族？",
+            "answer": 0,
+            "answer_options": [
+                "搖光逐律 ‧ 畫珒",
+                "命序解構 ‧ 瑪努恩",
+                "蜃樓星火 ‧ 伊斯塔",
+                "星辰之理 ‧ 蘇因"
+            ],
+            "quizImage": null
+        },
+        "563": {
+            "question": "以下哪位不是魔族？",
+            "answer": 3,
+            "answer_options": [
+                "魔權在握 ‧ 巴力",
+                "瀾漫勾惑 ‧ 夏娃",
+                "全知的惡魔 · 拉普拉斯",
+                "永駐的仿魂 ‧ 亞當"
+            ],
+            "quizImage": null
+        },
+        "564": {
+            "question": "以下哪位不是魔族？",
+            "answer": 3,
+            "answer_options": [
+                "仇業佈局 ‧ 拿破崙",
+                "血色燎裾 ‧ 萊蒂西亞",
+                "禍心形身  ‧ 卡洛",
+                "無序飢餓 ‧ 哈佛"
+            ],
+            "quizImage": null
+        },
+        "565": {
+            "question": "以下哪位不是機械族？",
+            "answer": 0,
+            "answer_options": [
+                "隱形殺戮者7009",
+                "接待機體序號7208",
+                "武裝機體序號5213",
+                "特殊機體序號2234"
+            ],
+            "quizImage": null
+        },
+        "566": {
+            "question": "以下哪位不是機械族？",
+            "answer": 1,
+            "answer_options": [
+                "制霸拳皇 ‧ 阿里",
+                "皓羽疾影 ‧ 雨果",
+                "驕陽永耀 ‧ 阿圖姆",
+                "光艦升空 ‧ 金字塔"
+            ],
+            "quizImage": null
+        },
+        "567": {
+            "question": "以下哪個系列沒有進化 ?",
+            "answer": 3,
+            "answer_options": [
+                "墮天",
+                "三國",
+                "大和",
+                "八仙"
+            ],
+            "quizImage": null
+        },
+        "568": {
+            "question": "以下哪個系列沒有進化 ?",
+            "answer": 2,
+            "answer_options": [
+                "神貓大盜",
+                "科研敍論",
+                "上古諸神",
+                "妖魔傾城"
+            ],
+            "quizImage": null
+        },
+        "569": {
+            "question": "以下哪個系列沒有變身 ?",
+            "answer": 3,
+            "answer_options": [
+                "獵人×獵人",
+                "聖鬥士星矢",
+                "超人",
+                "間諜  x 超能力者 x 殺手"
+            ],
+            "quizImage": null
+        },
+        "570": {
+            "question": "以下哪個系列沒有變身 ?",
+            "answer": 3,
+            "answer_options": [
+                "ROCKMAN X DiVE",
+                "假面騎士",
+                "進擊的巨人",
+                "咒術迴戰"
+            ],
+            "quizImage": null
+        },
+        "571": {
+            "question": "以下哪個系列沒有合體 ?",
+            "answer": 2,
+            "answer_options": [
+                "真理追尋者",
+                "天元突破",
+                "新世紀福音戰士",
+                "棋魂"
+            ],
+            "quizImage": null
+        },
+        "572": {
+            "question": "以下哪個系列沒有合體 ?",
+            "answer": 2,
+            "answer_options": [
+                "不死英雄",
+                "NOVA-H",
+                "假面騎士",
+                "數碼暴龍"
+            ],
+            "quizImage": null
+        },
+        "573": {
+            "question": "以下哪個系列沒有潛能解放 ?",
+            "answer": 3,
+            "answer_options": [
+                "封神演義",
+                "黃道十二宮",
+                "古蹟源龍",
+                "巨像"
+            ],
+            "quizImage": null
+        },
+        "574": {
+            "question": "以下哪個系列沒有潛能解放 ?",
+            "answer": 0,
+            "answer_options": [
+                "機偶使者",
+                "不死英雄",
+                "巫女",
+                "異界龍"
+            ],
+            "quizImage": null
+        },
+        "575": {
+            "question": "以下哪個系列沒有異空轉生 ?",
+            "answer": 0,
+            "answer_options": [
+                "超人",
+                "假面騎士",
+                "數碼暴龍",
+                "刀劍神域"
+            ],
+            "quizImage": null
+        },
+        "576": {
+            "question": "以下哪個系列沒有異空轉生 ?",
+            "answer": 3,
+            "answer_options": [
+                "龍僕",
+                "誓約之花",
+                "鮮紅恩典",
+                "魔族始源"
+            ],
+            "quizImage": null
+        },
+        "577": {
+            "question": "以下哪個系列沒有究極融煉 ?",
+            "answer": 2,
+            "answer_options": [
+                "魔族始源",
+                "希臘神",
+                "古希臘神",
+                "北歐神"
+            ],
+            "quizImage": null
+        },
+        "578": {
+            "question": "以下哪個系列沒有究極融煉 ?",
+            "answer": 2,
+            "answer_options": [
+                "巴比倫主神",
+                "埃及神",
+                "埃及皇權",
+                "中國神"
             ],
             "quizImage": null
         }

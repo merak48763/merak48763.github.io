@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.410",
-        "dv": 21940,
-        "time": 1691663875
+        "dv": 21950,
+        "time": 1692264625
     },
     "es": {
         "0": {
@@ -30981,7 +30981,7 @@
         "5239": {
             "title": "【結界守護狀態 - 光牢穿梭】",
             "desc": "於結界地型內<br />首批消除角色符石：<br /><br />3&nbsp;回合內，<br />該角色的角色符石觸碰<br />「連環光牢」射擊位置時<br />&nbsp;&nbsp;仍可移動符石",
-            "custom_desc": "<ul><li>屬於附加狀態，會與亢奮、疲憊等狀態衝突</li></ul>",
+            "custom_desc": "",
             "icons": []
         },
         "5240": {
@@ -31083,7 +31083,7 @@
         "5252": {
             "title": "【灼熱守護狀態 - 黏腐穿梭】",
             "desc": "於灼熱地型內<br />首批消除角色符石：<br /><br />3&nbsp;回合內，該角色符石觸碰<br />黏腐位置時仍可移動符石",
-            "custom_desc": "<ul><li>屬於附加狀態，會與亢奮、疲憊等狀態衝突</li></ul>",
+            "custom_desc": "",
             "icons": []
         },
         "5253": {
@@ -42993,7 +42993,7 @@
         "6743": {
             "title": "【請回答問題】",
             "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">quiz 50063,50064,50065,50066 506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578</span>",
             "icons": [
                 1038
             ]
@@ -43528,7 +43528,7 @@
         "6814": {
             "title": "戰鬥圖板 - 越扣越強25%",
             "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
-            "custom_desc": "<ul><li>圖片來源：絕對不是拆包</li></ul><span class=\"annotation\">battle_puzzle 3 3 BattlePuzzle6814</span><span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "custom_desc": "<ul><li>唯一真神說來源不是拆包，所以圖片來源不是拆包</li></ul><span class=\"annotation\">battle_puzzle 3 3 BattlePuzzle6814</span><span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
             "icons": [
                 1039
             ]
