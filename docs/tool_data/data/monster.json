@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.411",
-        "dv": 12539,
-        "time": 1692330109
+        "dv": 12551,
+        "time": 1692871140
     },
     "monster": {
         "1": {
@@ -17015,6 +17015,12 @@
             "race": 8,
             "rarity": 6
         },
+        "2909": {
+            "name": "嶄新開端 ‧ 蚩尤",
+            "attribute": 4,
+            "race": 5,
+            "rarity": 6
+        },
         "2911": {
             "name": "暴虐之翼 ‧ 路西法",
             "attribute": 4,
@@ -24263,6 +24269,12 @@
             "race": 8,
             "rarity": 5
         },
+        "10484": {
+            "name": "海韻音律 ‧ 梅樂蒂",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 6
+        },
         "10485": {
             "name": "碩荒制海 ‧ 克洛怡",
             "attribute": 4,
@@ -24389,6 +24401,12 @@
             "race": 7,
             "rarity": 3
         },
+        "10509": {
+            "name": "希茲克利夫",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
         "10510": {
             "name": "閃耀魔眼",
             "attribute": 1,
@@ -24417,6 +24435,12 @@
             "name": "精靈王奧伯龍",
             "attribute": 3,
             "race": 3,
+            "rarity": 6
+        },
+        "10515": {
+            "name": "魔王黑巨人",
+            "attribute": 5,
+            "race": 8,
             "rarity": 6
         },
         "10516": {
