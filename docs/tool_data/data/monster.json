@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.411",
-        "dv": 12551,
-        "time": 1692871140
+        "dv": 12552,
+        "time": 1693283613
     },
     "monster": {
         "1": {
@@ -17286,16 +17286,10 @@
             "rarity": 6
         },
         "6024": {
-            "name": "Terry",
-            "attribute": 4,
-            "race": 1,
-            "rarity": 8
+            "name": "Terry"
         },
         "6025": {
-            "name": "Terence",
-            "attribute": 5,
-            "race": 1,
-            "rarity": 8
+            "name": "Terence"
         },
         "6026": {
             "name": "浴血戰王‧ 吉爾伽美什",
@@ -18036,10 +18030,7 @@
             "rarity": 7
         },
         "6151": {
-            "name": "千殛雷霆 · 神皇宙斯",
-            "attribute": 4,
-            "race": 5,
-            "rarity": 8
+            "name": "千殛雷霆 · 神皇宙斯"
         },
         "6153": {
             "name": "鐵扇公主 ‧ 羅剎女",
@@ -18423,10 +18414,7 @@
             "name": "受辱狂歡 ‧ 達克妮絲"
         },
         "6219": {
-            "name": "地獄公爵 ‧ 巴尼爾",
-            "attribute": 5,
-            "race": 8,
-            "rarity": 6
+            "name": "地獄公爵 ‧ 巴尼爾"
         },
         "6220": {
             "name": "無頭騎士 ‧ 貝爾迪亞",
@@ -24405,7 +24393,7 @@
             "name": "希茲克利夫",
             "attribute": 2,
             "race": 1,
-            "rarity": 6
+            "rarity": 7
         },
         "10510": {
             "name": "閃耀魔眼",

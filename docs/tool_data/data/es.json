@@ -37394,7 +37394,10 @@
         "6039": {
             "title": "【移動符石時間愈長 - 加攻】",
             "desc": "•&nbsp;移動符石時間愈長<br />⇒&nbsp;敵人攻擊力愈高",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1060
+            ]
         },
         "6040": {
             "title": "【敵屬變水】",
@@ -43490,7 +43493,7 @@
             "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥10,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
             "custom_desc": "",
             "icons": [
-                231
+                1039
             ]
         },
         "6810": {
@@ -43498,7 +43501,7 @@
             "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥30,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
             "custom_desc": "",
             "icons": [
-                232
+                1039
             ]
         },
         "6811": {
@@ -43506,7 +43509,7 @@
             "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥50,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
             "custom_desc": "",
             "icons": [
-                233
+                1039
             ]
         },
         "6812": {
@@ -43514,7 +43517,7 @@
             "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥70,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
             "custom_desc": "",
             "icons": [
-                234
+                1039
             ]
         },
         "6813": {
@@ -43522,7 +43525,7 @@
             "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥90,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
             "custom_desc": "",
             "icons": [
-                235
+                1039
             ]
         },
         "6814": {
