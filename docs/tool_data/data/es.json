@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.411",
-        "dv": 21964,
-        "time": 1693475930
+        "version": "2023.500",
+        "dv": 22228,
+        "time": 1694425706
     },
     "es": {
         "0": {
@@ -33,7 +33,7 @@
             ]
         },
         "3": {
-            "title": "剋屬盾 ‧ 棄攻轉屬",
+            "title": "克敵屬以外弱攻 ‧ 屬性轉換",
             "desc": "只有克制敵人屬性的攻擊才會對敵人造成傷害。敵人每隔&nbsp;1&nbsp;次&nbsp;(CD&nbsp;0)&nbsp;便會放棄發動攻擊機會，並轉換自身屬性。",
             "custom_desc": "",
             "icons": [
@@ -57,17 +57,17 @@
             ]
         },
         "6": {
-            "title": "光暗屬輪轉 ‧ 心剋轉敵屬",
+            "title": "屬性轉換 ‧ 符石轉換 - 敵屬",
             "desc": "敵人會在&nbsp;CD&nbsp;0&nbsp;時同時發動攻擊和轉屬性，每回合敵人會將符石轉換至與敵人屬性相同。",
-            "custom_desc": "",
+            "custom_desc": "<ul><li>敵人屬性：光、暗</li><li>心和剋制敵人屬性的符石會被轉化</li></ul>",
             "icons": [
                 1063
             ]
         },
         "7": {
-            "title": "光暗屬輪轉 ‧ 心剋轉敵屬 ‧ 消剋屬吸血",
+            "title": "屬性轉換 ‧ 符石轉換 - 敵屬 ‧ 消克敵屬符石 - 吸血",
             "desc": "敵人會在&nbsp;CD&nbsp;0&nbsp;時同時發動攻擊和轉屬性，每回合敵人會將符石轉換至與敵人屬性相同。如召喚師消除的符石與敵人屬性相同，敵人會吸取召喚師生命力轉化為自身生命力",
-            "custom_desc": "<ul><li>消除敵屬符石的回合，召喚師會被扣除30%血量</li><li>每消除一組敵屬符石，敵人回復2%血量</li></ul>",
+            "custom_desc": "<ul><li>敵人屬性：光、暗</li><li>心和剋制敵人屬性的符石會被轉化</li><li>消除敵屬符石的回合，召喚師會被扣除30%血量</li><li>每消除一組敵屬符石，敵人回復2%血量</li></ul>",
             "icons": [
                 1063
             ]
@@ -81,7 +81,7 @@
             ]
         },
         "13": {
-            "title": "中毒7.5%",
+            "title": "中毒 7.5%",
             "desc": "敵人會令召喚師所有成員中毒，每回合扣除召喚師&nbsp;7.5%&nbsp;生命力，直至敵人死亡",
             "custom_desc": "",
             "icons": [
@@ -89,7 +89,7 @@
             ]
         },
         "14": {
-            "title": "中毒15%",
+            "title": "中毒 15%",
             "desc": "敵人會令召喚師所有成員中毒，每回合扣除召喚師&nbsp;15%&nbsp;生命力，直至敵人死亡",
             "custom_desc": "",
             "icons": [
@@ -97,23 +97,29 @@
             ]
         },
         "15": {
-            "title": "越戰越強-銀",
+            "title": "愈戰愈強",
             "desc": "敵人生命力愈低時，攻擊力會提升，達到一定血量時並會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan</span>",
             "icons": [
                 1001
+            ],
+            "keywords": [
+                "越戰越強"
             ]
         },
         "16": {
-            "title": "越戰越強-金",
+            "title": "愈戰愈強",
             "desc": "敵人生命力愈低時，攻擊力會大幅提升，生命力&nbsp;30%&nbsp;或以下時會連撃&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">trojan_ex</span>",
             "icons": [
                 1001
+            ],
+            "keywords": [
+                "越戰越強"
             ]
         },
         "17": {
-            "title": "反彈15%",
+            "title": "反彈",
             "desc": "敵人會反擊召喚師的&nbsp;15%&nbsp;攻擊傷害<br />&nbsp;(需消除符石)",
             "custom_desc": "",
             "icons": [
@@ -121,7 +127,7 @@
             ]
         },
         "18": {
-            "title": "反彈25%",
+            "title": "反彈",
             "desc": "敵人會反擊召喚師的&nbsp;25%&nbsp;攻擊傷害<br />&nbsp;(需消除符石)",
             "custom_desc": "",
             "icons": [
@@ -129,44 +135,44 @@
             ]
         },
         "19": {
-            "title": "剋屬強化盾-破盾轉屬",
+            "title": "克敵屬強化盾 - 屬性轉換",
             "desc": "只有消除克制敵人屬性的強化符石才會對敵人造成傷害，成功發動攻擊時<br />&nbsp;(&gt;1)&nbsp;，敵人會在攻擊回合(CD&nbsp;0)&nbsp;時轉換屬性。如第&nbsp;5&nbsp;回合敵人攻擊回合沒有受到任何傷害，便會直接轉換屬性",
             "custom_desc": ""
         },
         "20": {
-            "title": "三屬輪轉 ‧ 心剋轉敵屬 ‧ 消剋屬吸血",
+            "title": "屬性轉換 ‧ 符石轉換 - 敵屬 ‧ 消克敵屬符石 - 吸血",
             "desc": "敵人到&nbsp;CD&nbsp;0&nbsp;時會同時發動攻擊和轉屬性，每&nbsp;1&nbsp;回合敵人會將召喚師符石轉換至同屬性。如果召喚師消除的符石與敵人屬性相同時，敵人會吸取召喚師生命力轉化為自身生命力",
             "custom_desc": ""
         },
         "21": {
-            "title": "隨機3~6Combo盾(±2)-追擊",
+            "title": "指定連擊法印",
             "desc": "隨機指定連擊&nbsp;(Combo)&nbsp;數，當達成或接近指定的連擊&nbsp;(Combo)&nbsp;(差距為&nbsp;2&nbsp;連擊&nbsp;(Combo)&nbsp;或以下)&nbsp;才會對敵人造成攻擊傷害&nbsp;(需消除符石)。達成上述指定的連擊&nbsp;(Combo)&nbsp;數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多",
-            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li><li>相差1 Combo時，敵人所受傷害減少65%</li><li>相差2 Combo時，敵人所受傷害減少85%</li></ul>",
+            "custom_desc": "<ul><li>隨機指定3 ~ 6 Combo</li><li>計算天降</li><li>只計算消除符石</li><li>相差1 Combo時，敵人所受傷害減少65%</li><li>相差2 Combo時，敵人所受傷害減少85%</li></ul>",
             "icons": [],
             "keywords": [
                 "指定連擊法印"
             ]
         },
         "22": {
-            "title": "隨機3~6Combo盾-追擊",
+            "title": "指定連擊法印",
             "desc": "隨機指定連擊&nbsp;(Combo)&nbsp;數，當達成指定的連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害&nbsp;(需消除符石)。達成上述指定的連擊&nbsp;(Combo)&nbsp;數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多",
-            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li></ul>",
+            "custom_desc": "<ul><li>隨機指定3 ~ 6 Combo</li><li>計算天降</li><li>只計算消除符石</li></ul>",
             "icons": [],
             "keywords": [
                 "指定連擊法印"
             ]
         },
         "23": {
-            "title": "隨機3~6Combo盾(±2)-轉珠顯示-追擊",
+            "title": "指定連擊法印",
             "desc": "在開始移動符石時，出現隨機指定的連擊&nbsp;(Combo)&nbsp;數，當達成或接近指定的連擊&nbsp;(Combo)&nbsp;(差距為&nbsp;2&nbsp;連擊&nbsp;(Combo)&nbsp;或以下)&nbsp;才會對敵人造成攻擊傷害&nbsp;(需消除符石)。達成上述指定的連擊&nbsp;(Combo)&nbsp;數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多",
-            "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li><li>相差1 Combo時，敵人所受傷害減少65%</li><li>相差2 Combo時，敵人所受傷害減少85%</li></ul>",
+            "custom_desc": "<ul><li>隨機指定3 ~ 6 Combo</li><li>計算天降</li><li>只計算消除符石</li><li>相差1 Combo時，敵人所受傷害減少65%</li><li>相差2 Combo時，敵人所受傷害減少85%</li></ul>",
             "icons": [],
             "keywords": [
                 "指定連擊法印"
             ]
         },
         "24": {
-            "title": "隨機3~6Combo盾-轉珠顯示-追擊",
+            "title": "指定連擊法印",
             "desc": "在開始移動符石時，出現隨機指定的連擊&nbsp;(Combo)&nbsp;數，當達成指定的連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害&nbsp;(需消除符石)。達成上述指定的連擊&nbsp;(Combo)&nbsp;數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多",
             "custom_desc": "<ul><li>計算天降</li><li>只計算消除符石</li></ul>",
             "icons": [],
@@ -175,7 +181,7 @@
             ]
         },
         "25": {
-            "title": "人類防禦50%",
+            "title": "人類弱攻",
             "desc": "敵人令人類成員的攻擊力半減",
             "custom_desc": "",
             "icons": [
@@ -183,7 +189,7 @@
             ]
         },
         "26": {
-            "title": "龍類防禦50%",
+            "title": "龍類弱攻",
             "desc": "敵人令龍類成員的攻擊力半減",
             "custom_desc": "",
             "icons": [
@@ -191,7 +197,7 @@
             ]
         },
         "27": {
-            "title": "神族防禦50%",
+            "title": "神族弱攻",
             "desc": "敵人令神族成員的攻擊力半減",
             "custom_desc": "",
             "icons": [
@@ -199,7 +205,7 @@
             ]
         },
         "28": {
-            "title": "妖精防禦50%",
+            "title": "妖精類弱攻",
             "desc": "敵人令妖精類成員的攻擊力半減",
             "custom_desc": "",
             "icons": [
@@ -207,7 +213,7 @@
             ]
         },
         "29": {
-            "title": "獸類防禦50%",
+            "title": "獸類弱攻",
             "desc": "敵人令獸類成員的攻擊力半減",
             "custom_desc": "",
             "icons": [
@@ -255,40 +261,40 @@
             ]
         },
         "35": {
-            "title": "扣血70%",
+            "title": "喋血屠刀 70%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "icons": [
                 807
             ],
             "keywords": [
-                "喋血屠刀"
+                "扣血70%"
             ]
         },
         "36": {
-            "title": "扣血40%",
+            "title": "喋血屠刀 40%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;40%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "icons": [
                 804
             ],
             "keywords": [
-                "喋血屠刀"
+                "扣血40%"
             ]
         },
         "37": {
-            "title": "扣血50%",
+            "title": "喋血屠刀 50%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "icons": [
                 805
             ],
             "keywords": [
-                "喋血屠刀"
+                "扣血50%"
             ]
         },
         "38": {
-            "title": "2秒轉珠",
+            "title": "時光飛逝",
             "desc": "移動符石時間會縮短至&nbsp;2&nbsp;秒",
             "custom_desc": "",
             "icons": [
@@ -296,7 +302,7 @@
             ]
         },
         "39": {
-            "title": "召喚小怪 ‧ 2秒轉珠",
+            "title": "召喚小怪 ‧ 時光飛逝",
             "desc": "移動符石時間會縮短至&nbsp;2&nbsp;秒，敵人會在&nbsp;<br />&nbsp;CD&nbsp;0&nbsp;時召喚小怪，如果場上有小怪生存，CD&nbsp;0&nbsp;時會發動攻擊",
             "custom_desc": "",
             "icons": [
@@ -305,7 +311,7 @@
             ]
         },
         "40": {
-            "title": "中毒20%",
+            "title": "中毒 20%",
             "desc": "敵人會令全隊中毒，在每回合扣除召喚師&nbsp;20%&nbsp;生命力，直至敵人死亡",
             "custom_desc": "",
             "icons": [
@@ -313,7 +319,7 @@
             ]
         },
         "41": {
-            "title": "中毒30%",
+            "title": "中毒 30%",
             "desc": "敵人會令全隊中毒，在每回合扣除召喚師&nbsp;30%&nbsp;生命力，直至敵人死亡",
             "custom_desc": "",
             "icons": [
@@ -321,7 +327,7 @@
             ]
         },
         "42": {
-            "title": "中毒40%",
+            "title": "中毒 40%",
             "desc": "敵人會令全隊中毒，在每回合扣除召喚師&nbsp;40%&nbsp;生命力，直至敵人死亡",
             "custom_desc": "",
             "icons": [
@@ -329,7 +335,7 @@
             ]
         },
         "43": {
-            "title": "中毒50%",
+            "title": "中毒 50%",
             "desc": "敵人會令全隊中毒，在每回合扣除召喚師&nbsp;50%&nbsp;生命力，直至敵人死亡",
             "custom_desc": "",
             "icons": [
@@ -337,7 +343,7 @@
             ]
         },
         "44": {
-            "title": "反彈35%",
+            "title": "反彈",
             "desc": "敵人會反擊召喚師的&nbsp;35%&nbsp;攻擊傷害<br />&nbsp;(需消除符石)",
             "custom_desc": "",
             "icons": [
@@ -345,7 +351,7 @@
             ]
         },
         "45": {
-            "title": "技能封鎖",
+            "title": "錮縛 - 技能",
             "desc": "首回合敵人會永久封鎖所有成員的主動技能",
             "custom_desc": "",
             "icons": [
@@ -353,7 +359,7 @@
             ]
         },
         "46": {
-            "title": "3~6回技能封鎖",
+            "title": "錮縛 - 技能",
             "desc": "首回合及以後每&nbsp;3&nbsp;&nbsp;回合會隨機封鎖&nbsp;2&nbsp;個成員主動技，持續&nbsp;3&nbsp;至&nbsp;6&nbsp;回合&nbsp;<br />(可疊加)",
             "custom_desc": "",
             "icons": [
@@ -361,7 +367,7 @@
             ]
         },
         "47": {
-            "title": "2~4回技能封鎖",
+            "title": "錮縛 - 技能",
             "desc": "首回合及以後每&nbsp;3&nbsp;&nbsp;回合會隨機封鎖&nbsp;2&nbsp;個成員主動技，持續&nbsp;2&nbsp;至&nbsp;4&nbsp;回合&nbsp;<br />(可疊加)",
             "custom_desc": "",
             "icons": [
@@ -369,7 +375,7 @@
             ]
         },
         "48": {
-            "title": "無限回復",
+            "title": "復甦",
             "desc": "敵人每回合會完全回復生命力",
             "custom_desc": "",
             "icons": [
@@ -412,9 +418,9 @@
             ]
         },
         "53": {
-            "title": "1Combo盾",
+            "title": "1 連擊盾",
             "desc": "1&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": "計算右下角的Combo",
+            "custom_desc": "<ul><li>計算右下角的Combo</li><li>屬於「固定連擊盾」</li></ul>",
             "icons": [
                 1
             ],
@@ -423,9 +429,9 @@
             ]
         },
         "54": {
-            "title": "2Combo盾",
+            "title": "2 連擊盾",
             "desc": "2&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": "計算右下角的Combo",
+            "custom_desc": "<ul><li>計算右下角的Combo</li><li>屬於「固定連擊盾」</li></ul>",
             "icons": [
                 2
             ],
@@ -434,9 +440,9 @@
             ]
         },
         "55": {
-            "title": "3Combo盾",
+            "title": "3 連擊盾",
             "desc": "3&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": "計算右下角的Combo",
+            "custom_desc": "<ul><li>計算右下角的Combo</li><li>屬於「固定連擊盾」</li></ul>",
             "icons": [
                 3
             ],
@@ -445,9 +451,9 @@
             ]
         },
         "56": {
-            "title": "4Combo盾",
+            "title": "4 連擊盾",
             "desc": "4&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": "計算右下角的Combo",
+            "custom_desc": "<ul><li>計算右下角的Combo</li><li>屬於「固定連擊盾」</li></ul>",
             "icons": [
                 4
             ],
@@ -456,9 +462,9 @@
             ]
         },
         "57": {
-            "title": "5Combo盾",
+            "title": "5 連擊盾",
             "desc": "5&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": "計算右下角的Combo",
+            "custom_desc": "<ul><li>計算右下角的Combo</li><li>屬於「固定連擊盾」</li></ul>",
             "icons": [
                 5
             ],
@@ -467,9 +473,9 @@
             ]
         },
         "58": {
-            "title": "6Combo盾",
+            "title": "6 連擊盾",
             "desc": "6&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": "計算右下角的Combo",
+            "custom_desc": "<ul><li>計算右下角的Combo</li><li>屬於「固定連擊盾」</li></ul>",
             "icons": [
                 6
             ],
@@ -478,11 +484,14 @@
             ]
         },
         "59": {
-            "title": "先攻",
+            "title": "突擊",
             "desc": "首回合敵人會優先攻擊&nbsp;1&nbsp;次",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">ambush 100</span>",
             "icons": [
                 1053
+            ],
+            "keywords": [
+                "先攻"
             ]
         },
         "60": {
@@ -491,7 +500,7 @@
             "custom_desc": ""
         },
         "61": {
-            "title": "二員技能重置",
+            "title": "清技",
             "desc": "首回合敵人會隨機將&nbsp;2&nbsp;個成員技能&nbsp;CD&nbsp;及累積戰鬥回合數重置",
             "custom_desc": "",
             "icons": [
@@ -499,7 +508,7 @@
             ]
         },
         "62": {
-            "title": "三員技能重置",
+            "title": "清技",
             "desc": "首回合敵人會隨機將&nbsp;3&nbsp;個成員技能&nbsp;CD&nbsp;及累積戰鬥回合數重置",
             "custom_desc": "",
             "icons": [
@@ -507,7 +516,7 @@
             ]
         },
         "63": {
-            "title": "四員技能重置",
+            "title": "清技",
             "desc": "首回合敵人會隨機將&nbsp;4&nbsp;個成員技能&nbsp;CD&nbsp;及累積戰鬥回合數重置",
             "custom_desc": "",
             "icons": [
@@ -515,7 +524,7 @@
             ]
         },
         "64": {
-            "title": "五員技能重置",
+            "title": "清技",
             "desc": "首回合敵人會隨機將&nbsp;5&nbsp;個成員技能&nbsp;CD&nbsp;及累積戰鬥回合數重置",
             "custom_desc": "",
             "icons": [
@@ -523,7 +532,7 @@
             ]
         },
         "65": {
-            "title": "技能重置",
+            "title": "清技",
             "desc": "首回合敵人會將所有成員技能&nbsp;CD&nbsp;及累積戰鬥回合數重置",
             "custom_desc": "",
             "icons": [
@@ -531,36 +540,36 @@
             ]
         },
         "66": {
-            "title": "初級拼圖盾",
+            "title": "指定形狀盾",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": "",
+            "custom_desc": "初級拼圖",
             "icons": [
                 1007
             ],
             "keywords": [
-                "指定形狀盾"
+                "拼圖盾"
             ]
         },
         "67": {
-            "title": "高級拼圖盾",
+            "title": "指定形狀盾",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": "",
+            "custom_desc": "高級拼圖",
             "icons": [
                 1007
             ],
             "keywords": [
-                "指定形狀盾"
+                "拼圖盾"
             ]
         },
         "68": {
-            "title": "初級拼圖盾-限",
+            "title": "限制形狀盾",
             "desc": "指定形狀盾：符石需以指定的形狀消除&nbsp;(不可連同形狀外旁邊的符石消除)&nbsp;才會對敵人造成攻擊傷害",
-            "custom_desc": "",
+            "custom_desc": "初級拼圖",
             "icons": [
                 1007
             ],
             "keywords": [
-                "指定形狀盾"
+                "拼圖盾"
             ]
         },
         "69": {
@@ -574,7 +583,7 @@
             "custom_desc": ""
         },
         "71": {
-            "title": "剋屬外防禦50%",
+            "title": "克敵屬以外弱攻",
             "desc": "當不是克制敵人的屬性時，攻擊傷害減50%",
             "custom_desc": "",
             "icons": [
@@ -582,36 +591,36 @@
             ]
         },
         "72": {
-            "title": "扣血30%",
+            "title": "喋血屠刀 30%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "icons": [
                 803
             ],
             "keywords": [
-                "喋血屠刀"
+                "扣血30%"
             ]
         },
         "73": {
-            "title": "扣血80%",
+            "title": "喋血屠刀 80%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;80%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "icons": [
                 808
             ],
             "keywords": [
-                "喋血屠刀"
+                "扣血80%"
             ]
         },
         "74": {
-            "title": "扣血90%",
+            "title": "喋血屠刀 90%",
             "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
             "custom_desc": "",
             "icons": [
                 809
             ],
             "keywords": [
-                "喋血屠刀"
+                "扣血90%"
             ]
         },
         "75": {
@@ -626,7 +635,7 @@
             ]
         },
         "76": {
-            "title": "光暗盾",
+            "title": "光暗屬盾",
             "desc": "同時消除光符石及暗符石才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -669,7 +678,7 @@
             ]
         },
         "81": {
-            "title": "回復4000",
+            "title": "生命回復 4,000",
             "desc": "首回合敵人會讓召喚師增加&nbsp;4,000&nbsp;點生命力",
             "custom_desc": "",
             "icons": [
@@ -677,7 +686,7 @@
             ]
         },
         "82": {
-            "title": "回復5000",
+            "title": "生命回復 5,000",
             "desc": "首回合敵人會讓召喚師增加&nbsp;5,000&nbsp;點生命力",
             "custom_desc": "",
             "icons": [
@@ -685,7 +694,7 @@
             ]
         },
         "83": {
-            "title": "回復6000",
+            "title": "生命回復 6,000",
             "desc": "首回合敵人會將召喚師增加&nbsp;6,000&nbsp;點生命力",
             "custom_desc": "",
             "icons": [
@@ -693,7 +702,7 @@
             ]
         },
         "84": {
-            "title": "每2回-回復2000",
+            "title": "生命回復 2,000",
             "desc": "每&nbsp;2&nbsp;回合敵人會讓召喚師增加&nbsp;2,000&nbsp;點生命力",
             "custom_desc": "",
             "icons": [
@@ -701,7 +710,7 @@
             ]
         },
         "85": {
-            "title": "每2回-回復3000",
+            "title": "生命回復 3,000",
             "desc": "每&nbsp;2&nbsp;回合敵人會讓召喚師增加&nbsp;3,000&nbsp;點生命力",
             "custom_desc": "",
             "icons": [
@@ -709,7 +718,7 @@
             ]
         },
         "86": {
-            "title": "每2回-回復4000",
+            "title": "生命回復 4,000",
             "desc": "每&nbsp;2&nbsp;回合敵人會讓召喚師增加&nbsp;4,000&nbsp;點生命力",
             "custom_desc": "",
             "icons": [
@@ -717,7 +726,7 @@
             ]
         },
         "87": {
-            "title": "技能回復",
+            "title": "回技",
             "desc": "首回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
             "custom_desc": "",
             "icons": [
@@ -725,7 +734,7 @@
             ]
         },
         "88": {
-            "title": "每3回-技能回復",
+            "title": "回技",
             "desc": "每&nbsp;3&nbsp;回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
             "custom_desc": "",
             "icons": [
@@ -733,7 +742,7 @@
             ]
         },
         "89": {
-            "title": "每4回-技能回復",
+            "title": "回技",
             "desc": "每&nbsp;4&nbsp;回合敵人會將召喚師所有主動技能&nbsp;CD&nbsp;變&nbsp;0",
             "custom_desc": "",
             "icons": [
@@ -741,7 +750,7 @@
             ]
         },
         "90": {
-            "title": "刷新版面",
+            "title": "符石轉換",
             "desc": "首回合敵人會將所有符石隨機轉換",
             "custom_desc": "",
             "icons": [
@@ -749,7 +758,7 @@
             ]
         },
         "91": {
-            "title": "每2回-刷新版面",
+            "title": "符石轉換",
             "desc": "每&nbsp;2&nbsp;回合敵人會將所有符石隨機轉換",
             "custom_desc": "",
             "icons": [
@@ -757,7 +766,7 @@
             ]
         },
         "92": {
-            "title": "每3回-刷新版面",
+            "title": "符石轉換",
             "desc": "每&nbsp;3&nbsp;回合敵人會將所有符石隨機轉換",
             "custom_desc": "",
             "icons": [
@@ -765,17 +774,17 @@
             ]
         },
         "93": {
-            "title": "不倒意志20%",
+            "title": "一擊不滅",
             "desc": "敵人生命力大於&nbsp;20%&nbsp;時，下一次所受傷害不會死亡",
             "custom_desc": ""
         },
         "94": {
-            "title": "不倒意志30%",
+            "title": "一擊不滅",
             "desc": "敵人生命力大於&nbsp;30%&nbsp;時，下一次所受傷害不會死亡",
             "custom_desc": ""
         },
         "95": {
-            "title": "不倒意志40%",
+            "title": "一擊不滅",
             "desc": "敵人生命力大於&nbsp;40%&nbsp;時，下一次所受傷害不會死亡",
             "custom_desc": ""
         },
@@ -785,7 +794,7 @@
             "custom_desc": ""
         },
         "97": {
-            "title": "5%隱藏符石4顆",
+            "title": "隱藏符石",
             "desc": "敵人會掉落隱藏符石",
             "custom_desc": "",
             "icons": [
@@ -793,7 +802,7 @@
             ]
         },
         "98": {
-            "title": "10%隱藏符石4顆",
+            "title": "隱藏符石",
             "desc": "大幅掉落隱藏符石",
             "custom_desc": "",
             "icons": [
@@ -801,7 +810,7 @@
             ]
         },
         "99": {
-            "title": "15%隱藏符石4顆",
+            "title": "隱藏符石",
             "desc": "大幅掉落隱藏符石",
             "custom_desc": "",
             "icons": [
@@ -809,7 +818,7 @@
             ]
         },
         "100": {
-            "title": "水轉敵屬",
+            "title": "符石轉換 - 敵屬",
             "desc": "每回合敵人會將水符石轉化為敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -817,7 +826,7 @@
             ]
         },
         "101": {
-            "title": "火轉敵屬",
+            "title": "符石轉換 - 敵屬",
             "desc": "每回合敵人會將火符石轉化為敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -825,7 +834,7 @@
             ]
         },
         "102": {
-            "title": "木轉敵屬",
+            "title": "符石轉換 - 敵屬",
             "desc": "每回合敵人會將木符石轉化為敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -833,7 +842,7 @@
             ]
         },
         "103": {
-            "title": "光轉敵屬",
+            "title": "符石轉換 - 敵屬",
             "desc": "每回合敵人會將光符石轉化為敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -841,7 +850,7 @@
             ]
         },
         "104": {
-            "title": "暗轉敵屬",
+            "title": "符石轉換 - 敵屬",
             "desc": "每回合敵人會將暗符石轉化為敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -849,7 +858,7 @@
             ]
         },
         "105": {
-            "title": "心轉敵屬",
+            "title": "符石轉換 - 敵屬",
             "desc": "每回合敵人會將心符石轉化為敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -857,7 +866,7 @@
             ]
         },
         "106": {
-            "title": "水轉相剋屬",
+            "title": "符石轉換 - 克敵屬",
             "desc": "每回合敵人會將水符石轉化為克制敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -865,7 +874,7 @@
             ]
         },
         "107": {
-            "title": "火轉相剋屬",
+            "title": "符石轉換 - 克敵屬",
             "desc": "每回合敵人會將火符石轉化為克制敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -873,7 +882,7 @@
             ]
         },
         "108": {
-            "title": "木轉相剋屬",
+            "title": "符石轉換 - 克敵屬",
             "desc": "每回合敵人會將木符石轉化為克制敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -881,7 +890,7 @@
             ]
         },
         "109": {
-            "title": "光轉相剋屬",
+            "title": "符石轉換 - 克敵屬",
             "desc": "每回合敵人會將光符石轉化為克制敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -889,7 +898,7 @@
             ]
         },
         "110": {
-            "title": "暗轉相剋屬",
+            "title": "符石轉換 - 克敵屬",
             "desc": "每回合敵人會將暗符石轉化為克制敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -897,7 +906,7 @@
             ]
         },
         "111": {
-            "title": "心轉相剋屬",
+            "title": "符石轉換 - 克敵屬",
             "desc": "每回合敵人會將心符石轉化為克制敵人屬性的符石",
             "custom_desc": "",
             "icons": [
@@ -918,7 +927,7 @@
             ]
         },
         "114": {
-            "title": "3+Combo盾",
+            "title": "≥3 連擊盾",
             "desc": "3&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -926,7 +935,7 @@
             ]
         },
         "115": {
-            "title": "4+Combo盾",
+            "title": "≥4 連擊盾",
             "desc": "4&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -934,7 +943,7 @@
             ]
         },
         "116": {
-            "title": "5+Combo盾",
+            "title": "≥5 連擊盾",
             "desc": "5&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -942,7 +951,7 @@
             ]
         },
         "117": {
-            "title": "6+Combo盾",
+            "title": "≥6 連擊盾",
             "desc": "6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -950,7 +959,7 @@
             ]
         },
         "118": {
-            "title": "5%隱藏符石3顆",
+            "title": "隱藏符石",
             "desc": "敵人會掉落隱藏符石",
             "custom_desc": "",
             "icons": [
@@ -958,7 +967,7 @@
             ]
         },
         "119": {
-            "title": "10%隱藏符石3顆",
+            "title": "隱藏符石",
             "desc": "大幅掉落隱藏符石",
             "custom_desc": "",
             "icons": [
@@ -966,7 +975,7 @@
             ]
         },
         "120": {
-            "title": "15%隱藏符石3顆",
+            "title": "隱藏符石",
             "desc": "大幅掉落隱藏符石",
             "custom_desc": "",
             "icons": [
@@ -974,7 +983,7 @@
             ]
         },
         "121": {
-            "title": "5%隱藏符石5顆",
+            "title": "隱藏符石",
             "desc": "敵人會掉落隱藏符石",
             "custom_desc": "",
             "icons": [
@@ -982,7 +991,7 @@
             ]
         },
         "122": {
-            "title": "10%隱藏符石5顆",
+            "title": "隱藏符石",
             "desc": "大幅掉落隱藏符石",
             "custom_desc": "",
             "icons": [
@@ -990,7 +999,7 @@
             ]
         },
         "123": {
-            "title": "15%隱藏符石5顆",
+            "title": "隱藏符石",
             "desc": "大幅掉落隱藏符石",
             "custom_desc": "",
             "icons": [
@@ -1031,7 +1040,7 @@
             ]
         },
         "127": {
-            "title": "不倒意志20%-5倍回復",
+            "title": "一擊不滅",
             "desc": "敵人該回合生命力大於&nbsp;20%&nbsp;時，下一次所受傷害不會死亡，並回復召喚師的&nbsp;500%&nbsp;攻擊傷害為自身血量",
             "custom_desc": ""
         },
@@ -1047,7 +1056,7 @@
             ]
         },
         "129": {
-            "title": "強化防禦75%",
+            "title": "強化防禦",
             "desc": "•&nbsp;消除屬性強化符石<br />⇒&nbsp;敵人所受該屬性傷害<br />&nbsp;&nbsp;&nbsp;&nbsp;減至&nbsp;25%",
             "custom_desc": "不受到兼具影響",
             "icons": [
@@ -1058,7 +1067,7 @@
             ]
         },
         "130": {
-            "title": "不倒意志20%-10倍回復",
+            "title": "一擊不滅",
             "desc": "敵人該回合生命力大於&nbsp;20%&nbsp;時，下一次所受傷害不會死亡，並回復召喚師的&nbsp;1000%&nbsp;攻擊傷害為自身血量",
             "custom_desc": ""
         },
@@ -1079,7 +1088,7 @@
             ]
         },
         "133": {
-            "title": "魔族防禦50%",
+            "title": "魔族弱攻",
             "desc": "敵人令魔族成員攻擊力半減",
             "custom_desc": "",
             "icons": [
@@ -1095,7 +1104,7 @@
             ]
         },
         "135": {
-            "title": "水外防禦75%",
+            "title": "水以外弱攻",
             "desc": "水屬性以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": "",
             "icons": [
@@ -1103,7 +1112,7 @@
             ]
         },
         "136": {
-            "title": "火外防禦75%",
+            "title": "火以外弱攻",
             "desc": "火屬性以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": "",
             "icons": [
@@ -1111,7 +1120,7 @@
             ]
         },
         "137": {
-            "title": "木外防禦75%",
+            "title": "木以外弱攻",
             "desc": "木屬性以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": "",
             "icons": [
@@ -1119,7 +1128,7 @@
             ]
         },
         "138": {
-            "title": "光外防禦75%",
+            "title": "光以外弱攻",
             "desc": "光屬性以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": "",
             "icons": [
@@ -1127,7 +1136,7 @@
             ]
         },
         "139": {
-            "title": "暗外防禦75%",
+            "title": "暗以外弱攻",
             "desc": "暗屬性以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": "",
             "icons": [
@@ -1135,7 +1144,7 @@
             ]
         },
         "140": {
-            "title": "人外防禦75%",
+            "title": "人類以外弱攻",
             "desc": "人類以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": "",
             "icons": [
@@ -1143,7 +1152,7 @@
             ]
         },
         "141": {
-            "title": "獸外防禦75%",
+            "title": "獸類以外弱攻",
             "desc": "獸類以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": "",
             "icons": [
@@ -1151,7 +1160,7 @@
             ]
         },
         "142": {
-            "title": "龍外防禦75%",
+            "title": "龍類以外弱攻",
             "desc": "龍類以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": "",
             "icons": [
@@ -1159,7 +1168,7 @@
             ]
         },
         "143": {
-            "title": "神外防禦75%",
+            "title": "神族以外弱攻",
             "desc": "神族以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": "",
             "icons": [
@@ -1167,7 +1176,7 @@
             ]
         },
         "144": {
-            "title": "魔外防禦75%",
+            "title": "魔族以外弱攻",
             "desc": "魔族以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": "",
             "icons": [
@@ -1175,7 +1184,7 @@
             ]
         },
         "145": {
-            "title": "妖外防禦75%",
+            "title": "妖精類以外弱攻",
             "desc": "妖精類以外的攻擊傷害減至&nbsp;25%",
             "custom_desc": "",
             "icons": [
@@ -1438,7 +1447,7 @@
             ]
         },
         "173": {
-            "title": "3-Combo盾",
+            "title": "≤3 連擊盾",
             "desc": "3&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -1446,7 +1455,7 @@
             ]
         },
         "174": {
-            "title": "4-Combo盾",
+            "title": "≤4 連擊盾",
             "desc": "4&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -1454,7 +1463,7 @@
             ]
         },
         "175": {
-            "title": "5-Combo盾",
+            "title": "≤5 連擊盾",
             "desc": "5&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -1462,7 +1471,7 @@
             ]
         },
         "176": {
-            "title": "6-Combo盾",
+            "title": "≤6 連擊盾",
             "desc": "6&nbsp;連擊&nbsp;(Combo)&nbsp;或以下才會對敵人造成攻擊傷害",
             "custom_desc": "",
             "icons": [
@@ -1470,19 +1479,25 @@
             ]
         },
         "177": {
-            "title": "越戰越強-鐵",
+            "title": "愈戰愈強",
             "desc": "敵人生命力愈低時，攻擊力會稍微提升",
             "custom_desc": "<span class=\"annotation\">crescendo</span>",
             "icons": [
                 1001
+            ],
+            "keywords": [
+                "越戰越強"
             ]
         },
         "178": {
-            "title": "越戰越強-銅",
+            "title": "愈戰愈強",
             "desc": "敵人生命力愈低時，攻擊力會作一定幅度的提升",
             "custom_desc": "<span class=\"annotation\">crescendo_ex</span>",
             "icons": [
                 1001
+            ],
+            "keywords": [
+                "越戰越強"
             ]
         },
         "179": {
@@ -1519,7 +1534,7 @@
             ]
         },
         "182": {
-            "title": "三屬輪轉 ‧ 剋屬禁消 ‧ 光暗防禦50%",
+            "title": "屬性轉換 ‧ 消克敵屬符石禁咒 ‧ 光、暗屬弱攻",
             "desc": "敵人每兩回合轉換屬性&nbsp;(水、火及木屬)，克制敵人當前屬性的符石無法被消除。光屬性及暗屬性的傷害減少&nbsp;50%",
             "custom_desc": "",
             "icons": [
@@ -25141,16 +25156,16 @@
             ]
         },
         "4328": {
-            "title": "【攻速變更 ‧ 擊碎龍脈儀 ‧ 減傷 - % 遞減 ‧ 首消暗流化血 - 反擊 ‧ 符石轉暗 ‧ 防禦崩壞】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;擊碎龍脈儀&nbsp;‧&nbsp;減傷&nbsp;-&nbsp;%&nbsp;遞減&nbsp;‧&nbsp;首消暗流化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;符石轉暗&nbsp;‧&nbsp;&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />擊碎龍脈儀。<br /><br />敵人為&nbsp;100%&nbsp;減傷狀態，<br />敵人攻擊次數愈多，<br />減傷狀態削弱愈多。<br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害。<br /><br />敵人發動攻擊時，<br />將&nbsp;6&nbsp;個位置的符石<br />⇒&nbsp;轉化為暗符石<br /><br />無視所有減傷效果和<br />意志技能。",
+            "title": "【攻速變更 ‧ 擊碎龍脈儀 ‧ 減傷 - % 遞減 ‧ 反首消暗符石盾 - 化血 - 反擊 ‧ 符石轉暗 ‧  防禦崩壞】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;擊碎龍脈儀&nbsp;‧&nbsp;減傷&nbsp;-&nbsp;%&nbsp;遞減&nbsp;‧&nbsp;反首消暗符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;符石轉暗&nbsp;‧&nbsp;&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />擊碎龍脈儀。<br /><br />敵人為&nbsp;100%&nbsp;減傷狀態，<br />敵人攻擊次數愈多，<br />減傷狀態削弱愈多。<br /><br />首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害<br /><br />敵人發動攻擊時，<br />將&nbsp;6&nbsp;個位置的符石<br />⇒&nbsp;轉化為暗符石<br /><br />無視所有減傷效果和<br />意志技能。",
             "custom_desc": "<span class=\"annotation\">crumbling_walls 100 95 90 85 80 60 40 20 0</span><span class=\"annotation\">fixed_shape 4 3 005000505050005000005000</span>",
             "keywords": [
                 "減傷抗性"
             ]
         },
         "4329": {
-            "title": "【攻速變更 ‧ 擊碎龍脈儀 ‧ 攻前盾 ‧ 符石轉暗 ‧ 首消暗流化血 - 反擊 ‧  防禦崩壞】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;擊碎龍脈儀&nbsp;‧&nbsp;攻前盾&nbsp;‧&nbsp;符石轉暗&nbsp;‧&nbsp;首消暗流化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;2。<br /><br />擊碎龍脈儀。<br /><br />敵人無視任何攻擊傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />下回合根據場上暗符石數量<br />⇒&nbsp;轉化相應粒數的暗符石<br /><br />首批消除暗符石時，該回合<br />無法對敵人造成攻擊傷害，<br />且敵人會反擊自身&nbsp;200%&nbsp;<br />攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有減傷效果和<br />意志技能。",
+            "title": "【攻速變更 ‧ 擊碎龍脈儀 ‧ 攻前盾 ‧ 符石轉暗 ‧ 反首消暗符石盾 - 化血 - 反擊 ‧  防禦崩壞】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;擊碎龍脈儀&nbsp;‧&nbsp;攻前盾&nbsp;‧&nbsp;符石轉暗&nbsp;‧&nbsp;反首消暗符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;2。<br /><br />擊碎龍脈儀。<br /><br />敵人無視任何攻擊傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />下回合根據場上暗符石數量<br />⇒&nbsp;轉化相應粒數的暗符石<br /><br />首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br /><br />無視所有減傷效果和<br />意志技能。",
             "custom_desc": ""
         },
         "4330": {
@@ -25204,23 +25219,23 @@
             ]
         },
         "4336": {
-            "title": "【突擊 ‧ 符石轉水 ‧ 首消水月化血 ‧ 4 連擊盾】",
-            "desc": "<em>【突擊&nbsp;‧&nbsp;符石轉水&nbsp;‧&nbsp;首消水月化血&nbsp;‧&nbsp;4&nbsp;連擊盾】</em><br /><br />首回合優先突擊&nbsp;1&nbsp;次。<br /><br />首回合將水符石以外<br />數量最少的&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為水符石<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />4&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。",
+            "title": "【突擊 ‧ 符石轉水 ‧ 反首消水符石盾 - 化血 ‧ 4 連擊盾】",
+            "desc": "<em>【突擊&nbsp;‧&nbsp;符石轉水&nbsp;‧&nbsp;反首消水符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;4&nbsp;連擊盾】</em><br /><br />首回合優先突擊&nbsp;1&nbsp;次。<br /><br />首回合將水符石以外<br />數量最少的&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為水符石<br /><br />首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />4&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。",
             "custom_desc": ""
         },
         "4337": {
-            "title": "【突擊 ‧ 符石轉水 ‧ 首消水月化血 ‧ 5 連擊盾】",
-            "desc": "<em>【突擊&nbsp;‧&nbsp;符石轉水&nbsp;‧&nbsp;首消水月化血&nbsp;‧&nbsp;5&nbsp;連擊盾】</em><br /><br />首回合優先突擊&nbsp;1&nbsp;次。<br /><br />首回合將水符石以外<br />數量最少的&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為水符石<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />5&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。",
+            "title": "【突擊 ‧ 符石轉水 ‧ 反首消水符石盾 - 化血 ‧ 5 連擊盾】",
+            "desc": "<em>【突擊&nbsp;‧&nbsp;符石轉水&nbsp;‧&nbsp;反首消水符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;5&nbsp;連擊盾】</em><br /><br />首回合優先突擊&nbsp;1&nbsp;次。<br /><br />首回合將水符石以外<br />數量最少的&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為水符石<br /><br />首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />5&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。",
             "custom_desc": ""
         },
         "4338": {
-            "title": "【突擊 ‧ 符石轉水 ‧ 首消水月化血 - 反擊 ‧ 6 連擊盾】",
-            "desc": "<em>【突擊&nbsp;‧&nbsp;符石轉水&nbsp;‧&nbsp;首消水月化血&nbsp;-&nbsp;反擊<br />&nbsp;‧&nbsp;6&nbsp;連擊盾】</em><br /><br />首回合優先突擊&nbsp;1&nbsp;次。<br /><br />首回合將水符石以外<br />數量最少的&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為水符石<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害。<br /><br />6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。",
+            "title": "【突擊 ‧ 符石轉水 ‧ 反首消水符石盾 - 化血 - 反擊 ‧ 6 連擊盾】",
+            "desc": "<em>【突擊&nbsp;‧&nbsp;符石轉水&nbsp;‧&nbsp;反首消水符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊<br />&nbsp;‧&nbsp;6&nbsp;連擊盾】</em><br /><br />首回合優先突擊&nbsp;1&nbsp;次。<br /><br />首回合將水符石以外<br />數量最少的&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為水符石<br /><br />首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害<br /><br />6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。",
             "custom_desc": ""
         },
         "4339": {
-            "title": "【突擊 ‧ 符石轉水 ‧ 首消水月化血 - 反擊 ‧ 7 連擊盾】",
-            "desc": "<em>【伏擊&nbsp;‧&nbsp;符石轉水&nbsp;‧&nbsp;首消水月化血&nbsp;-&nbsp;反擊<br />&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首回合優先攻擊&nbsp;1&nbsp;次。<br /><br />首回合將水符石以外<br />數量最少的&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為水符石<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。",
+            "title": "【伏擊 ‧ 符石轉水 ‧ 首消水月化血 - 反擊 ‧ 7 連擊盾】",
+            "desc": "<em>【伏擊&nbsp;‧&nbsp;符石轉水&nbsp;‧&nbsp;反首消水符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊<br />&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首回合優先攻擊&nbsp;1&nbsp;次。<br /><br />首回合將水符石以外<br />數量最少的&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為水符石<br /><br />首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。",
             "custom_desc": ""
         },
         "4340": {
@@ -25514,13 +25529,13 @@
             ]
         },
         "4374": {
-            "title": "【攻速變更 ‧ 非剋敵屬攻擊零化 ‧ 回復顛倒 ‧ 首消火影化血】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非剋敵屬攻擊零化&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;首消火影化血&nbsp;】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有克制敵人屬性的攻擊<br />才會對敵人造成傷害。<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。",
+            "title": "【攻速變更 ‧ 非剋敵屬攻擊零化 ‧ 回復顛倒 ‧ 反首消火符石盾 - 化血 】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非剋敵屬攻擊零化&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;反首消火符石盾&nbsp;-&nbsp;化血&nbsp;】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有克制敵人屬性的攻擊<br />才會對敵人造成傷害。<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)<br /><br />首批消除火符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
             "custom_desc": ""
         },
         "4375": {
-            "title": "【攻速變更 ‧ 非剋敵屬攻擊零化 ‧ 回復顛倒 ‧ 首消火影化血 - 反擊】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非剋敵屬攻擊零化&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;首消火影化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有克制敵人屬性的攻擊<br />才會對敵人造成傷害。<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;500%&nbsp;攻擊傷害。",
+            "title": "【攻速變更 ‧ 非剋敵屬攻擊零化 ‧ 回復顛倒 ‧ 反首消火符石盾 - 化血 - 反擊】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非剋敵屬攻擊零化&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;反首消火符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有克制敵人屬性的攻擊<br />才會對敵人造成傷害。<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)<br /><br />首批消除火符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;500%&nbsp;攻擊傷害",
             "custom_desc": ""
         },
         "4376": {
@@ -25544,13 +25559,13 @@
             "custom_desc": ""
         },
         "4380": {
-            "title": "【非火弱攻 25% ‧ 風化符石 - 符石轉木 ‧ 首消木葉化血 - 反擊】",
-            "desc": "<em>【非火弱攻&nbsp;25%&nbsp;‧&nbsp;風化符石&nbsp;-&nbsp;符石轉木&nbsp;‧&nbsp;首消木葉化血&nbsp;-&nbsp;反擊】</em><br /><br />火屬性以外的攻擊傷害<br />⇒&nbsp;減至&nbsp;25%<br /><br />每回合移動符石前，<br />隨機將&nbsp;2&nbsp;粒符石風化<br />及轉化為木符石；<br />風化符石一經觸碰，<br />即時停止移動符石，<br />對召喚師造成&nbsp;9,000&nbsp;點傷害。<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害。",
+            "title": "【非火弱攻 25% ‧ 風化符石 - 符石轉木 ‧ 反首消木符石盾 - 化血 - 反擊】",
+            "desc": "<em>【非火弱攻&nbsp;25%&nbsp;‧&nbsp;風化符石&nbsp;-&nbsp;符石轉木&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />火屬性以外的攻擊傷害<br />⇒&nbsp;減至&nbsp;25%<br /><br />每回合移動符石前，<br />隨機將&nbsp;2&nbsp;粒符石風化<br />及轉化為木符石；<br />風化符石一經觸碰，<br />即時停止移動符石，<br />對召喚師造成&nbsp;9,000&nbsp;點傷害。<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害",
             "custom_desc": ""
         },
         "4381": {
-            "title": "【非火攻擊零化 ‧ 風化符石 - 符石轉木 ‧ 首消木葉化血 - 反擊】",
-            "desc": "<em>【非火攻擊零化&nbsp;‧&nbsp;風化符石&nbsp;-&nbsp;符石轉木&nbsp;‧&nbsp;首消木葉化血&nbsp;-&nbsp;反擊】</em><br /><br />只有火屬性的攻擊<br />才會對敵人造成傷害。<br /><br />每回合移動符石前，<br />隨機將&nbsp;3&nbsp;粒符石風化<br />及轉化為木符石；<br />風化符石一經觸碰，<br />即時停止移動符石，<br />對召喚師造成&nbsp;15,000&nbsp;點傷害<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害。",
+            "title": "【非火攻擊零化 ‧ 風化符石 - 符石轉木 ‧ 反首消木符石盾 - 化血 - 反擊】",
+            "desc": "<em>【非火攻擊零化&nbsp;‧&nbsp;風化符石&nbsp;-&nbsp;符石轉木&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />只有火屬性的攻擊<br />才會對敵人造成傷害。<br /><br />每回合移動符石前，<br />隨機將&nbsp;3&nbsp;粒符石風化<br />及轉化為木符石；<br />風化符石一經觸碰，<br />即時停止移動符石，<br />對召喚師造成&nbsp;15,000&nbsp;點傷害<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害",
             "custom_desc": ""
         },
         "4382": {
@@ -26371,8 +26386,8 @@
             "custom_desc": ""
         },
         "4515": {
-            "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 病毒 ‧ 四屬盾 ‧ 首消木葉化血 - 反擊】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;病毒&nbsp;‧&nbsp;四屬盾&nbsp;‧&nbsp;首消木葉化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />固定在&nbsp;6&nbsp;個位置植入病毒。<br /><br />每經過病毒位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;病毒<br />當累積至&nbsp;100%&nbsp;病毒<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />&nbsp;&nbsp;水、火、光、暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次。",
+            "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 病毒 ‧ 四屬盾 ‧ 反首消木符石盾 - 化血 - 反擊】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;病毒&nbsp;‧&nbsp;四屬盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />固定在&nbsp;6&nbsp;個位置植入病毒。<br /><br />每經過病毒位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;病毒<br />當累積至&nbsp;100%&nbsp;病毒<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />&nbsp;&nbsp;水、火、光、暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": "<span class=\"annotation\">generic_board 6 5 010001000000001100000000100010 virus_sigma</span>",
             "icons": [
                 1208,
@@ -26495,8 +26510,8 @@
             ]
         },
         "4533": {
-            "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非水攻擊零化&nbsp;‧&nbsp;首消火影化血&nbsp;‧&nbsp;20&nbsp;連擊盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有水屬性的攻擊<br />才會對敵人造成傷害。<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;8&nbsp;次。<br /><br />無視所有減傷效果和<br />意志技能。",
+            "title": "【攻速變更 ‧ 非水攻擊零化 ‧ 反首消火符石盾 - 化血 ‧ 20 連擊盾 ‧ 防禦崩壞】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非水攻擊零化&nbsp;‧&nbsp;反首消火符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;20&nbsp;連擊盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有水屬性的攻擊<br />才會對敵人造成傷害。<br /><br />首批消除火符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;8&nbsp;次。<br /><br />無視所有減傷效果和<br />意志技能。",
             "custom_desc": ""
         },
         "4534": {
@@ -26535,8 +26550,8 @@
             "custom_desc": ""
         },
         "4541": {
-            "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非光攻擊零化&nbsp;‧&nbsp;隱匿之途&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;首消暗流化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有光屬性的攻擊<br />才會對敵人造成傷害。<br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)<br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害。",
+            "title": "【攻速變更 ‧ 非光攻擊零化 ‧ 隱匿之途 ‧ 回復顛倒 ‧ 反首消暗符石盾 - 化血 - 反擊】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;非光攻擊零化&nbsp;‧&nbsp;隱匿之途&nbsp;‧&nbsp;回復顛倒&nbsp;‧&nbsp;反首消暗符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />只有光屬性的攻擊<br />才會對敵人造成傷害。<br /><br />持續將移動符石時所觸碰的<br />符石轉化為隱藏符石。<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)<br /><br />首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害",
             "custom_desc": ""
         },
         "4542": {
@@ -26740,33 +26755,33 @@
             "custom_desc": ""
         },
         "4589": {
-            "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;技能錮縛&nbsp;‧&nbsp;首消水月化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;五屬盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合永久封鎖<br />所有成員的主動技能。<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和<br />意志技能。",
+            "title": "【攻速變更 ‧ 技能錮縛 ‧ 反首消水符石盾 - 化血 - 反擊 ‧ 五屬盾 ‧ 防禦崩壞】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;技能錮縛&nbsp;‧&nbsp;反首消水符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;五屬盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合永久封鎖<br />所有成員的主動技能。<br /><br />首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br /><br />•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和<br />意志技能。",
             "custom_desc": ""
         },
         "4590": {
-            "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;技能錮縛&nbsp;‧&nbsp;首消火影化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;五屬盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合永久封鎖<br />所有成員的主動技能。<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和<br />意志技能。",
+            "title": "【攻速變更 ‧ 技能錮縛 ‧ 反首消火符石盾 - 化血 - 反擊 ‧ 五屬盾 ‧ 防禦崩壞】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;技能錮縛&nbsp;‧&nbsp;反首消火符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;五屬盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合永久封鎖<br />所有成員的主動技能。<br /><br />首批消除火符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br /><br />•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和<br />意志技能。",
             "custom_desc": ""
         },
         "4591": {
-            "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;技能錮縛&nbsp;‧&nbsp;首消木葉化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;五屬盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合永久封鎖<br />所有成員的主動技能。<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和<br />意志技能。",
+            "title": "【攻速變更 ‧ 技能錮縛 ‧ 反首消木符石盾 - 化血 - 反擊 ‧ 五屬盾 ‧ 防禦崩壞】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;技能錮縛&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;五屬盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合永久封鎖<br />所有成員的主動技能。<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br /><br />•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和<br />意志技能。",
             "custom_desc": ""
         },
         "4592": {
-            "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;技能錮縛&nbsp;‧&nbsp;首消光華化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;五屬盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合永久封鎖<br />所有成員的主動技能。<br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和<br />意志技能。",
+            "title": "【攻速變更 ‧ 技能錮縛 ‧ 反首消光符石盾 - 化血 - 反擊 ‧ 五屬盾 ‧ 防禦崩壞】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;技能錮縛&nbsp;‧&nbsp;反首消光符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;五屬盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合永久封鎖<br />所有成員的主動技能。<br /><br />首批消除光符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br /><br />•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和<br />意志技能。",
             "custom_desc": ""
         },
         "4593": {
-            "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;技能錮縛&nbsp;‧&nbsp;首消暗流化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;五屬盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合永久封鎖<br />所有成員的主動技能。<br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和<br />意志技能。",
+            "title": "【攻速變更 ‧ 技能錮縛 ‧ 反首消暗符石盾 - 化血 - 反擊 ‧ 五屬盾 ‧ 防禦崩壞】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;技能錮縛&nbsp;‧&nbsp;反首消暗符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;五屬盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合永久封鎖<br />所有成員的主動技能。<br /><br />首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br /><br />•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和<br />意志技能。",
             "custom_desc": ""
         },
         "4594": {
-            "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;技能錮縛&nbsp;‧&nbsp;首消心源化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;五屬盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合永久封鎖<br />所有成員的主動技能。<br /><br />首批消除心符石的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和<br />意志技能。",
+            "title": "【攻速變更 ‧ 技能錮縛 ‧ 反首消心符石盾 - 化血 - 反擊 ‧ 五屬盾 ‧ 防禦崩壞】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;技能錮縛&nbsp;‧&nbsp;反首消心符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;五屬盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合永久封鎖<br />所有成員的主動技能。<br /><br />首批消除心符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br /><br />•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有減傷效果和<br />意志技能。",
             "custom_desc": ""
         },
         "4595": {
@@ -26962,53 +26977,53 @@
             "custom_desc": ""
         },
         "4631": {
-            "title": "",
-            "desc": "<em>【8&nbsp;連擊盾&nbsp;‧&nbsp;首消火影化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />我方所有轉化符石效果無效。<br />",
+            "title": "【8 連擊盾 ‧ 反首消火符石盾 - 化血 ‧ 轉化符石技能無效】",
+            "desc": "<em>【8&nbsp;連擊盾&nbsp;‧&nbsp;反首消火符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />首批消除火符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />我方所有轉化符石效果無效。<br />",
             "custom_desc": ""
         },
         "4632": {
-            "title": "",
-            "desc": "<em>【8&nbsp;連擊盾&nbsp;‧&nbsp;首消木葉化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />我方所有轉化符石效果無效。<br />",
+            "title": "【8 連擊盾 ‧ 反首消木符石盾 - 化血 ‧ 轉化符石技能無效】",
+            "desc": "<em>【8&nbsp;連擊盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />我方所有轉化符石效果無效。<br />",
             "custom_desc": ""
         },
         "4633": {
-            "title": "",
-            "desc": "<em>【8&nbsp;連擊盾&nbsp;‧&nbsp;首消光華化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />我方所有轉化符石效果無效。",
+            "title": "【8 連擊盾 ‧ 反首消光符石盾 - 化血 ‧ 轉化符石技能無效】",
+            "desc": "<em>【8&nbsp;連擊盾&nbsp;‧&nbsp;反首消光符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />首批消除光符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />我方所有轉化符石效果無效。",
             "custom_desc": ""
         },
         "4634": {
-            "title": "",
-            "desc": "<em>【8&nbsp;連擊盾&nbsp;‧&nbsp;首消暗流化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />我方所有轉化符石效果無效。<br />",
+            "title": "【8 連擊盾 ‧ 反首消暗符石盾 - 化血 ‧ 轉化符石技能無效】",
+            "desc": "<em>【8&nbsp;連擊盾&nbsp;‧&nbsp;反首消暗符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />我方所有轉化符石效果無效。<br />",
             "custom_desc": ""
         },
         "4635": {
-            "title": "",
-            "desc": "<em>【8&nbsp;連擊盾&nbsp;‧&nbsp;首消心源化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />首批消除心符石的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />我方所有轉化符石效果無效。",
+            "title": "【8 連擊盾 ‧ 反首消心符石盾 - 化血 ‧ 轉化符石技能無效】",
+            "desc": "<em>【8&nbsp;連擊盾&nbsp;‧&nbsp;反首消心符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />首批消除心符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />我方所有轉化符石效果無效。",
             "custom_desc": ""
         },
         "4636": {
-            "title": "",
-            "desc": "<em>【20&nbsp;連擊盾&nbsp;‧&nbsp;首消火影化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;8&nbsp;次。<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />我方所有轉化符石效果無效。<br />",
+            "title": "【20 連擊盾 ‧ 反首消火符石盾 - 化血 ‧ 轉化符石技能無效】",
+            "desc": "<em>【20&nbsp;連擊盾&nbsp;‧&nbsp;反首消火符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;8&nbsp;次。<br /><br />首批消除火符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />我方所有轉化符石效果無效。<br />",
             "custom_desc": ""
         },
         "4637": {
-            "title": "",
-            "desc": "<em>【20&nbsp;連擊盾&nbsp;‧&nbsp;首消木葉化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;8&nbsp;次。<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />我方所有轉化符石效果無效。",
+            "title": "【20 連擊盾 ‧ 反首消木符石盾 - 化血 ‧ 轉化符石技能無效】",
+            "desc": "<em>【20&nbsp;連擊盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;8&nbsp;次。<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />我方所有轉化符石效果無效。",
             "custom_desc": ""
         },
         "4638": {
-            "title": "",
-            "desc": "<em>【20&nbsp;連擊盾&nbsp;‧&nbsp;首消光華化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;8&nbsp;次。<br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />我方所有轉化符石效果無效。",
+            "title": "【20 連擊盾 ‧ 反首消光符石盾 - 化血 ‧ 轉化符石技能無效】",
+            "desc": "<em>【20&nbsp;連擊盾&nbsp;‧&nbsp;反首消光符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;8&nbsp;次。<br /><br />首批消除光符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />我方所有轉化符石效果無效。",
             "custom_desc": ""
         },
         "4639": {
-            "title": "",
-            "desc": "<em>【20&nbsp;連擊盾&nbsp;‧&nbsp;首消暗流化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;8&nbsp;次。<br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />我方所有轉化符石效果無效。<br />",
+            "title": "【20 連擊盾 ‧ 反首消暗符石盾 - 化血 ‧ 轉化符石技能無效】",
+            "desc": "<em>【20&nbsp;連擊盾&nbsp;‧&nbsp;反首消暗符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;8&nbsp;次。<br /><br />首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />我方所有轉化符石效果無效。<br />",
             "custom_desc": ""
         },
         "4640": {
-            "title": "",
-            "desc": "<em>【20&nbsp;連擊盾&nbsp;‧&nbsp;首消心源化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;8&nbsp;次。<br /><br />首批消除心符石的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />我方所有轉化符石效果無效。",
+            "title": "【20 連擊盾 ‧ 反首消心符石盾 - 化血 ‧ 轉化符石技能無效】",
+            "desc": "<em>【20&nbsp;連擊盾&nbsp;‧&nbsp;反首消心符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;轉化符石技能無效】</em><br /><br />20&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目而提升攻擊次數，最多攻擊&nbsp;8&nbsp;次。<br /><br />首批消除心符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />我方所有轉化符石效果無效。",
             "custom_desc": ""
         },
         "4641": {
@@ -27594,8 +27609,8 @@
             "custom_desc": ""
         },
         "4790": {
-            "title": "",
-            "desc": "<em>【凍結之水&nbsp;-&nbsp;符石轉水&nbsp;‧&nbsp;首消水月化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />每回合凍結所有水符石，<br />下回合開始時，<br />如場上凍結符石不足&nbsp;7&nbsp;粒<br />(不計算冰封符石)，<br />⇒&nbsp;轉化水凍結符石<br />⇒&nbsp;直至場上有&nbsp;7&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;凍結符石為止；<br />如有符石處於凍結狀態<br />而未被消除時，<br />3&nbsp;回合內不能消除該符石。<br /><br />敵人攻擊倍率<br />隨冰封符石數量提升。<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害。<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。",
+            "title": "【凍結之水 - 符石轉水 ‧ 反首消水符石盾 - 化血 - 反擊 ‧ 7 連擊盾】",
+            "desc": "<em>【凍結之水&nbsp;-&nbsp;符石轉水&nbsp;‧&nbsp;反首消水符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />每回合凍結所有水符石，<br />下回合開始時，<br />如場上凍結符石不足&nbsp;7&nbsp;粒<br />(不計算冰封符石)，<br />⇒&nbsp;轉化水凍結符石<br />⇒&nbsp;直至場上有&nbsp;7&nbsp;粒<br />&nbsp;&nbsp;&nbsp;&nbsp;凍結符石為止；<br />如有符石處於凍結狀態<br />而未被消除時，<br />3&nbsp;回合內不能消除該符石。<br /><br />敵人攻擊倍率<br />隨冰封符石數量提升。<br /><br />首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。",
             "custom_desc": ""
         },
         "4791": {
@@ -27696,8 +27711,8 @@
             ]
         },
         "4802": {
-            "title": "【攻速變更 ‧ 鎖定連擊 - 水 ‧ 首消水月化血 - 反擊 ‧ 防禦崩壞】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;鎖定連擊&nbsp;-&nbsp;水&nbsp;‧&nbsp;首消水月化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />每回合鎖定水符石；<br />每引爆&nbsp;1&nbsp;粒鎖定符石，<br />該回合敵人連擊次數<br />增加&nbsp;1&nbsp;次，最多增加&nbsp;6&nbsp;次<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害。<br /><br />無視所有減傷效果和意志技能",
+            "title": "【攻速變更 ‧ 鎖定連擊 - 水 ‧ 反首消水符石盾 - 化血 - 反擊 ‧ 防禦崩壞】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;鎖定連擊&nbsp;-&nbsp;水&nbsp;‧&nbsp;反首消水符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />每回合鎖定水符石；<br />每引爆&nbsp;1&nbsp;粒鎖定符石，<br />該回合敵人連擊次數<br />增加&nbsp;1&nbsp;次，最多增加&nbsp;6&nbsp;次<br /><br />首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害<br /><br />無視所有減傷效果和意志技能",
             "custom_desc": "",
             "icons": [
                 967,
@@ -27716,8 +27731,8 @@
             ]
         },
         "4804": {
-            "title": "【攻速變更 ‧ 攻前盾 ‧ 符石轉水 ‧ 首消水月化血 - 反擊 ‧ 無法控制】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;攻前盾&nbsp;‧&nbsp;符石轉水&nbsp;‧&nbsp;首消水月化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;3。<br /><br />敵人無視任何攻擊傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />首回合將單數橫行的符石<br />⇒&nbsp;轉化為水符石<br />並將雙數橫行的水符石<br />⇒&nbsp;轉化為水以外符石<br />其後每回合隨機將&nbsp;6&nbsp;粒符石<br />⇒&nbsp;轉化為水符石<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害。<br /><br />無視所有控制技能。",
+            "title": "【攻速變更 ‧ 攻前盾 ‧ 符石轉水 ‧ 反首消水符石盾 - 化血 - 反擊 ‧ 無法控制】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;攻前盾&nbsp;‧&nbsp;符石轉水&nbsp;‧&nbsp;反首消水符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;3。<br /><br />敵人無視任何攻擊傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />首回合將單數橫行的符石<br />⇒&nbsp;轉化為水符石<br />並將雙數橫行的水符石<br />⇒&nbsp;轉化為水以外符石<br />其後每回合隨機將&nbsp;6&nbsp;粒符石<br />⇒&nbsp;轉化為水符石<br /><br />首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害<br /><br />無視所有控制技能。",
             "custom_desc": "",
             "icons": [
                 901,
@@ -27766,8 +27781,8 @@
             "custom_desc": ""
         },
         "4813": {
-            "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;心符石圍城&nbsp;‧&nbsp;符石轉心&nbsp;‧&nbsp;首消心源化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合將所有符石<br />⇒&nbsp;轉化為心符石<br />其後每回合隨機將&nbsp;1&nbsp;種符石<br />⇒&nbsp;轉化為心符石<br /><br />首批消除心符石的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害。<br /><br />無視所有減傷效果和<br />意志技能。",
+            "title": "【攻速變更 ‧ 心符石圍城 ‧ 符石轉心 ‧ 反首消心符石盾 - 化血 - 反擊 ‧ 防禦崩壞】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;心符石圍城&nbsp;‧&nbsp;符石轉心&nbsp;‧&nbsp;反首消心符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合將所有符石<br />⇒&nbsp;轉化為心符石<br />其後每回合隨機將&nbsp;1&nbsp;種符石<br />⇒&nbsp;轉化為心符石<br /><br />首批消除心符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害<br /><br />無視所有減傷效果和<br />意志技能。",
             "custom_desc": ""
         },
         "4814": {
@@ -27979,8 +27994,8 @@
             "custom_desc": ""
         },
         "4849": {
-            "title": "",
-            "desc": "<em>【蜘蛛網&nbsp;‧&nbsp;首消暗流化血&nbsp;‧&nbsp;非點燃狀態&nbsp;-&nbsp;攻擊弱化&nbsp;‧&nbsp;點燃狀態&nbsp;-&nbsp;蜘蛛網失效】</em><br /><br />首回合隨機&nbsp;4&nbsp;個位置<br />出現蜘蛛網，<br />其後每當敵人發動攻擊時，<br />額外&nbsp;2&nbsp;個位置出現蜘蛛網；<br />蜘蛛網一經觸碰，<br />即時停止移動符石，<br />該回合無法對敵人<br />造成攻擊傷害及回復力變&nbsp;0。<br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />敵人所受傷害減至&nbsp;10%；<br />只有敵人置身在點燃狀態，<br />才會對其造成完整攻擊傷害。<br /><br />敵人置身點燃狀態時，<br />「蜘蛛網」敵技失效。",
+            "title": "【蜘蛛網 ‧ 反首消暗符石盾 - 化血 ‧ 非點燃狀態 - 攻擊弱化 ‧ 點燃狀態 - 蜘蛛網失效】",
+            "desc": "<em>【蜘蛛網&nbsp;‧&nbsp;反首消暗符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;非點燃狀態&nbsp;-&nbsp;攻擊弱化&nbsp;‧&nbsp;點燃狀態&nbsp;-&nbsp;蜘蛛網失效】</em><br /><br />首回合隨機&nbsp;4&nbsp;個位置<br />出現蜘蛛網，<br />其後每當敵人發動攻擊時，<br />額外&nbsp;2&nbsp;個位置出現蜘蛛網；<br />蜘蛛網一經觸碰，<br />即時停止移動符石，<br />該回合無法對敵人<br />造成攻擊傷害及回復力變&nbsp;0。<br /><br />首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />敵人所受傷害減至&nbsp;10%；<br />只有敵人置身在點燃狀態，<br />才會對其造成完整攻擊傷害。<br /><br />敵人置身點燃狀態時，<br />「蜘蛛網」敵技失效。",
             "custom_desc": ""
         },
         "4850": {
@@ -27998,8 +28013,8 @@
             ]
         },
         "4851": {
-            "title": "【蜘蛛網 ‧ 首消暗流化血 - 反擊 ‧ 非點燃狀態 - 攻擊弱化 ‧ 點燃狀態 - 蜘蛛網失效】",
-            "desc": "<em>【蜘蛛網&nbsp;‧&nbsp;首消暗流化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;非點燃狀態&nbsp;-&nbsp;攻擊弱化&nbsp;‧&nbsp;點燃狀態&nbsp;-&nbsp;蜘蛛網失效】</em><br /><br />首回合隨機&nbsp;8&nbsp;個位置<br />出現蜘蛛網，<br />其後每當敵人發動攻擊時，<br />額外&nbsp;4&nbsp;個位置出現蜘蛛網；<br />蜘蛛網一經觸碰，<br />即時停止移動符石，<br />該回合無法對敵人<br />造成攻擊傷害及回復力變&nbsp;0。<br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害。<br /><br />敵人所受傷害減至&nbsp;10%；<br />只有敵人置身在點燃狀態，<br />才會對其造成完整攻擊傷害。<br /><br />敵人置身點燃狀態時，<br />「蜘蛛網」敵技失效。",
+            "title": "【蜘蛛網 ‧ 反首消暗符石盾 - 化血 - 反擊 ‧ 非點燃狀態 - 攻擊弱化 ‧ 點燃狀態 - 蜘蛛網失效】",
+            "desc": "<em>【蜘蛛網&nbsp;‧&nbsp;反首消暗符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;非點燃狀態&nbsp;-&nbsp;攻擊弱化&nbsp;‧&nbsp;點燃狀態&nbsp;-&nbsp;蜘蛛網失效】</em><br /><br />首回合隨機&nbsp;8&nbsp;個位置<br />出現蜘蛛網，<br />其後每當敵人發動攻擊時，<br />額外&nbsp;4&nbsp;個位置出現蜘蛛網；<br />蜘蛛網一經觸碰，<br />即時停止移動符石，<br />該回合無法對敵人<br />造成攻擊傷害及回復力變&nbsp;0。<br /><br />首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害<br /><br />敵人所受傷害減至&nbsp;10%；<br />只有敵人置身在點燃狀態，<br />才會對其造成完整攻擊傷害。<br /><br />敵人置身點燃狀態時，<br />「蜘蛛網」敵技失效。",
             "custom_desc": "",
             "icons": [
                 966,
@@ -28179,13 +28194,13 @@
             "custom_desc": ""
         },
         "4864": {
-            "title": "",
-            "desc": "<em>【無法控制．防禦崩壞．復活&nbsp;3&nbsp;次&nbsp;-&nbsp;攻速變更&nbsp;-&nbsp;加攻&nbsp;‧&nbsp;活復追加&nbsp;-&nbsp;起結有序&nbsp;-&nbsp;隱匿之途&nbsp;-&nbsp;首消水月化血】</em><br /><br />無視所有控制技能、<br />減傷效果和意志技能。<br /><br />敵人死亡後會復活&nbsp;3&nbsp;次；<br />每次復活後<br />⓵&nbsp;該次攻擊變為&nbsp;CD&nbsp;1；<br />⓶&nbsp;攻擊力提升<br /><br />首次復活時<br />⇒&nbsp;追加「起結有序」敵技<br /><br />第&nbsp;2&nbsp;次復活時<br />⇒&nbsp;追加「隱匿之途」敵技<br /><br />第&nbsp;3&nbsp;次復活時<br />⇒&nbsp;追加「首消水月化血」敵技",
+            "title": "【無法控制．防禦崩壞．復活 3 次 - 攻速變更 - 加攻 ‧ 活復追加 - 起結有序 - 隱匿之途 - 反首消水符石盾 - 化血】",
+            "desc": "<em>【無法控制．防禦崩壞．復活&nbsp;3&nbsp;次&nbsp;-&nbsp;攻速變更&nbsp;-&nbsp;加攻&nbsp;‧&nbsp;活復追加&nbsp;-&nbsp;起結有序&nbsp;-&nbsp;隱匿之途&nbsp;-&nbsp;反首消水符石盾&nbsp;-&nbsp;化血】</em><br /><br />無視所有控制技能、<br />減傷效果和意志技能。<br /><br />敵人死亡後會復活&nbsp;3&nbsp;次；<br />每次復活後<br />⓵&nbsp;該次攻擊變為&nbsp;CD&nbsp;1；<br />⓶&nbsp;攻擊力提升<br /><br />首次復活時<br />⇒&nbsp;追加「起結有序」敵技<br /><br />第&nbsp;2&nbsp;次復活時<br />⇒&nbsp;追加「隱匿之途」敵技<br /><br />第&nbsp;3&nbsp;次復活時<br />⇒&nbsp;追加「反首消水符石盾&nbsp;-&nbsp;化血」敵技",
             "custom_desc": ""
         },
         "4865": {
-            "title": "",
-            "desc": "<em>【無法控制．防禦崩壞．復活&nbsp;3&nbsp;次&nbsp;-&nbsp;攻速變更&nbsp;-&nbsp;加攻&nbsp;‧&nbsp;活復追加&nbsp;-&nbsp;起結有序&nbsp;-&nbsp;隱匿之途&nbsp;-&nbsp;首消心源化血】</em><br /><br />無視所有控制技能、<br />減傷效果和意志技能。<br /><br />敵人死亡後會復活&nbsp;3&nbsp;次；<br />每次復活後<br />⓵&nbsp;該次攻擊變為&nbsp;CD&nbsp;1；<br />⓶&nbsp;攻擊力提升<br /><br />首次復活時<br />⇒&nbsp;追加「起結有序」敵技<br /><br />第&nbsp;2&nbsp;次復活時<br />⇒&nbsp;追加「隱匿之途」敵技<br /><br />第&nbsp;3&nbsp;次復活時<br />⇒&nbsp;追加「首消心源化血」敵技",
+            "title": "【無法控制．防禦崩壞．復活 3 次 - 攻速變更 - 加攻 ‧ 活復追加 - 起結有序 - 隱匿之途 - 反首消心符石盾 - 化血】",
+            "desc": "<em>【無法控制．防禦崩壞．復活&nbsp;3&nbsp;次&nbsp;-&nbsp;攻速變更&nbsp;-&nbsp;加攻&nbsp;‧&nbsp;活復追加&nbsp;-&nbsp;起結有序&nbsp;-&nbsp;隱匿之途&nbsp;-&nbsp;反首消心符石盾&nbsp;-&nbsp;化血】</em><br /><br />無視所有控制技能、<br />減傷效果和意志技能。<br /><br />敵人死亡後會復活&nbsp;3&nbsp;次；<br />每次復活後<br />⓵&nbsp;該次攻擊變為&nbsp;CD&nbsp;1；<br />⓶&nbsp;攻擊力提升<br /><br />首次復活時<br />⇒&nbsp;追加「起結有序」敵技<br /><br />第&nbsp;2&nbsp;次復活時<br />⇒&nbsp;追加「隱匿之途」敵技<br /><br />第&nbsp;3&nbsp;次復活時<br />⇒&nbsp;追加「反首消心符石盾&nbsp;-&nbsp;化血」敵技",
             "custom_desc": ""
         },
         "4866": {
@@ -28507,63 +28522,63 @@
             ]
         },
         "4914": {
-            "title": "",
-            "desc": "<em>【首消水月化血&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
+            "title": "【反首消水符石盾 - 化血 ‧ 7 連擊盾】",
+            "desc": "<em>【反首消水符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
             "custom_desc": ""
         },
         "4915": {
-            "title": "",
-            "desc": "<em>【首消水月化血&nbsp;‧&nbsp;8&nbsp;連擊盾】</em><br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
+            "title": "【反首消水符石盾 - 化血 ‧ 8 連擊盾】",
+            "desc": "<em>【反首消水符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;8&nbsp;連擊盾】</em><br /><br />首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
             "custom_desc": ""
         },
         "4916": {
-            "title": "",
-            "desc": "<em>【首消火影化血&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
+            "title": "【反首消火符石盾 - 化血 ‧ 7 連擊盾】",
+            "desc": "<em>【反首消火符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首批消除火符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
             "custom_desc": ""
         },
         "4917": {
-            "title": "",
-            "desc": "<em>【首消火影化血&nbsp;‧&nbsp;8&nbsp;連擊盾】</em><br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
+            "title": "【反首消火符石盾 - 化血 ‧ 8 連擊盾】",
+            "desc": "<em>【反首消火符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;8&nbsp;連擊盾】</em><br /><br />首批消除火符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
             "custom_desc": ""
         },
         "4918": {
-            "title": "",
-            "desc": "<em>【首消木葉化血&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
+            "title": "【反首消木符石盾 - 化血 ‧ 7 連擊盾】",
+            "desc": "<em>【反首消木符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
             "custom_desc": ""
         },
         "4919": {
-            "title": "",
-            "desc": "<em>【首消木葉化血&nbsp;‧&nbsp;8&nbsp;連擊盾】</em><br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
+            "title": "【反首消木符石盾 - 化血 ‧ 8 連擊盾】",
+            "desc": "<em>【反首消木符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;8&nbsp;連擊盾】</em><br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
             "custom_desc": ""
         },
         "4920": {
-            "title": "",
-            "desc": "<em>【首消光華化血&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
+            "title": "【反首消光符石盾 - 化血 ‧ 7 連擊盾】",
+            "desc": "<em>【反首消光符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首批消除光符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
             "custom_desc": ""
         },
         "4921": {
-            "title": "",
-            "desc": "<em>【首消光華化血&nbsp;‧&nbsp;8&nbsp;連擊盾】</em><br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
+            "title": "【反首消光符石盾 - 化血 ‧ 8 連擊盾】",
+            "desc": "<em>【反首消光符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;8&nbsp;連擊盾】</em><br /><br />首批消除光符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
             "custom_desc": ""
         },
         "4922": {
-            "title": "",
-            "desc": "<em>【首消暗流化血&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
+            "title": "【反首消暗符石盾 - 化血 ‧ 7 連擊盾】",
+            "desc": "<em>【反首消暗符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
             "custom_desc": ""
         },
         "4923": {
-            "title": "",
-            "desc": "<em>【首消暗流化血&nbsp;‧&nbsp;8&nbsp;連擊盾】</em><br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
+            "title": "【反首消暗符石盾 - 化血 ‧ 8 連擊盾】",
+            "desc": "<em>【反首消暗符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;8&nbsp;連擊盾】</em><br /><br />首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
             "custom_desc": ""
         },
         "4924": {
-            "title": "",
-            "desc": "<em>【首消心源化血&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首批消除心符石的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
+            "title": "【反首消心符石盾 - 化血 ‧ 7 連擊盾】",
+            "desc": "<em>【反首消心符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;7&nbsp;連擊盾】</em><br /><br />首批消除心符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
             "custom_desc": ""
         },
         "4925": {
-            "title": "",
-            "desc": "<em>【首消心源化血&nbsp;‧&nbsp;8&nbsp;連擊盾】</em><br /><br />首批消除心符石的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
+            "title": "【反首消心符石盾 - 化血 ‧ 8 連擊盾】",
+            "desc": "<em>【反首消心符石盾&nbsp;-&nbsp;化血&nbsp;‧&nbsp;8&nbsp;連擊盾】</em><br /><br />首批消除心符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。",
             "custom_desc": ""
         },
         "4926": {
@@ -28746,13 +28761,13 @@
             "custom_desc": ""
         },
         "4945": {
-            "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;四屬強化盾&nbsp;‧&nbsp;首消木葉化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />「水、火、光、暗」<br />&nbsp;&nbsp;強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次。",
+            "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 瘴霧 ‧ 四屬強化盾 ‧ 反首消木符石盾 - 化血 - 反擊】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;四屬強化盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />「水、火、光、暗」<br />&nbsp;&nbsp;強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": ""
         },
         "4946": {
-            "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;四屬盾&nbsp;‧&nbsp;首消木葉化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />&nbsp;&nbsp;水、火、光、暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次。",
+            "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 瘴霧 ‧ 四屬盾 ‧ 反首消木符石盾 - 化血 - 反擊】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;四屬盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />&nbsp;&nbsp;水、火、光、暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": ""
         },
         "4947": {
@@ -28936,8 +28951,8 @@
             "custom_desc": ""
         },
         "4965": {
-            "title": "【亡命爆擊 40,000 ‧ 首消水月化血】",
-            "desc": "<em>【亡命爆擊&nbsp;40,000&nbsp;‧&nbsp;首消水月化血】</em><br /><br />敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點傷害<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。",
+            "title": "【亡命爆擊 40,000 ‧ 反首消水符石盾 - 化血】",
+            "desc": "<em>【亡命爆擊&nbsp;40,000&nbsp;‧&nbsp;反首消水符石盾&nbsp;-&nbsp;化血】</em><br /><br />敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點傷害<br /><br />首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
             "custom_desc": "",
             "icons": [
                 291,
@@ -28945,8 +28960,8 @@
             ]
         },
         "4966": {
-            "title": "【亡命爆擊 40,000 ‧ 首消火影化血】",
-            "desc": "<em>【亡命爆擊&nbsp;40,000&nbsp;‧&nbsp;首消火影化血】</em><br /><br />敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點傷害<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。",
+            "title": "【亡命爆擊 40,000 ‧ 反首消火符石盾 - 化血】",
+            "desc": "<em>【亡命爆擊&nbsp;40,000&nbsp;‧&nbsp;反首消火符石盾&nbsp;-&nbsp;化血】</em><br /><br />敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點傷害<br /><br />首批消除火符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
             "custom_desc": "",
             "icons": [
                 292,
@@ -28954,8 +28969,8 @@
             ]
         },
         "4967": {
-            "title": "【亡命爆擊 40,000 ‧ 首消木葉化血】",
-            "desc": "<em>【亡命爆擊&nbsp;40,000&nbsp;‧&nbsp;首消木葉化血】</em><br /><br />敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點傷害<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。",
+            "title": "【亡命爆擊 40,000 ‧ 反首消木符石盾 - 化血】",
+            "desc": "<em>【亡命爆擊&nbsp;40,000&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血】</em><br /><br />敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點傷害<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
             "custom_desc": "",
             "icons": [
                 293,
@@ -28963,8 +28978,8 @@
             ]
         },
         "4968": {
-            "title": "【亡命爆擊 40,000 ‧ 首消光華化血】",
-            "desc": "<em>【亡命爆擊&nbsp;40,000&nbsp;‧&nbsp;首消光華化血】</em><br /><br />敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點傷害<br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。",
+            "title": "【亡命爆擊 40,000 ‧ 反首消光符石盾 - 化血】",
+            "desc": "<em>【亡命爆擊&nbsp;40,000&nbsp;‧&nbsp;反首消光符石盾&nbsp;-&nbsp;化血】</em><br /><br />敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點傷害<br /><br />首批消除光符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
             "custom_desc": "",
             "icons": [
                 294,
@@ -28972,8 +28987,8 @@
             ]
         },
         "4969": {
-            "title": "【亡命爆擊 40,000 ‧ 首消暗流化血】",
-            "desc": "<em>【亡命爆擊&nbsp;40,000&nbsp;‧&nbsp;首消暗流化血】</em><br /><br />敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點傷害<br /><br />首批消除暗屬性的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。",
+            "title": "【亡命爆擊 40,000 ‧ 反首消暗符石盾 - 化血】",
+            "desc": "<em>【亡命爆擊&nbsp;40,000&nbsp;‧&nbsp;反首消暗符石盾&nbsp;-&nbsp;化血】</em><br /><br />敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點傷害<br /><br />首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
             "custom_desc": "",
             "icons": [
                 295,
@@ -28981,8 +28996,8 @@
             ]
         },
         "4970": {
-            "title": "【亡命爆擊 40,000 ‧ 首消心源化血】",
-            "desc": "<em>【亡命爆擊&nbsp;40,000&nbsp;‧&nbsp;首消心源化血】</em><br /><br />敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點傷害<br /><br />首批消除心符石的連擊&nbsp;(Combo)&nbsp;時，敵人會回復相等於該回合召喚師所造成傷害的血量。",
+            "title": "【亡命爆擊 40,000 ‧ 反首消心符石盾 - 化血】",
+            "desc": "<em>【亡命爆擊&nbsp;40,000&nbsp;‧&nbsp;反首消心符石盾&nbsp;-&nbsp;化血】</em><br /><br />敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點傷害<br /><br />首批消除心符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
             "custom_desc": "",
             "icons": [
                 296,
@@ -29041,24 +29056,24 @@
             ]
         },
         "4975": {
-            "title": "【攻速變更 ‧ 火符石圍城 ‧ 燃燒圍城 20% ‧ 首消火影化血 - 反擊 ‧ 指定 8 連擊盾 ‧ 無法控制】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;火符石圍城&nbsp;‧&nbsp;燃燒圍城&nbsp;20%&nbsp;‧&nbsp;首消火影化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;指定&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合將所有符石<br />⇒&nbsp;轉化為火符石<br /><br />燃燒所有位置，<br />每觸碰被燃燒的位置，<br />扣除召喚師&nbsp;20%&nbsp;生命力。<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
+            "title": "【攻速變更 ‧ 火符石圍城 ‧ 燃燒圍城 20% ‧ 反首消火符石盾 - 化血 - 反擊 ‧ 指定 8 連擊盾 ‧ 無法控制】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;火符石圍城&nbsp;‧&nbsp;燃燒圍城&nbsp;20%&nbsp;‧&nbsp;反首消火符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;指定&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合將所有符石<br />⇒&nbsp;轉化為火符石<br /><br />燃燒所有位置，<br />每觸碰被燃燒的位置，<br />扣除召喚師&nbsp;20%&nbsp;生命力。<br /><br />首批消除火符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br /><br />首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
             "custom_desc": "",
             "keywords": [
                 "固定連擊盾"
             ]
         },
         "4976": {
-            "title": "【攻速變更 ‧ 水符石圍城 ‧ 冰封圍城 ‧ 首消水月化血 - 反擊 ‧ 指定 8 連擊盾 ‧ 無法控制】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;水符石圍城&nbsp;‧&nbsp;冰封圍城&nbsp;‧&nbsp;首消水月化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;指定&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合將所有符石<br />⇒&nbsp;轉化為水符石<br /><br />首回合凍結所有符石，<br />3&nbsp;回合內不能消除該符石。<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
+            "title": "【攻速變更 ‧ 水符石圍城 ‧ 冰封圍城 ‧ 反首消水符石盾 - 化血 - 反擊 ‧ 指定 8 連擊盾 ‧ 無法控制】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;水符石圍城&nbsp;‧&nbsp;冰封圍城&nbsp;‧&nbsp;反首消水符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;指定&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合將所有符石<br />⇒&nbsp;轉化為水符石<br /><br />首回合凍結所有符石，<br />3&nbsp;回合內不能消除該符石。<br /><br />首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br /><br />首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
             "custom_desc": "",
             "keywords": [
                 "固定連擊盾"
             ]
         },
         "4977": {
-            "title": "【攻速變更 ‧ 木符石圍城 ‧ 黏腐圍城 ‧ 首消木葉化血 - 反擊 ‧ 指定 8 連擊盾 ‧ 無法控制】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;木符石圍城&nbsp;‧&nbsp;黏腐圍城&nbsp;‧&nbsp;首消木葉化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;指定&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合將所有符石<br />⇒&nbsp;轉化為木符石<br /><br />黏附所有位置，<br />該位置的符石一經觸碰，<br />即時停止移動符石。<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
+            "title": "【攻速變更 ‧ 木符石圍城 ‧ 黏腐圍城 ‧ 反首消木符石盾 - 化血 - 反擊 ‧ 指定 8 連擊盾 ‧ 無法控制】",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;木符石圍城&nbsp;‧&nbsp;黏腐圍城&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;指定&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合將所有符石<br />⇒&nbsp;轉化為木符石<br /><br />黏附所有位置，<br />該位置的符石一經觸碰，<br />即時停止移動符石。<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br /><br />首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
             "custom_desc": "",
             "keywords": [
                 "固定連擊盾"
@@ -29334,8 +29349,8 @@
             ]
         },
         "5010": {
-            "title": "【力的印記 ‧ 9 連擊盾 ‧ 首消光華化血 - 反擊 ‧ 無法控制】",
-            "desc": "<em>【力的印記&nbsp;‧&nbsp;9&nbsp;連擊盾&nbsp;‧&nbsp;首消光華化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;無法控制】</em><br /><br />每回合所有光符石<br />⇒&nbsp;附加力的印記<br /><br />每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;下回合獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />召喚師死亡後，<br />清空力的印記及印記力量<br /><br />9&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />首批消除光屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
+            "title": "【力的印記 ‧ 9 連擊盾 ‧ 反首消光符石盾 - 化血 - 反擊 ‧ 無法控制】",
+            "desc": "<em>【力的印記&nbsp;‧&nbsp;9&nbsp;連擊盾&nbsp;‧&nbsp;反首消光符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊&nbsp;‧&nbsp;無法控制】</em><br /><br />每回合所有光符石<br />⇒&nbsp;附加力的印記<br /><br />每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;下回合獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />召喚師死亡後，<br />清空力的印記及印記力量<br /><br />9&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />首批消除光符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次<br /><br />無視所有控制技能。",
             "custom_desc": "",
             "icons": [
                 314,
@@ -29349,7 +29364,7 @@
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;33&nbsp;連擊盾&nbsp;‧&nbsp;消心禁咒&nbsp;‧&nbsp;一擊必殺】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />33&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。<br /><br />心符石無法被消除。<br /><br />敵人發動攻擊時會<br />扣除召喚師&nbsp;100%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)",
             "custom_desc": "",
             "icons": [
-                79,
+                2013,
                 306,
                 1121
             ],
@@ -29640,7 +29655,7 @@
         },
         "5061": {
             "title": "【〖腐化 ‧ 反首消心符石盾 - 化血 - 反擊〗】",
-            "desc": "首批消除心符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
+            "desc": "<em>【〖腐化&nbsp;‧&nbsp;反首消心符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊〗】</em><br /><br />首批消除心符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": ""
         },
         "5062": {
@@ -41994,12 +42009,16 @@
         "6588": {
             "title": "【同伴之護 - 喪伴自戕】",
             "desc": "當有其他敵人被擊斃，<br />回合結束時敵人<br />扣除自身&nbsp;100%&nbsp;生命力&nbsp;。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1055
+            ]
         },
         "6589": {
             "title": "【無敵】",
             "desc": "•&nbsp;敵人不會受到任何傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": []
         },
         "6590": {
             "title": "【弱化圍城 10% ‧ 水弱化符石 10%】",
@@ -42122,7 +42141,7 @@
             "desc": "•&nbsp;1&nbsp;回合內，<br />&nbsp;&nbsp;達成連擊&nbsp;(Combo)&nbsp;上限為&nbsp;1",
             "custom_desc": "",
             "icons": [
-                83
+                81
             ]
         },
         "6607": {
@@ -42130,7 +42149,7 @@
             "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;達成連擊&nbsp;(Combo)&nbsp;上限為&nbsp;1",
             "custom_desc": "",
             "icons": [
-                83
+                81
             ]
         },
         "6608": {
@@ -42138,7 +42157,7 @@
             "desc": "•&nbsp;99&nbsp;回合內，<br />&nbsp;&nbsp;達成連擊&nbsp;(Combo)&nbsp;上限為&nbsp;1",
             "custom_desc": "",
             "icons": [
-                83
+                81
             ]
         },
         "6609": {
@@ -42146,7 +42165,7 @@
             "desc": "•&nbsp;1&nbsp;回合內，<br />&nbsp;&nbsp;達成連擊&nbsp;(Combo)&nbsp;上限為&nbsp;5",
             "custom_desc": "",
             "icons": [
-                84
+                82
             ]
         },
         "6610": {
@@ -42154,7 +42173,7 @@
             "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;達成連擊&nbsp;(Combo)&nbsp;上限為&nbsp;5",
             "custom_desc": "",
             "icons": [
-                84
+                82
             ]
         },
         "6611": {
@@ -42162,7 +42181,7 @@
             "desc": "•&nbsp;99&nbsp;回合內，<br />&nbsp;&nbsp;達成連擊&nbsp;(Combo)&nbsp;上限為&nbsp;5",
             "custom_desc": "",
             "icons": [
-                84
+                82
             ]
         },
         "6612": {
@@ -42170,7 +42189,7 @@
             "desc": "•&nbsp;1&nbsp;回合內，<br />&nbsp;&nbsp;達成連擊&nbsp;(Combo)&nbsp;上限為&nbsp;10",
             "custom_desc": "",
             "icons": [
-                85
+                83
             ]
         },
         "6613": {
@@ -42178,7 +42197,7 @@
             "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;達成連擊&nbsp;(Combo)&nbsp;上限為&nbsp;10",
             "custom_desc": "",
             "icons": [
-                85
+                83
             ]
         },
         "6614": {
@@ -42186,7 +42205,7 @@
             "desc": "•&nbsp;99&nbsp;回合內，<br />&nbsp;&nbsp;達成連擊&nbsp;(Combo)&nbsp;上限為&nbsp;10",
             "custom_desc": "",
             "icons": [
-                85
+                83
             ]
         },
         "6615": {
@@ -42194,7 +42213,7 @@
             "desc": "•&nbsp;達成&nbsp;≥30&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
             "custom_desc": "",
             "icons": [
-                80
+                2010
             ]
         },
         "6616": {
@@ -42202,7 +42221,7 @@
             "desc": "•&nbsp;達成&nbsp;≥40&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
             "custom_desc": "",
             "icons": [
-                81
+                2020
             ]
         },
         "6617": {
@@ -42210,7 +42229,7 @@
             "desc": "•&nbsp;達成&nbsp;≥50&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
             "custom_desc": "",
             "icons": [
-                82
+                79
             ]
         },
         "6618": {
@@ -42218,7 +42237,7 @@
             "desc": "•&nbsp;達成&nbsp;≥30&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊<br />⇒&nbsp;最多追打&nbsp;9&nbsp;次",
             "custom_desc": "",
             "icons": [
-                80
+                2010
             ]
         },
         "6619": {
@@ -42226,7 +42245,7 @@
             "desc": "•&nbsp;達成&nbsp;≥40&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊<br />⇒&nbsp;最多追打&nbsp;9&nbsp;次",
             "custom_desc": "",
             "icons": [
-                81
+                2020
             ]
         },
         "6620": {
@@ -42234,7 +42253,7 @@
             "desc": "•&nbsp;達成&nbsp;≥50&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊<br />⇒&nbsp;最多追打&nbsp;9&nbsp;次",
             "custom_desc": "",
             "icons": [
-                82
+                79
             ]
         },
         "6624": {
@@ -43596,6 +43615,839 @@
             "icons": [
                 1039
             ]
+        },
+        "6820": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">battle_puzzle 3 3 BattlePuzzle6820</span><span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6821": {
+            "title": "戰鬥圖板 - 越扣越強25%",
+            "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+            "custom_desc": "<span class=\"annotation\">battle_puzzle 3 3 BattlePuzzle6821</span><span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+            "icons": [
+                1039
+            ]
+        },
+        "6822": {
+            "title": "【≥21 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥21&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2001
+            ]
+        },
+        "6823": {
+            "title": "【≥22 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥22&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2002
+            ]
+        },
+        "6824": {
+            "title": "【≥23 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥23&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2003
+            ]
+        },
+        "6825": {
+            "title": "【≥24 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥24&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2004
+            ]
+        },
+        "6826": {
+            "title": "【≥25 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥25&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2005
+            ]
+        },
+        "6827": {
+            "title": "【≥26 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥26&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2006
+            ]
+        },
+        "6828": {
+            "title": "【≥27 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥27&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2007
+            ]
+        },
+        "6829": {
+            "title": "【≥28 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥28&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2008
+            ]
+        },
+        "6830": {
+            "title": "【≥29 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥29&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2009
+            ]
+        },
+        "6831": {
+            "title": "【≥30 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥30&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2010
+            ]
+        },
+        "6832": {
+            "title": "【≥31 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥31&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2011
+            ]
+        },
+        "6833": {
+            "title": "【≥32 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥32&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2012
+            ]
+        },
+        "6834": {
+            "title": "【≥33 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥33&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2013
+            ]
+        },
+        "6835": {
+            "title": "【≥34 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥34&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2014
+            ]
+        },
+        "6836": {
+            "title": "【≥35 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥35&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2015
+            ]
+        },
+        "6837": {
+            "title": "【≥36 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥36&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2016
+            ]
+        },
+        "6838": {
+            "title": "【≥37 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥37&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2017
+            ]
+        },
+        "6839": {
+            "title": "【≥38 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥38&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2018
+            ]
+        },
+        "6840": {
+            "title": "【≥39 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥39&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2019
+            ]
+        },
+        "6841": {
+            "title": "【≥40 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≥40&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                2020
+            ]
+        },
+        "6842": {
+            "title": "【反首消水符石盾 - 反擊】",
+            "desc": "首批消除水符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
+            "custom_desc": "",
+            "icons": [
+                311
+            ]
+        },
+        "6843": {
+            "title": "【反首消火符石盾 - 反擊】",
+            "desc": "首批消除火符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
+            "custom_desc": "",
+            "icons": [
+                312
+            ]
+        },
+        "6844": {
+            "title": "【反首消木符石盾 - 反擊】",
+            "desc": "首批消除木符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
+            "custom_desc": "",
+            "icons": [
+                313
+            ]
+        },
+        "6845": {
+            "title": "【反首消光符石盾 - 反擊】",
+            "desc": "首批消除光符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
+            "custom_desc": "",
+            "icons": [
+                314
+            ]
+        },
+        "6846": {
+            "title": "【反首消暗符石盾 - 反擊】",
+            "desc": "首批消除暗符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
+            "custom_desc": "",
+            "icons": [
+                315
+            ]
+        },
+        "6847": {
+            "title": "【反首消心符石盾 - 反擊】",
+            "desc": "首批消除心符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
+            "custom_desc": "",
+            "icons": [
+                316
+            ]
+        },
+        "6855": {
+            "title": "【水屬弱攻】",
+            "desc": "•&nbsp;水屬性傷害減至&nbsp;10%",
+            "custom_desc": "",
+            "icons": [
+                251
+            ]
+        },
+        "6856": {
+            "title": "【火屬弱攻】",
+            "desc": "•&nbsp;火屬性傷害減至&nbsp;10%",
+            "custom_desc": "",
+            "icons": [
+                252
+            ]
+        },
+        "6857": {
+            "title": "【木屬弱攻】",
+            "desc": "•&nbsp;木屬性傷害減至&nbsp;10%",
+            "custom_desc": "",
+            "icons": [
+                253
+            ]
+        },
+        "6858": {
+            "title": "【光屬弱攻】",
+            "desc": "•&nbsp;光屬性傷害減至&nbsp;10%",
+            "custom_desc": "",
+            "icons": [
+                254
+            ]
+        },
+        "6859": {
+            "title": "【暗屬弱攻】",
+            "desc": "•&nbsp;暗屬性傷害減至&nbsp;10%",
+            "custom_desc": "",
+            "icons": [
+                255
+            ]
+        },
+        "6860": {
+            "title": "【敵屬弱攻】",
+            "desc": "•&nbsp;敵人屬性傷害減至&nbsp;0%",
+            "custom_desc": ""
+        },
+        "6861": {
+            "title": "【克敵屬弱攻】",
+            "desc": "•&nbsp;克制敵人屬性的傷害<br />⇒&nbsp;減至&nbsp;0%",
+            "custom_desc": ""
+        },
+        "6862": {
+            "title": "【風化符石 - 水】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒水符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6863": {
+            "title": "【風化符石 - 火】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒火符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6864": {
+            "title": "【風化符石 - 木】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒木符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6865": {
+            "title": "【風化符石 - 光】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒光符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6866": {
+            "title": "【風化符石 - 暗】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒暗符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6867": {
+            "title": "【風化符石 - 心】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒心符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6868": {
+            "title": "【風化符石 - 水】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒水符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;15,000&nbsp;點傷害",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6869": {
+            "title": "【風化符石 - 火】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒火符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;15,000&nbsp;點傷害",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6870": {
+            "title": "【風化符石 - 木】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒木符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;15,000&nbsp;點傷害",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6871": {
+            "title": "【風化符石 - 光】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒光符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;15,000&nbsp;點傷害",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6872": {
+            "title": "【風化符石 - 暗】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒暗符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;15,000&nbsp;點傷害",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6873": {
+            "title": "【風化符石 - 心】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒心符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;15,000&nbsp;點傷害",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6874": {
+            "title": "【風化符石 - 水】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒水符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;60,000&nbsp;點傷害",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6875": {
+            "title": "【風化符石 - 火】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒火符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;60,000&nbsp;點傷害",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6876": {
+            "title": "【風化符石 - 木】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒木符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;60,000&nbsp;點傷害",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6877": {
+            "title": "【風化符石 - 光】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒光符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;60,000&nbsp;點傷害",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6878": {
+            "title": "【風化符石 - 暗】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒暗符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;60,000&nbsp;點傷害",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6879": {
+            "title": "【風化符石 - 心】",
+            "desc": "•&nbsp;每回合將&nbsp;3&nbsp;粒心符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;60,000&nbsp;點傷害",
+            "custom_desc": "",
+            "icons": [
+                957
+            ]
+        },
+        "6880": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;1&nbsp;個位置<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;燃燒範圍延伸至<br />&nbsp;&nbsp;&nbsp;四周的其中&nbsp;1&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />＊召喚師死亡後燃燒位置<br />&nbsp;&nbsp;&nbsp;重置至&nbsp;1&nbsp;個",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6881": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;1&nbsp;個位置<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;燃燒範圍延伸至<br />&nbsp;&nbsp;&nbsp;四周的其中&nbsp;2&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />＊召喚師死亡後燃燒位置<br />&nbsp;&nbsp;&nbsp;重置至&nbsp;1&nbsp;個",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6882": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;1&nbsp;個位置<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;燃燒範圍延伸至<br />&nbsp;&nbsp;&nbsp;四周的其中&nbsp;3&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />＊召喚師死亡後燃燒位置<br />&nbsp;&nbsp;&nbsp;重置至&nbsp;1&nbsp;個",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6883": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;1&nbsp;個位置<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;燃燒範圍延伸至<br />&nbsp;&nbsp;&nbsp;四周的其中&nbsp;1&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />＊召喚師死亡後燃燒位置<br />&nbsp;&nbsp;&nbsp;重置至&nbsp;1&nbsp;個",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6884": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;1&nbsp;個位置<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;燃燒範圍延伸至<br />&nbsp;&nbsp;&nbsp;四周的其中&nbsp;2&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />＊召喚師死亡後燃燒位置<br />&nbsp;&nbsp;&nbsp;重置至&nbsp;1&nbsp;個",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6885": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;1&nbsp;個位置<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;燃燒範圍延伸至<br />&nbsp;&nbsp;&nbsp;四周的其中&nbsp;3&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />＊召喚師死亡後燃燒位置<br />&nbsp;&nbsp;&nbsp;重置至&nbsp;1&nbsp;個",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6886": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;1&nbsp;個位置<br />•&nbsp;每回合結束時<br />⇒&nbsp;額外燃燒&nbsp;1&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6887": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;2&nbsp;個位置<br />•&nbsp;每回合結束時<br />⇒&nbsp;額外燃燒&nbsp;2&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6888": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;3&nbsp;個位置<br />•&nbsp;每回合結束時<br />⇒&nbsp;額外燃燒&nbsp;3&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6889": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;4&nbsp;個位置<br />•&nbsp;每回合結束時<br />⇒&nbsp;額外燃燒&nbsp;4&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6890": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;1&nbsp;個位置<br />•&nbsp;每回合結束時<br />⇒&nbsp;額外燃燒&nbsp;1&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6891": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;2&nbsp;個位置<br />•&nbsp;每回合結束時<br />⇒&nbsp;額外燃燒&nbsp;2&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6892": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;3&nbsp;個位置<br />•&nbsp;每回合結束時<br />⇒&nbsp;額外燃燒&nbsp;3&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6893": {
+            "title": "【擴散燃燒】",
+            "desc": "•&nbsp;進場時隨機燃燒&nbsp;4&nbsp;個位置<br />•&nbsp;每回合結束時<br />⇒&nbsp;額外燃燒&nbsp;4&nbsp;個位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力",
+            "custom_desc": "",
+            "icons": [
+                951
+            ]
+        },
+        "6896": {
+            "title": "【錮縛 - 技能】",
+            "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;隨機&nbsp;1&nbsp;個成員的主動技能",
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
+        },
+        "6897": {
+            "title": "【錮縛 - 技能】",
+            "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;隨機&nbsp;2&nbsp;個成員的主動技能",
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
+        },
+        "6898": {
+            "title": "【錮縛 - 技能】",
+            "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;隨機&nbsp;3&nbsp;個成員的主動技能",
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
+        },
+        "6899": {
+            "title": "【錮縛 - 技能】",
+            "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;隨機&nbsp;4&nbsp;個成員的主動技能",
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
+        },
+        "6900": {
+            "title": "【錮縛 - 技能】",
+            "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;隨機&nbsp;5&nbsp;個成員的主動技能",
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
+        },
+        "6901": {
+            "title": "【隊中有人以外 - 清技及 EP】",
+            "desc": "•&nbsp;隊中有人類以外成員<br />⇒&nbsp;將所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP&nbsp;及<br />&nbsp;&nbsp;&nbsp;&nbsp;累積戰鬥回合數重置",
+            "custom_desc": "",
+            "icons": [
+                852
+            ]
+        },
+        "6902": {
+            "title": "【隊中有獸以外 - 清技及 EP】",
+            "desc": "•&nbsp;隊中有獸類以外成員<br />⇒&nbsp;將所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP&nbsp;及<br />&nbsp;&nbsp;&nbsp;&nbsp;累積戰鬥回合數重置",
+            "custom_desc": "",
+            "icons": [
+                852
+            ]
+        },
+        "6903": {
+            "title": "【隊中有妖以外 - 清技及 EP】",
+            "desc": "•&nbsp;隊中有妖精類以外成員<br />⇒&nbsp;將所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP&nbsp;及<br />&nbsp;&nbsp;&nbsp;&nbsp;累積戰鬥回合數重置",
+            "custom_desc": "",
+            "icons": [
+                852
+            ]
+        },
+        "6904": {
+            "title": "【隊中有龍以外 - 清技及 EP】",
+            "desc": "•&nbsp;隊中有龍類以外成員<br />⇒&nbsp;將所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP&nbsp;及<br />&nbsp;&nbsp;&nbsp;&nbsp;累積戰鬥回合數重置",
+            "custom_desc": "",
+            "icons": [
+                852
+            ]
+        },
+        "6905": {
+            "title": "【隊中有神以外 - 清技及 EP】",
+            "desc": "•&nbsp;隊中有神族以外成員<br />⇒&nbsp;將所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP&nbsp;及<br />&nbsp;&nbsp;&nbsp;&nbsp;累積戰鬥回合數重置",
+            "custom_desc": "",
+            "icons": [
+                852
+            ]
+        },
+        "6906": {
+            "title": "【隊中有魔以外 - 清技及 EP】",
+            "desc": "•&nbsp;隊中有魔族以外成員<br />⇒&nbsp;將所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP&nbsp;及<br />&nbsp;&nbsp;&nbsp;&nbsp;累積戰鬥回合數重置",
+            "custom_desc": "",
+            "icons": [
+                852
+            ]
+        },
+        "6907": {
+            "title": "【隊中有機械以外 - 清技及 EP】",
+            "desc": "•&nbsp;隊中有機械族以外成員<br />⇒&nbsp;將所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP&nbsp;及<br />&nbsp;&nbsp;&nbsp;&nbsp;累積戰鬥回合數重置",
+            "custom_desc": "",
+            "icons": [
+                852
+            ]
+        },
+        "6908": {
+            "title": "【錮縛 - 人以外技能】",
+            "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;人類以外成員的主動技能",
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
+        },
+        "6909": {
+            "title": "【錮縛 - 獸以外技能】",
+            "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;獸類以外成員的主動技能",
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
+        },
+        "6910": {
+            "title": "【錮縛 - 妖以外技能】",
+            "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;妖精類以外成員的主動技能",
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
+        },
+        "6911": {
+            "title": "【錮縛 - 龍以外技能】",
+            "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;龍類以外成員的主動技能",
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
+        },
+        "6912": {
+            "title": "【錮縛 - 神以外技能】",
+            "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;神族以外成員的主動技能",
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
+        },
+        "6913": {
+            "title": "【錮縛 - 魔以外技能】",
+            "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;魔族以外成員的主動技能",
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
+        },
+        "6914": {
+            "title": "【錮縛 - 機械以外技能】",
+            "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;機械族以外成員的主動技能",
+            "custom_desc": "",
+            "icons": [
+                853
+            ]
+        },
+        "6915": {
+            "title": "【起結有序】",
+            "desc": "•&nbsp;需以指定位置&nbsp;(綠色漩渦)&nbsp;<br />&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;(紅色漩渦)&nbsp;結束轉珠<br /><br />•&nbsp;未有達成上述條件：<br />⓵&nbsp;全隊攻擊力變為&nbsp;0<br />⓶&nbsp;無法進行回復",
+            "custom_desc": "",
+            "icons": [
+                1008
+            ]
+        },
+        "6916": {
+            "title": "【起結有序】",
+            "desc": "•&nbsp;需以指定位置&nbsp;(綠色漩渦)&nbsp;<br />&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;(紅色漩渦)&nbsp;結束轉珠<br /><br />•&nbsp;未有達成上述條件：<br />⓵&nbsp;全隊攻擊力變為&nbsp;0<br />⓶&nbsp;無法進行回復",
+            "custom_desc": "",
+            "icons": [
+                1008
+            ]
+        },
+        "6917": {
+            "title": "【回復弱化】",
+            "desc": "•&nbsp;1&nbsp;回合內，<br />&nbsp;&nbsp;全隊回復力減至&nbsp;50%",
+            "custom_desc": ""
+        },
+        "6918": {
+            "title": "【回復弱化】",
+            "desc": "•&nbsp;2&nbsp;回合內，<br />&nbsp;&nbsp;全隊回復力減至&nbsp;50%",
+            "custom_desc": ""
+        },
+        "6919": {
+            "title": "【回復弱化】",
+            "desc": "•&nbsp;3&nbsp;回合內，<br />&nbsp;&nbsp;全隊回復力減至&nbsp;50%",
+            "custom_desc": ""
+        },
+        "6920": {
+            "title": "【回復弱化】",
+            "desc": "•&nbsp;4&nbsp;回合內，<br />&nbsp;&nbsp;全隊回復力減至&nbsp;50%",
+            "custom_desc": ""
+        },
+        "6921": {
+            "title": "【回復弱化】",
+            "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;全隊回復力減至&nbsp;50%",
+            "custom_desc": ""
+        },
+        "6922": {
+            "title": "【回復弱化】",
+            "desc": "•&nbsp;98&nbsp;回合內，<br />&nbsp;&nbsp;全隊回復力減至&nbsp;50%",
+            "custom_desc": ""
+        },
+        "6923": {
+            "title": "【回復弱化】",
+            "desc": "•&nbsp;受到敵人攻擊<br />⇒&nbsp;全隊回復力減少&nbsp;20%<br />•&nbsp;受到敵人攻擊的回合愈多<br />⇒&nbsp;全隊回復力減少愈多<br />⇒&nbsp;最多減少&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;",
+            "custom_desc": ""
+        },
+        "6924": {
+            "title": "【回復弱化】",
+            "desc": "•&nbsp;受到敵人攻擊<br />⇒&nbsp;全隊回復力減少&nbsp;25%<br />•&nbsp;受到敵人攻擊的回合愈多<br />⇒&nbsp;全隊回復力減少愈多<br />⇒&nbsp;最多減少&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;",
+            "custom_desc": ""
+        },
+        "6925": {
+            "title": "【回復弱化】",
+            "desc": "•&nbsp;受到敵人攻擊<br />⇒&nbsp;全隊回復力減少&nbsp;50%<br />•&nbsp;受到敵人攻擊的回合愈多<br />⇒&nbsp;全隊回復力減少愈多<br />⇒&nbsp;最多減少&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;",
+            "custom_desc": ""
+        },
+        "6932": {
+            "title": "【時光流逝】",
+            "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;移動符石時間減少&nbsp;1&nbsp;秒<br />&nbsp;&nbsp;(最多減至&nbsp;2&nbsp;秒)",
+            "custom_desc": ""
+        },
+        "6933": {
+            "title": "【時光流逝】",
+            "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;移動符石時間減少&nbsp;2&nbsp;秒<br />&nbsp;&nbsp;(最多減至&nbsp;2&nbsp;秒)",
+            "custom_desc": ""
+        },
+        "6934": {
+            "title": "【時光流逝】",
+            "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;移動符石時間減少&nbsp;3&nbsp;秒<br />&nbsp;&nbsp;(最多減至&nbsp;2&nbsp;秒)",
+            "custom_desc": ""
+        },
+        "6935": {
+            "title": "【時光流逝】",
+            "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;移動符石時間減少&nbsp;5&nbsp;秒<br />&nbsp;&nbsp;(最多減至&nbsp;2&nbsp;秒)",
+            "custom_desc": ""
+        },
+        "6936": {
+            "title": "【時光流逝】",
+            "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;移動符石時間減少&nbsp;7&nbsp;秒<br />&nbsp;&nbsp;(最多減至&nbsp;2&nbsp;秒)",
+            "custom_desc": ""
+        },
+        "6937": {
+            "title": "【時光流逝】",
+            "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;移動符石時間減少&nbsp;99&nbsp;秒<br />&nbsp;&nbsp;(最多減至&nbsp;2&nbsp;秒)",
+            "custom_desc": ""
+        },
+        "6939": {
+            "title": "【睡眠狀態】",
+            "desc": "•&nbsp;進場時敵人進入睡眠狀態：<br />&nbsp;&nbsp;睡眠狀態期間<br />&nbsp;&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;睡眠狀態期間，<br />&nbsp;&nbsp;&nbsp;每回合移動符石時<br />⇒&nbsp;隨機出現&nbsp;1&nbsp;格甦醒地型<br /><br />•&nbsp;甦醒地型一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;敵人解除睡眠狀態<br />⓷&nbsp;無法對敵人造成傷害<br />⓸&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
+            "custom_desc": ""
+        },
+        "6940": {
+            "title": "【睡眠狀態】",
+            "desc": "•&nbsp;進場時敵人進入睡眠狀態：<br />&nbsp;&nbsp;睡眠狀態期間<br />&nbsp;&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;睡眠狀態期間，<br />&nbsp;&nbsp;&nbsp;每回合移動符石時<br />⇒&nbsp;隨機出現&nbsp;2&nbsp;格甦醒地型<br /><br />•&nbsp;甦醒地型一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;敵人解除睡眠狀態<br />⓷&nbsp;無法對敵人造成傷害<br />⓸&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
+            "custom_desc": ""
+        },
+        "6941": {
+            "title": "【睡眠狀態】",
+            "desc": "•&nbsp;進場時敵人進入睡眠狀態：<br />&nbsp;&nbsp;睡眠狀態期間<br />&nbsp;&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;睡眠狀態期間，<br />&nbsp;&nbsp;&nbsp;每回合移動符石時<br />⇒&nbsp;隨機出現&nbsp;3&nbsp;格甦醒地型<br /><br />•&nbsp;甦醒地型一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;敵人解除睡眠狀態<br />⓷&nbsp;無法對敵人造成傷害<br />⓸&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
+            "custom_desc": ""
+        },
+        "6942": {
+            "title": "【甦醒地型】",
+            "desc": "•&nbsp;甦醒地型一經觸碰<br />⇒&nbsp;下回合起敵人攻擊力&nbsp;2&nbsp;倍",
+            "custom_desc": ""
+        },
+        "6943": {
+            "title": "【甦醒地型】",
+            "desc": "•&nbsp;甦醒地型一經觸碰<br />⇒&nbsp;下回合起敵人攻擊力&nbsp;5&nbsp;倍",
+            "custom_desc": ""
+        },
+        "6944": {
+            "title": "【甦醒地型】",
+            "desc": "•&nbsp;甦醒地型一經觸碰<br />⇒&nbsp;下回合起敵人攻擊力&nbsp;10&nbsp;倍",
+            "custom_desc": ""
+        },
+        "6945": {
+            "title": "【≥20 粒水符石盾】",
+            "desc": "•&nbsp;消除&nbsp;≥20&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6946": {
+            "title": "【≥20 粒火符石盾】",
+            "desc": "•&nbsp;消除&nbsp;≥20&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6947": {
+            "title": "【≥20 粒木符石盾】",
+            "desc": "•&nbsp;消除&nbsp;≥20&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6948": {
+            "title": "【≥20 粒光符石盾】",
+            "desc": "•&nbsp;消除&nbsp;≥20&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6949": {
+            "title": "【≥20 粒暗符石盾】",
+            "desc": "•&nbsp;消除&nbsp;≥20&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6950": {
+            "title": "【≥20 粒心符石盾】",
+            "desc": "•&nbsp;消除&nbsp;≥20&nbsp;粒心符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
         }
     }
 }

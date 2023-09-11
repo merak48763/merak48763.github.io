@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.411",
-        "dv": 12555,
-        "time": 1693475930
+        "version": "2023.500",
+        "dv": 12644,
+        "time": 1694425706
     },
     "monster": {
         "1": {
@@ -16961,6 +16961,72 @@
             "race": 10,
             "rarity": 6
         },
+        "2846": {
+            "name": "大賢者 ‧ 莫莉",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "2847": {
+            "name": "遺憾奔赴 ‧ 莫莉",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "2848": {
+            "name": "龍焰英雄 ‧ 肖恩",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "2849": {
+            "name": "末焰掙扎 ‧ 肖恩",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "2850": {
+            "name": "自然霸主 ‧ 鄧肯",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "2851": {
+            "name": "寬恕讚歌 ‧ 鄧肯",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "2852": {
+            "name": "果決公爵 ‧ 奈寶尼",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "2853": {
+            "name": "榮祿遺光 ‧ 奈寶尼",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "2854": {
+            "name": "安魂魔導 ‧ 安多",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "2855": {
+            "name": "誅魂陰謀 ‧ 安多",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "2856": {
+            "name": "紅帽旋歸 ‧ 桃樂絲",
+            "attribute": 5,
+            "race": 8,
+            "rarity": 6
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -19523,6 +19589,12 @@
             "race": 5,
             "rarity": 8
         },
+        "6425": {
+            "name": "常世否定 ‧ 姬氏",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 8
+        },
         "6429": {
             "name": "緋曦赤霞 ‧ 紅璦",
             "attribute": 2,
@@ -20520,7 +20592,7 @@
             "name": "奪命陀旋 ‧ 千千",
             "attribute": 5,
             "race": 3,
-            "rarity": 2
+            "rarity": 6
         },
         "6612": {
             "name": "血眷臣服 ‧ 卡蜜拉",
@@ -20664,6 +20736,90 @@
             "name": "枯骨哀弦 ‧ 夏彥",
             "attribute": 3,
             "race": 8,
+            "rarity": 6
+        },
+        "6636": {
+            "name": "蒼穹破曉 ‧ 蒼璧",
+            "attribute": 2,
+            "race": 4,
+            "rarity": 6
+        },
+        "6637": {
+            "name": "焰硝炮擊 ‧ 南納",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "6638": {
+            "name": "紅帽狂歡 ‧ 桃樂絲",
+            "attribute": 5,
+            "race": 8,
+            "rarity": 6
+        },
+        "6640": {
+            "name": "賢明魔導 ‧ 主任莫莉",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "6641": {
+            "name": "女媧天石 ‧ 莫莉",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "6642": {
+            "name": "破幻水術士 ‧ 莫莉",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "6643": {
+            "name": "龍焰熱忱 ‧ 班長肖恩",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "6644": {
+            "name": "焚龍劍士 ‧ 肖恩",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "6645": {
+            "name": "肅穆公義 ‧ 風紀鄧肯",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "6646": {
+            "name": "牧原獸魂 ‧ 鄧肯",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "6647": {
+            "name": "矚目耀劍 ‧ 會長奈寶尼",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "6648": {
+            "name": "夢殿公爵 ‧ 奈寶尼",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "6649": {
+            "name": "亡骸解析 ‧ 教授安多",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "6650": {
+            "name": "囈語祭師 ‧ 安多",
+            "attribute": 5,
+            "race": 1,
             "rarity": 6
         },
         "6999": {
@@ -24453,6 +24609,42 @@
             "name": "死槍",
             "attribute": 5,
             "race": 1,
+            "rarity": 6
+        },
+        "10519": {
+            "name": "蒼穹破曉 ‧ 蒼璧",
+            "attribute": 2,
+            "race": 4,
+            "rarity": 6
+        },
+        "10520": {
+            "name": "焰硝炮擊 ‧ 南納",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10521": {
+            "name": "沉勇駭獸 ‧ 史賓賽",
+            "attribute": 1,
+            "race": 2,
+            "rarity": 6
+        },
+        "10523": {
+            "name": "斑斕紗絹 ‧ 維蘭瑟",
+            "attribute": 3,
+            "race": 3,
+            "rarity": 6
+        },
+        "10525": {
+            "name": "踏星護航 ‧ 依貝思",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10527": {
+            "name": "旱虐到臨 ‧ 弗栗多",
+            "attribute": 5,
+            "race": 4,
             "rarity": 6
         },
         "5001": {
