@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.500",
-        "dv": 12644,
-        "time": 1694425706
+        "dv": 12662,
+        "time": 1694686841
     },
     "monster": {
         "1": {
@@ -16961,6 +16961,30 @@
             "race": 10,
             "rarity": 6
         },
+        "2838": {
+            "name": "信仰囚徒 ‧ 烏波",
+            "attribute": 1,
+            "race": 4,
+            "rarity": 7
+        },
+        "2840": {
+            "name": "腐朽斥逐 ‧ 伊波",
+            "attribute": 3,
+            "race": 8,
+            "rarity": 7
+        },
+        "2842": {
+            "name": "邏輯瓦解 ‧ 阿撒托斯",
+            "attribute": 5,
+            "race": 4,
+            "rarity": 7
+        },
+        "2845": {
+            "name": "缺憾桎梏 ‧ 阿特拉克",
+            "attribute": 5,
+            "race": 2,
+            "rarity": 7
+        },
         "2846": {
             "name": "大賢者 ‧ 莫莉",
             "attribute": 1,
@@ -24629,10 +24653,22 @@
             "race": 2,
             "rarity": 6
         },
+        "10522": {
+            "name": "命卦炤護 ‧ 黃琮",
+            "attribute": 2,
+            "race": 4,
+            "rarity": 6
+        },
         "10523": {
             "name": "斑斕紗絹 ‧ 維蘭瑟",
             "attribute": 3,
             "race": 3,
+            "rarity": 6
+        },
+        "10524": {
+            "name": "馭光歷險 ‧ 因其都",
+            "attribute": 4,
+            "race": 5,
             "rarity": 6
         },
         "10525": {
