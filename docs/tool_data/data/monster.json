@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.500",
-        "dv": 12662,
-        "time": 1694686841
+        "version": "2023.501",
+        "dv": 12671,
+        "time": 1695291592
     },
     "monster": {
         "1": {
@@ -17111,6 +17111,12 @@
             "race": 5,
             "rarity": 6
         },
+        "2910": {
+            "name": "珍念歲月 ‧ 妲己",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 6
+        },
         "2911": {
             "name": "暴虐之翼 ‧ 路西法",
             "attribute": 4,
@@ -24677,10 +24683,22 @@
             "race": 1,
             "rarity": 6
         },
+        "10526": {
+            "name": "空中玉城 ‧ 廣寒宮",
+            "attribute": 2,
+            "race": 5,
+            "rarity": 6
+        },
         "10527": {
             "name": "旱虐到臨 ‧ 弗栗多",
             "attribute": 5,
             "race": 4,
+            "rarity": 6
+        },
+        "10528": {
+            "name": "焰沙探秘 ‧ 珞答以",
+            "attribute": 4,
+            "race": 3,
             "rarity": 6
         },
         "5001": {
