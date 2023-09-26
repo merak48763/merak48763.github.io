@@ -1,5 +1,29 @@
 [
     {
+        "owner": 2186,
+        "condition": 10530,
+        "conditionType": 1,
+        "ability": 20020,
+        "args": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 2188,
+        "condition": 10530,
+        "conditionType": 1,
+        "ability": 20020,
+        "args": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
         "owner": 10036,
         "condition": 10198,
         "conditionType": 1,
