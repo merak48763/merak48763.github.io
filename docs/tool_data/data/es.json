@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.501",
-        "dv": 22254,
-        "time": 1695291592
+        "version": "2023.510",
+        "dv": 22326,
+        "time": 1696219659
     },
     "es": {
         "0": {
@@ -19741,7 +19741,7 @@
             ]
         },
         "3452": {
-            "title": "突擊 ‧ 首回符石還原 ‧ 組數追擊盾20% ‧ 無法控制",
+            "title": "突擊 ‧ 符石淨化 ‧ 指定符石連擊盾 - 追擊 ‧ 無法控制",
             "desc": "首回合優先<em>突擊</em>&nbsp;1&nbsp;次。<br /><br />將場上的符石變回<em>原始模樣</em>。<br /><br />敵人不受任何攻擊傷害&nbsp;(包括主動技)。<br /><br />達成消除<em>指定組數的種類符石</em>，可扣除敵人<em>&nbsp;20%</em>&nbsp;生命力。每欠消除&nbsp;1&nbsp;組，敵人額外增加&nbsp;1&nbsp;連擊。<br /><br />無視所有控制技能",
             "custom_desc": "你ㄊㄇ爐心融解地獄級<span class=\"annotation\">ambush 25</span>",
             "icons": [
@@ -43840,6 +43840,48 @@
                 316
             ]
         },
+        "6848": {
+            "title": "【突擊】",
+            "desc": "•&nbsp;優先扣除召喚師<br />⇒&nbsp;39&nbsp;點生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": "",
+            "icons": []
+        },
+        "6849": {
+            "title": "【突擊】",
+            "desc": "•&nbsp;優先扣除召喚師<br />⇒&nbsp;3,939&nbsp;點生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": "",
+            "icons": []
+        },
+        "6850": {
+            "title": "【突擊】",
+            "desc": "•&nbsp;優先扣除召喚師<br />⇒&nbsp;393,939&nbsp;點生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": "",
+            "icons": []
+        },
+        "6851": {
+            "title": "【突擊 ‧ 符石轉木及心 ‧ 符石轉換】",
+            "desc": "•&nbsp;突擊&nbsp;1&nbsp;次<br /><br />•&nbsp;進場時分別將&nbsp;5&nbsp;個及&nbsp;2&nbsp;個<br />&nbsp;&nbsp;&nbsp;固定位置的符石<br />⇒&nbsp;轉化為木及心符石<br />•&nbsp;將其他符石轉化為<br />⇒&nbsp;木及心以外的符石",
+            "custom_desc": "",
+            "icons": []
+        },
+        "6852": {
+            "title": "【彈幕】",
+            "desc": "•&nbsp;場上出現彈幕！",
+            "custom_desc": "",
+            "icons": []
+        },
+        "6853": {
+            "title": "【彈幕】",
+            "desc": "•&nbsp;場上出現彈幕！！",
+            "custom_desc": "",
+            "icons": []
+        },
+        "6854": {
+            "title": "【彈幕】",
+            "desc": "•&nbsp;場上出現彈幕！！！",
+            "custom_desc": "",
+            "icons": []
+        },
         "6855": {
             "title": "【水屬弱攻】",
             "desc": "•&nbsp;水屬性傷害減至&nbsp;10%",
@@ -44146,6 +44188,16 @@
                 951
             ]
         },
+        "6894": {
+            "title": "【轉轉轉不停】",
+            "desc": "•&nbsp;所有符石不停轉動",
+            "custom_desc": ""
+        },
+        "6895": {
+            "title": "【轉轉轉不停】",
+            "desc": "•&nbsp;所有符石不停轉動",
+            "custom_desc": ""
+        },
         "6896": {
             "title": "【錮縛 - 技能】",
             "desc": "•&nbsp;進場時封鎖<br />⇒&nbsp;隨機&nbsp;1&nbsp;個成員的主動技能",
@@ -44359,6 +44411,36 @@
             "desc": "•&nbsp;受到敵人攻擊<br />⇒&nbsp;全隊回復力減少&nbsp;50%<br />•&nbsp;受到敵人攻擊的回合愈多<br />⇒&nbsp;全隊回復力減少愈多<br />⇒&nbsp;最多減少&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;",
             "custom_desc": ""
         },
+        "6926": {
+            "title": "【橫行轉水】",
+            "desc": "•&nbsp;每回合將指定&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為水符石",
+            "custom_desc": ""
+        },
+        "6927": {
+            "title": "【橫行轉火】",
+            "desc": "•&nbsp;每回合將指定&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為火符石",
+            "custom_desc": ""
+        },
+        "6928": {
+            "title": "【橫行轉木】",
+            "desc": "•&nbsp;每回合將指定&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為木符石",
+            "custom_desc": ""
+        },
+        "6929": {
+            "title": "【橫行轉光】",
+            "desc": "•&nbsp;每回合將指定&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為光符石",
+            "custom_desc": ""
+        },
+        "6930": {
+            "title": "【橫行轉暗】",
+            "desc": "•&nbsp;每回合將指定&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為暗符石",
+            "custom_desc": ""
+        },
+        "6931": {
+            "title": "【橫行轉心】",
+            "desc": "•&nbsp;每回合將指定&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為心符石",
+            "custom_desc": ""
+        },
         "6932": {
             "title": "【時光流逝】",
             "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;移動符石時間減少&nbsp;1&nbsp;秒<br />&nbsp;&nbsp;(最多減至&nbsp;2&nbsp;秒)",
@@ -44388,6 +44470,11 @@
             "title": "【時光流逝】",
             "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;移動符石時間減少&nbsp;99&nbsp;秒<br />&nbsp;&nbsp;(最多減至&nbsp;2&nbsp;秒)",
             "custom_desc": ""
+        },
+        "6938": {
+            "title": "【指定符石連擊盾 - 追擊】",
+            "desc": "•&nbsp;消除指定組數的種類符石<br />⇒&nbsp;可扣除敵人&nbsp;20%&nbsp;生命力<br />•&nbsp;每欠消除&nbsp;1&nbsp;組<br />⇒&nbsp;敵人額外追打&nbsp;1&nbsp;次",
+            "custom_desc": "2023復刻版的爐心融解死人盾牌"
         },
         "6939": {
             "title": "【睡眠狀態】",
@@ -44447,6 +44534,21 @@
         "6950": {
             "title": "【≥20 粒心符石盾】",
             "desc": "•&nbsp;消除&nbsp;≥20&nbsp;粒心符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "6951": {
+            "title": "【泡沫符石】",
+            "desc": "•&nbsp;進場時及敵人發動攻擊時<br />⇒&nbsp;隨機將&nbsp;2&nbsp;粒符石<br />&nbsp;&nbsp;&nbsp;&nbsp;添加為泡沫符石<br />•&nbsp;移動符石並消除泡沫符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />&nbsp;&nbsp;可解除泡沫<br />•&nbsp;泡沫符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;如有泡沫符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "6952": {
+            "title": "【泡沫符石】",
+            "desc": "•&nbsp;進場時及敵人發動攻擊時<br />⇒&nbsp;隨機將&nbsp;4&nbsp;粒符石<br />&nbsp;&nbsp;&nbsp;&nbsp;添加為泡沫符石<br />•&nbsp;移動符石並消除泡沫符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />&nbsp;&nbsp;可解除泡沫<br />•&nbsp;泡沫符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;如有泡沫符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "6953": {
+            "title": "【泡沫符石】",
+            "desc": "•&nbsp;進場時及敵人發動攻擊時<br />⇒&nbsp;隨機將&nbsp;6&nbsp;粒符石<br />&nbsp;&nbsp;&nbsp;&nbsp;添加為泡沫符石<br />•&nbsp;移動符石並消除泡沫符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />&nbsp;&nbsp;可解除泡沫<br />•&nbsp;泡沫符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;如有泡沫符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
             "custom_desc": ""
         }
     }

@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.500",
-        "dv": 22228,
-        "time": 1694425706
+        "version": "2023.510",
+        "dv": 22326,
+        "time": 1696219659
     },
     "ws": {
         "10001": {
@@ -3273,6 +3273,86 @@
         "10684": {
             "title": "",
             "desc": "•&nbsp;每次發動主動技能<br />⇒&nbsp;該成員屬性的符石<br />&nbsp;&nbsp;&nbsp;&nbsp;添加邪惡能量<br />•&nbsp;每消除&nbsp;1&nbsp;粒邪惡能量符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;20%<br />•&nbsp;邪惡能量符石不能還原及<br />&nbsp;&nbsp;不能轉化為強化符石",
+            "custom_desc": ""
+        },
+        "10685": {
+            "title": "",
+            "desc": "•【T】形首批消除&nbsp;≥1&nbsp;組&nbsp;≥5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10686": {
+            "title": "",
+            "desc": "•【十】形首批消除&nbsp;≥1&nbsp;組&nbsp;≥5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10687": {
+            "title": "",
+            "desc": "•【一】形首批消除&nbsp;≥1&nbsp;組&nbsp;≥6&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10688": {
+            "title": "",
+            "desc": "•【|】形首批消除&nbsp;≥1&nbsp;組&nbsp;≥5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則全隊攻擊力變&nbsp;0",
+            "custom_desc": ""
+        },
+        "10689": {
+            "title": "",
+            "desc": "•&nbsp;根據【T】形首批消除<br />&nbsp;&nbsp;&nbsp;≥5&nbsp;粒符石的組數，<br />&nbsp;&nbsp;&nbsp;影響全隊攻擊力：<br /><br />▋0&nbsp;組：<br />⇒&nbsp;全隊攻擊力減至&nbsp;0%<br />▋1&nbsp;組：<br />⇒&nbsp;全隊攻擊力減至&nbsp;50%<br />▋≥2&nbsp;組：全隊攻擊力不受影響",
+            "custom_desc": ""
+        },
+        "10690": {
+            "title": "",
+            "desc": "•&nbsp;根據【十】形首批消除<br />&nbsp;&nbsp;&nbsp;≥5&nbsp;粒符石的組數，<br />&nbsp;&nbsp;&nbsp;影響全隊攻擊力：<br /><br />▋0&nbsp;組：<br />⇒&nbsp;全隊攻擊力減至&nbsp;0%<br />▋1&nbsp;組：<br />⇒&nbsp;全隊攻擊力減至&nbsp;50%<br />▋≥2&nbsp;組：全隊攻擊力不受影響",
+            "custom_desc": ""
+        },
+        "10691": {
+            "title": "",
+            "desc": "•&nbsp;根據【一】形首批消除<br />&nbsp;&nbsp;&nbsp;≥6&nbsp;粒符石的組數，<br />&nbsp;&nbsp;&nbsp;影響全隊攻擊力：<br /><br />▋0&nbsp;組：<br />⇒&nbsp;全隊攻擊力減至&nbsp;0%<br />▋1&nbsp;組：<br />⇒&nbsp;全隊攻擊力減至&nbsp;50%<br />▋≥2&nbsp;組：全隊攻擊力不受影響",
+            "custom_desc": ""
+        },
+        "10692": {
+            "title": "",
+            "desc": "•&nbsp;根據【|】形首批消除<br />&nbsp;&nbsp;&nbsp;≥5&nbsp;粒符石的組數，<br />&nbsp;&nbsp;&nbsp;影響全隊攻擊力：<br /><br />▋0&nbsp;組：<br />⇒&nbsp;全隊攻擊力減至&nbsp;0%<br />▋1&nbsp;組：<br />⇒&nbsp;全隊攻擊力減至&nbsp;50%<br />▋≥2&nbsp;組：全隊攻擊力不受影響",
+            "custom_desc": ""
+        },
+        "10693": {
+            "title": "",
+            "desc": "•&nbsp;噴發巧克力",
+            "custom_desc": ""
+        },
+        "10694": {
+            "title": "",
+            "desc": "•&nbsp;噴發巧克力",
+            "custom_desc": ""
+        },
+        "10695": {
+            "title": "",
+            "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現雜訊地型",
+            "custom_desc": ""
+        },
+        "10696": {
+            "title": "",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現雜訊地型",
+            "custom_desc": ""
+        },
+        "10697": {
+            "title": "",
+            "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現雜訊地型",
+            "custom_desc": ""
+        },
+        "10698": {
+            "title": "",
+            "desc": "•&nbsp;進場時狂熱指數為&nbsp;0<br />•&nbsp;每首批消除&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;隊伍成員屬性符石<br />⇒&nbsp;狂熱指數提升&nbsp;1&nbsp;<br />•&nbsp;狂熱指數為&nbsp;100&nbsp;<br />⇒&nbsp;下回合起可點擊<br />&nbsp;&nbsp;&nbsp;&nbsp;右上方技能圖示<br />⇒&nbsp;全隊進入&nbsp;1&nbsp;回合狂熱狀態：<br />⓵&nbsp;自身無視「首消粒數盾」<br />⓶&nbsp;自身無視指定減傷抗性敵技<br /><br />＊發動後，將重置狂熱指數",
+            "custom_desc": ""
+        },
+        "10699": {
+            "title": "",
+            "desc": "•&nbsp;進場時狂熱指數減少&nbsp;30<br />•&nbsp;每首批消除&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;隊伍成員屬性符石<br />⇒&nbsp;狂熱指數提升&nbsp;1<br />•&nbsp;狂熱指數為&nbsp;100&nbsp;<br />⇒&nbsp;下回合起可點擊<br />&nbsp;&nbsp;&nbsp;&nbsp;右上方技能圖示<br />⇒&nbsp;全隊進入&nbsp;1&nbsp;回合狂熱狀態：<br />⓵&nbsp;自身無視「首消粒數盾」<br />⓶&nbsp;自身無視指定減傷抗性敵技<br /><br />＊發動後，將重置狂熱指數",
+            "custom_desc": ""
+        },
+        "10700": {
+            "title": "",
+            "desc": "•&nbsp;進場時狂熱指數減少&nbsp;60<br />•&nbsp;每首批消除&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;隊伍成員屬性符石<br />⇒&nbsp;狂熱指數提升&nbsp;1&nbsp;<br />•&nbsp;狂熱指數為&nbsp;100&nbsp;<br />⇒&nbsp;下回合起可點擊<br />&nbsp;&nbsp;&nbsp;&nbsp;右上方技能圖示<br />⇒&nbsp;全隊進入&nbsp;1&nbsp;回合狂熱狀態：<br />⓵&nbsp;自身無視「首消粒數盾」<br />⓶&nbsp;自身無視指定減傷抗性敵技<br /><br />＊發動後，將重置狂熱指數",
             "custom_desc": ""
         }
     }
