@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.510",
-        "dv": 22326,
-        "time": 1696219659
+        "version": "2023.512",
+        "dv": 22378,
+        "time": 1697105771
     },
     "es": {
         "0": {
@@ -19716,17 +19716,17 @@
             "custom_desc": ""
         },
         "3448": {
-            "title": "",
+            "title": "轉轉轉不停 ‧ ≥4 連擊盾 - 追擊 ‧ 無法控制",
             "desc": "所有符石不停轉動。<br /><br /><em>4&nbsp;連擊&nbsp;(Combo)&nbsp;或以上</em>才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能",
             "custom_desc": ""
         },
         "3449": {
-            "title": "",
+            "title": "轉轉轉不停 ‧ ≥5 連擊盾 - 追擊 ‧ 無法控制",
             "desc": "所有符石不停轉動。<br /><br /><em>5&nbsp;連擊&nbsp;(Combo)&nbsp;或以上</em>才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能",
             "custom_desc": ""
         },
         "3450": {
-            "title": "",
+            "title": "轉轉轉不停 ‧ ≥6 連擊盾 - 追擊 ‧ 無法控制",
             "desc": "所有符石不停轉動。<br /><br /><em>6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上</em>才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能",
             "custom_desc": ""
         },
@@ -24737,7 +24737,7 @@
         "4281": {
             "title": "敵技4281",
             "desc": "•&nbsp;進場時消除召喚師<br />&nbsp;&nbsp;所有附加效果。<br /><br />•&nbsp;進場時對召喚師<br />&nbsp;&nbsp;施加負面效果疲憊狀態：<br />&nbsp;&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;全隊攻擊力減至&nbsp;0%。<br /><br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;4&nbsp;粒符石<br />⇒&nbsp;添加為風化符石<br />•&nbsp;風化符石一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成<br />⇒&nbsp;30,000&nbsp;點傷害<br /><br />•&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;回復效果無效。<br />•&nbsp;消除心符石或<br />「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)",
-            "custom_desc": "胞質核災厄 (核心封閉階段的本體)",
+            "custom_desc": "生在沒有<span class=\"annotation\">monster_icon 10534</span>時代的凡夫，災厄級 (核心封閉階段的本體)",
             "keywords": [
                 "災厄級"
             ]
@@ -24745,7 +24745,7 @@
         "4283": {
             "title": "敵技4283",
             "desc": "•&nbsp;核心張開後<br />⇒&nbsp;完全回復生命力<br /><br />•&nbsp;暴風席捲最左方及最右方<br />&nbsp;&nbsp;直行的位置<br />•&nbsp;暴風位置內的<br />&nbsp;&nbsp;符石不能消除或引爆<br />•&nbsp;該位置一經觸碰<br />⇒&nbsp;即時停止移動符石<br /><br />•「生死剝離&nbsp;‧&nbsp;尼德霍格」<br />&nbsp;&nbsp;攻擊力&nbsp;5&nbsp;倍及無視所有<br />&nbsp;&nbsp;減傷效果和意志技能。<br /><br />•「生死剝離&nbsp;‧&nbsp;尼德霍格」<br />&nbsp;&nbsp;&nbsp;不會受到任何傷害",
-            "custom_desc": "胞質核災厄 (核心張開階段的本體)",
+            "custom_desc": "生在沒有<span class=\"annotation\">monster_icon 10534</span>時代的凡夫，災厄級 (核心張開階段的本體)",
             "keywords": [
                 "災厄級"
             ]
@@ -24753,7 +24753,7 @@
         "4284": {
             "title": "【封王核心】",
             "desc": "【封王核心】<br /><br />•「生死剝離&nbsp;‧&nbsp;尼德霍格」<br />&nbsp;&nbsp;&nbsp;&nbsp;生命力為&nbsp;0&nbsp;時<br />⇒&nbsp;張開核心<br /><br />•&nbsp;核心張開，<br />&nbsp;&nbsp;首批消除場上所有心符石<br />⇒&nbsp;才能對核心造成攻擊傷害<br />⇒&nbsp;否則核心承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除心符石)<br /><br />•&nbsp;若無法達成上述<br />【全消心盾】條件<br />⇒&nbsp;封閉核心",
-            "custom_desc": "胞質核災厄 (核心)",
+            "custom_desc": "生在沒有<span class=\"annotation\">monster_icon 10534</span>時代的凡夫，災厄級 (核心)",
             "keywords": [
                 "災厄級"
             ]
@@ -43861,7 +43861,7 @@
         "6851": {
             "title": "【突擊 ‧ 符石轉木及心 ‧ 符石轉換】",
             "desc": "•&nbsp;突擊&nbsp;1&nbsp;次<br /><br />•&nbsp;進場時分別將&nbsp;5&nbsp;個及&nbsp;2&nbsp;個<br />&nbsp;&nbsp;&nbsp;固定位置的符石<br />⇒&nbsp;轉化為木及心符石<br />•&nbsp;將其他符石轉化為<br />⇒&nbsp;木及心以外的符石",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">generic_board 6 5 001010001100001000002000002000 earth heart</span>",
             "icons": []
         },
         "6852": {
@@ -44191,12 +44191,18 @@
         "6894": {
             "title": "【轉轉轉不停】",
             "desc": "•&nbsp;所有符石不停轉動",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1224
+            ]
         },
         "6895": {
             "title": "【轉轉轉不停】",
             "desc": "•&nbsp;所有符石不停轉動",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1223
+            ]
         },
         "6896": {
             "title": "【錮縛 - 技能】",
@@ -44474,7 +44480,8 @@
         "6938": {
             "title": "【指定符石連擊盾 - 追擊】",
             "desc": "•&nbsp;消除指定組數的種類符石<br />⇒&nbsp;可扣除敵人&nbsp;20%&nbsp;生命力<br />•&nbsp;每欠消除&nbsp;1&nbsp;組<br />⇒&nbsp;敵人額外追打&nbsp;1&nbsp;次",
-            "custom_desc": "2023復刻版的爐心融解死人盾牌"
+            "custom_desc": "2023復刻版的爐心融解死人盾牌",
+            "icons": []
         },
         "6939": {
             "title": "【睡眠狀態】",
@@ -44539,17 +44546,26 @@
         "6951": {
             "title": "【泡沫符石】",
             "desc": "•&nbsp;進場時及敵人發動攻擊時<br />⇒&nbsp;隨機將&nbsp;2&nbsp;粒符石<br />&nbsp;&nbsp;&nbsp;&nbsp;添加為泡沫符石<br />•&nbsp;移動符石並消除泡沫符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />&nbsp;&nbsp;可解除泡沫<br />•&nbsp;泡沫符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;如有泡沫符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1225
+            ]
         },
         "6952": {
             "title": "【泡沫符石】",
             "desc": "•&nbsp;進場時及敵人發動攻擊時<br />⇒&nbsp;隨機將&nbsp;4&nbsp;粒符石<br />&nbsp;&nbsp;&nbsp;&nbsp;添加為泡沫符石<br />•&nbsp;移動符石並消除泡沫符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />&nbsp;&nbsp;可解除泡沫<br />•&nbsp;泡沫符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;如有泡沫符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1225
+            ]
         },
         "6953": {
             "title": "【泡沫符石】",
             "desc": "•&nbsp;進場時及敵人發動攻擊時<br />⇒&nbsp;隨機將&nbsp;6&nbsp;粒符石<br />&nbsp;&nbsp;&nbsp;&nbsp;添加為泡沫符石<br />•&nbsp;移動符石並消除泡沫符石<br />&nbsp;&nbsp;四側其中&nbsp;1&nbsp;個位置的符石<br />&nbsp;&nbsp;可解除泡沫<br />•&nbsp;泡沫符石<br />⇒&nbsp;不能消除、轉化或引爆<br />•&nbsp;如有泡沫符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1225
+            ]
         }
     }
 }

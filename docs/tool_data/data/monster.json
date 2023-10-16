@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.510",
-        "dv": 12674,
-        "time": 1696219659
+        "version": "2023.512",
+        "dv": 12730,
+        "time": 1697105771
     },
     "monster": {
         "1": {
@@ -17051,6 +17051,12 @@
             "race": 8,
             "rarity": 6
         },
+        "2857": {
+            "name": "嬌媚偽造 ‧ 鑽石",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 6
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -20784,6 +20790,12 @@
             "name": "紅帽狂歡 ‧ 桃樂絲",
             "attribute": 5,
             "race": 8,
+            "rarity": 6
+        },
+        "6639": {
+            "name": "嬌媚傘步 ‧ 鑽石",
+            "attribute": 1,
+            "race": 3,
             "rarity": 6
         },
         "6640": {
@@ -24704,6 +24716,108 @@
         "10529": {
             "name": "戀愛審判 ‧ 初音未來",
             "attribute": 2,
+            "race": 10,
+            "rarity": 6
+        },
+        "10530": {
+            "name": "離別的樂章 ‧ 初音未來",
+            "attribute": 5,
+            "race": 10,
+            "rarity": 7
+        },
+        "10531": {
+            "name": "快樂魔咒 ‧ 初音未來",
+            "attribute": 1,
+            "race": 10,
+            "rarity": 6
+        },
+        "10532": {
+            "name": "反擊怒潮 ‧ 鏡音鈴與鏡音連",
+            "attribute": 2,
+            "race": 10,
+            "rarity": 6
+        },
+        "10533": {
+            "name": "奇想碧色 ‧ 初音未來",
+            "attribute": 3,
+            "race": 10,
+            "rarity": 6
+        },
+        "10534": {
+            "name": "勝利喜舞 ‧ 巡音流歌",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 6
+        },
+        "10535": {
+            "name": "哀傷假面 ‧ 初音未來",
+            "attribute": 5,
+            "race": 10,
+            "rarity": 6
+        },
+        "10536": {
+            "name": "韻雅合音 ‧ KAITO",
+            "attribute": 1,
+            "race": 10,
+            "rarity": 6
+        },
+        "10537": {
+            "name": "搖滾無限 ‧ MEIKO",
+            "attribute": 2,
+            "race": 10,
+            "rarity": 6
+        },
+        "10538": {
+            "name": "電音盈耳 ‧ 鏡音鈴",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 6
+        },
+        "10539": {
+            "name": "雷動混響 ‧ 鏡音連",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 6
+        },
+        "10540": {
+            "name": "銘傳謠歌 ‧ 巡音流歌",
+            "attribute": 5,
+            "race": 10,
+            "rarity": 6
+        },
+        "10541": {
+            "name": "深海少女 ‧ 初音未來",
+            "attribute": 1,
+            "race": 10,
+            "rarity": 6
+        },
+        "10544": {
+            "name": "初音未來 MIKU EXPO 2023",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 6
+        },
+        "10545": {
+            "name": "甘甜魔法 ‧ 初音未來",
+            "attribute": 5,
+            "race": 10,
+            "rarity": 6
+        },
+        "10546": {
+            "name": "獨占的甜美 ‧ 初音未來",
+            "attribute": 2,
+            "race": 10,
+            "rarity": 6
+        },
+        "10547": {
+            "name": "樂韻悠揚 ‧ 初音未來",
+            "attribute": 3,
+            "race": 3,
+            "rarity": 6
+        },
+        "10550": {
+            "name": "叛逆主張 ‧ 鏡音鈴與鏡音連",
+            "attribute": 4,
             "race": 10,
             "rarity": 6
         },
