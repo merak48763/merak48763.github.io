@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.512",
-        "dv": 22378,
-        "time": 1697105771
+        "dv": 22384,
+        "time": 1697709495
     },
     "es": {
         "0": {
@@ -43553,16 +43553,16 @@
             ]
         },
         "6812": {
-            "title": "【龍刻脈動 ≥70,001 分損敵】",
-            "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥70,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
+            "title": "【龍刻脈動 ≥20,001 分損敵】",
+            "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥20,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
             "custom_desc": "",
             "icons": [
                 1039
             ]
         },
         "6813": {
-            "title": "【龍刻脈動 ≥90,001 分損敵】",
-            "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥90,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
+            "title": "【龍刻脈動 ≥40,001 分損敵】",
+            "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥40,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
             "custom_desc": "",
             "icons": [
                 1039

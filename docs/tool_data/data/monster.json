@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.512",
-        "dv": 12730,
-        "time": 1697105771
+        "dv": 12739,
+        "time": 1697709495
     },
     "monster": {
         "1": {
@@ -24791,6 +24791,12 @@
             "race": 10,
             "rarity": 6
         },
+        "10543": {
+            "name": "形聲之翼 ‧ 初音未來",
+            "attribute": 3,
+            "race": 10,
+            "rarity": 6
+        },
         "10544": {
             "name": "初音未來 MIKU EXPO 2023",
             "attribute": 4,
@@ -24815,9 +24821,21 @@
             "race": 3,
             "rarity": 6
         },
+        "10548": {
+            "name": "血眷臣服 ‧ 鏡音鈴",
+            "attribute": 4,
+            "race": 8,
+            "rarity": 6
+        },
         "10550": {
             "name": "叛逆主張 ‧ 鏡音鈴與鏡音連",
             "attribute": 4,
+            "race": 10,
+            "rarity": 6
+        },
+        "10551": {
+            "name": "高昂鼓動 ‧ 巡音流歌",
+            "attribute": 5,
             "race": 10,
             "rarity": 6
         },
