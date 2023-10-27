@@ -4618,5 +4618,41 @@
             0,
             0
         ]
+    },
+    {
+        "owner": 10552,
+        "condition": 10531,
+        "conditionType": 1,
+        "ability": 20014,
+        "args": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10552,
+        "condition": 10533,
+        "conditionType": 3,
+        "ability": 20015,
+        "args": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10552,
+        "condition": 10535,
+        "conditionType": 1,
+        "ability": 20016,
+        "args": [
+            0,
+            0,
+            0,
+            0
+        ]
     }
 ]

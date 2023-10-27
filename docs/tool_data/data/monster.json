@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.512",
-        "dv": 12739,
-        "time": 1697709495
+        "dv": 12748,
+        "time": 1698369613
     },
     "monster": {
         "1": {
@@ -24791,6 +24791,12 @@
             "race": 10,
             "rarity": 6
         },
+        "10542": {
+            "name": "春之美夢頌 ‧ 櫻花未來",
+            "attribute": 2,
+            "race": 10,
+            "rarity": 6
+        },
         "10543": {
             "name": "形聲之翼 ‧ 初音未來",
             "attribute": 3,
@@ -24827,6 +24833,12 @@
             "race": 8,
             "rarity": 6
         },
+        "10549": {
+            "name": "盈蕙龍嘯 ‧ 巡音流歌",
+            "attribute": 5,
+            "race": 4,
+            "rarity": 6
+        },
         "10550": {
             "name": "叛逆主張 ‧ 鏡音鈴與鏡音連",
             "attribute": 4,
@@ -24838,6 +24850,12 @@
             "attribute": 5,
             "race": 10,
             "rarity": 6
+        },
+        "10552": {
+            "name": "喜悅的樂章 ‧ 初音未來",
+            "attribute": 5,
+            "race": 10,
+            "rarity": 7
         },
         "5001": {
             "name": "UNKNOWN"
