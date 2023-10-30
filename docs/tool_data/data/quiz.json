@@ -1,7 +1,7 @@
 {
     "last_update": {
         "version": "2023.512",
-        "time": 1697896982
+        "time": 1698398301
     },
     "quiz": {
         "1": {
@@ -6010,6 +6010,325 @@
                 "埃及神",
                 "埃及皇權",
                 "中國神"
+            ],
+            "quizImage": null
+        },
+        "579": {
+            "question": "萬聖節大多在 10 月 31 日晚上慶祝？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "580": {
+            "question": "萬聖節大多在 10 月 30 日晚上慶祝？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "581": {
+            "question": "南瓜屬於萬聖節的元素之一？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "582": {
+            "question": "鬼怪屬於萬聖節的元素之一？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "583": {
+            "question": "冬瓜屬於萬聖節的元素之一？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "584": {
+            "question": "「香甜殺意 ‧ 諾亞」跟「無頭騎士 ‧ 杜拉漢」一同戰鬥可觸發隊伍技能？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "585": {
+            "question": "「香甜殺意 ‧ 諾亞」跟「邪趣屠夫 ‧ 艾德」一同戰鬥可觸發隊伍技能？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "586": {
+            "question": "「無頭騎士 ‧ 杜拉漢」為最早出現的萬聖節公會任務角色呢？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "587": {
+            "question": "「萬娃主人 ‧ 托比」為最早出現的萬聖節公會任務角色呢？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "588": {
+            "question": "「香甜殺意 ‧ 諾亞」為最早出現的萬聖節公會任務角色呢？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "589": {
+            "question": "「天照」曾推出萬聖節造型？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "590": {
+            "question": "「伊邪那美」曾推出萬聖節造型？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "591": {
+            "question": "以往的萬聖節公會任務曾收集過「蜘蛛」？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "592": {
+            "question": "以往的萬聖節公會任務曾收集過「娃娃」？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "593": {
+            "question": "以往的萬聖節公會任務曾收集過「鏡子」？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "594": {
+            "question": "「南瓜三人組」的角色圖中出現了 3 個南瓜？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "595": {
+            "question": "「南瓜三人組」的角色圖中出現了 4 個南瓜？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "596": {
+            "question": "「溏心南瓜」的用途是用作強化時可獲 45 萬 EXP？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "597": {
+            "question": "「溏心南瓜」的用途是用作潛能解放「純真屠夫 ‧ 艾德」？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "598": {
+            "question": "遊戲中尚未推出鬼屬性的萬聖節公會任務角色？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "599": {
+            "question": "「嘩鬼搗蛋舞會」展覽室可環迴 \"180 度\" 閱遍所有鬼怪的真面目？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "600": {
+            "question": "「嘩鬼搗蛋舞會」展覽室可環迴 \"360 度\" 閱遍所有鬼怪的真面目？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "601": {
+            "question": "「詭秘娃居」展覽室中的「辮子姑娘」會忽然睜開眼睛？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "602": {
+            "question": "「詭秘娃居」展覽室中的「子夜藍嬰」會忽然睜開眼睛？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "603": {
+            "question": "「十月三十」為萬聖節公會任務角色？",
+            "answer": 1,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "604": {
+            "question": "「十月廿九」為萬聖節公會任務角色？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "605": {
+            "question": "不給糖就搗蛋",
+            "answer": 1,
+            "answer_options": [
+                "搗蛋",
+                "給糖",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "606": {
+            "question": "萬聖節是只給成年人慶祝的節日？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
+            ],
+            "quizImage": null
+        },
+        "607": {
+            "question": "「艾德」擁有【鬼】特性？",
+            "answer": 0,
+            "answer_options": [
+                "錯誤",
+                "正確",
+                "",
+                ""
             ],
             "quizImage": null
         }
