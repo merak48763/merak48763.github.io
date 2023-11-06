@@ -3972,6 +3972,54 @@
         ]
     },
     {
+        "owner": 10489,
+        "condition": 10490,
+        "conditionType": 1,
+        "ability": 20002,
+        "args": [
+            100,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10489,
+        "condition": 10556,
+        "conditionType": 2,
+        "ability": 20002,
+        "args": [
+            100,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10490,
+        "condition": 10102,
+        "conditionType": 1,
+        "ability": 20020,
+        "args": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10490,
+        "condition": 10489,
+        "conditionType": 1,
+        "ability": 20003,
+        "args": [
+            2,
+            0,
+            0,
+            0
+        ]
+    },
+    {
         "owner": 10491,
         "condition": 10495,
         "conditionType": 1,

@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.512",
-        "dv": 22384,
-        "time": 1697709495
+        "version": "2023.600",
+        "dv": 22414,
+        "time": 1699246141
     },
     "ws": {
         "10001": {
@@ -3247,22 +3247,22 @@
         },
         "10679": {
             "title": "",
-            "desc": "•&nbsp;每回合結束時<br />⇒&nbsp;囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;10%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊進入下一層數&nbsp;(Wave)&nbsp;或<br />&nbsp;&nbsp;&nbsp;&nbsp;召喚師死亡後重置",
+            "desc": "•&nbsp;每回合結束時<br />⇒&nbsp;囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;10%&nbsp;總生命力<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊進入下一層數&nbsp;(Wave)&nbsp;或<br />&nbsp;&nbsp;&nbsp;&nbsp;召喚師死亡後重置",
             "custom_desc": ""
         },
         "10680": {
             "title": "",
-            "desc": "•&nbsp;每回合結束時<br />⇒&nbsp;囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊進入下一層數&nbsp;(Wave)&nbsp;或<br />&nbsp;&nbsp;&nbsp;&nbsp;召喚師死亡後重置",
+            "desc": "•&nbsp;每回合結束時<br />⇒&nbsp;囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;總生命力<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊進入下一層數&nbsp;(Wave)&nbsp;或<br />&nbsp;&nbsp;&nbsp;&nbsp;召喚師死亡後重置",
             "custom_desc": ""
         },
         "10681": {
             "title": "",
-            "desc": "•&nbsp;每回合結束時<br />⇒&nbsp;囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊進入下一層數&nbsp;(Wave)&nbsp;或<br />&nbsp;&nbsp;&nbsp;&nbsp;召喚師死亡後重置",
+            "desc": "•&nbsp;每回合結束時<br />⇒&nbsp;囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;總生命力<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊進入下一層數&nbsp;(Wave)&nbsp;或<br />&nbsp;&nbsp;&nbsp;&nbsp;召喚師死亡後重置",
             "custom_desc": ""
         },
         "10682": {
             "title": "",
-            "desc": "•&nbsp;每回合結束時<br />⇒&nbsp;囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;總生命力上限<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊進入下一層數&nbsp;(Wave)&nbsp;或<br />&nbsp;&nbsp;&nbsp;&nbsp;召喚師死亡後重置",
+            "desc": "•&nbsp;每回合結束時<br />⇒&nbsp;囚錮召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;總生命力<br />&nbsp;&nbsp;&nbsp;(最多囚錮至&nbsp;1&nbsp;點)<br />＊進入下一層數&nbsp;(Wave)&nbsp;或<br />&nbsp;&nbsp;&nbsp;&nbsp;召喚師死亡後重置",
             "custom_desc": ""
         },
         "10683": {

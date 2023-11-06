@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.512",
-        "dv": 12748,
-        "time": 1698369613
+        "version": "2023.600",
+        "dv": 12751,
+        "time": 1699246141
     },
     "monster": {
         "1": {
@@ -17057,6 +17057,12 @@
             "race": 3,
             "rarity": 6
         },
+        "2858": {
+            "name": "蒼霄翱翔 ‧ 泰瑞那斯",
+            "attribute": 1,
+            "race": 4,
+            "rarity": 6
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -20864,6 +20870,24 @@
             "race": 1,
             "rarity": 6
         },
+        "6651": {
+            "name": "時代領演 ‧ 莎士比亞",
+            "attribute": 4,
+            "race": 5,
+            "rarity": 6
+        },
+        "6652": {
+            "name": "橫空護師 ‧ 樂樂",
+            "attribute": 2,
+            "race": 2,
+            "rarity": 6
+        },
+        "6653": {
+            "name": "高天翱翔 ‧ 泰瑞那斯",
+            "attribute": 1,
+            "race": 4,
+            "rarity": 6
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -24485,6 +24509,18 @@
             "race": 8,
             "rarity": 6
         },
+        "10489": {
+            "name": "時代領演 ‧ 莎士比亞",
+            "attribute": 4,
+            "race": 5,
+            "rarity": 6
+        },
+        "10490": {
+            "name": "橫空護師 ‧ 樂樂",
+            "attribute": 2,
+            "race": 2,
+            "rarity": 6
+        },
         "10491": {
             "name": "月夜黑貓團 ‧ 小幸",
             "attribute": 1,
@@ -24856,6 +24892,18 @@
             "attribute": 5,
             "race": 10,
             "rarity": 7
+        },
+        "10553": {
+            "name": "王者之王 ‧ NKH",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10554": {
+            "name": "守塔龍衞 ‧ 可露",
+            "attribute": 1,
+            "race": 4,
+            "rarity": 5
         },
         "5001": {
             "name": "UNKNOWN"
