@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.600",
-        "dv": 12751,
-        "time": 1699246141
+        "version": "2023.601",
+        "dv": 12769,
+        "time": 1699525603
     },
     "monster": {
         "1": {
@@ -16967,16 +16967,40 @@
             "race": 4,
             "rarity": 7
         },
+        "2839": {
+            "name": "統治潛意識 ‧ 格赫羅斯",
+            "attribute": 2,
+            "race": 8,
+            "rarity": 7
+        },
         "2840": {
             "name": "腐朽斥逐 ‧ 伊波",
             "attribute": 3,
             "race": 8,
             "rarity": 7
         },
+        "2841": {
+            "name": "概念衍生 ‧ 道羅斯",
+            "attribute": 4,
+            "race": 4,
+            "rarity": 7
+        },
         "2842": {
             "name": "邏輯瓦解 ‧ 阿撒托斯",
             "attribute": 5,
             "race": 4,
+            "rarity": 7
+        },
+        "2843": {
+            "name": "邁向永劫 ‧ 阿布霍斯",
+            "attribute": 1,
+            "race": 2,
+            "rarity": 7
+        },
+        "2844": {
+            "name": "紡織絕望 ‧ 加塔諾托亞",
+            "attribute": 4,
+            "race": 2,
             "rarity": 7
         },
         "2845": {
@@ -24904,6 +24928,18 @@
             "attribute": 1,
             "race": 4,
             "rarity": 5
+        },
+        "10556": {
+            "name": "真理賢士 ‧ 密米爾",
+            "attribute": 4,
+            "race": 5,
+            "rarity": 6
+        },
+        "10558": {
+            "name": "邪端的聖女 ‧ 蘇菲",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
         },
         "5001": {
             "name": "UNKNOWN"

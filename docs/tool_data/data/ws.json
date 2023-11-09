@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.600",
-        "dv": 22414,
-        "time": 1699246141
+        "version": "2023.601",
+        "dv": 22445,
+        "time": 1699525603
     },
     "ws": {
         "10001": {
@@ -3353,6 +3353,81 @@
         "10700": {
             "title": "",
             "desc": "•&nbsp;進場時狂熱指數減少&nbsp;60<br />•&nbsp;每首批消除&nbsp;1&nbsp;粒<br />&nbsp;&nbsp;隊伍成員屬性符石<br />⇒&nbsp;狂熱指數提升&nbsp;1&nbsp;<br />•&nbsp;狂熱指數為&nbsp;100&nbsp;<br />⇒&nbsp;下回合起可點擊<br />&nbsp;&nbsp;&nbsp;&nbsp;右上方技能圖示<br />⇒&nbsp;全隊進入&nbsp;1&nbsp;回合狂熱狀態：<br />⓵&nbsp;自身無視「首消粒數盾」<br />⓶&nbsp;自身無視指定減傷抗性敵技<br /><br />＊發動後，將重置狂熱指數",
+            "custom_desc": ""
+        },
+        "10701": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10702": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10703": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10704": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10705": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10706": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10707": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10708": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10709": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10710": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10711": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10712": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10713": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10714": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10715": {
+            "title": "",
+            "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
             "custom_desc": ""
         }
     }
