@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.601",
-        "dv": 12769,
-        "time": 1699525603
+        "dv": 12780,
+        "time": 1700126681
     },
     "monster": {
         "1": {
@@ -20912,6 +20912,12 @@
             "race": 4,
             "rarity": 6
         },
+        "6656": {
+            "name": "共鳴渦漩 ‧ 諾瓦利斯與烏蘇拉",
+            "attribute": 5,
+            "race": 4,
+            "rarity": 7
+        },
         "6999": {
             "name": "米拉珍",
             "attribute": 5,
@@ -24929,6 +24935,12 @@
             "race": 4,
             "rarity": 5
         },
+        "10555": {
+            "name": "高塔忠衞 ‧ 巴里",
+            "attribute": 5,
+            "race": 4,
+            "rarity": 5
+        },
         "10556": {
             "name": "真理賢士 ‧ 密米爾",
             "attribute": 4,
@@ -24940,6 +24952,18 @@
             "attribute": 1,
             "race": 1,
             "rarity": 6
+        },
+        "10559": {
+            "name": "駭異屠噬 ‧ 法格恩",
+            "attribute": 5,
+            "race": 4,
+            "rarity": 7
+        },
+        "10560": {
+            "name": "共鳴渦漩 ‧ 諾瓦利斯與烏蘇拉",
+            "attribute": 5,
+            "race": 4,
+            "rarity": 7
         },
         "5001": {
             "name": "UNKNOWN"
