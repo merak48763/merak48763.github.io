@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.601",
-        "dv": 12780,
-        "time": 1700126681
+        "version": "2023.603",
+        "dv": 12786,
+        "time": 1701070929
     },
     "monster": {
         "1": {
@@ -24947,6 +24947,12 @@
             "race": 5,
             "rarity": 6
         },
+        "10557": {
+            "name": "冰潭潛影 ‧ 達貢",
+            "attribute": 1,
+            "race": 4,
+            "rarity": 6
+        },
         "10558": {
             "name": "邪端的聖女 ‧ 蘇菲",
             "attribute": 1,
@@ -24964,6 +24970,12 @@
             "attribute": 5,
             "race": 4,
             "rarity": 7
+        },
+        "10561": {
+            "name": "震源預知 ‧ 阿加雷斯",
+            "attribute": 5,
+            "race": 5,
+            "rarity": 6
         },
         "5001": {
             "name": "UNKNOWN"
