@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.603",
-        "dv": 12786,
-        "time": 1701070929
+        "version": "2023.605",
+        "dv": 12818,
+        "time": 1701674464
     },
     "monster": {
         "1": {
@@ -17087,6 +17087,12 @@
             "race": 4,
             "rarity": 6
         },
+        "2859": {
+            "name": "燎原毒螫 ‧ 艾瑪",
+            "attribute": 2,
+            "race": 5,
+            "rarity": 6
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -20911,6 +20917,9 @@
             "attribute": 1,
             "race": 4,
             "rarity": 6
+        },
+        "6654": {
+            "name": "青裊毒螫 ‧ 艾瑪"
         },
         "6656": {
             "name": "共鳴渦漩 ‧ 諾瓦利斯與烏蘇拉",
@@ -24976,6 +24985,60 @@
             "attribute": 5,
             "race": 5,
             "rarity": 6
+        },
+        "10562": {
+            "name": "悖狂護衛 ‧ 彌爾頓",
+            "attribute": 1,
+            "race": 4,
+            "rarity": 6
+        },
+        "10563": {
+            "name": "誑惑宣道 ‧ 卡西爾",
+            "attribute": 2,
+            "race": 5,
+            "rarity": 6
+        },
+        "10564": {
+            "name": "戒律灌輸 ‧ 卡蜜拉",
+            "attribute": 3,
+            "race": 8,
+            "rarity": 6
+        },
+        "10565": {
+            "name": "賢智樞機 ‧ 依蓮尼亞",
+            "attribute": 4,
+            "race": 4,
+            "rarity": 6
+        },
+        "10566": {
+            "name": "極罪赦免 ‧ 司路域",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10567": {
+            "name": "聖教重騎 ‧ 萌萌",
+            "attribute": 5,
+            "race": 2,
+            "rarity": 5
+        },
+        "10569": {
+            "name": "惡罪幎目 ‧ 朗羅",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10573": {
+            "name": "剿擊戰骨 ‧ 幽狼酋長",
+            "attribute": 2,
+            "race": 2,
+            "rarity": 6
+        },
+        "10575": {
+            "name": "嫉怨纏心 ‧ 異教教主",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 7
         },
         "5001": {
             "name": "UNKNOWN"
