@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2023.605",
-        "dv": 12818,
-        "time": 1701674464
+        "dv": 12827,
+        "time": 1701940312
     },
     "monster": {
         "1": {
@@ -17093,6 +17093,12 @@
             "race": 5,
             "rarity": 6
         },
+        "2860": {
+            "name": "希望吞蝕 ‧ 潘朵拉",
+            "attribute": 5,
+            "race": 3,
+            "rarity": 8
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -25026,6 +25032,18 @@
             "name": "惡罪幎目 ‧ 朗羅",
             "attribute": 5,
             "race": 1,
+            "rarity": 6
+        },
+        "10570": {
+            "name": "慾刺原罪 ‧ 胎飼魔母",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10571": {
+            "name": "貪念沉淪 ‧ 精靈女王",
+            "attribute": 1,
+            "race": 3,
             "rarity": 6
         },
         "10573": {
