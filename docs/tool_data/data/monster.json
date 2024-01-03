@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.605",
-        "dv": 12842,
-        "time": 1702607314
+        "version": "2024.100",
+        "dv": 12896,
+        "time": 1704246236
     },
     "monster": {
         "1": {
@@ -17111,6 +17111,12 @@
             "race": 3,
             "rarity": 8
         },
+        "2861": {
+            "name": "痛愛鎖環 ‧ 格蕾琴",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 6
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -20944,6 +20950,9 @@
             "attribute": 5,
             "race": 4,
             "rarity": 7
+        },
+        "6657": {
+            "name": "痛愛囚牢 ‧ 格蕾琴"
         },
         "6999": {
             "name": "米拉珍",
@@ -25082,11 +25091,107 @@
             "race": 2,
             "rarity": 6
         },
+        "10574": {
+            "name": "聖夜亡魂 ‧ 綽約聖女",
+            "attribute": 2,
+            "race": 8,
+            "rarity": 6
+        },
         "10575": {
             "name": "嫉怨纏心 ‧ 異教教主",
             "attribute": 5,
             "race": 1,
             "rarity": 7
+        },
+        "10576": {
+            "name": "歡樂跨年 ‧ 史萊姆王",
+            "attribute": 3,
+            "race": 3,
+            "rarity": 6
+        },
+        "10577": {
+            "name": "西撒・A・齊貝林",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "10578": {
+            "name": "穆罕默德 ‧ 阿布德爾與紅色魔術師",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10579": {
+            "name": "喬瑟夫 ‧ 喬斯達",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10580": {
+            "name": "喬納森 ‧ 喬斯達",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10581": {
+            "name": "空條承太郎與白金之星",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10582": {
+            "name": "簡 ‧ 皮耶爾 ‧ 波魯那雷夫與銀色戰車",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "10583": {
+            "name": "花京院典明與綠色法皇",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10584": {
+            "name": "伊奇與愚者",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 6
+        },
+        "10585": {
+            "name": "羅伯特 ‧ E ‧ O ‧ 史比特瓦根",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10586": {
+            "name": "奇妙邂逅 ‧ 斯芬克斯",
+            "attribute": 5,
+            "race": 7,
+            "rarity": 3
+        },
+        "10587": {
+            "name": "艾莉娜",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10588": {
+            "name": "威爾・A・齊貝林",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "10589": {
+            "name": "迪奧・布朗度",
+            "attribute": 5,
+            "race": 8,
+            "rarity": 6
+        },
+        "10599": {
+            "name": "浮掠凌嘯 ‧ 黑風妖",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 6
         },
         "5001": {
             "name": "UNKNOWN"

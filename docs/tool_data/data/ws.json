@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2023.605",
-        "dv": 22499,
-        "time": 1701940312
+        "version": "2024.100",
+        "dv": 22592,
+        "time": 1704246236
     },
     "ws": {
         "10001": {
@@ -982,27 +982,27 @@
         },
         "10225": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;3%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;3%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10226": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;6%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;6%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10227": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;8%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;8%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10228": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;16%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;16%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10229": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;33%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;33%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10230": {
@@ -1212,127 +1212,127 @@
         },
         "10271": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;3%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;3%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10272": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;6%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;6%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10273": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;8%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;8%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10274": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;16%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;16%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10275": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;33%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;33%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10276": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;3%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;3%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10277": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;6%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;6%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10278": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;8%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;8%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10279": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;16%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;16%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10280": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;33%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;33%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10281": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;3%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;3%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10282": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;6%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;6%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10283": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;8%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;8%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10284": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;16%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;16%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10285": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;33%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;33%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10286": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;3%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;3%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10287": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;6%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;6%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10288": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;8%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;8%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10289": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;16%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;16%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10290": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;33%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;33%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10291": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;3%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;3%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10292": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;6%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;6%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10293": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;8%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;8%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10294": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;16%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;16%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10295": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;33%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;33%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10296": {
@@ -1732,32 +1732,32 @@
         },
         "10375": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10376": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10377": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10378": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10379": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10380": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10381": {
@@ -2557,32 +2557,32 @@
         },
         "10540": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;回復全隊回復力基值&nbsp;20%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒非種族的水符石<br />⇒&nbsp;回復全隊回復力基值&nbsp;20%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法提升當前生命力。",
             "custom_desc": ""
         },
         "10541": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;回復全隊回復力基值&nbsp;20%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;回復全隊回復力基值&nbsp;20%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法提升當前生命力。",
             "custom_desc": ""
         },
         "10542": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;回復全隊回復力基值&nbsp;20%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒非種族的木符石<br />⇒&nbsp;回復全隊回復力基值&nbsp;20%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法提升當前生命力。",
             "custom_desc": ""
         },
         "10543": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;回復全隊回復力基值&nbsp;20%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒非種族的光符石<br />⇒&nbsp;回復全隊回復力基值&nbsp;20%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法提升當前生命力。",
             "custom_desc": ""
         },
         "10544": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;回復全隊回復力基值&nbsp;20%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;回復全隊回復力基值&nbsp;20%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法提升當前生命力。",
             "custom_desc": ""
         },
         "10545": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;回復全隊回復力基值&nbsp;20%&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒非種族的心符石<br />⇒&nbsp;回復全隊回復力基值&nbsp;20%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力&nbsp;<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法提升當前生命力。",
             "custom_desc": ""
         },
         "10546": {
@@ -2822,17 +2822,17 @@
         },
         "10594": {
             "title": "",
-            "desc": "•&nbsp;每首批消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;回復&nbsp;2%&nbsp;生命力<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法進行回復。",
+            "desc": "•&nbsp;每首批消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;回復&nbsp;2%&nbsp;生命力<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法提升當前生命力。",
             "custom_desc": ""
         },
         "10595": {
             "title": "",
-            "desc": "•&nbsp;每首批消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;回復&nbsp;5%&nbsp;生命力<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法進行回復。",
+            "desc": "•&nbsp;每首批消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;回復&nbsp;5%&nbsp;生命力<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法提升當前生命力。",
             "custom_desc": ""
         },
         "10596": {
             "title": "",
-            "desc": "•&nbsp;每首批消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;回復&nbsp;10%&nbsp;生命力<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法進行回復。",
+            "desc": "•&nbsp;每首批消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;回復&nbsp;10%&nbsp;生命力<br />•&nbsp;除此以外，<br />&nbsp;&nbsp;無法提升當前生命力。",
             "custom_desc": ""
         },
         "10597": {
@@ -3172,7 +3172,7 @@
         },
         "10664": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的火符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10665": {
@@ -3187,7 +3187,7 @@
         },
         "10667": {
             "title": "",
-            "desc": "•&nbsp;無法進行回復。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+            "desc": "•&nbsp;無法提升當前生命力。<br />•&nbsp;每消除&nbsp;1&nbsp;粒非種族的暗符石<br />⇒&nbsp;扣除全隊回復力基值&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
             "custom_desc": ""
         },
         "10668": {
