@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2024.100",
-        "dv": 12896,
-        "time": 1704246236
+        "dv": 12917,
+        "time": 1704359912
     },
     "monster": {
         "1": {
@@ -25187,11 +25187,53 @@
             "race": 8,
             "rarity": 6
         },
+        "10590": {
+            "name": "莉莎莉莎",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10591": {
+            "name": "瓦姆烏",
+            "attribute": 3,
+            "race": 8,
+            "rarity": 6
+        },
+        "10592": {
+            "name": "艾特西",
+            "attribute": 2,
+            "race": 8,
+            "rarity": 6
+        },
+        "10593": {
+            "name": "卡茲",
+            "attribute": 5,
+            "race": 8,
+            "rarity": 6
+        },
         "10599": {
             "name": "浮掠凌嘯 ‧ 黑風妖",
             "attribute": 1,
             "race": 3,
             "rarity": 6
+        },
+        "10601": {
+            "name": "四象合一 ‧ 聖獸神君 (神)",
+            "attribute": 4,
+            "race": 5,
+            "rarity": 7
+        },
+        "10602": {
+            "name": "四象合一 ‧ 聖獸神君 (獸)",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 7
+        },
+        "10603": {
+            "name": "四象合一 ‧ 聖獸神君 (龍)",
+            "attribute": 4,
+            "race": 4,
+            "rarity": 7
         },
         "5001": {
             "name": "UNKNOWN"
