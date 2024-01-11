@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.100",
-        "dv": 22592,
-        "time": 1704246236
+        "version": "2024.101",
+        "dv": 22618,
+        "time": 1704963800
     },
     "es": {
         "0": {
@@ -21095,14 +21095,23 @@
             ]
         },
         "3675": {
-            "title": "",
+            "title": "回技 ‧ 符石轉光 ‧ 時光流逝",
             "desc": "所有成員主動技能&nbsp;CD&nbsp;變&nbsp;0。<br /><br />當首次受到敵人攻擊時，<br />隨機將&nbsp;1&nbsp;直行的符石<br />⇒&nbsp;轉化為光符石。<br />當第&nbsp;2&nbsp;次受到敵人攻擊時，<br />隨機將&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為光符石。<br />以上循環週而復始。<br /><br />移動符石時間縮短至&nbsp;2&nbsp;秒。",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                852,
+                981,
+                1002
+            ]
         },
         "3676": {
-            "title": "",
+            "title": "攻速變更 ‧ 符石轉光及心 ‧ 光連擊零化 ‧ 符石轉光 ‧ 無法控制",
             "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首批消除光符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消光符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />將&nbsp;22&nbsp;個固定位置的符石<br />⇒&nbsp;轉化為光符石<br />將&nbsp;8&nbsp;個固定位置的符石<br />⇒&nbsp;轉化為心符石<br /><br />其後每回合將數量最少的<br />1&nbsp;種屬性符石轉化為光符石。<br /><br />無視所有控制技能。",
-            "custom_desc": ""
+            "custom_desc": "<span class=\"annotation\">generic_board 6 5 111111122221111111122221111111 light heart</span>",
+            "icons": [
+                981,
+                855
+            ]
         },
         "3677": {
             "title": "",

@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.100",
-        "dv": 12917,
-        "time": 1704359912
+        "version": "2024.101",
+        "dv": 12926,
+        "time": 1704963800
     },
     "monster": {
         "1": {
@@ -25209,6 +25209,24 @@
             "name": "卡茲",
             "attribute": 5,
             "race": 8,
+            "rarity": 6
+        },
+        "10594": {
+            "name": "喬瑟夫 ‧ 喬斯達與隱者之紫",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10595": {
+            "name": "荷爾 ‧ 荷斯與皇帝",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10596": {
+            "name": "佩特夏與荷魯斯",
+            "attribute": 1,
+            "race": 2,
             "rarity": 6
         },
         "10599": {
