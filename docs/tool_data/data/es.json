@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.101",
-        "dv": 22618,
-        "time": 1704963800
+        "version": "2024.106",
+        "dv": 22636,
+        "time": 1705765607
     },
     "es": {
         "0": {
@@ -44600,6 +44600,16 @@
                 1261
             ]
         },
+        "6957": {
+            "title": "【壓路機】",
+            "desc": "•&nbsp;場上出現壓路機",
+            "custom_desc": ""
+        },
+        "6958": {
+            "title": "　",
+            "desc": "　",
+            "custom_desc": ""
+        },
         "6959": {
             "title": "【突擊】",
             "desc": "•&nbsp;突擊&nbsp;1&nbsp;次",
@@ -44628,6 +44638,16 @@
         "6969": {
             "title": "【龍刻脈動 ≥100,001 分損敵】",
             "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥100,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "6970": {
+            "title": "　",
+            "desc": "　",
+            "custom_desc": ""
+        },
+        "6971": {
+            "title": "【殞命輪迴 - 花京院典明與綠色法皇】",
+            "desc": "•&nbsp;進場時，<br />「花京院典明與綠色法皇」<br />⇒&nbsp;進入永久「殞命輪迴」<br />&nbsp;&nbsp;&nbsp;&nbsp;(已殞命)",
             "custom_desc": ""
         }
     }
