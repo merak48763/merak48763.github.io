@@ -1391,6 +1391,435 @@
                     }
                 ]
             ]
+        },
+        {
+            "id": 11,
+            "series": 1,
+            "scid": 11,
+            "name": "書頁上的記事",
+            "nameEn": "Written in the Book",
+            "star": 1,
+            "maxLevel": 5,
+            "fpConsume": 4,
+            "instantSkill": [
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            2
+                        ]
+                    }
+                ]
+            ],
+            "statusSkill": [
+                [
+                    {
+                        "skill": 9,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 9,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 9,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 9,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 9,
+                        "args": [
+                            2
+                        ]
+                    }
+                ]
+            ],
+            "triggeredSkill": [
+                [
+                    {
+                        "skill": 18,
+                        "args": [
+                            50,
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 18,
+                        "args": [
+                            50,
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 18,
+                        "args": [
+                            50,
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 18,
+                        "args": [
+                            50,
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 18,
+                        "args": [
+                            50,
+                            1
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 12,
+            "series": 1,
+            "scid": 12,
+            "name": "大魔女與她的使魔",
+            "nameEn": "The Great Witch and Her Companion",
+            "star": 1,
+            "maxLevel": 5,
+            "fpConsume": 4,
+            "instantSkill": [
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            2
+                        ]
+                    }
+                ]
+            ],
+            "statusSkill": [
+                [
+                    {
+                        "skill": 9,
+                        "args": [
+                            4
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 9,
+                        "args": [
+                            4
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 9,
+                        "args": [
+                            4
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 9,
+                        "args": [
+                            4
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 9,
+                        "args": [
+                            4
+                        ]
+                    }
+                ]
+            ],
+            "triggeredSkill": [
+                [
+                    {
+                        "skill": 8,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 8,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 8,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 8,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 8,
+                        "args": []
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 16,
+            "series": 1,
+            "scid": 16,
+            "name": "焰火下的護佑",
+            "nameEn": "Flames of Protection",
+            "star": 3,
+            "maxLevel": 5,
+            "fpConsume": 2,
+            "instantSkill": [
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            2
+                        ]
+                    }
+                ]
+            ],
+            "statusSkill": [
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            10,
+                            10,
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            10,
+                            10,
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            10,
+                            15,
+                            2
+                        ]
+                    },
+                    {
+                        "skill": 18,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            10,
+                            15,
+                            2
+                        ]
+                    },
+                    {
+                        "skill": 18,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            10,
+                            20,
+                            2
+                        ]
+                    },
+                    {
+                        "skill": 18,
+                        "args": []
+                    },
+                    {
+                        "skill": 15,
+                        "args": []
+                    }
+                ]
+            ],
+            "triggeredSkill": [
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            120
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            140
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            160
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            180
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            200
+                        ]
+                    }
+                ]
+            ]
         }
     ],
     "series": [
