@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.110",
-        "dv": 12980,
-        "time": 1706781610
+        "version": "2024.111",
+        "dv": 12989,
+        "time": 1707394212
     },
     "monster": {
         "1": {
@@ -25307,6 +25307,18 @@
             "race": 8,
             "rarity": 5
         },
+        "10606": {
+            "name": "魅綃剪翅 ‧ 妖濤蜻蜓",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 5
+        },
+        "10607": {
+            "name": "日輪啟引 ‧ 阿圖姆",
+            "attribute": 2,
+            "race": 10,
+            "rarity": 6
+        },
         "10608": {
             "name": "清貧洗志 ‧ 比干",
             "attribute": 5,
@@ -25316,6 +25328,12 @@
         "10609": {
             "name": "萬貫江山 ‧ 守財真君",
             "attribute": 4,
+            "race": 5,
+            "rarity": 6
+        },
+        "10610": {
+            "name": "赤綃雲煙 ‧ 紅娘",
+            "attribute": 2,
             "race": 5,
             "rarity": 6
         },

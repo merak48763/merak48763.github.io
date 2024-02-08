@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.110",
-        "dv": 22687,
-        "time": 1706781610
+        "version": "2024.111",
+        "dv": 22693,
+        "time": 1707394212
     },
     "es": {
         "0": {
@@ -43060,8 +43060,8 @@
             ]
         },
         "6685": {
-            "title": "【痲痺狀態】",
-            "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "title": "【麻痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
             "custom_desc": "",
             "icons": [
                 1140
@@ -43071,8 +43071,8 @@
             ]
         },
         "6686": {
-            "title": "【痲痺狀態】",
-            "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "title": "【麻痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
             "custom_desc": "",
             "icons": [
                 1140
@@ -43082,8 +43082,8 @@
             ]
         },
         "6687": {
-            "title": "【痲痺狀態】",
-            "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "title": "【麻痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
             "custom_desc": "",
             "icons": [
                 1140
@@ -43093,8 +43093,8 @@
             ]
         },
         "6688": {
-            "title": "【痲痺狀態】",
-            "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "title": "【麻痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
             "custom_desc": "",
             "icons": [
                 1140
@@ -43104,8 +43104,8 @@
             ]
         },
         "6689": {
-            "title": "【痲痺狀態】",
-            "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "title": "【麻痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
             "custom_desc": "",
             "icons": [
                 1140
@@ -43115,8 +43115,8 @@
             ]
         },
         "6690": {
-            "title": "【痲痺狀態】",
-            "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "title": "【麻痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
             "custom_desc": "",
             "icons": [
                 1140
@@ -43126,8 +43126,8 @@
             ]
         },
         "6691": {
-            "title": "【痲痺狀態】",
-            "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "title": "【麻痺狀態】",
+            "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
             "custom_desc": "",
             "icons": [
                 1140
@@ -43167,8 +43167,8 @@
             "custom_desc": ""
         },
         "6698": {
-            "title": "【亢奮變痲痺狀態】",
-            "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為痲痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+            "title": "【亢奮變麻痺狀態】",
+            "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
             "custom_desc": "",
             "keywords": [
                 "麻痺狀態"
