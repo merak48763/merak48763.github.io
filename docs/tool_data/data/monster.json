@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.111",
-        "dv": 12989,
-        "time": 1707394212
+        "version": "2024.112",
+        "dv": 12995,
+        "time": 1708335421
     },
     "monster": {
         "1": {
@@ -25343,10 +25343,22 @@
             "race": 4,
             "rarity": 7
         },
+        "10612": {
+            "name": "馭蜂特工 ‧ 史嘉蕾",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
         "10613": {
             "name": "猛鐮行軍 ‧ 機械螞蟻",
             "attribute": 2,
             "race": 10,
+            "rarity": 6
+        },
+        "10614": {
+            "name": "遊山弈客 ‧ 黑嘉嘉",
+            "attribute": 3,
+            "race": 2,
             "rarity": 6
         },
         "10615": {
