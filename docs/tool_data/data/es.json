@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.111",
-        "dv": 22693,
-        "time": 1707394212
+        "version": "2024.201",
+        "dv": 22927,
+        "time": 1708921987
     },
     "es": {
         "0": {
@@ -1553,7 +1553,7 @@
         },
         "185": {
             "title": "風化-先",
-            "desc": "每回合移動符石前，隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石",
+            "desc": "•&nbsp;每回合移動符石前<br />⇒&nbsp;隨機&nbsp;1&nbsp;個位置出現風化地型<br />•&nbsp;風化地型一經觸碰<br />⇒&nbsp;即時停止移動符石",
             "custom_desc": "",
             "icons": [
                 957
@@ -1561,7 +1561,7 @@
         },
         "186": {
             "title": "風化",
-            "desc": "每回合隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石",
+            "desc": "•&nbsp;下回合移動符石前<br />⇒&nbsp;隨機&nbsp;1&nbsp;個位置出現風化地型<br />•&nbsp;風化地型一經觸碰<br />⇒&nbsp;即時停止移動符石",
             "custom_desc": "",
             "icons": [
                 957
@@ -1569,7 +1569,7 @@
         },
         "187": {
             "title": "風化3000-轉",
-            "desc": "每回合移動符石時，隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害",
+            "desc": "•&nbsp;下回合移動符石時<br />⇒&nbsp;隨機&nbsp;1&nbsp;個位置出現風化地型<br />•&nbsp;風化地型一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成&nbsp;3,000&nbsp;點傷害",
             "custom_desc": "",
             "icons": [
                 957
@@ -1577,7 +1577,7 @@
         },
         "188": {
             "title": "風化3000",
-            "desc": "每回合隨機把&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害",
+            "desc": "•&nbsp;下回合移動符石前<br />⇒&nbsp;隨機&nbsp;1&nbsp;個位置出現風化地型<br />•&nbsp;風化地型一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成&nbsp;3,000&nbsp;點傷害",
             "custom_desc": "",
             "icons": [
                 957
@@ -1585,7 +1585,7 @@
         },
         "189": {
             "title": "風化3000-先",
-            "desc": "每回合移動符石前，隨機將&nbsp;1&nbsp;粒符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成&nbsp;3000&nbsp;點傷害",
+            "desc": "•&nbsp;每回合移動符石前<br />⇒&nbsp;隨機&nbsp;1&nbsp;個位置出現風化地型<br />•&nbsp;風化地型一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;對召喚師造成&nbsp;3,000&nbsp;點傷害",
             "custom_desc": "",
             "icons": [
                 957
@@ -44809,6 +44809,31 @@
             "desc": "•&nbsp;突擊&nbsp;1&nbsp;次",
             "custom_desc": ""
         },
+        "6960": {
+            "title": "【殞命輪迴】",
+            "desc": "•&nbsp;進場時，隊中最左方的<br />&nbsp;&nbsp;1&nbsp;個水屬性隊員<br />⇒&nbsp;進入永久「殞命輪迴」<br />&nbsp;&nbsp;&nbsp;&nbsp;(已殞命)",
+            "custom_desc": ""
+        },
+        "6961": {
+            "title": "【殞命輪迴】",
+            "desc": "•&nbsp;進場時，隊中最左方的<br />&nbsp;&nbsp;1&nbsp;個火屬性隊員<br />⇒&nbsp;進入永久「殞命輪迴」<br />&nbsp;&nbsp;&nbsp;&nbsp;(已殞命)",
+            "custom_desc": ""
+        },
+        "6962": {
+            "title": "【殞命輪迴】",
+            "desc": "•&nbsp;進場時，隊中最左方的<br />&nbsp;&nbsp;1&nbsp;個木屬性隊員<br />⇒&nbsp;進入永久「殞命輪迴」<br />&nbsp;&nbsp;&nbsp;&nbsp;(已殞命)",
+            "custom_desc": ""
+        },
+        "6963": {
+            "title": "【殞命輪迴】",
+            "desc": "•&nbsp;進場時，隊中最左方的<br />&nbsp;&nbsp;1&nbsp;個光屬性隊員<br />⇒&nbsp;進入永久「殞命輪迴」<br />&nbsp;&nbsp;&nbsp;&nbsp;(已殞命)",
+            "custom_desc": ""
+        },
+        "6964": {
+            "title": "【殞命輪迴】",
+            "desc": "•&nbsp;進場時，隊中最左方的<br />&nbsp;&nbsp;1&nbsp;個暗屬性隊員<br />⇒&nbsp;進入永久「殞命輪迴」<br />&nbsp;&nbsp;&nbsp;&nbsp;(已殞命)",
+            "custom_desc": ""
+        },
         "6965": {
             "title": "【龍刻脈動 ≥60,001 分損敵】",
             "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥60,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
@@ -44852,6 +44877,356 @@
             "icons": [
                 1121
             ]
+        },
+        "6972": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有水符石<br />⇒&nbsp;幻化成火符石",
+            "custom_desc": ""
+        },
+        "6973": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有水符石<br />⇒&nbsp;幻化成木符石",
+            "custom_desc": ""
+        },
+        "6974": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有水符石<br />⇒&nbsp;幻化成光符石",
+            "custom_desc": ""
+        },
+        "6975": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有水符石<br />⇒&nbsp;幻化成暗符石",
+            "custom_desc": ""
+        },
+        "6976": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有水符石<br />⇒&nbsp;幻化成心符石",
+            "custom_desc": ""
+        },
+        "6977": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有火符石<br />⇒&nbsp;幻化成木符石",
+            "custom_desc": ""
+        },
+        "6978": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有火符石<br />⇒&nbsp;幻化成光符石",
+            "custom_desc": ""
+        },
+        "6979": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有火符石<br />⇒&nbsp;幻化成暗符石",
+            "custom_desc": ""
+        },
+        "6980": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有火符石<br />⇒&nbsp;幻化成心符石",
+            "custom_desc": ""
+        },
+        "6981": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有火符石<br />⇒&nbsp;幻化成水符石",
+            "custom_desc": ""
+        },
+        "6982": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有木符石<br />⇒&nbsp;幻化成光符石",
+            "custom_desc": ""
+        },
+        "6983": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有木符石<br />⇒&nbsp;幻化成暗符石",
+            "custom_desc": ""
+        },
+        "6984": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有木符石<br />⇒&nbsp;幻化成心符石",
+            "custom_desc": ""
+        },
+        "6985": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有木符石<br />⇒&nbsp;幻化成水符石",
+            "custom_desc": ""
+        },
+        "6986": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有木符石<br />⇒&nbsp;幻化成火符石",
+            "custom_desc": ""
+        },
+        "6987": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有光符石<br />⇒&nbsp;幻化成暗符石",
+            "custom_desc": ""
+        },
+        "6988": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有光符石<br />⇒&nbsp;幻化成心符石",
+            "custom_desc": ""
+        },
+        "6989": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有光符石<br />⇒&nbsp;幻化成水符石",
+            "custom_desc": ""
+        },
+        "6990": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有光符石<br />⇒&nbsp;幻化成火符石",
+            "custom_desc": ""
+        },
+        "6991": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有光符石<br />⇒&nbsp;幻化成木符石",
+            "custom_desc": ""
+        },
+        "6992": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有暗符石<br />⇒&nbsp;幻化成心符石",
+            "custom_desc": ""
+        },
+        "6993": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有暗符石<br />⇒&nbsp;幻化成水符石",
+            "custom_desc": ""
+        },
+        "6994": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有暗符石<br />⇒&nbsp;幻化成火符石",
+            "custom_desc": ""
+        },
+        "6995": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有暗符石<br />⇒&nbsp;幻化成木符石",
+            "custom_desc": ""
+        },
+        "6996": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有暗符石<br />⇒&nbsp;幻化成光符石",
+            "custom_desc": ""
+        },
+        "6997": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有心符石<br />⇒&nbsp;幻化成水符石",
+            "custom_desc": ""
+        },
+        "6998": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有心符石<br />⇒&nbsp;幻化成火符石",
+            "custom_desc": ""
+        },
+        "6999": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有心符石<br />⇒&nbsp;幻化成木符石",
+            "custom_desc": ""
+        },
+        "7000": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有心符石<br />⇒&nbsp;幻化成光符石",
+            "custom_desc": ""
+        },
+        "7001": {
+            "title": "【移形換影】",
+            "desc": "•&nbsp;將所有心符石<br />⇒&nbsp;幻化成暗符石",
+            "custom_desc": ""
+        },
+        "7002": {
+            "title": "【亡命爆擊 100,000】",
+            "desc": "•&nbsp;敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點傷害",
+            "custom_desc": ""
+        },
+        "7003": {
+            "title": "【亡命爆擊 300,000】",
+            "desc": "•&nbsp;敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;300,000&nbsp;點傷害",
+            "custom_desc": ""
+        },
+        "7004": {
+            "title": "【亡命爆擊 800,000】",
+            "desc": "•&nbsp;敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;800,000&nbsp;點傷害",
+            "custom_desc": ""
+        },
+        "7005": {
+            "title": "【亡命爆擊 10%】",
+            "desc": "•&nbsp;敵人死亡後<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "7006": {
+            "title": "【亡命爆擊 20%】",
+            "desc": "•&nbsp;敵人死亡後<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "7007": {
+            "title": "【亡命爆擊 30%】",
+            "desc": "•&nbsp;敵人死亡後<br />⇒&nbsp;扣除召喚師&nbsp;30%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "7008": {
+            "title": "【亡命爆擊 40%】",
+            "desc": "•&nbsp;敵人死亡後<br />⇒&nbsp;扣除召喚師&nbsp;40%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "7009": {
+            "title": "【亡命爆擊 50%】",
+            "desc": "•&nbsp;敵人死亡後<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "7010": {
+            "title": "【亡命爆擊 60%】",
+            "desc": "•&nbsp;敵人死亡後<br />⇒&nbsp;扣除召喚師&nbsp;60%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "7011": {
+            "title": "【亡命爆擊 70%】",
+            "desc": "•&nbsp;敵人死亡後<br />⇒&nbsp;扣除召喚師&nbsp;70%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "7012": {
+            "title": "【亡命爆擊 80%】",
+            "desc": "•&nbsp;敵人死亡後<br />⇒&nbsp;扣除召喚師&nbsp;80%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "7013": {
+            "title": "【亡命爆擊 90%】",
+            "desc": "•&nbsp;敵人死亡後<br />⇒&nbsp;扣除召喚師&nbsp;90%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "7014": {
+            "title": "【亡命爆擊 99%】",
+            "desc": "•&nbsp;敵人死亡後<br />⇒&nbsp;扣除召喚師&nbsp;99%&nbsp;生命力",
+            "custom_desc": ""
+        },
+        "7015": {
+            "title": "【非刀傷狀態 - 弱攻】",
+            "desc": "•&nbsp;敵人所受傷害減至&nbsp;25%<br />•&nbsp;只有敵人置身在刀傷狀態<br />⇒&nbsp;才會對其造成完整傷害",
+            "custom_desc": ""
+        },
+        "7016": {
+            "title": "【非刀傷狀態 - 弱攻】",
+            "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有敵人置身在刀傷狀態<br />⇒&nbsp;才會對其造成完整傷害",
+            "custom_desc": ""
+        },
+        "7017": {
+            "title": "【非刀傷狀態 - 弱攻】",
+            "desc": "•&nbsp;只有敵人置身在刀傷狀態<br />⇒&nbsp;才能對敵人造成傷害",
+            "custom_desc": ""
+        },
+        "7018": {
+            "title": "　",
+            "desc": "　",
+            "custom_desc": ""
+        },
+        "7019": {
+            "title": "　",
+            "desc": "　",
+            "custom_desc": ""
+        },
+        "7020": {
+            "title": "　",
+            "desc": "　",
+            "custom_desc": ""
+        },
+        "7021": {
+            "title": "　",
+            "desc": "　",
+            "custom_desc": ""
+        },
+        "7022": {
+            "title": "【嗜血狂刀 10%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7023": {
+            "title": "【嗜血狂刀 20%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7024": {
+            "title": "【嗜血狂刀 30%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;30%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7025": {
+            "title": "【嗜血狂刀 40%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;40%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7026": {
+            "title": "【嗜血狂刀 50%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7027": {
+            "title": "【嗜血狂刀 60%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;60%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7028": {
+            "title": "【嗜血狂刀 70%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;70%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7029": {
+            "title": "【嗜血狂刀 80%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;80%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7030": {
+            "title": "【嗜血狂刀 90%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;90%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7031": {
+            "title": "【嗜血狂刀 100%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7032": {
+            "title": "【嗜血狂刀 110%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;110%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7033": {
+            "title": "【嗜血狂刀 120%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;120%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7034": {
+            "title": "【嗜血狂刀 130%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;130%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7035": {
+            "title": "【嗜血狂刀 140%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;140%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7036": {
+            "title": "【嗜血狂刀 150%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;150%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7037": {
+            "title": "【嗜血狂刀 160%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;160%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7038": {
+            "title": "【嗜血狂刀 170%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;170%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7039": {
+            "title": "【嗜血狂刀 180%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;180%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7040": {
+            "title": "【嗜血狂刀 190%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;190%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
+        },
+        "7041": {
+            "title": "【嗜血狂刀 200%】",
+            "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;200%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
+            "custom_desc": ""
         }
     }
 }

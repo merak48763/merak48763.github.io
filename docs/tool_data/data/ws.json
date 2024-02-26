@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.100",
-        "dv": 22592,
-        "time": 1704246236
+        "version": "2024.201",
+        "dv": 22927,
+        "time": 1708921987
     },
     "ws": {
         "10001": {
@@ -3428,6 +3428,66 @@
         "10715": {
             "title": "",
             "desc": "•&nbsp;將「靈魂」移動至出口位置<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;在鏡之世界中，<br />&nbsp;「靈魂」會向相反方向移動<br /><br />•&nbsp;每回合結束時，<br />&nbsp;「靈魂」會回到起始位置<br /><br />•&nbsp;場上會出現障礙物，<br />&nbsp;&nbsp;障礙物一經觸碰<br />⇒&nbsp;即時停止移動",
+            "custom_desc": ""
+        },
+        "10716": {
+            "title": "",
+            "desc": "•&nbsp;無法提升當前生命力",
+            "custom_desc": ""
+        },
+        "10722": {
+            "title": "",
+            "desc": "•【水韻之境】以外成員<br />&nbsp;&nbsp;&nbsp;的攻擊力減至&nbsp;1%",
+            "custom_desc": ""
+        },
+        "10723": {
+            "title": "",
+            "desc": "•【火舞之境】以外成員<br />&nbsp;&nbsp;&nbsp;的攻擊力減至&nbsp;1%",
+            "custom_desc": ""
+        },
+        "10724": {
+            "title": "",
+            "desc": "•【木香之境】以外成員<br />&nbsp;&nbsp;&nbsp;的攻擊力減至&nbsp;1%",
+            "custom_desc": ""
+        },
+        "10725": {
+            "title": "",
+            "desc": "•【光輝之境】以外成員<br />&nbsp;&nbsp;&nbsp;的攻擊力減至&nbsp;1%",
+            "custom_desc": ""
+        },
+        "10726": {
+            "title": "",
+            "desc": "•【暗夜之境】以外成員<br />&nbsp;&nbsp;&nbsp;的攻擊力減至&nbsp;1%",
+            "custom_desc": ""
+        },
+        "10727": {
+            "title": "",
+            "desc": "•&nbsp;進場時累積&nbsp;0%&nbsp;鏽化值<br />•&nbsp;每次發動主動技能後<br />⇒&nbsp;累積&nbsp;5%&nbsp;鏽化值<br />•&nbsp;當累積至&nbsp;100%&nbsp;鏽化值<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空鏽化值",
+            "custom_desc": ""
+        },
+        "10728": {
+            "title": "",
+            "desc": "•&nbsp;進場時累積&nbsp;0%&nbsp;鏽化值<br />•&nbsp;每次發動主動技能後<br />⇒&nbsp;累積&nbsp;10%&nbsp;鏽化值<br />•&nbsp;當累積至&nbsp;100%&nbsp;鏽化值<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空鏽化值",
+            "custom_desc": ""
+        },
+        "10729": {
+            "title": "",
+            "desc": "•&nbsp;進場時累積&nbsp;0%&nbsp;鏽化值<br />•&nbsp;每次發動主動技能後<br />⇒&nbsp;累積&nbsp;20%&nbsp;鏽化值<br />•&nbsp;當累積至&nbsp;100%&nbsp;鏽化值<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空鏽化值",
+            "custom_desc": ""
+        },
+        "10730": {
+            "title": "",
+            "desc": "•&nbsp;進場時累積&nbsp;0%&nbsp;鏽化值<br />•&nbsp;每次發動主動技能後<br />⇒&nbsp;累積&nbsp;25%&nbsp;鏽化值<br />•&nbsp;當累積至&nbsp;100%&nbsp;鏽化值<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空鏽化值",
+            "custom_desc": ""
+        },
+        "10731": {
+            "title": "",
+            "desc": "•&nbsp;進場時累積&nbsp;0%&nbsp;鏽化值<br />•&nbsp;每次發動主動技能後<br />⇒&nbsp;累積&nbsp;50%&nbsp;鏽化值<br />•&nbsp;當累積至&nbsp;100%&nbsp;鏽化值<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空鏽化值",
+            "custom_desc": ""
+        },
+        "10732": {
+            "title": "",
+            "desc": "•&nbsp;進場時累積&nbsp;0%&nbsp;鏽化值<br />•&nbsp;每次發動主動技能後<br />⇒&nbsp;累積&nbsp;100%&nbsp;鏽化值<br />•&nbsp;當累積至&nbsp;100%&nbsp;鏽化值<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空鏽化值",
             "custom_desc": ""
         }
     }
