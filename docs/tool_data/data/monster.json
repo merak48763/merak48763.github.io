@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.201",
-        "dv": 13037,
-        "time": 1708921987
+        "version": "2024.203",
+        "dv": 13046,
+        "time": 1709523756
     },
     "monster": {
         "1": {
@@ -25448,11 +25448,29 @@
             "race": 1,
             "rarity": 5
         },
+        "10628": {
+            "name": "驅役律令 ‧ 賈寶玉",
+            "attribute": 5,
+            "race": 8,
+            "rarity": 6
+        },
         "10630": {
             "name": "聖神執傲 ‧ 塞墨勒",
             "attribute": 4,
             "race": 5,
             "rarity": 7
+        },
+        "10631": {
+            "name": "睿博異瞳 ‧ 布提斯",
+            "attribute": 3,
+            "race": 3,
+            "rarity": 6
+        },
+        "10632": {
+            "name": "凜風主帥 ‧ 波雷阿斯",
+            "attribute": 5,
+            "race": 5,
+            "rarity": 6
         },
         "5001": {
             "name": "UNKNOWN"
