@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.203",
-        "dv": 13046,
-        "time": 1709523756
+        "version": "2024.204",
+        "dv": 13055,
+        "time": 1709863930
     },
     "monster": {
         "1": {
@@ -25448,10 +25448,22 @@
             "race": 1,
             "rarity": 5
         },
+        "10627": {
+            "name": "巾幗女傑 ‧ 扈三娘",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 5
+        },
         "10628": {
             "name": "驅役律令 ‧ 賈寶玉",
             "attribute": 5,
             "race": 8,
+            "rarity": 6
+        },
+        "10629": {
+            "name": "禁斷戒途 ‧ 西門慶",
+            "attribute": 2,
+            "race": 1,
             "rarity": 6
         },
         "10630": {
@@ -25470,6 +25482,12 @@
             "name": "凜風主帥 ‧ 波雷阿斯",
             "attribute": 5,
             "race": 5,
+            "rarity": 6
+        },
+        "10633": {
+            "name": "睡夢精靈 ‧ 眠眠",
+            "attribute": 4,
+            "race": 3,
             "rarity": 6
         },
         "5001": {
