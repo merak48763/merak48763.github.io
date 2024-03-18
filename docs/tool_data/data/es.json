@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.201",
-        "dv": 22927,
-        "time": 1708921987
+        "version": "2024.204",
+        "dv": 22972,
+        "time": 1710407702
     },
     "es": {
         "0": {
@@ -44686,32 +44686,50 @@
         "6939": {
             "title": "【睡眠狀態】",
             "desc": "•&nbsp;進場時敵人進入睡眠狀態：<br />&nbsp;&nbsp;睡眠狀態期間<br />&nbsp;&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;睡眠狀態期間，<br />&nbsp;&nbsp;&nbsp;每回合移動符石時<br />⇒&nbsp;隨機出現&nbsp;1&nbsp;格甦醒地型<br /><br />•&nbsp;甦醒地型一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;敵人解除睡眠狀態<br />⓷&nbsp;無法對敵人造成傷害<br />⓸&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "6940": {
             "title": "【睡眠狀態】",
             "desc": "•&nbsp;進場時敵人進入睡眠狀態：<br />&nbsp;&nbsp;睡眠狀態期間<br />&nbsp;&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;睡眠狀態期間，<br />&nbsp;&nbsp;&nbsp;每回合移動符石時<br />⇒&nbsp;隨機出現&nbsp;2&nbsp;格甦醒地型<br /><br />•&nbsp;甦醒地型一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;敵人解除睡眠狀態<br />⓷&nbsp;無法對敵人造成傷害<br />⓸&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "6941": {
             "title": "【睡眠狀態】",
             "desc": "•&nbsp;進場時敵人進入睡眠狀態：<br />&nbsp;&nbsp;睡眠狀態期間<br />&nbsp;&nbsp;敵人不會發動攻擊<br /><br />•&nbsp;睡眠狀態期間，<br />&nbsp;&nbsp;&nbsp;每回合移動符石時<br />⇒&nbsp;隨機出現&nbsp;3&nbsp;格甦醒地型<br /><br />•&nbsp;甦醒地型一經觸碰<br />⓵&nbsp;即時停止移動符石<br />⓶&nbsp;敵人解除睡眠狀態<br />⓷&nbsp;無法對敵人造成傷害<br />⓸&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                955
+            ]
         },
         "6942": {
             "title": "【甦醒地型】",
             "desc": "•&nbsp;甦醒地型一經觸碰<br />⇒&nbsp;下回合起敵人攻擊力&nbsp;2&nbsp;倍",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1001
+            ]
         },
         "6943": {
             "title": "【甦醒地型】",
             "desc": "•&nbsp;甦醒地型一經觸碰<br />⇒&nbsp;下回合起敵人攻擊力&nbsp;5&nbsp;倍",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1001
+            ]
         },
         "6944": {
             "title": "【甦醒地型】",
             "desc": "•&nbsp;甦醒地型一經觸碰<br />⇒&nbsp;下回合起敵人攻擊力&nbsp;10&nbsp;倍",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1001
+            ]
         },
         "6945": {
             "title": "【≥20 粒水符石盾】",
@@ -44860,7 +44878,7 @@
             "custom_desc": ""
         },
         "6970": {
-            "title": "　",
+            "title": "逃跑",
             "desc": "　",
             "custom_desc": "<ul><li>視覺特效技能</li><li>DIO的逃跑特效</li></ul>",
             "icons": [
@@ -44881,167 +44899,266 @@
         "6972": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有水符石<br />⇒&nbsp;幻化成火符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6973": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有水符石<br />⇒&nbsp;幻化成木符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6974": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有水符石<br />⇒&nbsp;幻化成光符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6975": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有水符石<br />⇒&nbsp;幻化成暗符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6976": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有水符石<br />⇒&nbsp;幻化成心符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6977": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有火符石<br />⇒&nbsp;幻化成木符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6978": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有火符石<br />⇒&nbsp;幻化成光符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6979": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有火符石<br />⇒&nbsp;幻化成暗符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6980": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有火符石<br />⇒&nbsp;幻化成心符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6981": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有火符石<br />⇒&nbsp;幻化成水符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6982": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有木符石<br />⇒&nbsp;幻化成光符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6983": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有木符石<br />⇒&nbsp;幻化成暗符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6984": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有木符石<br />⇒&nbsp;幻化成心符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6985": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有木符石<br />⇒&nbsp;幻化成水符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6986": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有木符石<br />⇒&nbsp;幻化成火符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6987": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有光符石<br />⇒&nbsp;幻化成暗符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6988": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有光符石<br />⇒&nbsp;幻化成心符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6989": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有光符石<br />⇒&nbsp;幻化成水符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6990": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有光符石<br />⇒&nbsp;幻化成火符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6991": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有光符石<br />⇒&nbsp;幻化成木符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6992": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有暗符石<br />⇒&nbsp;幻化成心符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6993": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有暗符石<br />⇒&nbsp;幻化成水符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6994": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有暗符石<br />⇒&nbsp;幻化成火符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6995": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有暗符石<br />⇒&nbsp;幻化成木符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6996": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有暗符石<br />⇒&nbsp;幻化成光符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6997": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有心符石<br />⇒&nbsp;幻化成水符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6998": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有心符石<br />⇒&nbsp;幻化成火符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "6999": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有心符石<br />⇒&nbsp;幻化成木符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "7000": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有心符石<br />⇒&nbsp;幻化成光符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "7001": {
             "title": "【移形換影】",
             "desc": "•&nbsp;將所有心符石<br />⇒&nbsp;幻化成暗符石",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                975
+            ]
         },
         "7002": {
             "title": "【亡命爆擊 100,000】",
             "desc": "•&nbsp;敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "7003": {
             "title": "【亡命爆擊 300,000】",
             "desc": "•&nbsp;敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;300,000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "7004": {
             "title": "【亡命爆擊 800,000】",
             "desc": "•&nbsp;敵人死亡後會對召喚師<br />⇒&nbsp;造成&nbsp;800,000&nbsp;點傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1006
+            ]
         },
         "7005": {
             "title": "【亡命爆擊 10%】",
@@ -45114,9 +45231,13 @@
             "custom_desc": ""
         },
         "7019": {
-            "title": "　",
+            "title": "防護罩",
             "desc": "　",
-            "custom_desc": ""
+            "custom_desc": "<ul><li>視覺特效技能</li><li>嶄新第一封印<span class=\"annotation\">monster_icon 11001</span>的橘色防護罩</li></ul>",
+            "icons": [],
+            "keywords": [
+                "特效"
+            ]
         },
         "7020": {
             "title": "　",
