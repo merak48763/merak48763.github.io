@@ -5146,5 +5146,29 @@
             0,
             0
         ]
+    },
+    {
+        "owner": 10634,
+        "condition": 10062,
+        "conditionType": 1,
+        "ability": 20018,
+        "args": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10634,
+        "condition": 10062,
+        "conditionType": 1,
+        "ability": 20017,
+        "args": [
+            0,
+            0,
+            0,
+            0
+        ]
     }
 ]

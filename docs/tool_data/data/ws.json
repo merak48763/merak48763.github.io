@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.201",
-        "dv": 22927,
-        "time": 1708921987
+        "version": "2024.204",
+        "dv": 22972,
+        "time": 1710407702
     },
     "ws": {
         "10001": {
@@ -3433,6 +3433,31 @@
         "10716": {
             "title": "",
             "desc": "•&nbsp;無法提升當前生命力",
+            "custom_desc": ""
+        },
+        "10717": {
+            "title": "",
+            "desc": "•&nbsp;在指定位置消除<br />&nbsp;&nbsp;&nbsp;相同屬性符石<br />&nbsp;&nbsp;&nbsp;(不可連同位置旁邊的符石)",
+            "custom_desc": ""
+        },
+        "10718": {
+            "title": "",
+            "desc": "•&nbsp;在指定位置消除<br />&nbsp;&nbsp;&nbsp;相同屬性符石<br />&nbsp;&nbsp;&nbsp;(不可連同位置旁邊的符石)",
+            "custom_desc": ""
+        },
+        "10719": {
+            "title": "",
+            "desc": "•&nbsp;在指定位置消除<br />&nbsp;&nbsp;&nbsp;相同屬性符石<br />&nbsp;&nbsp;&nbsp;(不可連同位置旁邊的符石)",
+            "custom_desc": ""
+        },
+        "10720": {
+            "title": "",
+            "desc": "•&nbsp;在指定位置消除<br />&nbsp;&nbsp;&nbsp;相同屬性符石<br />&nbsp;&nbsp;&nbsp;(不可連同位置旁邊的符石)",
+            "custom_desc": ""
+        },
+        "10721": {
+            "title": "",
+            "desc": "•&nbsp;在指定位置消除<br />&nbsp;&nbsp;&nbsp;相同屬性符石<br />&nbsp;&nbsp;&nbsp;(不可連同位置旁邊的符石)",
             "custom_desc": ""
         },
         "10722": {
