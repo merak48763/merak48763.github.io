@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2024.204",
-        "dv": 13064,
-        "time": 1710407702
+        "dv": 13100,
+        "time": 1711340569
     },
     "monster": {
         "1": {
@@ -17147,6 +17147,12 @@
             "race": 2,
             "rarity": 6
         },
+        "2875": {
+            "name": "狂闇烙痕 ‧ 柏得溫",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -21036,6 +21042,12 @@
             "name": "鋒鳴碎刃 ‧ 鈴子",
             "attribute": 5,
             "race": 2,
+            "rarity": 6
+        },
+        "6663": {
+            "name": "狂闇戰色 ‧ 柏得溫",
+            "attribute": 2,
+            "race": 1,
             "rarity": 6
         },
         "6664": {
@@ -25552,6 +25564,66 @@
             "attribute": 4,
             "race": 4,
             "rarity": 7
+        },
+        "10636": {
+            "name": "緋村劍心",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10637": {
+            "name": "相樂左之助",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10638": {
+            "name": "神谷薰",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10639": {
+            "name": "齋藤一",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10640": {
+            "name": "三條燕",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10641": {
+            "name": "明神彌彥",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10642": {
+            "name": "高荷惠",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10643": {
+            "name": "比留間喜兵衛與比留間伍兵衛",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10644": {
+            "name": "鵜堂刃衛",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10655": {
+            "name": "劍客警備官",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 3
         },
         "5001": {
             "name": "UNKNOWN"
