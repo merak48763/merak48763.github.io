@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.204",
-        "dv": 22972,
-        "time": 1710407702
+        "version": "2024.211",
+        "dv": 23016,
+        "time": 1711616978
     },
     "es": {
         "0": {
@@ -40857,7 +40857,7 @@
             "desc": "•&nbsp;敵人發動攻擊&nbsp;(突擊除外)<br />⇒&nbsp;根據敵人攻擊力<br />&nbsp;&nbsp;&nbsp;&nbsp;永久囚錮召喚師生命力<br />＊召喚師死亡後重置",
             "custom_desc": "<ul><li>總生命力上限不變，被囚錮的部分無法回血</li><li>受到囚錮後，回合結束時會去除超過上限的血量</li><li>最多囚錮至 1 點</li></ul>",
             "icons": [
-                840
+                830
             ]
         },
         "6431": {
@@ -45213,17 +45213,26 @@
         "7015": {
             "title": "【非刀傷狀態 - 弱攻】",
             "desc": "•&nbsp;敵人所受傷害減至&nbsp;25%<br />•&nbsp;只有敵人置身在刀傷狀態<br />⇒&nbsp;才會對其造成完整傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1262
+            ]
         },
         "7016": {
             "title": "【非刀傷狀態 - 弱攻】",
             "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有敵人置身在刀傷狀態<br />⇒&nbsp;才會對其造成完整傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1262
+            ]
         },
         "7017": {
             "title": "【非刀傷狀態 - 弱攻】",
             "desc": "•&nbsp;只有敵人置身在刀傷狀態<br />⇒&nbsp;才能對敵人造成傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                1262
+            ]
         },
         "7018": {
             "title": "　",
@@ -45252,102 +45261,162 @@
         "7022": {
             "title": "【嗜血狂刀 10%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                831
+            ]
         },
         "7023": {
             "title": "【嗜血狂刀 20%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                832
+            ]
         },
         "7024": {
             "title": "【嗜血狂刀 30%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;30%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                833
+            ]
         },
         "7025": {
             "title": "【嗜血狂刀 40%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;40%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                834
+            ]
         },
         "7026": {
             "title": "【嗜血狂刀 50%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                835
+            ]
         },
         "7027": {
             "title": "【嗜血狂刀 60%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;60%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                836
+            ]
         },
         "7028": {
             "title": "【嗜血狂刀 70%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;70%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                837
+            ]
         },
         "7029": {
             "title": "【嗜血狂刀 80%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;80%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                838
+            ]
         },
         "7030": {
             "title": "【嗜血狂刀 90%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;90%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                839
+            ]
         },
         "7031": {
             "title": "【嗜血狂刀 100%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                840
+            ]
         },
         "7032": {
             "title": "【嗜血狂刀 110%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;110%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                841
+            ]
         },
         "7033": {
             "title": "【嗜血狂刀 120%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;120%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                842
+            ]
         },
         "7034": {
             "title": "【嗜血狂刀 130%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;130%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                843
+            ]
         },
         "7035": {
             "title": "【嗜血狂刀 140%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;140%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                844
+            ]
         },
         "7036": {
             "title": "【嗜血狂刀 150%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;150%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                845
+            ]
         },
         "7037": {
             "title": "【嗜血狂刀 160%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;160%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                846
+            ]
         },
         "7038": {
             "title": "【嗜血狂刀 170%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;170%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                847
+            ]
         },
         "7039": {
             "title": "【嗜血狂刀 180%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;180%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                848
+            ]
         },
         "7040": {
             "title": "【嗜血狂刀 190%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;190%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                849
+            ]
         },
         "7041": {
             "title": "【嗜血狂刀 200%】",
             "desc": "•&nbsp;發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;200%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(受減傷或增傷效果影響)",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                850
+            ]
         }
     }
 }

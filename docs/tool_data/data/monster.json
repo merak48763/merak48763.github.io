@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.204",
-        "dv": 13100,
-        "time": 1711340569
+        "version": "2024.211",
+        "dv": 13115,
+        "time": 1711616978
     },
     "monster": {
         "1": {
@@ -25616,6 +25616,36 @@
         "10644": {
             "name": "鵜堂刃衛",
             "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10645": {
+            "name": "劊子手拔刀齋",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 7
+        },
+        "10646": {
+            "name": "壬生狼 ‧ 齋藤一",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 7
+        },
+        "10649": {
+            "name": "惡見",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "10650": {
+            "name": "火男",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10654": {
+            "name": "武田觀柳",
+            "attribute": 2,
             "race": 1,
             "rarity": 6
         },
