@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2024.211",
-        "dv": 13115,
-        "time": 1711616978
+        "dv": 13132,
+        "time": 1712827110
     },
     "monster": {
         "1": {
@@ -25565,6 +25565,12 @@
             "race": 4,
             "rarity": 7
         },
+        "10635": {
+            "name": "天軸握殺 ‧ 畸異生命",
+            "attribute": 3,
+            "race": 8,
+            "rarity": 6
+        },
         "10636": {
             "name": "緋村劍心",
             "attribute": 2,
@@ -25631,6 +25637,18 @@
             "race": 1,
             "rarity": 7
         },
+        "10647": {
+            "name": "石動雷十太",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10648": {
+            "name": "月岡津南",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
         "10649": {
             "name": "惡見",
             "attribute": 1,
@@ -25640,6 +25658,24 @@
         "10650": {
             "name": "火男",
             "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10651": {
+            "name": "式尉",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10652": {
+            "name": "四乃森蒼紫",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 7
+        },
+        "10653": {
+            "name": "般若",
+            "attribute": 5,
             "race": 1,
             "rarity": 6
         },
