@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.211",
-        "dv": 23016,
-        "time": 1711616978
+        "version": "2024.300",
+        "dv": 23342,
+        "time": 1713764911
     },
     "es": {
         "0": {
@@ -29180,7 +29180,7 @@
         },
         "4971": {
             "title": "【減傷 ‧ 暴風 ‧ 愈攻愈強 ‧ 無法控制】",
-            "desc": "<em>【減傷&nbsp;‧&nbsp;暴風&nbsp;‧&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />4&nbsp;回合內，<br />敵人減少&nbsp;99%&nbsp;所受傷害。<br /><br />每回合暴風席捲<br />２直行的位置，暴風位置內的<br />符石無法被消除或引爆，<br />該位置一經觸碰，<br />即時停止移動符石。<br /><br />首回合敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;60%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升<br /><br />無視所有控制技能。",
+            "desc": "<em>【減傷狀態&nbsp;‧&nbsp;暴風&nbsp;‧&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />4&nbsp;回合內，<br />敵人減少&nbsp;99%&nbsp;所受傷害。<br /><br />每回合暴風席捲<br />２直行的位置，暴風位置內的<br />符石無法被消除或引爆，<br />該位置一經觸碰，<br />即時停止移動符石。<br /><br />首回合敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;60%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升<br /><br />無視所有控制技能。",
             "custom_desc": "<ul><li>暴風位置 (循環)：一六直行 → 二五直行 → 三四直行</li></ul><span class=\"annotation\">trojan_hp_attack 60 70 80 90 100</span>",
             "icons": [
                 1114,
@@ -29979,7 +29979,7 @@
             ]
         },
         "5084": {
-            "title": "【減傷】",
+            "title": "【減傷狀態】",
             "desc": "1&nbsp;回合內，<br />敵人減少&nbsp;99%&nbsp;所受傷害。",
             "custom_desc": "",
             "icons": [
@@ -29990,7 +29990,7 @@
             ]
         },
         "5085": {
-            "title": "【減傷】",
+            "title": "【減傷狀態】",
             "desc": "2&nbsp;回合內，<br />敵人減少&nbsp;99%&nbsp;所受傷害。",
             "custom_desc": "",
             "icons": [
@@ -38237,7 +38237,7 @@
             ]
         },
         "6119": {
-            "title": "【減傷】",
+            "title": "【減傷狀態】",
             "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;敵人減少&nbsp;99%&nbsp;所受傷害",
             "custom_desc": "",
             "icons": [
@@ -38254,7 +38254,7 @@
             ]
         },
         "6120": {
-            "title": "【減傷】",
+            "title": "【減傷狀態】",
             "desc": "•&nbsp;4&nbsp;回合內<br />⇒&nbsp;敵人減少&nbsp;99%&nbsp;所受傷害",
             "custom_desc": "",
             "icons": [
@@ -38274,7 +38274,7 @@
             ]
         },
         "6121": {
-            "title": "【減傷】",
+            "title": "【減傷狀態】",
             "desc": "•&nbsp;5&nbsp;回合內<br />⇒&nbsp;敵人減少&nbsp;99%&nbsp;所受傷害",
             "custom_desc": "",
             "icons": [
@@ -40773,32 +40773,56 @@
         "6416": {
             "title": "【首消水符石 - 隱身】",
             "desc": "•&nbsp;首消水符石<br />⇒&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                291,
+                0
+            ]
         },
         "6417": {
             "title": "【首消火符石 - 隱身】",
             "desc": "•&nbsp;首消火符石<br />⇒&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                292,
+                0
+            ]
         },
         "6418": {
             "title": "【首消木符石 - 隱身】",
             "desc": "•&nbsp;首消木符石<br />⇒&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                293,
+                0
+            ]
         },
         "6419": {
             "title": "【首消光符石 - 隱身】",
             "desc": "•&nbsp;首消光符石<br />⇒&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                294,
+                0
+            ]
         },
         "6420": {
             "title": "【首消暗符石 - 隱身】",
             "desc": "•&nbsp;首消暗符石<br />⇒&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                295,
+                0
+            ]
         },
         "6421": {
             "title": "【首消心符石 - 隱身】",
             "desc": "•&nbsp;首消心符石<br />⇒&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害",
-            "custom_desc": ""
+            "custom_desc": "",
+            "icons": [
+                296,
+                0
+            ]
         },
         "6422": {
             "title": "【發動主動技能 - 隱身】",
@@ -45416,6 +45440,786 @@
             "custom_desc": "",
             "icons": [
                 850
+            ]
+        },
+        "7052": {
+            "title": "【爆破炸彈 - 水】",
+            "desc": "•&nbsp;每回合將所有水符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
+        },
+        "7053": {
+            "title": "【爆破炸彈 - 火】",
+            "desc": "•&nbsp;每回合將所有火符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
+        },
+        "7054": {
+            "title": "【爆破炸彈 - 木】",
+            "desc": "•&nbsp;每回合將所有木符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
+        },
+        "7055": {
+            "title": "【爆破炸彈 - 光】",
+            "desc": "•&nbsp;每回合將所有光符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
+        },
+        "7056": {
+            "title": "【爆破炸彈 - 暗】",
+            "desc": "•&nbsp;每回合將所有暗符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
+        },
+        "7057": {
+            "title": "【爆破炸彈 - 心】",
+            "desc": "•&nbsp;每回合將所有心符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
+        },
+        "7058": {
+            "title": "【爆破炸彈 - 水】",
+            "desc": "•&nbsp;每回合將所有水符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;400,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
+        },
+        "7059": {
+            "title": "【爆破炸彈 - 火】",
+            "desc": "•&nbsp;每回合將所有火符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;400,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
+        },
+        "7060": {
+            "title": "【爆破炸彈 - 木】",
+            "desc": "•&nbsp;每回合將所有木符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;400,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
+        },
+        "7061": {
+            "title": "【爆破炸彈 - 光】",
+            "desc": "•&nbsp;每回合將所有光符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;400,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
+        },
+        "7062": {
+            "title": "【爆破炸彈 - 暗】",
+            "desc": "•&nbsp;每回合將所有暗符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;400,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
+        },
+        "7063": {
+            "title": "【爆破炸彈 - 心】",
+            "desc": "•&nbsp;每回合將所有心符石<br />⇒&nbsp;添加為爆破炸彈<br />•&nbsp;爆破炸彈一經觸碰<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;400,000&nbsp;點傷害<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                992
+            ]
+        },
+        "7064": {
+            "title": "【首消不同種類盾 - 心符石通用】",
+            "desc": "•&nbsp;達成首消「指定連擊」條件<br />⇒&nbsp;才會對敵人造成傷害<br /><br />▋不能重複首消相同種類<br />▋心符石通用",
+            "custom_desc": "",
+            "icons": [
+                1031
+            ]
+        },
+        "7065": {
+            "title": "【首消不同種類盾 - 心符石通用】",
+            "desc": "•&nbsp;達成首消「指定連擊」條件<br />⇒&nbsp;才會對敵人造成傷害<br /><br />▋不能重複首消相同種類<br />▋心符石通用",
+            "custom_desc": "",
+            "icons": [
+                1031
+            ]
+        },
+        "7066": {
+            "title": "【首消不同種類盾 - 心符石通用】",
+            "desc": "•&nbsp;達成首消「指定連擊」條件<br />⇒&nbsp;才會對敵人造成傷害<br /><br />▋不能重複首消相同種類<br />▋心符石通用",
+            "custom_desc": "",
+            "icons": [
+                1031
+            ]
+        },
+        "7067": {
+            "title": "【首消不同種類盾 - 心符石通用】",
+            "desc": "•&nbsp;達成首消「指定連擊」條件<br />⇒&nbsp;才會對敵人造成傷害<br /><br />▋不能重複首消相同種類<br />▋心符石通用",
+            "custom_desc": "",
+            "icons": [
+                1031
+            ]
+        },
+        "7068": {
+            "title": "【首消不同種類盾 - 心符石通用】",
+            "desc": "•&nbsp;達成首消「指定連擊」條件<br />⇒&nbsp;才會對敵人造成傷害<br /><br />▋不能重複首消相同種類<br />▋心符石通用",
+            "custom_desc": "",
+            "icons": [
+                1031
+            ]
+        },
+        "7069": {
+            "title": "【首消相同種類盾 - 心符石通用】",
+            "desc": "•&nbsp;達成首消「指定連擊」條件<br />⇒&nbsp;才會對敵人造成傷害<br /><br />▋需重複首消相同種類<br />▋心符石通用",
+            "custom_desc": "",
+            "icons": [
+                1032
+            ]
+        },
+        "7070": {
+            "title": "【首消相同種類盾 - 心符石通用】",
+            "desc": "•&nbsp;達成首消「指定連擊」條件<br />⇒&nbsp;才會對敵人造成傷害<br /><br />▋需重複首消相同種類<br />▋心符石通用",
+            "custom_desc": "",
+            "icons": [
+                1032
+            ]
+        },
+        "7071": {
+            "title": "【首消相同種類盾 - 心符石通用】",
+            "desc": "•&nbsp;達成首消「指定連擊」條件<br />⇒&nbsp;才會對敵人造成傷害<br /><br />▋需重複首消相同種類<br />▋心符石通用",
+            "custom_desc": "",
+            "icons": [
+                1032
+            ]
+        },
+        "7072": {
+            "title": "【首消相同種類盾 - 心符石通用】",
+            "desc": "•&nbsp;達成首消「指定連擊」條件<br />⇒&nbsp;才會對敵人造成傷害<br /><br />▋需重複首消相同種類<br />▋心符石通用",
+            "custom_desc": "",
+            "icons": [
+                1032
+            ]
+        },
+        "7073": {
+            "title": "【首消相同種類盾 - 心符石通用】",
+            "desc": "•&nbsp;達成首消「指定連擊」條件<br />⇒&nbsp;才會對敵人造成傷害<br /><br />▋需重複首消相同種類<br />▋心符石通用",
+            "custom_desc": "",
+            "icons": [
+                1032
+            ]
+        },
+        "7074": {
+            "title": "【〖腐化 ‧ 水十字限盾 (≥3 組)〗】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                10451
+            ]
+        },
+        "7075": {
+            "title": "【〖腐化 ‧ 火十字限盾 (≥3 組)〗】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                10452
+            ]
+        },
+        "7076": {
+            "title": "【〖腐化 ‧ 木十字限盾 (≥3 組)〗】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                10453
+            ]
+        },
+        "7077": {
+            "title": "【〖腐化 ‧ 光十字限盾 (≥3 組)〗】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                10454
+            ]
+        },
+        "7078": {
+            "title": "【〖腐化 ‧ 暗十字限盾 (≥3 組)〗】",
+            "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": "",
+            "icons": [
+                10455
+            ]
+        },
+        "7079": {
+            "title": "【火焰地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
+        },
+        "7080": {
+            "title": "【火焰地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
+        },
+        "7081": {
+            "title": "【火焰地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
+        },
+        "7082": {
+            "title": "【火焰地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
+        },
+        "7083": {
+            "title": "【火焰地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
+        },
+        "7084": {
+            "title": "【火焰地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
+        },
+        "7085": {
+            "title": "【火焰地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
+        },
+        "7086": {
+            "title": "【火焰地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
+        },
+        "7087": {
+            "title": "【火焰地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
+        },
+        "7088": {
+            "title": "【火焰地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
+            "custom_desc": "",
+            "icons": [
+                1152
+            ]
+        },
+        "7089": {
+            "title": "【首消 24 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;24&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7090": {
+            "title": "【首消 25 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;25&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7091": {
+            "title": "【首消 26 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;26&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7092": {
+            "title": "【首消 27 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;27&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7093": {
+            "title": "【首消 28 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;28&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7094": {
+            "title": "【首消 29 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;29&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7095": {
+            "title": "【首消 30 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;30&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7096": {
+            "title": "【首消 31 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;31&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7097": {
+            "title": "【首消 32 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;32&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7098": {
+            "title": "【首消 33 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;33&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7099": {
+            "title": "【首消 34 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;34&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7100": {
+            "title": "【首消 35 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;35&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7101": {
+            "title": "【首消 36 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;36&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7102": {
+            "title": "【首消 37 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;37&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7103": {
+            "title": "【首消 38 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;38&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7104": {
+            "title": "【首消 39 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;39&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7105": {
+            "title": "【首消 40 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;40&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7106": {
+            "title": "【首消 41 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;41&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7107": {
+            "title": "【首消 42 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;42&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7108": {
+            "title": "【首消 43 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;43&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7109": {
+            "title": "【首消 44 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;44&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7110": {
+            "title": "【首消 45 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;45&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7111": {
+            "title": "【首消 46 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;46&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7112": {
+            "title": "【首消 47 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;47&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7113": {
+            "title": "【首消 48 粒數盾】",
+            "desc": "•&nbsp;首批消除&nbsp;48&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7114": {
+            "title": "【首消 24 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;24&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7115": {
+            "title": "【首消 25 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;25&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7116": {
+            "title": "【首消 26 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;26&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7117": {
+            "title": "【首消 27 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;27&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7118": {
+            "title": "【首消 28 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;28&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7119": {
+            "title": "【首消 29 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;29&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7120": {
+            "title": "【首消 30 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;30&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7121": {
+            "title": "【首消 31 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;31&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7122": {
+            "title": "【首消 32 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;32&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7123": {
+            "title": "【首消 33 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;33&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7124": {
+            "title": "【首消 34 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;34&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7125": {
+            "title": "【首消 35 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;35&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7126": {
+            "title": "【首消 36 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;36&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7127": {
+            "title": "【首消 37 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;37&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7128": {
+            "title": "【首消 38 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;38&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7129": {
+            "title": "【首消 39 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;39&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7130": {
+            "title": "【首消 40 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;40&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7131": {
+            "title": "【首消 41 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;41&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7132": {
+            "title": "【首消 42 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;42&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7133": {
+            "title": "【首消 43 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;43&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7134": {
+            "title": "【首消 44 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;44&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7135": {
+            "title": "【首消 45 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;45&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7136": {
+            "title": "【首消 46 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;46&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7137": {
+            "title": "【首消 47 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;47&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7138": {
+            "title": "【首消 48 粒數盾 - 反擊】",
+            "desc": "•&nbsp;首批消除&nbsp;48&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;&nbsp;數量反擊相應次數攻擊",
+            "custom_desc": "",
+            "icons": []
+        },
+        "7139": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7140": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7141": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7142": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7143": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7144": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7145": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;進場時第&nbsp;1&nbsp;及第&nbsp;6&nbsp;直行位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7146": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;進場時第&nbsp;2&nbsp;及第&nbsp;5&nbsp;直行位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7147": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;進場時第&nbsp;3&nbsp;及第&nbsp;4&nbsp;直行位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7148": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7149": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7150": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7151": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7152": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7153": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;每回合隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7154": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;進場時第&nbsp;1&nbsp;及第&nbsp;6&nbsp;直行位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7155": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;進場時第&nbsp;2&nbsp;及第&nbsp;5&nbsp;直行位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7156": {
+            "title": "【灼熱地型】",
+            "desc": "•&nbsp;進場時第&nbsp;3&nbsp;及第&nbsp;4&nbsp;直行位置<br />⇒&nbsp;出現灼熱地型<br />•&nbsp;每次於地型內消除符石<br />⇒&nbsp;扣除召喚師&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點生命力<br />*【護盾】可抵擋此傷害",
+            "custom_desc": "",
+            "icons": [
+                963
+            ]
+        },
+        "7157": {
+            "title": "【錮縛 - 技能、攻擊】",
+            "desc": "•&nbsp;首次受到敵人攻擊<br />&nbsp;&nbsp;(不包括突擊)<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;1&nbsp;回合",
+            "custom_desc": "",
+            "icons": [
+                862
+            ]
+        },
+        "7158": {
+            "title": "【錮縛 - 技能、攻擊】",
+            "desc": "•&nbsp;首次受到敵人攻擊<br />&nbsp;&nbsp;(不包括突擊)<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;2&nbsp;回合",
+            "custom_desc": "",
+            "icons": [
+                862
+            ]
+        },
+        "7159": {
+            "title": "【錮縛 - 技能、攻擊】",
+            "desc": "•&nbsp;首次受到敵人攻擊<br />&nbsp;&nbsp;(不包括突擊)<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;3&nbsp;回合",
+            "custom_desc": "",
+            "icons": [
+                862
+            ]
+        },
+        "7160": {
+            "title": "【錮縛 - 技能、攻擊】",
+            "desc": "•&nbsp;首次受到敵人攻擊<br />&nbsp;&nbsp;(不包括突擊)<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;4&nbsp;回合",
+            "custom_desc": "",
+            "icons": [
+                862
+            ]
+        },
+        "7161": {
+            "title": "【錮縛 - 技能、攻擊】",
+            "desc": "•&nbsp;首次受到敵人攻擊<br />&nbsp;&nbsp;(不包括突擊)<br />⇒&nbsp;封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊&nbsp;5&nbsp;回合",
+            "custom_desc": "",
+            "icons": [
+                862
             ]
         }
     }

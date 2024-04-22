@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.211",
-        "dv": 13132,
-        "time": 1712827110
+        "version": "2024.300",
+        "dv": 13188,
+        "time": 1713764911
     },
     "monster": {
         "1": {
@@ -17141,6 +17141,30 @@
             "race": 4,
             "rarity": 8
         },
+        "2866": {
+            "name": "仙濤逐邪 ‧ 藍采和",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 7
+        },
+        "2867": {
+            "name": "雋功立權 ‧ 曹國舅",
+            "attribute": 2,
+            "race": 5,
+            "rarity": 7
+        },
+        "2868": {
+            "name": "凝陽帝君 ‧ 鐵拐李",
+            "attribute": 3,
+            "race": 10,
+            "rarity": 7
+        },
+        "2871": {
+            "name": "至剛神勇 ‧ 鍾離權",
+            "attribute": 2,
+            "race": 5,
+            "rarity": 7
+        },
         "2874": {
             "name": "鋒鳴捍護 ‧ 鈴子",
             "attribute": 5,
@@ -17151,6 +17175,12 @@
             "name": "狂闇烙痕 ‧ 柏得溫",
             "attribute": 2,
             "race": 1,
+            "rarity": 6
+        },
+        "2876": {
+            "name": "無常五蘊 ‧ 燃燈",
+            "attribute": 4,
+            "race": 5,
             "rarity": 6
         },
         "2900": {
@@ -21060,6 +21090,24 @@
             "name": "紅顏敕令 ‧ 林黛玉",
             "attribute": 3,
             "race": 8,
+            "rarity": 6
+        },
+        "6667": {
+            "name": "五蘊詰證 ‧ 燃燈",
+            "attribute": 4,
+            "race": 5,
+            "rarity": 6
+        },
+        "6670": {
+            "name": "鋼軀無懼 ‧ 蒙大拿",
+            "attribute": 2,
+            "race": 10,
+            "rarity": 6
+        },
+        "6671": {
+            "name": "正義掌舵 ‧ 斯卡塔赫",
+            "attribute": 3,
+            "race": 10,
             "rarity": 6
         },
         "6999": {
@@ -25690,6 +25738,66 @@
             "attribute": 1,
             "race": 1,
             "rarity": 3
+        },
+        "10656": {
+            "name": "軟嫩刈包",
+            "attribute": 3,
+            "race": 7,
+            "rarity": 3
+        },
+        "10657": {
+            "name": "悖離航道 ‧ 勞拉",
+            "attribute": 1,
+            "race": 10,
+            "rarity": 6
+        },
+        "10658": {
+            "name": "星際巡邏 ‧ 蒙大拿",
+            "attribute": 2,
+            "race": 10,
+            "rarity": 6
+        },
+        "10659": {
+            "name": "鋼軀無懼 ‧ 蒙大拿",
+            "attribute": 2,
+            "race": 10,
+            "rarity": 6
+        },
+        "10660": {
+            "name": "正義掌舵 ‧ 斯卡塔赫",
+            "attribute": 3,
+            "race": 10,
+            "rarity": 6
+        },
+        "10661": {
+            "name": "銀河暸望 ‧ 羅莎琳",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10662": {
+            "name": "磁脈轟擊 ‧ 克卜勒",
+            "attribute": 5,
+            "race": 10,
+            "rarity": 6
+        },
+        "10663": {
+            "name": "永絕歸途 ‧ 努亞達",
+            "attribute": 2,
+            "race": 10,
+            "rarity": 6
+        },
+        "10664": {
+            "name": "械心慮世 ‧ 伽瑪",
+            "attribute": 1,
+            "race": 10,
+            "rarity": 7
+        },
+        "10666": {
+            "name": "星雲離歌 ‧ 西塔",
+            "attribute": 4,
+            "race": 10,
+            "rarity": 6
         },
         "5001": {
             "name": "UNKNOWN"

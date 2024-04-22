@@ -2256,6 +2256,562 @@
                     }
                 ]
             ]
+        },
+        {
+            "id": 17,
+            "series": 1,
+            "scid": 17,
+            "name": "血脈帶來的悸動",
+            "nameEn": "Fruits of Love",
+            "star": 2,
+            "maxLevel": 5,
+            "fpConsume": 2,
+            "instantSkill": [
+                [
+                    {
+                        "skill": 2,
+                        "args": [
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 2,
+                        "args": [
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 2,
+                        "args": [
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 2,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 2,
+                        "args": [
+                            2
+                        ]
+                    }
+                ]
+            ],
+            "statusSkill": [
+                [
+                    {
+                        "skill": 23,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 23,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 23,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 23,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 23,
+                        "args": []
+                    },
+                    {
+                        "skill": 4,
+                        "args": [
+                            100,
+                            1,
+                            3
+                        ]
+                    }
+                ]
+            ],
+            "triggeredSkill": [
+                [
+                    {
+                        "skill": 6,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 6,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 6,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 6,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 6,
+                        "args": []
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 18,
+            "series": 1,
+            "scid": 18,
+            "name": "真實與夢境的混淆",
+            "nameEn": "Between Dreams and Reality",
+            "star": 2,
+            "maxLevel": 5,
+            "fpConsume": 2,
+            "instantSkill": [
+                [
+                    {
+                        "skill": 7,
+                        "args": [
+                            50
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 7,
+                        "args": [
+                            50
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 7,
+                        "args": [
+                            50
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 7,
+                        "args": [
+                            100
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 7,
+                        "args": [
+                            100
+                        ]
+                    }
+                ]
+            ],
+            "statusSkill": [
+                [
+                    {
+                        "skill": 34,
+                        "args": [
+                            60
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 34,
+                        "args": [
+                            60
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 34,
+                        "args": [
+                            80
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 34,
+                        "args": [
+                            80
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 34,
+                        "args": [
+                            100
+                        ]
+                    },
+                    {
+                        "skill": 4,
+                        "args": [
+                            100,
+                            1,
+                            0
+                        ]
+                    }
+                ]
+            ],
+            "triggeredSkill": [
+                [
+                    {
+                        "skill": 5,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 5,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 5,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 5,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 5,
+                        "args": []
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 19,
+            "series": 1,
+            "scid": 19,
+            "name": "不息的循環",
+            "nameEn": "Unbounded Cycle",
+            "star": 1,
+            "maxLevel": 5,
+            "fpConsume": 2,
+            "instantSkill": [
+                [
+                    {
+                        "skill": 16,
+                        "args": [
+                            100000000,
+                            1,
+                            0
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 16,
+                        "args": [
+                            100000000,
+                            1,
+                            0
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 16,
+                        "args": [
+                            100000000,
+                            1,
+                            0
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 16,
+                        "args": [
+                            500000000,
+                            1,
+                            0
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 16,
+                        "args": [
+                            500000000,
+                            1,
+                            0
+                        ]
+                    }
+                ]
+            ],
+            "statusSkill": [
+                [
+                    {
+                        "skill": 17,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 17,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 17,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 17,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 17,
+                        "args": []
+                    }
+                ]
+            ],
+            "triggeredSkill": [
+                [
+                    {
+                        "skill": 16,
+                        "args": [
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 16,
+                        "args": [
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 16,
+                        "args": [
+                            1
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 16,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 16,
+                        "args": [
+                            2
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 20,
+            "series": 1,
+            "scid": 20,
+            "name": "孤身獨戰的無畏",
+            "nameEn": "The War Deity’s Valor",
+            "star": 3,
+            "maxLevel": 5,
+            "fpConsume": 2,
+            "instantSkill": [
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            2
+                        ]
+                    }
+                ]
+            ],
+            "statusSkill": [
+                [
+                    {
+                        "skill": 2,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 2,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 2,
+                        "args": []
+                    },
+                    {
+                        "skill": 19,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 2,
+                        "args": []
+                    },
+                    {
+                        "skill": 19,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 2,
+                        "args": []
+                    },
+                    {
+                        "skill": 19,
+                        "args": []
+                    },
+                    {
+                        "skill": 37,
+                        "args": []
+                    }
+                ]
+            ],
+            "triggeredSkill": [
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            50,
+                            5,
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            50,
+                            5,
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            50,
+                            5,
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": []
+                    },
+                    {
+                        "skill": 20,
+                        "args": [
+                            5,
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            100,
+                            5,
+                            2
+                        ]
+                    },
+                    {
+                        "skill": 20,
+                        "args": [
+                            5,
+                            2
+                        ]
+                    }
+                ]
+            ]
         }
     ],
     "series": [
