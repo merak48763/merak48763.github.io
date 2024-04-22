@@ -1068,18 +1068,6 @@
         ]
     },
     {
-        "owner": 10138,
-        "condition": 10664,
-        "conditionType": 2,
-        "ability": 20002,
-        "args": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
         "owner": 10146,
         "condition": 10156,
         "conditionType": 2,
