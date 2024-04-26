@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.300",
-        "dv": 13188,
-        "time": 1713764911
+        "version": "2024.301",
+        "dv": 13207,
+        "time": 1714116842
     },
     "monster": {
         "1": {
@@ -17159,9 +17159,33 @@
             "race": 10,
             "rarity": 7
         },
+        "2869": {
+            "name": "荷意娉婷 ‧ 何仙姑",
+            "attribute": 4,
+            "race": 5,
+            "rarity": 7
+        },
+        "2870": {
+            "name": "天遁劍芒 ‧ 呂洞賓",
+            "attribute": 5,
+            "race": 5,
+            "rarity": 7
+        },
         "2871": {
             "name": "至剛神勇 ‧ 鍾離權",
             "attribute": 2,
+            "race": 5,
+            "rarity": 7
+        },
+        "2872": {
+            "name": "福獅藏殺 ‧ 韓湘子",
+            "attribute": 3,
+            "race": 5,
+            "rarity": 7
+        },
+        "2873": {
+            "name": "雲笈護術 ‧ 張果老",
+            "attribute": 4,
             "race": 5,
             "rarity": 7
         },
@@ -25793,9 +25817,21 @@
             "race": 10,
             "rarity": 7
         },
+        "10665": {
+            "name": "炸裂波動 ‧ 伽羅瓦",
+            "attribute": 2,
+            "race": 10,
+            "rarity": 7
+        },
         "10666": {
             "name": "星雲離歌 ‧ 西塔",
             "attribute": 4,
+            "race": 10,
+            "rarity": 6
+        },
+        "10667": {
+            "name": "無盡宇航 ‧ 俄亥俄",
+            "attribute": 5,
             "race": 10,
             "rarity": 6
         },
