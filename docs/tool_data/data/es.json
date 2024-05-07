@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.300",
-        "dv": 23342,
-        "time": 1713764911
+        "version": "2024.310",
+        "dv": 23385,
+        "time": 1714968385
     },
     "es": {
         "0": {
@@ -29179,7 +29179,7 @@
             ]
         },
         "4971": {
-            "title": "【減傷 ‧ 暴風 ‧ 愈攻愈強 ‧ 無法控制】",
+            "title": "【減傷狀態 ‧ 暴風 ‧ 愈攻愈強 ‧ 無法控制】",
             "desc": "<em>【減傷狀態&nbsp;‧&nbsp;暴風&nbsp;‧&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />4&nbsp;回合內，<br />敵人減少&nbsp;99%&nbsp;所受傷害。<br /><br />每回合暴風席捲<br />２直行的位置，暴風位置內的<br />符石無法被消除或引爆，<br />該位置一經觸碰，<br />即時停止移動符石。<br /><br />首回合敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;60%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升<br /><br />無視所有控制技能。",
             "custom_desc": "<ul><li>暴風位置 (循環)：一六直行 → 二五直行 → 三四直行</li></ul><span class=\"annotation\">trojan_hp_attack 60 70 80 90 100</span>",
             "icons": [
@@ -45557,7 +45557,7 @@
         "7066": {
             "title": "【首消不同種類盾 - 心符石通用】",
             "desc": "•&nbsp;達成首消「指定連擊」條件<br />⇒&nbsp;才會對敵人造成傷害<br /><br />▋不能重複首消相同種類<br />▋心符石通用",
-            "custom_desc": "",
+            "custom_desc": "<span class=\"annotation\">assigned_combo 4</span>",
             "icons": [
                 1031
             ]

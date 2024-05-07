@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.301",
-        "dv": 13207,
-        "time": 1714116842
+        "version": "2024.310",
+        "dv": 13243,
+        "time": 1714968385
     },
     "monster": {
         "1": {
@@ -25834,6 +25834,78 @@
             "attribute": 5,
             "race": 10,
             "rarity": 6
+        },
+        "10669": {
+            "name": "哈佛貓",
+            "attribute": 1,
+            "race": 2,
+            "rarity": 6
+        },
+        "10670": {
+            "name": "克洛怡貓",
+            "attribute": 2,
+            "race": 2,
+            "rarity": 6
+        },
+        "10671": {
+            "name": "詩蘭捷與大貓賈比爾",
+            "attribute": 3,
+            "race": 2,
+            "rarity": 6
+        },
+        "10672": {
+            "name": "天命之王佛挪",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 6
+        },
+        "10673": {
+            "name": "漆黑魔女凱斯莉",
+            "attribute": 5,
+            "race": 2,
+            "rarity": 6
+        },
+        "10674": {
+            "name": "暴走姆特貓",
+            "attribute": 1,
+            "race": 2,
+            "rarity": 6
+        },
+        "10675": {
+            "name": "貓咪女王",
+            "attribute": 3,
+            "race": 2,
+            "rarity": 6
+        },
+        "10677": {
+            "name": "真．拉斯沃斯",
+            "attribute": 5,
+            "race": 2,
+            "rarity": 6
+        },
+        "10679": {
+            "name": "貓咪",
+            "attribute": 1,
+            "race": 2,
+            "rarity": 3
+        },
+        "10680": {
+            "name": "坦克貓",
+            "attribute": 2,
+            "race": 2,
+            "rarity": 3
+        },
+        "10681": {
+            "name": "戰鬥貓",
+            "attribute": 3,
+            "race": 2,
+            "rarity": 3
+        },
+        "10682": {
+            "name": "黃金貓",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 5
         },
         "5001": {
             "name": "UNKNOWN"
