@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2024.310",
-        "dv": 13243,
-        "time": 1714968385
+        "dv": 13249,
+        "time": 1715331107
     },
     "monster": {
         "1": {
@@ -25877,11 +25877,23 @@
             "race": 2,
             "rarity": 6
         },
+        "10676": {
+            "name": "神",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 6
+        },
         "10677": {
             "name": "真．拉斯沃斯",
             "attribute": 5,
             "race": 2,
             "rarity": 6
+        },
+        "10678": {
+            "name": "蜜兒貓與阿飄貓",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 7
         },
         "10679": {
             "name": "貓咪",
