@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.310",
-        "dv": 23393,
-        "time": 1715331107
+        "version": "2024.400",
+        "dv": 23666,
+        "time": 1718354593
     },
     "ws": {
         "10001": {
@@ -3663,6 +3663,31 @@
         "10762": {
             "title": "",
             "desc": "•&nbsp;在指定位置消除<br />&nbsp;&nbsp;&nbsp;相同屬性符石<br />&nbsp;&nbsp;&nbsp;(不可連同位置旁邊的符石)<br />＊獲得雙倍零件",
+            "custom_desc": ""
+        },
+        "10763": {
+            "title": "",
+            "desc": "•&nbsp;進場回復&nbsp;250&nbsp;點戰力點<br />•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+            "custom_desc": ""
+        },
+        "10764": {
+            "title": "",
+            "desc": "•&nbsp;進場回復&nbsp;500&nbsp;點戰力點<br />•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+            "custom_desc": ""
+        },
+        "10765": {
+            "title": "",
+            "desc": "•&nbsp;進場回復&nbsp;1,000&nbsp;點戰力點<br />•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+            "custom_desc": ""
+        },
+        "10766": {
+            "title": "",
+            "desc": "•&nbsp;進場回復&nbsp;2,000&nbsp;點戰力點<br />•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+            "custom_desc": ""
+        },
+        "10767": {
+            "title": "",
+            "desc": "•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
             "custom_desc": ""
         }
     }

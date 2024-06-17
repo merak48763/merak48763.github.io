@@ -5722,5 +5722,233 @@
             0,
             0
         ]
+    },
+    {
+        "owner": 10690,
+        "condition": 10701,
+        "conditionType": 1,
+        "ability": 20005,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10691,
+        "condition": 10692,
+        "conditionType": 1,
+        "ability": 20002,
+        "args": [
+            100,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10691,
+        "condition": 10700,
+        "conditionType": 1,
+        "ability": 20005,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10692,
+        "condition": 10691,
+        "conditionType": 1,
+        "ability": 20003,
+        "args": [
+            3,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10693,
+        "condition": 10694,
+        "conditionType": 2,
+        "ability": 20017,
+        "args": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10694,
+        "condition": 10693,
+        "conditionType": 1,
+        "ability": 20018,
+        "args": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10695,
+        "condition": 10696,
+        "conditionType": 1,
+        "ability": 20002,
+        "args": [
+            100,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10695,
+        "condition": 10698,
+        "conditionType": 2,
+        "ability": 20005,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10696,
+        "condition": 10695,
+        "conditionType": 2,
+        "ability": 20002,
+        "args": [
+            100,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10696,
+        "condition": 10698,
+        "conditionType": 2,
+        "ability": 20005,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10697,
+        "condition": 10703,
+        "conditionType": 2,
+        "ability": 20003,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10698,
+        "condition": 10695,
+        "conditionType": 2,
+        "ability": 20003,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10698,
+        "condition": 10696,
+        "conditionType": 1,
+        "ability": 20003,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10700,
+        "condition": 10691,
+        "conditionType": 1,
+        "ability": 20005,
+        "args": [
+            2,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10701,
+        "condition": 10690,
+        "conditionType": 2,
+        "ability": 20005,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10701,
+        "condition": 10692,
+        "conditionType": 1,
+        "ability": 20003,
+        "args": [
+            2,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10702,
+        "condition": 10691,
+        "conditionType": 1,
+        "ability": 20005,
+        "args": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10702,
+        "condition": 10692,
+        "conditionType": 1,
+        "ability": 20002,
+        "args": [
+            100,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "owner": 10703,
+        "condition": 10697,
+        "conditionType": 2,
+        "ability": 20002,
+        "args": [
+            100,
+            1,
+            0,
+            0
+        ]
     }
 ]

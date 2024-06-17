@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.310",
-        "dv": 13249,
-        "time": 1715331107
+        "version": "2024.400",
+        "dv": 13329,
+        "time": 1718354593
     },
     "monster": {
         "1": {
@@ -17207,6 +17207,18 @@
             "race": 5,
             "rarity": 6
         },
+        "2877": {
+            "name": "童貓氣概 ‧ 零",
+            "attribute": 1,
+            "race": 2,
+            "rarity": 6
+        },
+        "2878": {
+            "name": "殷紅戀歌 ‧ 伊莉莎白",
+            "attribute": 2,
+            "race": 8,
+            "rarity": 6
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -17282,6 +17294,18 @@
         "2912": {
             "name": "魂靈相依 ‧ 路西法與米迦勒",
             "attribute": 4,
+            "race": 5,
+            "rarity": 8
+        },
+        "2913": {
+            "name": "世界的恆律 ‧ 法神姬氏",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 8
+        },
+        "2914": {
+            "name": "冀望的理想鄉 ‧ 法神姬氏",
+            "attribute": 1,
             "race": 5,
             "rarity": 8
         },
@@ -21116,11 +21140,29 @@
             "race": 8,
             "rarity": 6
         },
+        "6666": {
+            "name": "蒼心斬災 ‧ 青圭",
+            "attribute": 3,
+            "race": 4,
+            "rarity": 8
+        },
         "6667": {
             "name": "五蘊詰證 ‧ 燃燈",
             "attribute": 4,
             "race": 5,
             "rarity": 6
+        },
+        "6668": {
+            "name": "貓盜氣概 ‧ 零",
+            "attribute": 1,
+            "race": 2,
+            "rarity": 6
+        },
+        "6669": {
+            "name": "世界的恆律 ‧ 法神姬氏",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 8
         },
         "6670": {
             "name": "鋼軀無懼 ‧ 蒙大拿",
@@ -21132,6 +21174,24 @@
             "name": "正義掌舵 ‧ 斯卡塔赫",
             "attribute": 3,
             "race": 10,
+            "rarity": 6
+        },
+        "6672": {
+            "name": "出塵棋觀 ‧ 黑嘉嘉",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 7
+        },
+        "6673": {
+            "name": "希望吞蝕 ‧ 潘朵拉",
+            "attribute": 5,
+            "race": 3,
+            "rarity": 8
+        },
+        "6674": {
+            "name": "灼骸戀歌 ‧ 伊莉莎白",
+            "attribute": 2,
+            "race": 8,
             "rarity": 6
         },
         "6999": {
@@ -25835,6 +25895,12 @@
             "race": 10,
             "rarity": 6
         },
+        "10668": {
+            "name": "奏響崩壞之音 ‧ 莎娜",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 7
+        },
         "10669": {
             "name": "哈佛貓",
             "attribute": 1,
@@ -25918,6 +25984,138 @@
             "attribute": 4,
             "race": 2,
             "rarity": 5
+        },
+        "10683": {
+            "name": "出塵棋觀 ‧ 黑嘉嘉",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 7
+        },
+        "10684": {
+            "name": "海月淚凝 ‧ 黑嘉嘉",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 6
+        },
+        "10685": {
+            "name": "刺玫圍獵 ‧ 黑嘉嘉",
+            "attribute": 2,
+            "race": 8,
+            "rarity": 6
+        },
+        "10686": {
+            "name": "弈理編寫 ‧ 黑嘉嘉",
+            "attribute": 3,
+            "race": 10,
+            "rarity": 6
+        },
+        "10687": {
+            "name": "險中探秘 ‧ 幸子",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "10688": {
+            "name": "刀兵掠陣 ‧ 黃帝",
+            "attribute": 3,
+            "race": 5,
+            "rarity": 6
+        },
+        "10689": {
+            "name": "迷宮守捍 ‧ 心魔小魚",
+            "attribute": 5,
+            "race": 3,
+            "rarity": 6
+        },
+        "10690": {
+            "name": "山田淺右衛門仙汰",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "10691": {
+            "name": "畫眉丸",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10692": {
+            "name": "山田淺右衛門佐切",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10693": {
+            "name": "亞左弔兵衛",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10694": {
+            "name": "山田淺右衛門桐馬",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10695": {
+            "name": "山田淺右衛門典坐",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10696": {
+            "name": "山田淺右衛門士遠",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10697": {
+            "name": "山田淺右衛門付知",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10698": {
+            "name": "奴凱",
+            "attribute": 1,
+            "race": 1,
+            "rarity": 6
+        },
+        "10699": {
+            "name": "陸郎太",
+            "attribute": 3,
+            "race": 1,
+            "rarity": 6
+        },
+        "10700": {
+            "name": "畫眉丸的妻子",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
+        "10701": {
+            "name": "杠",
+            "attribute": 5,
+            "race": 1,
+            "rarity": 6
+        },
+        "10702": {
+            "name": "梅",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 6
+        },
+        "10709": {
+            "name": "竈神",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 3
+        },
+        "10710": {
+            "name": "門神",
+            "attribute": 5,
+            "race": 3,
+            "rarity": 3
         },
         "5001": {
             "name": "UNKNOWN"

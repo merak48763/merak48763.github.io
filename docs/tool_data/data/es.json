@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.310",
-        "dv": 23393,
-        "time": 1715331107
+        "version": "2024.400",
+        "dv": 23666,
+        "time": 1718354593
     },
     "es": {
         "0": {
@@ -24764,12 +24764,12 @@
         },
         "4260": {
             "title": "敵技4260",
-            "desc": "隨機在&nbsp;6&nbsp;個位置<br />⇒&nbsp;施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />敵人不會受到傷害。<br /><br />敵人不會被附上狀態。",
+            "desc": "隨機在&nbsp;6&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />敵人不會受到傷害。<br /><br />敵人不會被附上狀態。",
             "custom_desc": ""
         },
         "4261": {
             "title": "敵技4261",
-            "desc": "隨機在&nbsp;6&nbsp;個位置<br />⇒&nbsp;施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />敵人不會受到傷害。<br /><br />敵人不會被附上狀態。",
+            "desc": "隨機在&nbsp;6&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />敵人不會受到傷害。<br /><br />敵人不會被附上狀態。",
             "custom_desc": "一封災厄 (核心張開階段的本體)",
             "keywords": [
                 "災厄級"
@@ -27667,12 +27667,12 @@
         },
         "4727": {
             "title": "",
-            "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />達成首消「指定連擊」條件<br />才會對敵人造成傷害。<br /><br />提示：<br /><em>▋需重複首消相同屬性<br />▋心符石通用</em><br /><br />隨機在&nbsp;6&nbsp;個位置<br />⇒&nbsp;施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />敵人不會被附上狀態。",
+            "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />達成首消「指定連擊」條件<br />才會對敵人造成傷害。<br /><br />提示：<br /><em>▋需重複首消相同屬性<br />▋心符石通用</em><br /><br />隨機在&nbsp;6&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />敵人不會被附上狀態。",
             "custom_desc": ""
         },
         "4728": {
             "title": "",
-            "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />達成首消「指定連擊」條件<br />才會對敵人造成傷害。<br /><br />提示：<br /><em>▋需重複首消相同屬性<br />▋心符石通用</em><br /><br />隨機在&nbsp;6&nbsp;個位置<br />⇒&nbsp;施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />敵人不會被附上狀態。",
+            "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />達成首消「指定連擊」條件<br />才會對敵人造成傷害。<br /><br />提示：<br /><em>▋需重複首消相同屬性<br />▋心符石通用</em><br /><br />隨機在&nbsp;6&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />敵人不會被附上狀態。",
             "custom_desc": ""
         },
         "4729": {
@@ -28002,7 +28002,7 @@
         },
         "4821": {
             "title": "",
-            "desc": "<em>【瘴霧&nbsp;‧&nbsp;非電擊狀態&nbsp;-&nbsp;攻擊弱化&nbsp;‧&nbsp;愈戰愈強】</em><br /><br />首回合隨機在<br />2&nbsp;個位置施放瘴霧，<br />其後每次受到敵人攻擊時，<br />額外多&nbsp;1&nbsp;個位置施放瘴霧；<br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />敵人所受傷害減至&nbsp;10%；<br />只有敵人置身在電擊狀態，<br />才會對其造成完整攻擊傷害。<br /><br />敵人生命力愈低時，<br />攻擊力會大幅提升，<br />達到一定血量時會連撃&nbsp;2&nbsp;次",
+            "desc": "<em>【瘴氣&nbsp;‧&nbsp;非電擊狀態&nbsp;-&nbsp;攻擊弱化&nbsp;‧&nbsp;愈戰愈強】</em><br /><br />首回合隨機在<br />2&nbsp;個位置施放瘴氣，<br />其後每次受到敵人攻擊時，<br />額外多&nbsp;1&nbsp;個位置施放瘴氣；<br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />敵人所受傷害減至&nbsp;10%；<br />只有敵人置身在電擊狀態，<br />才會對其造成完整攻擊傷害。<br /><br />敵人生命力愈低時，<br />攻擊力會大幅提升，<br />達到一定血量時會連撃&nbsp;2&nbsp;次",
             "custom_desc": ""
         },
         "4822": {
@@ -28593,7 +28593,7 @@
         },
         "4903": {
             "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 瘴霧】",
-            "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;瘴霧】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害<br /><br />隨機在&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;瘴氣】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害<br /><br />隨機在&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
             "custom_desc": "",
             "keywords": [
                 "減傷抗性"
@@ -28601,7 +28601,7 @@
         },
         "4904": {
             "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 瘴霧】",
-            "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;瘴霧】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害<br /><br />隨機在&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;瘴氣】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害<br /><br />隨機在&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
             "custom_desc": "",
             "keywords": [
                 "減傷抗性"
@@ -28609,7 +28609,7 @@
         },
         "4905": {
             "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 瘴霧】",
-            "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;瘴霧】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害<br /><br />隨機在&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;瘴氣】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害<br /><br />隨機在&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
             "custom_desc": "",
             "keywords": [
                 "減傷抗性"
@@ -28895,42 +28895,42 @@
         },
         "4938": {
             "title": "",
-            "desc": "<em>【清技&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;6&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />首回合將所有成員的技能&nbsp;CD<br />及累積戰鬥回合數重置。<br /><br />在&nbsp;2&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
+            "desc": "<em>【清技&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;6&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />首回合將所有成員的技能&nbsp;CD<br />及累積戰鬥回合數重置。<br /><br />在&nbsp;2&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4939": {
             "title": "",
-            "desc": "<em>【清技&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />首回合將所有成員的技能&nbsp;CD<br />及累積戰鬥回合數重置。<br /><br />在&nbsp;2&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
+            "desc": "<em>【清技&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />首回合將所有成員的技能&nbsp;CD<br />及累積戰鬥回合數重置。<br /><br />在&nbsp;2&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4940": {
             "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;全版消除盾&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;防禦盾&nbsp;25%&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。<br /><br />在&nbsp;4&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />每回合攻擊最多只能造成<br />敵人生命力&nbsp;25%&nbsp;的傷害&nbsp;<br />(主動技除外)。<br /><br />無視所有控制技能。",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;全版消除盾&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;防禦盾&nbsp;25%&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。<br /><br />在&nbsp;4&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />每回合攻擊最多只能造成<br />敵人生命力&nbsp;25%&nbsp;的傷害&nbsp;<br />(主動技除外)。<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4941": {
             "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;全版消除盾&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;前路茫茫&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。<br /><br />在&nbsp;4&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />無視所有控制技能。",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;全版消除盾&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;前路茫茫&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。<br /><br />在&nbsp;4&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4942": {
             "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;全版消除盾&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。<br /><br />在&nbsp;4&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />無視所有控制技能。",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;全版消除盾&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。<br /><br />在&nbsp;4&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4943": {
             "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;四屬強化盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />「水、火、光、暗」<br />&nbsp;&nbsp;強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有控制技能。",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;四屬強化盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />「水、火、光、暗」<br />&nbsp;&nbsp;強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4944": {
             "title": "",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;四屬盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />&nbsp;&nbsp;水、火、光、暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有控制技能。",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;四屬盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />&nbsp;&nbsp;水、火、光、暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4945": {
             "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 瘴霧 ‧ 四屬強化盾 ‧ 反首消木符石盾 - 化血 - 反擊】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;四屬強化盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />「水、火、光、暗」<br />&nbsp;&nbsp;強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;四屬強化盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />「水、火、光、暗」<br />&nbsp;&nbsp;強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": "",
             "keywords": [
                 "附加消除"
@@ -28938,7 +28938,7 @@
         },
         "4946": {
             "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 瘴霧 ‧ 四屬盾 ‧ 反首消木符石盾 - 化血 - 反擊】",
-            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴霧&nbsp;‧&nbsp;四屬盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴霧<br /><br />每經過瘴霧位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />&nbsp;&nbsp;水、火、光、暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
+            "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;四屬盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />&nbsp;&nbsp;水、火、光、暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": "",
             "keywords": [
                 "附加消除"
@@ -46221,6 +46221,456 @@
             "icons": [
                 862
             ]
+        },
+        "7162": {
+            "title": "【瘴氣】",
+            "desc": "在第&nbsp;1&nbsp;橫行位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "custom_desc": ""
+        },
+        "7163": {
+            "title": "【瘴氣】",
+            "desc": "在第&nbsp;2&nbsp;橫行位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "custom_desc": ""
+        },
+        "7164": {
+            "title": "【瘴氣】",
+            "desc": "在第&nbsp;3&nbsp;橫行位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "custom_desc": ""
+        },
+        "7165": {
+            "title": "【瘴氣】",
+            "desc": "在第&nbsp;4&nbsp;橫行位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "custom_desc": ""
+        },
+        "7166": {
+            "title": "【瘴氣】",
+            "desc": "在第&nbsp;5&nbsp;橫行位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+            "custom_desc": ""
+        },
+        "7167": {
+            "title": "【錮縛 - 水技能】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有水屬性成員的主動技能",
+            "custom_desc": ""
+        },
+        "7168": {
+            "title": "【錮縛 - 火技能】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有火屬性成員的主動技能",
+            "custom_desc": ""
+        },
+        "7169": {
+            "title": "【錮縛 - 木技能】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有木屬性成員的主動技能",
+            "custom_desc": ""
+        },
+        "7170": {
+            "title": "【錮縛 - 光技能】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有光屬性成員的主動技能",
+            "custom_desc": ""
+        },
+        "7171": {
+            "title": "【錮縛 - 暗技能】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有暗屬性成員的主動技能",
+            "custom_desc": ""
+        },
+        "7172": {
+            "title": "【錮縛 - 水技能、攻擊】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有水屬性成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+            "custom_desc": ""
+        },
+        "7173": {
+            "title": "【錮縛 - 火技能、攻擊】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有火屬性成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+            "custom_desc": ""
+        },
+        "7174": {
+            "title": "【錮縛 - 木技能、攻擊】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有木屬性成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+            "custom_desc": ""
+        },
+        "7175": {
+            "title": "【錮縛 - 光技能、攻擊】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有光屬性成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+            "custom_desc": ""
+        },
+        "7176": {
+            "title": "【錮縛 - 暗技能、攻擊】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有暗屬性成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+            "custom_desc": ""
+        },
+        "7177": {
+            "title": "【錮縛 - 人技能】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有人類成員的主動技能",
+            "custom_desc": ""
+        },
+        "7178": {
+            "title": "【錮縛 - 獸技能】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有獸類成員的主動技能",
+            "custom_desc": ""
+        },
+        "7179": {
+            "title": "【錮縛 - 妖技能】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有妖精類成員的主動技能",
+            "custom_desc": ""
+        },
+        "7180": {
+            "title": "【錮縛 - 龍技能】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有龍類成員的主動技能",
+            "custom_desc": ""
+        },
+        "7181": {
+            "title": "【錮縛 - 神技能】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有神族成員的主動技能",
+            "custom_desc": ""
+        },
+        "7182": {
+            "title": "【錮縛 - 魔技能】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有魔族成員的主動技能",
+            "custom_desc": ""
+        },
+        "7183": {
+            "title": "【錮縛 - 機械技能】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有機械族成員的主動技能",
+            "custom_desc": ""
+        },
+        "7184": {
+            "title": "【錮縛 - 人技能、攻擊】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有人類成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+            "custom_desc": ""
+        },
+        "7185": {
+            "title": "【錮縛 - 獸技能、攻擊】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有獸類成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+            "custom_desc": ""
+        },
+        "7186": {
+            "title": "【錮縛 - 妖技能、攻擊】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有妖精類成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+            "custom_desc": ""
+        },
+        "7187": {
+            "title": "【錮縛 - 龍技能、攻擊】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有龍類成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+            "custom_desc": ""
+        },
+        "7188": {
+            "title": "【錮縛 - 神技能、攻擊】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有神族成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+            "custom_desc": ""
+        },
+        "7189": {
+            "title": "【錮縛 - 魔技能、攻擊】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有魔族成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+            "custom_desc": ""
+        },
+        "7190": {
+            "title": "【錮縛 - 機械技能、攻擊】",
+            "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有機械族成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+            "custom_desc": ""
+        },
+        "7191": {
+            "title": "【≤5 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≤5&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "7192": {
+            "title": "【≤10 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≤10&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "7193": {
+            "title": "【≤15 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≤15&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "7194": {
+            "title": "【≤20 連擊盾】",
+            "desc": "•&nbsp;達成&nbsp;≤20&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+            "custom_desc": ""
+        },
+        "7195": {
+            "title": "【一步一傷】",
+            "desc": "•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(最多扣至&nbsp;1&nbsp;血)&nbsp;<br />",
+            "custom_desc": ""
+        },
+        "7196": {
+            "title": "【一步一傷】",
+            "desc": "•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(最多扣至&nbsp;1&nbsp;血)&nbsp;<br />",
+            "custom_desc": ""
+        },
+        "7197": {
+            "title": "【一步一傷】",
+            "desc": "•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;5%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(最多扣至&nbsp;1&nbsp;血)&nbsp;<br />",
+            "custom_desc": ""
+        },
+        "7198": {
+            "title": "【攻前盾】",
+            "desc": "•&nbsp;敵人無視任何傷害，<br />&nbsp;&nbsp;直至敵人第&nbsp;1&nbsp;次攻擊。",
+            "custom_desc": ""
+        },
+        "7199": {
+            "title": "【攻前盾】",
+            "desc": "•&nbsp;敵人無視任何傷害，<br />&nbsp;&nbsp;直至敵人第&nbsp;2&nbsp;次攻擊。",
+            "custom_desc": ""
+        },
+        "7200": {
+            "title": "【攻前盾】",
+            "desc": "•&nbsp;敵人無視任何傷害，<br />&nbsp;&nbsp;直至敵人第&nbsp;3&nbsp;次攻擊。",
+            "custom_desc": ""
+        },
+        "7201": {
+            "title": "【攻前盾】",
+            "desc": "•&nbsp;敵人無視任何傷害，<br />&nbsp;&nbsp;直至敵人第&nbsp;4&nbsp;次攻擊。",
+            "custom_desc": ""
+        },
+        "7202": {
+            "title": "【攻前盾】",
+            "desc": "•&nbsp;敵人無視任何傷害，<br />&nbsp;&nbsp;直至敵人第&nbsp;5&nbsp;次攻擊。",
+            "custom_desc": ""
+        },
+        "7203": {
+            "title": "【自戕】",
+            "desc": "•&nbsp;敵人每回合<br />⇒&nbsp;扣除自身&nbsp;10%&nbsp;生命力<br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7204": {
+            "title": "【自戕】",
+            "desc": "•&nbsp;敵人每回合<br />⇒&nbsp;扣除自身&nbsp;20%&nbsp;生命力<br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7205": {
+            "title": "【自戕】",
+            "desc": "•&nbsp;敵人每回合<br />⇒&nbsp;扣除自身&nbsp;25%&nbsp;生命力<br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7206": {
+            "title": "【自戕】",
+            "desc": "•&nbsp;敵人每回合<br />⇒&nbsp;扣除自身&nbsp;50%&nbsp;生命力<br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7207": {
+            "title": "【自戕】",
+            "desc": "•&nbsp;敵人每回合<br />⇒&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7208": {
+            "title": "【水之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7209": {
+            "title": "【水之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7210": {
+            "title": "【水之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7211": {
+            "title": "【水之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7212": {
+            "title": "【火之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7213": {
+            "title": "【火之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7214": {
+            "title": "【火之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7215": {
+            "title": "【火之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7216": {
+            "title": "【木之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7217": {
+            "title": "【木之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7218": {
+            "title": "【木之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7219": {
+            "title": "【木之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7220": {
+            "title": "【光之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7221": {
+            "title": "【光之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7222": {
+            "title": "【光之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7223": {
+            "title": "【光之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7224": {
+            "title": "【暗之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7225": {
+            "title": "【暗之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7226": {
+            "title": "【暗之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7227": {
+            "title": "【暗之凝護】",
+            "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+            "custom_desc": ""
+        },
+        "7228": {
+            "title": "【水之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為水之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為水符石",
+            "custom_desc": ""
+        },
+        "7229": {
+            "title": "【火之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為火之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為火符石",
+            "custom_desc": ""
+        },
+        "7230": {
+            "title": "【木之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為木之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為木符石",
+            "custom_desc": ""
+        },
+        "7231": {
+            "title": "【光之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為光之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為光符石",
+            "custom_desc": ""
+        },
+        "7232": {
+            "title": "【暗之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為暗之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為暗符石",
+            "custom_desc": ""
+        },
+        "7233": {
+            "title": "【心之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為心之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為心符石",
+            "custom_desc": ""
+        },
+        "7234": {
+            "title": "【水之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為水之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為水符石",
+            "custom_desc": ""
+        },
+        "7235": {
+            "title": "【火之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為火之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為火符石",
+            "custom_desc": ""
+        },
+        "7236": {
+            "title": "【木之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為木之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為木符石",
+            "custom_desc": ""
+        },
+        "7237": {
+            "title": "【光之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為光之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為光符石",
+            "custom_desc": ""
+        },
+        "7238": {
+            "title": "【暗之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為暗之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為暗符石",
+            "custom_desc": ""
+        },
+        "7239": {
+            "title": "【心之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為心之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為心符石",
+            "custom_desc": ""
+        },
+        "7240": {
+            "title": "【水之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為水之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為水符石",
+            "custom_desc": ""
+        },
+        "7241": {
+            "title": "【火之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為火之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為火符石",
+            "custom_desc": ""
+        },
+        "7242": {
+            "title": "【木之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為木之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為木符石",
+            "custom_desc": ""
+        },
+        "7243": {
+            "title": "【光之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為光之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為光符石",
+            "custom_desc": ""
+        },
+        "7244": {
+            "title": "【暗之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為暗之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為暗符石",
+            "custom_desc": ""
+        },
+        "7245": {
+            "title": "【心之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為心之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為心符石",
+            "custom_desc": ""
+        },
+        "7246": {
+            "title": "【水之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為水之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為水符石",
+            "custom_desc": ""
+        },
+        "7247": {
+            "title": "【火之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為火之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為火符石",
+            "custom_desc": ""
+        },
+        "7248": {
+            "title": "【木之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為木之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為木符石",
+            "custom_desc": ""
+        },
+        "7249": {
+            "title": "【光之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為光之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為光符石",
+            "custom_desc": ""
+        },
+        "7250": {
+            "title": "【暗之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為暗之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為暗符石",
+            "custom_desc": ""
+        },
+        "7251": {
+            "title": "【心之幻界】",
+            "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為心之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為心符石",
+            "custom_desc": ""
         }
     }
 }
