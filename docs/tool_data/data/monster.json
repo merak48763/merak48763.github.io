@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.400",
-        "dv": 13329,
-        "time": 1718354593
+        "version": "2024.401",
+        "dv": 13333,
+        "time": 1718874840
     },
     "monster": {
         "1": {
@@ -26104,6 +26104,18 @@
             "attribute": 1,
             "race": 5,
             "rarity": 6
+        },
+        "10703": {
+            "name": "民谷巖鐵齋",
+            "attribute": 2,
+            "race": 1,
+            "rarity": 6
+        },
+        "10705": {
+            "name": "如意元君 ‧ 朱槿",
+            "attribute": 1,
+            "race": 5,
+            "rarity": 2
         },
         "10709": {
             "name": "竈神",
