@@ -1,8 +1,8 @@
 {
     "last_update": {
         "version": "2024.401",
-        "dv": 13333,
-        "time": 1718874840
+        "dv": 13337,
+        "time": 1719480045
     },
     "monster": {
         "1": {
@@ -26111,11 +26111,23 @@
             "race": 1,
             "rarity": 6
         },
+        "10704": {
+            "name": "慶雲",
+            "attribute": 4,
+            "race": 1,
+            "rarity": 6
+        },
         "10705": {
             "name": "如意元君 ‧ 朱槿",
             "attribute": 1,
             "race": 5,
-            "rarity": 2
+            "rarity": 6
+        },
+        "10706": {
+            "name": "鬼屍解 ‧ 朱槿",
+            "attribute": 1,
+            "race": 3,
+            "rarity": 6
         },
         "10709": {
             "name": "竈神",

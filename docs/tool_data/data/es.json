@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.400",
-        "dv": 23666,
-        "time": 1718354593
+        "version": "2024.401",
+        "dv": 23682,
+        "time": 1719480045
     },
     "es": {
         "0": {
@@ -28001,7 +28001,7 @@
             "custom_desc": ""
         },
         "4821": {
-            "title": "",
+            "title": "【瘴氣 ‧ 非電擊狀態 - 攻擊弱化 ‧ 愈戰愈強】",
             "desc": "<em>【瘴氣&nbsp;‧&nbsp;非電擊狀態&nbsp;-&nbsp;攻擊弱化&nbsp;‧&nbsp;愈戰愈強】</em><br /><br />首回合隨機在<br />2&nbsp;個位置施放瘴氣，<br />其後每次受到敵人攻擊時，<br />額外多&nbsp;1&nbsp;個位置施放瘴氣；<br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />敵人所受傷害減至&nbsp;10%；<br />只有敵人置身在電擊狀態，<br />才會對其造成完整攻擊傷害。<br /><br />敵人生命力愈低時，<br />攻擊力會大幅提升，<br />達到一定血量時會連撃&nbsp;2&nbsp;次",
             "custom_desc": ""
         },
@@ -28592,7 +28592,7 @@
             ]
         },
         "4903": {
-            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 瘴霧】",
+            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 瘴氣】",
             "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;瘴氣】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害<br /><br />隨機在&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
             "custom_desc": "",
             "keywords": [
@@ -28600,7 +28600,7 @@
             ]
         },
         "4904": {
-            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 瘴霧】",
+            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 瘴氣】",
             "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;瘴氣】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害<br /><br />隨機在&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
             "custom_desc": "",
             "keywords": [
@@ -28608,7 +28608,7 @@
             ]
         },
         "4905": {
-            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 瘴霧】",
+            "title": "【清技及 EP ‧ 首消符石種類 - 減傷 ‧ 瘴氣】",
             "desc": "<em>【清技及&nbsp;EP&nbsp;‧&nbsp;首消符石種類&nbsp;-&nbsp;減傷&nbsp;‧&nbsp;瘴氣】</em><br /><br />首回合將所有成員的主動技能&nbsp;CD、EP&nbsp;及累積戰鬥回合數重置。<br /><br />首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害<br /><br />隨機在&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
             "custom_desc": "",
             "keywords": [
@@ -28894,42 +28894,42 @@
             ]
         },
         "4938": {
-            "title": "",
+            "title": "【清技 ‧ 瘴氣 ‧ 6 連擊盾 ‧ 無法控制】",
             "desc": "<em>【清技&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;6&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />首回合將所有成員的技能&nbsp;CD<br />及累積戰鬥回合數重置。<br /><br />在&nbsp;2&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4939": {
-            "title": "",
+            "title": "【清技 ‧ 瘴氣 ‧ 8 連擊盾 ‧ 無法控制】",
             "desc": "<em>【清技&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />首回合將所有成員的技能&nbsp;CD<br />及累積戰鬥回合數重置。<br /><br />在&nbsp;2&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4940": {
-            "title": "",
+            "title": "【攻速變更 ‧ 淨世 ‧ 全版消除盾 ‧ 瘴氣 ‧ 防禦盾 25% ‧ 無法控制】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;全版消除盾&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;防禦盾&nbsp;25%&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。<br /><br />在&nbsp;4&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />每回合攻擊最多只能造成<br />敵人生命力&nbsp;25%&nbsp;的傷害&nbsp;<br />(主動技除外)。<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4941": {
-            "title": "",
+            "title": "【攻速變更 ‧ 淨世 ‧ 全版消除盾 ‧ 瘴氣 ‧ 前路茫茫 ‧ 無法控制】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;全版消除盾&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;前路茫茫&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。<br /><br />在&nbsp;4&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4942": {
-            "title": "",
+            "title": "【攻速變更 ‧ 淨世 ‧ 全版消除盾 ‧ 瘴氣 ‧ 無法控制】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;全版消除盾&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。<br /><br />在&nbsp;4&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4943": {
-            "title": "",
+            "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 瘴氣 ‧ 四屬強化盾 ‧ 無法控制】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;四屬強化盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />「水、火、光、暗」<br />&nbsp;&nbsp;強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4944": {
-            "title": "",
+            "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 瘴氣 ‧ 四屬盾 ‧ 無法控制】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;四屬盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />&nbsp;&nbsp;水、火、光、暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有控制技能。",
             "custom_desc": ""
         },
         "4945": {
-            "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 瘴霧 ‧ 四屬強化盾 ‧ 反首消木符石盾 - 化血 - 反擊】",
+            "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 瘴氣 ‧ 四屬強化盾 ‧ 反首消木符石盾 - 化血 - 反擊】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;四屬強化盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />「水、火、光、暗」<br />&nbsp;&nbsp;強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": "",
             "keywords": [
@@ -28937,7 +28937,7 @@
             ]
         },
         "4946": {
-            "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 瘴霧 ‧ 四屬盾 ‧ 反首消木符石盾 - 化血 - 反擊】",
+            "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 瘴氣 ‧ 四屬盾 ‧ 反首消木符石盾 - 化血 - 反擊】",
             "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;瘴氣&nbsp;‧&nbsp;四屬盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />在&nbsp;6&nbsp;個位置施放瘴氣<br /><br />每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />&nbsp;&nbsp;水、火、光、暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
             "custom_desc": "",
             "keywords": [
