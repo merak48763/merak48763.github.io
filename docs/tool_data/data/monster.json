@@ -1,8 +1,8 @@
 {
     "last_update": {
-        "version": "2024.401",
-        "dv": 13341,
-        "time": 1720089025
+        "version": "2024.402",
+        "dv": 13368,
+        "time": 1721020266
     },
     "monster": {
         "1": {
@@ -17219,6 +17219,12 @@
             "race": 8,
             "rarity": 6
         },
+        "2879": {
+            "name": "冰地追跡 ‧ 多多",
+            "attribute": 5,
+            "race": 2,
+            "rarity": 6
+        },
         "2900": {
             "name": "十年創紀 ‧ 瘋頭",
             "attribute": 1,
@@ -21192,6 +21198,24 @@
             "name": "灼骸戀歌 ‧ 伊莉莎白",
             "attribute": 2,
             "race": 8,
+            "rarity": 6
+        },
+        "6675": {
+            "name": "冰地囚籠 ‧ 多多",
+            "attribute": 5,
+            "race": 2,
+            "rarity": 6
+        },
+        "6676": {
+            "name": "皓潔伊始 ‧ 所多瑪",
+            "attribute": 4,
+            "race": 4,
+            "rarity": 6
+        },
+        "6677": {
+            "name": "魘尾疚罪 ‧ 蛾摩拉",
+            "attribute": 5,
+            "race": 2,
             "rarity": 6
         },
         "6999": {
@@ -26151,6 +26175,60 @@
             "name": "門神",
             "attribute": 5,
             "race": 3,
+            "rarity": 3
+        },
+        "10711": {
+            "name": "斷魂雙刃 ‧ 提爾鋒",
+            "attribute": 1,
+            "race": 4,
+            "rarity": 6
+        },
+        "10712": {
+            "name": "祈譽劍骨 ‧ 格拉墨",
+            "attribute": 2,
+            "race": 4,
+            "rarity": 6
+        },
+        "10713": {
+            "name": "凶虐本質 ‧ 押瑪",
+            "attribute": 3,
+            "race": 2,
+            "rarity": 6
+        },
+        "10714": {
+            "name": "皓潔伊始 ‧ 所多瑪",
+            "attribute": 4,
+            "race": 4,
+            "rarity": 6
+        },
+        "10715": {
+            "name": "魘尾疚罪 ‧ 蛾摩拉",
+            "attribute": 5,
+            "race": 2,
+            "rarity": 6
+        },
+        "10716": {
+            "name": "踏光獠獵 ‧ 瑣珥",
+            "attribute": 4,
+            "race": 2,
+            "rarity": 6
+        },
+        "10718": {
+            "name": "羽化蝶息 ‧ 依凡德 ",
+            "attribute": 4,
+            "race": 3,
+            "rarity": 5
+        },
+        "10720": {
+            "name": "金迷魂醉 ‧ 拿破崙",
+            "attribute": 4,
+            "race": 8,
+            "rarity": 6
+        },
+        "10725": {
+            "name": "香濃牛肉麵",
+            "attribute": 1,
+            "race": 7,
             "rarity": 3
         },
         "5001": {

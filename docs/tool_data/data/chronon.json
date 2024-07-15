@@ -2806,6 +2806,404 @@
                     }
                 ]
             ]
+        },
+        {
+            "id": 21,
+            "series": 1,
+            "scid": 21,
+            "name": "安逸的日常",
+            "nameEn": "Tranquil Days",
+            "star": 1,
+            "maxLevel": 5,
+            "fpConsume": 2,
+            "instantSkill": [
+                [
+                    {
+                        "skill": 12,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 12,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 12,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 12,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 12,
+                        "args": []
+                    }
+                ]
+            ],
+            "statusSkill": [
+                [
+                    {
+                        "skill": 15,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 15,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 15,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 15,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 15,
+                        "args": []
+                    }
+                ]
+            ],
+            "triggeredSkill": [
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            60
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            70
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            80
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            90
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            100
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 22,
+            "series": 1,
+            "scid": 22,
+            "name": "變革的世界",
+            "nameEn": "Changing World",
+            "star": 1,
+            "maxLevel": 5,
+            "fpConsume": 2,
+            "instantSkill": [
+                [
+                    {
+                        "skill": 11,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 11,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 11,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 11,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 11,
+                        "args": []
+                    }
+                ]
+            ],
+            "statusSkill": [
+                [
+                    {
+                        "skill": 20,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 20,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 20,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 20,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 20,
+                        "args": []
+                    }
+                ]
+            ],
+            "triggeredSkill": [
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            60
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            70
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            80
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            90
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            100
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 26,
+            "series": 1,
+            "scid": 26,
+            "name": "名叫征服的遊戲",
+            "nameEn": "A Game of Conquest",
+            "star": 3,
+            "maxLevel": 5,
+            "fpConsume": 4,
+            "instantSkill": [
+                [
+                    {
+                        "skill": 6,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 6,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 6,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 6,
+                        "args": [
+                            2
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 6,
+                        "args": [
+                            2
+                        ]
+                    }
+                ]
+            ],
+            "statusSkill": [
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            10,
+                            10,
+                            4
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            10,
+                            10,
+                            4
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            10,
+                            15,
+                            4
+                        ]
+                    },
+                    {
+                        "skill": 41,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            10,
+                            15,
+                            4
+                        ]
+                    },
+                    {
+                        "skill": 41,
+                        "args": []
+                    }
+                ],
+                [
+                    {
+                        "skill": 3,
+                        "args": [
+                            10,
+                            20,
+                            4
+                        ]
+                    },
+                    {
+                        "skill": 41,
+                        "args": []
+                    },
+                    {
+                        "skill": 22,
+                        "args": []
+                    }
+                ]
+            ],
+            "triggeredSkill": [
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            100
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            100
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            100
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            100
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "skill": 1,
+                        "args": [
+                            100
+                        ]
+                    },
+                    {
+                        "skill": 9,
+                        "args": []
+                    }
+                ]
+            ]
         }
     ],
     "series": [
