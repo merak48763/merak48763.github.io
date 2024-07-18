@@ -1,3353 +1,3353 @@
 {
-    "card": [
-        {
-            "id": 1,
-            "series": 1,
-            "scid": 1,
-            "name": "力量的呼喚",
-            "nameEn": "A Call of Power",
-            "star": 1,
-            "maxLevel": 5,
-            "fpConsume": 4,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            60
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            70
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            80
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            90
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            100
-                        ]
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 7,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": []
-                    }
-                ]
+  "card": [
+    {
+      "id": 1,
+      "series": 1,
+      "scid": 1,
+      "name": "力量的呼喚",
+      "nameEn": "A Call of Power",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 4,
+      "instantSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
             ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 10,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              70
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              90
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 7,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "series": 1,
+      "scid": 2,
+      "name": "五色璀璨",
+      "nameEn": "Quintuple Radiance",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 4,
+      "instantSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 10,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              70
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              90
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "series": 1,
+      "scid": 3,
+      "name": "對未知的探索",
+      "nameEn": "Explore the Unknown",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 4,
+      "instantSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 10,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              70
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              90
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "series": 1,
+      "scid": 4,
+      "name": "樹下的緣份",
+      "nameEn": "Under the Tree",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 4,
+      "instantSkill": [
+        [
+          {
+            "skill": 8,
+            "args": [
+              30000
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": [
+              50000
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": [
+              70000
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": [
+              150000
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": [
+              250000
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 13,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              150
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              200
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              300
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "series": 1,
+      "scid": 5,
+      "name": "擷取瑪那的術式",
+      "nameEn": "Extraction of Mana",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              2,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              2,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              3,
+              0
+            ]
+          },
+          {
+            "skill": 27,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 7,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "series": 1,
+      "scid": 6,
+      "name": "徬徨呢喃",
+      "nameEn": "Whispers of Doubts",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              1,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              1,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              2,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              2,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              3,
+              2
+            ]
+          },
+          {
+            "skill": 17,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "series": 1,
+      "scid": 7,
+      "name": "微光下的洞悉",
+      "nameEn": "In the Lumiere of Wisdom",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              1,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              1,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              2,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              2,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              3,
+              5
+            ]
+          },
+          {
+            "skill": 27,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "series": 1,
+      "scid": 8,
+      "name": "命中的子彈",
+      "nameEn": "A Bullet Hit",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              1,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              1,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              2,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              2,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              50,
+              3,
+              1
+            ]
+          },
+          {
+            "skill": 28,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 6,
+            "args": [
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              0
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 9,
+      "series": 1,
+      "scid": 9,
+      "name": "降臨的龍翼",
+      "nameEn": "The Descending Dragon Wings",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 3,
+      "instantSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              70
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              90
+            ]
+          },
+          {
+            "skill": 28,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 10,
+      "series": 1,
+      "scid": 10,
+      "name": "換取生命的代價",
+      "nameEn": "The Cost of Living",
+      "star": 3,
+      "maxLevel": 5,
+      "fpConsume": 4,
+      "instantSkill": [
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 4,
+            "args": [
+              50,
+              1,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 4,
+            "args": [
+              50,
+              1,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 4,
+            "args": [
+              100,
+              1,
+              1
+            ]
+          },
+          {
+            "skill": 9,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 4,
+            "args": [
+              100,
+              1,
+              1
+            ]
+          },
+          {
+            "skill": 9,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 4,
+            "args": [
+              100,
+              1,
+              1
+            ]
+          },
+          {
+            "skill": 9,
+            "args": [
+              1
+            ]
+          },
+          {
+            "skill": 21,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              120
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              140
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              160
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              180
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              200
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 11,
+      "series": 1,
+      "scid": 11,
+      "name": "書頁上的記事",
+      "nameEn": "Written in the Book",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 4,
+      "instantSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 9,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 18,
+            "args": [
+              50,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": [
+              50,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": [
+              50,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": [
+              50,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": [
+              50,
+              1
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 12,
+      "series": 1,
+      "scid": 12,
+      "name": "大魔女與她的使魔",
+      "nameEn": "The Great Witch and Her Companion",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 4,
+      "instantSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 9,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              4
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 8,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 16,
+      "series": 1,
+      "scid": 16,
+      "name": "焰火下的護佑",
+      "nameEn": "Flames of Protection",
+      "star": 3,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              10,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              10,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              15,
+              2
+            ]
+          },
+          {
+            "skill": 18,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              15,
+              2
+            ]
+          },
+          {
+            "skill": 18,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              20,
+              2
+            ]
+          },
+          {
+            "skill": 18,
+            "args": []
+          },
+          {
+            "skill": 15,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              120
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              140
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              160
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              180
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              200
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 13,
+      "series": 1,
+      "scid": 13,
+      "name": "剔透的凝視",
+      "nameEn": "Gaze Through the Waters",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 4,
+      "instantSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 9,
+            "args": [
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              5
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              100,
+              1,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              100,
+              1,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              100,
+              1,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              100,
+              2,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              100,
+              2,
+              5
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 14,
+      "series": 1,
+      "scid": 14,
+      "name": "悠揚簫頌",
+      "nameEn": "Aspirated Tune",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 3,
+      "instantSkill": [
+        [
+          {
+            "skill": 13,
+            "args": [
+              2,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              2,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              2,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              4
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 24,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 24,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 24,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 24,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 24,
+            "args": []
+          },
+          {
+            "skill": 20,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              200,
+              1,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              200,
+              1,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              200,
+              1,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              200,
+              2,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              200,
+              2,
+              3
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 15,
+      "series": 1,
+      "scid": 15,
+      "name": "婉轉琴音",
+      "nameEn": "Melodic Harmony",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 3,
+      "instantSkill": [
+        [
+          {
+            "skill": 13,
+            "args": [
+              2,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              2,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              2,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 4,
+            "args": [
+              50,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 4,
+            "args": [
+              50,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 4,
+            "args": [
+              50,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 4,
+            "args": [
+              100,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 4,
+            "args": [
+              100,
+              1,
+              0
+            ]
+          },
+          {
+            "skill": 33,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 17,
+      "series": 1,
+      "scid": 17,
+      "name": "血脈帶來的悸動",
+      "nameEn": "Fruits of Love",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 23,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 23,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 23,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 23,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 23,
+            "args": []
+          },
+          {
+            "skill": 4,
+            "args": [
+              100,
+              1,
+              3
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 18,
+      "series": 1,
+      "scid": 18,
+      "name": "真實與夢境的混淆",
+      "nameEn": "Between Dreams and Reality",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 34,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 34,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 34,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 34,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 34,
+            "args": [
+              100
+            ]
+          },
+          {
+            "skill": 4,
+            "args": [
+              100,
+              1,
+              0
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 5,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 19,
+      "series": 1,
+      "scid": 19,
+      "name": "不息的循環",
+      "nameEn": "Unbounded Cycle",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 16,
+            "args": [
+              100000000,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              100000000,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              100000000,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              500000000,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              500000000,
+              1,
+              0
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 17,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 17,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 17,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 17,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 17,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 20,
+      "series": 1,
+      "scid": 20,
+      "name": "孤身獨戰的無畏",
+      "nameEn": "The War Deity’s Valor",
+      "star": 3,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 2,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": []
+          },
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": []
+          },
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": []
+          },
+          {
+            "skill": 19,
+            "args": []
+          },
+          {
+            "skill": 37,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              50
+            ]
+          },
+          {
+            "skill": 20,
+            "args": [
+              5,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          },
+          {
+            "skill": 20,
+            "args": [
+              5,
+              2
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 21,
+      "series": 1,
+      "scid": 21,
+      "name": "安逸的日常",
+      "nameEn": "Tranquil Days",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              70
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              90
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 22,
+      "series": 1,
+      "scid": 22,
+      "name": "變革的世界",
+      "nameEn": "Changing World",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              70
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              90
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 26,
+      "series": 1,
+      "scid": 26,
+      "name": "名叫征服的遊戲",
+      "nameEn": "A Game of Conquest",
+      "star": 3,
+      "maxLevel": 5,
+      "fpConsume": 4,
+      "instantSkill": [
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              10,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              10,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              15,
+              4
+            ]
+          },
+          {
+            "skill": 41,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              15,
+              4
+            ]
+          },
+          {
+            "skill": 41,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              20,
+              4
+            ]
+          },
+          {
+            "skill": 41,
+            "args": []
+          },
+          {
+            "skill": 22,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          },
+          {
+            "skill": 9,
+            "args": []
+          }
+        ]
+      ]
+    }
+  ],
+  "series": [
+    {
+      "id": 1,
+      "name": "辰曦塔",
+      "stars": [
+        {
+          "star": 1,
+          "exp": [
+            0,
+            50,
+            150,
+            400,
+            750
+          ],
+          "attack": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "recover": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "maxFp": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ],
+          "initFp": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "fpCharge": [
+            1,
+            1,
+            1,
+            1,
+            2
+          ]
         },
         {
-            "id": 2,
-            "series": 1,
-            "scid": 2,
-            "name": "五色璀璨",
-            "nameEn": "Quintuple Radiance",
-            "star": 1,
-            "maxLevel": 5,
-            "fpConsume": 4,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            60
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            70
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            80
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            90
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            100
-                        ]
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ]
-            ]
+          "star": 2,
+          "exp": [
+            0,
+            50,
+            200,
+            500,
+            1000
+          ],
+          "attack": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "recover": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "maxFp": [
+            6,
+            6,
+            6,
+            6,
+            6
+          ],
+          "initFp": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "fpCharge": [
+            1,
+            1,
+            1,
+            1,
+            2
+          ]
         },
         {
-            "id": 3,
-            "series": 1,
-            "scid": 3,
-            "name": "對未知的探索",
-            "nameEn": "Explore the Unknown",
-            "star": 1,
-            "maxLevel": 5,
-            "fpConsume": 4,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            60
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            70
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            80
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            90
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 10,
-                        "args": [
-                            100
-                        ]
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 4,
-            "series": 1,
-            "scid": 4,
-            "name": "樹下的緣份",
-            "nameEn": "Under the Tree",
-            "star": 1,
-            "maxLevel": 5,
-            "fpConsume": 4,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 8,
-                        "args": [
-                            30000
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 8,
-                        "args": [
-                            50000
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 8,
-                        "args": [
-                            70000
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 8,
-                        "args": [
-                            150000
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 8,
-                        "args": [
-                            250000
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            50
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            100
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            150
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            200
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            300
-                        ]
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 19,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 19,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 19,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 19,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 19,
-                        "args": []
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 5,
-            "series": 1,
-            "scid": 5,
-            "name": "擷取瑪那的術式",
-            "nameEn": "Extraction of Mana",
-            "star": 2,
-            "maxLevel": 5,
-            "fpConsume": 2,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            1,
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            1,
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            2,
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            2,
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            3,
-                            0
-                        ]
-                    },
-                    {
-                        "skill": 27,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 7,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": []
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 6,
-            "series": 1,
-            "scid": 6,
-            "name": "徬徨呢喃",
-            "nameEn": "Whispers of Doubts",
-            "star": 2,
-            "maxLevel": 5,
-            "fpConsume": 2,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            1,
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            1,
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            2,
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            2,
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            3,
-                            2
-                        ]
-                    },
-                    {
-                        "skill": 17,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            50
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            50
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            50
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            100
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            100
-                        ]
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 7,
-            "series": 1,
-            "scid": 7,
-            "name": "微光下的洞悉",
-            "nameEn": "In the Lumiere of Wisdom",
-            "star": 2,
-            "maxLevel": 5,
-            "fpConsume": 2,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            1,
-                            5
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            1,
-                            5
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            2,
-                            5
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            2,
-                            5
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            3,
-                            5
-                        ]
-                    },
-                    {
-                        "skill": 27,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 8,
-            "series": 1,
-            "scid": 8,
-            "name": "命中的子彈",
-            "nameEn": "A Bullet Hit",
-            "star": 2,
-            "maxLevel": 5,
-            "fpConsume": 2,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            1,
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            1,
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            2,
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            2,
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            50,
-                            3,
-                            1
-                        ]
-                    },
-                    {
-                        "skill": 28,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 6,
-                        "args": [
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": [
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": [
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": [
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": [
-                            0
-                        ]
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 9,
-            "series": 1,
-            "scid": 9,
-            "name": "降臨的龍翼",
-            "nameEn": "The Descending Dragon Wings",
-            "star": 2,
-            "maxLevel": 5,
-            "fpConsume": 3,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 7,
-                        "args": [
-                            50
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": [
-                            60
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": [
-                            70
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": [
-                            80
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": [
-                            90
-                        ]
-                    },
-                    {
-                        "skill": 28,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 10,
-            "series": 1,
-            "scid": 10,
-            "name": "換取生命的代價",
-            "nameEn": "The Cost of Living",
-            "star": 3,
-            "maxLevel": 5,
-            "fpConsume": 4,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 4,
-                        "args": [
-                            50,
-                            1,
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 4,
-                        "args": [
-                            50,
-                            1,
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 4,
-                        "args": [
-                            100,
-                            1,
-                            1
-                        ]
-                    },
-                    {
-                        "skill": 9,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 4,
-                        "args": [
-                            100,
-                            1,
-                            1
-                        ]
-                    },
-                    {
-                        "skill": 9,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 4,
-                        "args": [
-                            100,
-                            1,
-                            1
-                        ]
-                    },
-                    {
-                        "skill": 9,
-                        "args": [
-                            1
-                        ]
-                    },
-                    {
-                        "skill": 21,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            120
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            140
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            160
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            180
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            200
-                        ]
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 11,
-            "series": 1,
-            "scid": 11,
-            "name": "書頁上的記事",
-            "nameEn": "Written in the Book",
-            "star": 1,
-            "maxLevel": 5,
-            "fpConsume": 4,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 18,
-                        "args": [
-                            50,
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 18,
-                        "args": [
-                            50,
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 18,
-                        "args": [
-                            50,
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 18,
-                        "args": [
-                            50,
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 18,
-                        "args": [
-                            50,
-                            1
-                        ]
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 12,
-            "series": 1,
-            "scid": 12,
-            "name": "大魔女與她的使魔",
-            "nameEn": "The Great Witch and Her Companion",
-            "star": 1,
-            "maxLevel": 5,
-            "fpConsume": 4,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            4
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            4
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            4
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            4
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            4
-                        ]
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 8,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 8,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 8,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 8,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 8,
-                        "args": []
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 16,
-            "series": 1,
-            "scid": 16,
-            "name": "焰火下的護佑",
-            "nameEn": "Flames of Protection",
-            "star": 3,
-            "maxLevel": 5,
-            "fpConsume": 2,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            10,
-                            10,
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            10,
-                            10,
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            10,
-                            15,
-                            2
-                        ]
-                    },
-                    {
-                        "skill": 18,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            10,
-                            15,
-                            2
-                        ]
-                    },
-                    {
-                        "skill": 18,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            10,
-                            20,
-                            2
-                        ]
-                    },
-                    {
-                        "skill": 18,
-                        "args": []
-                    },
-                    {
-                        "skill": 15,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            120
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            140
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            160
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            180
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            200
-                        ]
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 13,
-            "series": 1,
-            "scid": 13,
-            "name": "剔透的凝視",
-            "nameEn": "Gaze Through the Waters",
-            "star": 1,
-            "maxLevel": 5,
-            "fpConsume": 4,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            5
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            5
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            5
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            5
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 9,
-                        "args": [
-                            5
-                        ]
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            100,
-                            1,
-                            5
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            100,
-                            1,
-                            5
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            100,
-                            1,
-                            5
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            100,
-                            2,
-                            5
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            100,
-                            2,
-                            5
-                        ]
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 14,
-            "series": 1,
-            "scid": 14,
-            "name": "悠揚簫頌",
-            "nameEn": "Aspirated Tune",
-            "star": 2,
-            "maxLevel": 5,
-            "fpConsume": 3,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            2,
-                            4
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            2,
-                            4
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            2,
-                            4
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            3,
-                            4
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            3,
-                            4
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 24,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 24,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 24,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 24,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 24,
-                        "args": []
-                    },
-                    {
-                        "skill": 20,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            200,
-                            1,
-                            3
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            200,
-                            1,
-                            3
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            200,
-                            1,
-                            3
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            200,
-                            2,
-                            3
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            200,
-                            2,
-                            3
-                        ]
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 15,
-            "series": 1,
-            "scid": 15,
-            "name": "婉轉琴音",
-            "nameEn": "Melodic Harmony",
-            "star": 2,
-            "maxLevel": 5,
-            "fpConsume": 3,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            2,
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            2,
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            2,
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            3,
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 13,
-                        "args": [
-                            3,
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 4,
-                        "args": [
-                            50,
-                            1,
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 4,
-                        "args": [
-                            50,
-                            1,
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 4,
-                        "args": [
-                            50,
-                            1,
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 4,
-                        "args": [
-                            100,
-                            1,
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 4,
-                        "args": [
-                            100,
-                            1,
-                            0
-                        ]
-                    },
-                    {
-                        "skill": 33,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 17,
-            "series": 1,
-            "scid": 17,
-            "name": "血脈帶來的悸動",
-            "nameEn": "Fruits of Love",
-            "star": 2,
-            "maxLevel": 5,
-            "fpConsume": 2,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 23,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 23,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 23,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 23,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 23,
-                        "args": []
-                    },
-                    {
-                        "skill": 4,
-                        "args": [
-                            100,
-                            1,
-                            3
-                        ]
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": []
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 18,
-            "series": 1,
-            "scid": 18,
-            "name": "真實與夢境的混淆",
-            "nameEn": "Between Dreams and Reality",
-            "star": 2,
-            "maxLevel": 5,
-            "fpConsume": 2,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 7,
-                        "args": [
-                            50
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": [
-                            50
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": [
-                            50
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": [
-                            100
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 7,
-                        "args": [
-                            100
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 34,
-                        "args": [
-                            60
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 34,
-                        "args": [
-                            60
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 34,
-                        "args": [
-                            80
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 34,
-                        "args": [
-                            80
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 34,
-                        "args": [
-                            100
-                        ]
-                    },
-                    {
-                        "skill": 4,
-                        "args": [
-                            100,
-                            1,
-                            0
-                        ]
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 5,
-                        "args": []
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 19,
-            "series": 1,
-            "scid": 19,
-            "name": "不息的循環",
-            "nameEn": "Unbounded Cycle",
-            "star": 1,
-            "maxLevel": 5,
-            "fpConsume": 2,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            100000000,
-                            1,
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            100000000,
-                            1,
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            100000000,
-                            1,
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            500000000,
-                            1,
-                            0
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            500000000,
-                            1,
-                            0
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 17,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 17,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 17,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 17,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 17,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            1
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 16,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 20,
-            "series": 1,
-            "scid": 20,
-            "name": "孤身獨戰的無畏",
-            "nameEn": "The War Deity’s Valor",
-            "star": 3,
-            "maxLevel": 5,
-            "fpConsume": 2,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 2,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": []
-                    },
-                    {
-                        "skill": 19,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": []
-                    },
-                    {
-                        "skill": 19,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 2,
-                        "args": []
-                    },
-                    {
-                        "skill": 19,
-                        "args": []
-                    },
-                    {
-                        "skill": 37,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            50
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            50
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            50
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            50
-                        ]
-                    },
-                    {
-                        "skill": 20,
-                        "args": [
-                            5,
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            100
-                        ]
-                    },
-                    {
-                        "skill": 20,
-                        "args": [
-                            5,
-                            2
-                        ]
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 21,
-            "series": 1,
-            "scid": 21,
-            "name": "安逸的日常",
-            "nameEn": "Tranquil Days",
-            "star": 1,
-            "maxLevel": 5,
-            "fpConsume": 2,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 12,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 12,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 12,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 12,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 12,
-                        "args": []
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 15,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 15,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 15,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 15,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 15,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            60
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            70
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            80
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            90
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            100
-                        ]
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 22,
-            "series": 1,
-            "scid": 22,
-            "name": "變革的世界",
-            "nameEn": "Changing World",
-            "star": 1,
-            "maxLevel": 5,
-            "fpConsume": 2,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 11,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 11,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 11,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 11,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 11,
-                        "args": []
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 20,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 20,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 20,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 20,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 20,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            60
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            70
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            80
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            90
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            100
-                        ]
-                    }
-                ]
-            ]
-        },
-        {
-            "id": 26,
-            "series": 1,
-            "scid": 26,
-            "name": "名叫征服的遊戲",
-            "nameEn": "A Game of Conquest",
-            "star": 3,
-            "maxLevel": 5,
-            "fpConsume": 4,
-            "instantSkill": [
-                [
-                    {
-                        "skill": 6,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": [
-                            2
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 6,
-                        "args": [
-                            2
-                        ]
-                    }
-                ]
-            ],
-            "statusSkill": [
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            10,
-                            10,
-                            4
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            10,
-                            10,
-                            4
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            10,
-                            15,
-                            4
-                        ]
-                    },
-                    {
-                        "skill": 41,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            10,
-                            15,
-                            4
-                        ]
-                    },
-                    {
-                        "skill": 41,
-                        "args": []
-                    }
-                ],
-                [
-                    {
-                        "skill": 3,
-                        "args": [
-                            10,
-                            20,
-                            4
-                        ]
-                    },
-                    {
-                        "skill": 41,
-                        "args": []
-                    },
-                    {
-                        "skill": 22,
-                        "args": []
-                    }
-                ]
-            ],
-            "triggeredSkill": [
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            100
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            100
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            100
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            100
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "skill": 1,
-                        "args": [
-                            100
-                        ]
-                    },
-                    {
-                        "skill": 9,
-                        "args": []
-                    }
-                ]
-            ]
+          "star": 3,
+          "exp": [
+            0,
+            100,
+            300,
+            650,
+            1250
+          ],
+          "attack": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "recover": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "maxFp": [
+            8,
+            8,
+            8,
+            8,
+            8
+          ],
+          "initFp": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "fpCharge": [
+            1,
+            1,
+            1,
+            1,
+            2
+          ]
         }
-    ],
-    "series": [
-        {
-            "id": 1,
-            "name": "辰曦塔",
-            "stars": [
-                {
-                    "star": 1,
-                    "exp": [
-                        0,
-                        50,
-                        150,
-                        400,
-                        750
-                    ],
-                    "attack": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "recover": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "maxFp": [
-                        4,
-                        4,
-                        4,
-                        4,
-                        4
-                    ],
-                    "initFp": [
-                        0,
-                        1,
-                        2,
-                        3,
-                        4
-                    ],
-                    "fpCharge": [
-                        1,
-                        1,
-                        1,
-                        1,
-                        2
-                    ]
-                },
-                {
-                    "star": 2,
-                    "exp": [
-                        0,
-                        50,
-                        200,
-                        500,
-                        1000
-                    ],
-                    "attack": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "recover": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "maxFp": [
-                        6,
-                        6,
-                        6,
-                        6,
-                        6
-                    ],
-                    "initFp": [
-                        2,
-                        3,
-                        4,
-                        5,
-                        6
-                    ],
-                    "fpCharge": [
-                        1,
-                        1,
-                        1,
-                        1,
-                        2
-                    ]
-                },
-                {
-                    "star": 3,
-                    "exp": [
-                        0,
-                        100,
-                        300,
-                        650,
-                        1250
-                    ],
-                    "attack": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "recover": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "maxFp": [
-                        8,
-                        8,
-                        8,
-                        8,
-                        8
-                    ],
-                    "initFp": [
-                        4,
-                        5,
-                        6,
-                        7,
-                        8
-                    ],
-                    "fpCharge": [
-                        1,
-                        1,
-                        1,
-                        1,
-                        2
-                    ]
-                }
-            ],
-            "marbel": "【辰曦塔】琉璃"
-        }
-    ]
+      ],
+      "marbel": "【辰曦塔】琉璃"
+    }
+  ]
 }
