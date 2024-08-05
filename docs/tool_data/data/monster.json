@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.402",
-    "dv": 13382,
-    "time": 1721296824
+    "version": "2024.403",
+    "dv": 13390,
+    "time": 1722503306
   },
   "monster": {
     "1": {
@@ -26243,6 +26243,12 @@
       "race": 2,
       "rarity": 6
     },
+    "10717": {
+      "name": "絕境破蕾 ‧ 丁香",
+      "attribute": 5,
+      "race": 3,
+      "rarity": 5
+    },
     "10718": {
       "name": "羽化蝶息 ‧ 依凡德 ",
       "attribute": 4,
@@ -26264,6 +26270,24 @@
     "10721": {
       "name": "純摯回眸 ‧ 白雪",
       "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10722": {
+      "name": "棕櫚麗影 ‧ 夏綠蒂",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 6
+    },
+    "10723": {
+      "name": "追波逐陽 ‧ 哈佛",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 6
+    },
+    "10724": {
+      "name": "凌雲步法 ‧ 李龍兒",
+      "attribute": 3,
       "race": 1,
       "rarity": 6
     },

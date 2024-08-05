@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.402",
-    "dv": 23774,
-    "time": 1721296824
+    "version": "2024.403",
+    "dv": 23824,
+    "time": 1722503306
   },
   "es": {
     "0": {
@@ -40318,13 +40318,13 @@
     },
     "6358": {
       "title": "【首消粒數盾】",
-      "desc": "•【首消&nbsp;25&nbsp;粒數盾】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;首消粒數需求減少&nbsp;2<br />⇒&nbsp;最多減至<br />&nbsp;&nbsp;【首消&nbsp;19&nbsp;粒數盾】<br /><br />註：【首消粒數盾】<br />•&nbsp;首批消除指定粒數符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "desc": "•【首消&nbsp;25&nbsp;粒數盾】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;首消粒數需求減少&nbsp;2<br />⇒&nbsp;最多減至<br />&nbsp;&nbsp;【首消&nbsp;19&nbsp;粒數盾】<br /><br />註：【首消粒數盾】<br />•&nbsp;首批消除指定粒數符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
       "custom_desc": "",
       "icons": []
     },
     "6359": {
       "title": "【首消粒數盾】",
-      "desc": "•【首消&nbsp;19&nbsp;粒數盾】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;首消粒數需求增加&nbsp;2<br />⇒&nbsp;最多加至<br />&nbsp;&nbsp;【首消&nbsp;25&nbsp;粒數盾】<br />＊召喚師死亡後重置<br /><br />註：【首消粒數盾】<br />•&nbsp;首批消除指定粒數符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "desc": "•【首消&nbsp;19&nbsp;粒數盾】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;首消粒數需求增加&nbsp;2<br />⇒&nbsp;最多加至<br />&nbsp;&nbsp;【首消&nbsp;25&nbsp;粒數盾】<br />＊召喚師死亡後重置<br /><br />註：【首消粒數盾】<br />•&nbsp;首批消除指定粒數符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊",
       "custom_desc": "",
       "icons": []
     },
