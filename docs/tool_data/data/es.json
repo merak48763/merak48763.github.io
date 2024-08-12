@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.403",
-    "dv": 23824,
-    "time": 1722503306
+    "version": "2024.500",
+    "dv": 23927,
+    "time": 1723439293
   },
   "es": {
     "0": {
@@ -21986,12 +21986,12 @@
     },
     "3786": {
       "title": "",
-      "desc": "每回合所有水符石<br />⇒&nbsp;附加水流印記<br /><br />每消除&nbsp;1&nbsp;粒水流印記符石<br />⇒&nbsp;下回合獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;5&nbsp;重印記力量<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />召喚師死亡後，<br />清空水流印記及印記力量<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
+      "desc": "每回合所有水符石<br />⇒&nbsp;附加水流印記&nbsp;(力的印記)<br /><br />每消除&nbsp;1&nbsp;粒水流印記&nbsp;(力的印記)&nbsp;符石<br />⇒&nbsp;下回合獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;5&nbsp;重印記力量<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />召喚師死亡後，<br />清空水流印記&nbsp;(力的印記)&nbsp;及印記力量<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
       "custom_desc": ""
     },
     "3787": {
       "title": "",
-      "desc": "每回合所有水符石<br />⇒&nbsp;附加水流印記<br /><br />每消除&nbsp;1&nbsp;粒水流印記符石<br />⇒&nbsp;下回合獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />召喚師死亡後，<br />清空水流印記及印記力量<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
+      "desc": "每回合所有水符石<br />⇒&nbsp;附加水流印記&nbsp;(力的印記)<br /><br />每消除&nbsp;1&nbsp;粒水流印記&nbsp;(力的印記)&nbsp;符石<br />⇒&nbsp;下回合獲得&nbsp;1&nbsp;重印記力量&nbsp;<br />疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />召喚師死亡後，<br />清空水流印記&nbsp;(力的印記)&nbsp;及印記力量<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
       "custom_desc": ""
     },
     "3788": {
@@ -23442,12 +23442,12 @@
     },
     "4048": {
       "title": "",
-      "desc": "每回合所有水符石<br />⇒&nbsp;附加機械印記<br /><br />每消除&nbsp;1&nbsp;粒機械印記符石<br />⇒&nbsp;下回合獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />召喚師死亡後，<br />清空機械印記及印記力量<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
+      "desc": "每回合所有水符石<br />⇒&nbsp;附加機械印記&nbsp;(力的印記)<br /><br />每消除&nbsp;1&nbsp;粒機械印記&nbsp;(力的印記)&nbsp;符石<br />⇒&nbsp;下回合獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />召喚師死亡後，<br />清空機械印記&nbsp;(力的印記)&nbsp;及印記力量<br /><br />首批消除水屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
       "custom_desc": ""
     },
     "4049": {
       "title": "火附機械印記 ‧ 十重印記盾 ‧ 首消火傷害吸收-連續反擊200% ‧ 無法控制",
-      "desc": "每回合所有火符石<br />⇒&nbsp;附加機械印記<br /><br />每消除&nbsp;1&nbsp;粒機械印記符石<br />⇒&nbsp;下回合獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />召喚師死亡後，<br />清空機械印記及印記力量<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
+      "desc": "每回合所有火符石<br />⇒&nbsp;附加機械印記&nbsp;(力的印記)<br /><br />每消除&nbsp;1&nbsp;粒機械印記&nbsp;(力的印記)&nbsp;符石&nbsp;<br />⇒&nbsp;下回合獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />召喚師死亡後，<br />清空機械印記&nbsp;(力的印記)&nbsp;及印記力量<br /><br />首批消除火屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
       "custom_desc": "",
       "icons": [
         1107,
@@ -23457,7 +23457,7 @@
     },
     "4050": {
       "title": "",
-      "desc": "每回合所有木符石<br />⇒&nbsp;附加機械印記<br /><br />每消除&nbsp;1&nbsp;粒機械印記符石<br />⇒&nbsp;下回合獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />召喚師死亡後，<br />清空機械印記及印記力量<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
+      "desc": "每回合所有木符石<br />⇒&nbsp;附加機械印記&nbsp;(力的印記)<br /><br />每消除&nbsp;1&nbsp;粒機械印記&nbsp;(力的印記)&nbsp;符石<br />⇒&nbsp;下回合獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />召喚師死亡後，<br />清空機械印記&nbsp;(力的印記)&nbsp;及印記力量<br /><br />首批消除木屬性的連擊&nbsp;(Combo)&nbsp;及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次。<br /><br />無視所有控制技能。",
       "custom_desc": ""
     },
     "4051": {
@@ -25044,7 +25044,7 @@
     },
     "4299": {
       "title": "【絕對領域 - 1 ‧ 電能印記 ‧ 粒子砲 ‧ 無法控制】",
-      "desc": "<em>【絕對領域&nbsp;-&nbsp;1&nbsp;‧&nbsp;電能印記&nbsp;‧&nbsp;粒子砲&nbsp;‧&nbsp;無法控制】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;1&nbsp;才能對敵人<br />造成攻擊傷害。<br /><br />每回合所有符石<br />⇒&nbsp;附加電能印記<br /><br />每消除&nbsp;1&nbsp;粒電能印記符石<br />⇒&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;40&nbsp;重印記力量<br />⇒&nbsp;觸發「陽電子炮」<br />並可對敵人造成攻擊傷害<br /><br />敵人每隔&nbsp;3&nbsp;回合發動粒子砲。<br /><br />無視所有控制技能。",
+      "desc": "<em>【絕對領域&nbsp;-&nbsp;1&nbsp;‧&nbsp;電能印記&nbsp;(力的印記)<br />&nbsp;‧&nbsp;粒子砲&nbsp;‧&nbsp;無法控制】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;1&nbsp;才能對敵人<br />造成攻擊傷害。<br /><br />每回合所有符石<br />⇒&nbsp;附加電能印記&nbsp;(力的印記)<br /><br />每消除&nbsp;1&nbsp;粒電能印記&nbsp;(力的印記)&nbsp;符石<br />⇒&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;40&nbsp;重印記力量<br />⇒&nbsp;觸發「陽電子炮」<br />並可對敵人造成攻擊傷害<br /><br />敵人每隔&nbsp;3&nbsp;回合發動粒子砲。<br /><br />無視所有控制技能。",
       "custom_desc": "<ul><li>電能印記不占用左上狀態</li><li>粒子砲傷害 999,999</li></ul>",
       "icons": [
         1108,
@@ -25061,7 +25061,7 @@
     },
     "4300": {
       "title": "【絕對領域 - 1 ‧ 電能印記 ‧ 粒子砲 ‧ 無法控制】",
-      "desc": "<em>【絕對領域&nbsp;-&nbsp;1&nbsp;‧&nbsp;電能印記&nbsp;‧&nbsp;粒子砲&nbsp;‧&nbsp;無法控制】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;1&nbsp;才能對敵人<br />造成攻擊傷害。<br /><br />每回合所有符石<br />⇒&nbsp;附加電能印記<br /><br />每消除&nbsp;1&nbsp;粒電能印記符石<br />⇒&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;60&nbsp;重印記力量<br />⇒&nbsp;觸發「陽電子炮」<br />並可對敵人造成攻擊傷害<br /><br />敵人每隔&nbsp;4&nbsp;回合發動粒子砲。<br /><br />無視所有控制技能。",
+      "desc": "<em>【絕對領域&nbsp;-&nbsp;1&nbsp;‧&nbsp;電能印記&nbsp;(力的印記)&nbsp;‧&nbsp;粒子砲&nbsp;‧&nbsp;無法控制】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;1&nbsp;才能對敵人<br />造成攻擊傷害。<br /><br />每回合所有符石<br />⇒&nbsp;附加電能印記&nbsp;(力的印記)<br /><br />每消除&nbsp;1&nbsp;粒電能印記&nbsp;(力的印記)&nbsp;符石<br />⇒&nbsp;獲得&nbsp;1&nbsp;重印記力量&nbsp;<br />疊至最高&nbsp;60&nbsp;重印記力量<br />⇒&nbsp;觸發「陽電子炮」<br />並可對敵人造成攻擊傷害<br /><br />敵人每隔&nbsp;4&nbsp;回合發動粒子砲。<br /><br />無視所有控制技能。",
       "custom_desc": "<ul><li>電能印記不占用左上狀態</li><li>粒子砲傷害 999,999</li></ul>",
       "icons": [
         1108,
@@ -25078,7 +25078,7 @@
     },
     "4301": {
       "title": "【絕對領域 - 1 ‧ 電能印記 ‧ 粒子砲 ‧ 無法控制】",
-      "desc": "<em>【絕對領域&nbsp;-&nbsp;1&nbsp;‧&nbsp;電能印記&nbsp;‧&nbsp;粒子砲&nbsp;‧&nbsp;無法控制】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;1&nbsp;才能對敵人<br />造成攻擊傷害。<br /><br />每回合所有符石<br />⇒&nbsp;附加電能印記<br /><br />每消除&nbsp;1&nbsp;粒電能印記符石<br />⇒&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;80&nbsp;重印記力量<br />⇒&nbsp;觸發「陽電子炮」<br />並可對敵人造成攻擊傷害<br /><br />敵人每隔&nbsp;5&nbsp;回合發動粒子砲。<br /><br />無視所有控制技能。",
+      "desc": "<em>【絕對領域&nbsp;-&nbsp;1&nbsp;‧&nbsp;電能印記&nbsp;(力的印記)&nbsp;‧&nbsp;粒子砲&nbsp;‧&nbsp;無法控制】</em><br /><br />隊伍中成員的單一攻擊<br />達&nbsp;1&nbsp;才能對敵人<br />造成攻擊傷害。<br /><br />每回合所有符石<br />⇒&nbsp;附加電能印記&nbsp;(力的印記)<br /><br />每消除&nbsp;1&nbsp;粒電能印記&nbsp;(力的印記)&nbsp;符石&nbsp;<br />⇒&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />疊至最高&nbsp;80&nbsp;重印記力量<br />⇒&nbsp;觸發「陽電子炮」<br />並可對敵人造成攻擊傷害<br /><br />敵人每隔&nbsp;5&nbsp;回合發動粒子砲。<br /><br />無視所有控制技能。",
       "custom_desc": "<ul><li>電能印記不占用左上狀態</li><li>粒子砲傷害 999,999</li></ul>",
       "icons": [
         1108,
@@ -40284,7 +40284,7 @@
       "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
       "icons": [
-        1035
+        1019
       ]
     },
     "6354": {
@@ -40292,7 +40292,7 @@
       "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
       "icons": [
-        1035
+        1019
       ]
     },
     "6355": {
@@ -40300,7 +40300,7 @@
       "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
       "icons": [
-        1035
+        1019
       ]
     },
     "6356": {
@@ -40308,7 +40308,7 @@
       "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;指定組數或以上的&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
       "icons": [
-        1035
+        1019
       ]
     },
     "6357": {
@@ -46808,6 +46808,354 @@
     "7251": {
       "title": "【心之幻界】",
       "desc": "•&nbsp;將&nbsp;1&nbsp;個位置<br />⇒&nbsp;轉化為心之幻界<br /><br />•&nbsp;經過幻界的起手符石<br />⇒&nbsp;轉化為心符石",
+      "custom_desc": ""
+    },
+    "7252": {
+      "title": "",
+      "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+      "custom_desc": ""
+    },
+    "7253": {
+      "title": "",
+      "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+      "custom_desc": ""
+    },
+    "7254": {
+      "title": "",
+      "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+      "custom_desc": ""
+    },
+    "7255": {
+      "title": "",
+      "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+      "custom_desc": ""
+    },
+    "7256": {
+      "title": "",
+      "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+      "custom_desc": ""
+    },
+    "7257": {
+      "title": "",
+      "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+      "custom_desc": ""
+    },
+    "7258": {
+      "title": "",
+      "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+      "custom_desc": ""
+    },
+    "7259": {
+      "title": "",
+      "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+      "custom_desc": ""
+    },
+    "7260": {
+      "title": "",
+      "desc": "•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+      "custom_desc": ""
+    },
+    "7261": {
+      "title": "【T 字限盾 (≥1 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        1021
+      ]
+    },
+    "7262": {
+      "title": "【T 字限盾 (≥2 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        1021
+      ]
+    },
+    "7263": {
+      "title": "【T 字限盾 (≥3 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        1021
+      ]
+    },
+    "7264": {
+      "title": "【水 T 字限盾 (≥1 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        471
+      ]
+    },
+    "7265": {
+      "title": "【水 T 字限盾 (≥2 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        471
+      ]
+    },
+    "7266": {
+      "title": "【水 T 字限盾 (≥3 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        471
+      ]
+    },
+    "7267": {
+      "title": "【火 T 字限盾 (≥1 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        472
+      ]
+    },
+    "7268": {
+      "title": "【火 T 字限盾 (≥2 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        472
+      ]
+    },
+    "7269": {
+      "title": "【火 T 字限盾 (≥3 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        472
+      ]
+    },
+    "7270": {
+      "title": "【木 T 字限盾 (≥1 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        473
+      ]
+    },
+    "7271": {
+      "title": "【木 T 字限盾 (≥2 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        473
+      ]
+    },
+    "7272": {
+      "title": "【木 T 字限盾 (≥3 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        473
+      ]
+    },
+    "7273": {
+      "title": "【光 T 字限盾 (≥1 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        474
+      ]
+    },
+    "7274": {
+      "title": "【光 T 字限盾 (≥2 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        474
+      ]
+    },
+    "7275": {
+      "title": "【光 T 字限盾 (≥3 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        474
+      ]
+    },
+    "7276": {
+      "title": "【暗 T 字限盾 (≥1 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        475
+      ]
+    },
+    "7277": {
+      "title": "【暗 T 字限盾 (≥2 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        475
+      ]
+    },
+    "7278": {
+      "title": "【暗 T 字限盾 (≥3 組)】",
+      "desc": "•&nbsp;以【T】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        475
+      ]
+    },
+    "7279": {
+      "title": "【L 字限盾 (≥1 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        1020
+      ]
+    },
+    "7280": {
+      "title": "【L 字限盾 (≥2 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        1020
+      ]
+    },
+    "7281": {
+      "title": "【L 字限盾 (≥3 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        1020
+      ]
+    },
+    "7282": {
+      "title": "【水 L 字限盾 (≥1 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        461
+      ]
+    },
+    "7283": {
+      "title": "【水 L 字限盾 (≥2 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        461
+      ]
+    },
+    "7284": {
+      "title": "【水 L 字限盾 (≥3 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        461
+      ]
+    },
+    "7285": {
+      "title": "【火 L 字限盾 (≥1 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        462
+      ]
+    },
+    "7286": {
+      "title": "【火 L 字限盾 (≥2 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        462
+      ]
+    },
+    "7287": {
+      "title": "【火 L 字限盾 (≥3 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        462
+      ]
+    },
+    "7288": {
+      "title": "【木 L 字限盾 (≥1 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        463
+      ]
+    },
+    "7289": {
+      "title": "【木 L 字限盾 (≥2 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        463
+      ]
+    },
+    "7290": {
+      "title": "【木 L 字限盾 (≥3 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        463
+      ]
+    },
+    "7291": {
+      "title": "【光 L 字限盾 (≥1 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        464
+      ]
+    },
+    "7292": {
+      "title": "【光 L 字限盾 (≥2 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        464
+      ]
+    },
+    "7293": {
+      "title": "【光 L 字限盾 (≥3 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        464
+      ]
+    },
+    "7294": {
+      "title": "【暗 L 字限盾 (≥1 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        465
+      ]
+    },
+    "7295": {
+      "title": "【暗 L 字限盾 (≥2 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥2&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        465
+      ]
+    },
+    "7296": {
+      "title": "【暗 L 字限盾 (≥3 組)】",
+      "desc": "•&nbsp;以【L】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        465
+      ]
+    },
+    "7297": {
+      "title": "【【轉生史萊姆】- 回技及 EP 】",
+      "desc": "【轉生史萊姆】成員<br />⓵&nbsp;主動技能&nbsp;CD&nbsp;變&nbsp;0&nbsp;<br />⓶&nbsp;EP&nbsp;回滿",
+      "custom_desc": ""
+    },
+    "7298": {
+      "title": "【【魔國聯邦】- 回技及 EP 】",
+      "desc": "【魔國聯邦】成員<br />⓵&nbsp;主動技能&nbsp;CD&nbsp;變&nbsp;0&nbsp;<br />⓶&nbsp;EP&nbsp;回滿",
+      "custom_desc": ""
+    },
+    "7299": {
+      "title": "【【八星魔王】- 回技及 EP 】",
+      "desc": "【八星魔王】成員<br />⓵&nbsp;主動技能&nbsp;CD&nbsp;變&nbsp;0&nbsp;<br />⓶&nbsp;EP&nbsp;回滿",
       "custom_desc": ""
     }
   }

@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.403",
-    "dv": 13390,
-    "time": 1722503306
+    "version": "2024.500",
+    "dv": 13408,
+    "time": 1723439293
   },
   "monster": {
     "1": {
@@ -17255,6 +17255,12 @@
       "race": 5,
       "rarity": 8
     },
+    "2886": {
+      "name": "迎風逐戰 ‧ 阿爾法與貝塔",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 6
+    },
     "2900": {
       "name": "十年創紀 ‧ 瘋頭",
       "attribute": 1,
@@ -21247,6 +21253,18 @@
       "attribute": 5,
       "race": 2,
       "rarity": 6
+    },
+    "6678": {
+      "name": "迎風追影 · 阿爾法與貝塔",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 6
+    },
+    "6680": {
+      "name": "聖庭審訊 ‧ 梵帝岡",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 7
     },
     "6999": {
       "name": "米拉珍",
@@ -26296,6 +26314,36 @@
       "attribute": 1,
       "race": 7,
       "rarity": 3
+    },
+    "10726": {
+      "name": "聖庭審訊 ‧ 梵帝岡",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 7
+    },
+    "10727": {
+      "name": "公理推察 ‧ 卡普里歐",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 5
+    },
+    "10729": {
+      "name": "病原除錯 ‧ 卡帕",
+      "attribute": 2,
+      "race": 10,
+      "rarity": 6
+    },
+    "10730": {
+      "name": "龍緣孚佑 ‧ 和氏",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "10731": {
+      "name": "斬魄刑刀 ‧ 莎樂美",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 6
     },
     "5001": {
       "name": "UNKNOWN"

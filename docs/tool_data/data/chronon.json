@@ -2924,122 +2924,6 @@
       ]
     },
     {
-      "id": 22,
-      "series": 1,
-      "scid": 22,
-      "name": "變革的世界",
-      "nameEn": "Changing World",
-      "star": 1,
-      "maxLevel": 5,
-      "fpConsume": 2,
-      "instantSkill": [
-        [
-          {
-            "skill": 11,
-            "args": []
-          }
-        ],
-        [
-          {
-            "skill": 11,
-            "args": []
-          }
-        ],
-        [
-          {
-            "skill": 11,
-            "args": []
-          }
-        ],
-        [
-          {
-            "skill": 11,
-            "args": []
-          }
-        ],
-        [
-          {
-            "skill": 11,
-            "args": []
-          }
-        ]
-      ],
-      "statusSkill": [
-        [
-          {
-            "skill": 20,
-            "args": []
-          }
-        ],
-        [
-          {
-            "skill": 20,
-            "args": []
-          }
-        ],
-        [
-          {
-            "skill": 20,
-            "args": []
-          }
-        ],
-        [
-          {
-            "skill": 20,
-            "args": []
-          }
-        ],
-        [
-          {
-            "skill": 20,
-            "args": []
-          }
-        ]
-      ],
-      "triggeredSkill": [
-        [
-          {
-            "skill": 1,
-            "args": [
-              60
-            ]
-          }
-        ],
-        [
-          {
-            "skill": 1,
-            "args": [
-              70
-            ]
-          }
-        ],
-        [
-          {
-            "skill": 1,
-            "args": [
-              80
-            ]
-          }
-        ],
-        [
-          {
-            "skill": 1,
-            "args": [
-              90
-            ]
-          }
-        ],
-        [
-          {
-            "skill": 1,
-            "args": [
-              100
-            ]
-          }
-        ]
-      ]
-    },
-    {
       "id": 26,
       "series": 1,
       "scid": 26,
@@ -3201,6 +3085,122 @@
           {
             "skill": 9,
             "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 22,
+      "series": 1,
+      "scid": 22,
+      "name": "變革的世界",
+      "nameEn": "Changing World",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              70
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              90
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
           }
         ]
       ]
