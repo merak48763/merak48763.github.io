@@ -2924,6 +2924,122 @@
       ]
     },
     {
+      "id": 22,
+      "series": 1,
+      "scid": 22,
+      "name": "變革的世界",
+      "nameEn": "Changing World",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 11,
+            "args": []
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              70
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              90
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ]
+    },
+    {
       "id": 26,
       "series": 1,
       "scid": 26,
@@ -3090,42 +3206,42 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "series": 1,
-      "scid": 22,
-      "name": "變革的世界",
-      "nameEn": "Changing World",
+      "scid": 23,
+      "name": "星光灑落之夜",
+      "nameEn": "Under the Starry Sky",
       "star": 1,
       "maxLevel": 5,
       "fpConsume": 2,
       "instantSkill": [
         [
           {
-            "skill": 11,
+            "skill": 10,
             "args": []
           }
         ],
         [
           {
-            "skill": 11,
+            "skill": 10,
             "args": []
           }
         ],
         [
           {
-            "skill": 11,
+            "skill": 10,
             "args": []
           }
         ],
         [
           {
-            "skill": 11,
+            "skill": 10,
             "args": []
           }
         ],
         [
           {
-            "skill": 11,
+            "skill": 10,
             "args": []
           }
         ]
@@ -3133,32 +3249,169 @@
       "statusSkill": [
         [
           {
-            "skill": 20,
+            "skill": 1,
             "args": []
           }
         ],
         [
           {
-            "skill": 20,
+            "skill": 1,
             "args": []
           }
         ],
         [
           {
-            "skill": 20,
+            "skill": 1,
             "args": []
           }
         ],
         [
           {
-            "skill": 20,
+            "skill": 1,
             "args": []
           }
         ],
         [
           {
-            "skill": 20,
+            "skill": 1,
             "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 12,
+            "args": []
+          },
+          {
+            "skill": 13,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 24,
+      "series": 1,
+      "scid": 24,
+      "name": "悲劇的迴圈",
+      "nameEn": "A Looping Tragic Tale",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              4,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              4,
+              1
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 18,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": []
+          },
+          {
+            "skill": 6,
+            "args": [
+              100
+            ]
+          },
+          {
+            "skill": 5,
+            "args": [
+              100
+            ]
           }
         ]
       ],
@@ -3167,31 +3420,7 @@
           {
             "skill": 1,
             "args": [
-              60
-            ]
-          }
-        ],
-        [
-          {
-            "skill": 1,
-            "args": [
-              70
-            ]
-          }
-        ],
-        [
-          {
-            "skill": 1,
-            "args": [
-              80
-            ]
-          }
-        ],
-        [
-          {
-            "skill": 1,
-            "args": [
-              90
+              100
             ]
           }
         ],
@@ -3200,6 +3429,190 @@
             "skill": 1,
             "args": [
               100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          },
+          {
+            "skill": 8,
+            "args": [
+              150
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 25,
+      "series": 1,
+      "scid": 25,
+      "name": "高舉的聖槍",
+      "nameEn": "Raising the Holy Spear",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              4,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              4,
+              5
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": [
+              1,
+              4
+            ]
+          },
+          {
+            "skill": 35,
+            "args": [
+              1,
+              4
+            ]
+          },
+          {
+            "skill": 36,
+            "args": [
+              1,
+              5
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          },
+          {
+            "skill": 3,
+            "args": [
+              150
             ]
           }
         ]
