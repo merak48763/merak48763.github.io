@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.500",
-    "dv": 13408,
-    "time": 1723439293
+    "version": "2024.502",
+    "dv": 13412,
+    "time": 1724202144
   },
   "monster": {
     "1": {
@@ -26343,6 +26343,18 @@
       "name": "斬魄刑刀 ‧ 莎樂美",
       "attribute": 3,
       "race": 2,
+      "rarity": 6
+    },
+    "10733": {
+      "name": "膨脹貪念 ‧ 魯斯蘭",
+      "attribute": 3,
+      "race": 10,
+      "rarity": 6
+    },
+    "10735": {
+      "name": "堅毅戰歌 ‧ 提爾鋒",
+      "attribute": 4,
+      "race": 4,
       "rarity": 6
     },
     "5001": {
