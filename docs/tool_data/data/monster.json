@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2024.502",
-    "dv": 13417,
-    "time": 1724319211
+    "dv": 13423,
+    "time": 1724924988
   },
   "monster": {
     "1": {
@@ -26357,15 +26357,33 @@
       "race": 2,
       "rarity": 6
     },
+    "10732": {
+      "name": "獄庭政主 ‧ 賀茂忠行",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
     "10733": {
       "name": "膨脹貪念 ‧ 魯斯蘭",
       "attribute": 3,
       "race": 10,
       "rarity": 6
     },
+    "10734": {
+      "name": "肅清惡罪 ‧ 露芙",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
     "10735": {
       "name": "堅毅戰歌 ‧ 提爾鋒",
       "attribute": 4,
+      "race": 4,
+      "rarity": 6
+    },
+    "10736": {
+      "name": "轟旋的凌風 ‧ 格拉墨",
+      "attribute": 3,
       "race": 4,
       "rarity": 6
     },
