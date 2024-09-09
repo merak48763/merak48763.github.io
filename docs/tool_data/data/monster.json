@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.502",
-    "dv": 13423,
-    "time": 1724924988
+    "version": "2024.510",
+    "dv": 13476,
+    "time": 1725851390
   },
   "monster": {
     "1": {
@@ -17261,6 +17261,12 @@
       "race": 10,
       "rarity": 6
     },
+    "2887": {
+      "name": "形骸朱顔 ‧ 白骨精",
+      "attribute": 2,
+      "race": 3,
+      "rarity": 6
+    },
     "2900": {
       "name": "十年創紀 ‧ 瘋頭",
       "attribute": 1,
@@ -21258,6 +21264,12 @@
       "name": "迎風追影 · 阿爾法與貝塔",
       "attribute": 5,
       "race": 10,
+      "rarity": 6
+    },
+    "6679": {
+      "name": "形骸靈夢 ‧ 白骨精",
+      "attribute": 2,
+      "race": 3,
       "rarity": 6
     },
     "6680": {
@@ -26386,6 +26398,150 @@
       "attribute": 3,
       "race": 4,
       "rarity": 6
+    },
+    "10737": {
+      "name": "蒼影",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 6
+    },
+    "10738": {
+      "name": "紅丸",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
+    "10739": {
+      "name": "哥布達",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 6
+    },
+    "10740": {
+      "name": "紫苑",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "10741": {
+      "name": "白老",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 6
+    },
+    "10742": {
+      "name": "利姆路 ‧ 坦派斯特",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 6
+    },
+    "10743": {
+      "name": "魔國聯邦盟主 ‧ 利姆路",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 6
+    },
+    "10744": {
+      "name": "蘭加",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 6
+    },
+    "10745": {
+      "name": "戈畢爾",
+      "attribute": 1,
+      "race": 4,
+      "rarity": 6
+    },
+    "10746": {
+      "name": "井澤靜江",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10747": {
+      "name": "朱菜",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
+    "10748": {
+      "name": "蓋德",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 6
+    },
+    "10751": {
+      "name": "暴風龍 ‧ 維爾德拉",
+      "attribute": 3,
+      "race": 4,
+      "rarity": 7
+    },
+    "10752": {
+      "name": "維爾德拉 ‧ 坦派斯特",
+      "attribute": 3,
+      "race": 4,
+      "rarity": 7
+    },
+    "10757": {
+      "name": "菈米莉絲",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 8
+    },
+    "10758": {
+      "name": "蜜莉姆 ‧ 拿渥",
+      "attribute": 2,
+      "race": 4,
+      "rarity": 8
+    },
+    "10761": {
+      "name": "希波庫特草",
+      "attribute": 3,
+      "race": 7,
+      "rarity": 6
+    },
+    "10762": {
+      "name": "利姆路 ‧ 坦派斯特 (人)",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 7
+    },
+    "10763": {
+      "name": "利姆路 ‧ 坦派斯特 (獸)",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 7
+    },
+    "10764": {
+      "name": "利姆路 ‧ 坦派斯特 (妖)",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 7
+    },
+    "10765": {
+      "name": "利姆路 ‧ 坦派斯特 (龍)",
+      "attribute": 1,
+      "race": 4,
+      "rarity": 7
+    },
+    "10766": {
+      "name": "利姆路 ‧ 坦派斯特 (神)",
+      "attribute": 1,
+      "race": 5,
+      "rarity": 7
+    },
+    "10767": {
+      "name": "利姆路 ‧ 坦派斯特 (魔)",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 7
+    },
+    "10768": {
+      "name": "利姆路 ‧ 坦派斯特 (機械)",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 7
     },
     "5001": {
       "name": "UNKNOWN"
