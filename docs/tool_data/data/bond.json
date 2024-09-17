@@ -6468,6 +6468,30 @@
     ]
   },
   {
+    "owner": 10749,
+    "condition": 10750,
+    "conditionType": 1,
+    "ability": 20011,
+    "args": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 10750,
+    "condition": 10749,
+    "conditionType": 1,
+    "ability": 20003,
+    "args": [
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "owner": 10750,
     "condition": 10751,
     "conditionType": 1,

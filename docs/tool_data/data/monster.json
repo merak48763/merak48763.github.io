@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2024.510",
-    "dv": 13476,
-    "time": 1725851390
+    "dv": 13483,
+    "time": 1726201850
   },
   "monster": {
     "1": {
@@ -26471,6 +26471,18 @@
       "race": 2,
       "rarity": 6
     },
+    "10749": {
+      "name": "迪亞布羅",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "10750": {
+      "name": "魔王 ‧ 利姆路",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 8
+    },
     "10751": {
       "name": "暴風龍 ‧ 維爾德拉",
       "attribute": 3,
@@ -26482,6 +26494,12 @@
       "attribute": 3,
       "race": 4,
       "rarity": 7
+    },
+    "10756": {
+      "name": "克雷曼",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
     },
     "10757": {
       "name": "菈米莉絲",
