@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "version": "2024.510",
-    "time": 1725851390
+    "version": "2024.511",
+    "time": 1726827698
   },
   "quiz": {
     "1": {
@@ -6911,7 +6911,7 @@
         "白老",
         "哥布達",
         "蘭加",
-        "魔王 ‧ 利姆路"
+        "利姆路 ‧ 坦派斯特"
       ],
       "quizImage": null
     },
@@ -6947,6 +6947,260 @@
         "白老"
       ],
       "quizImage": null
+    },
+    "664": {
+      "question": "班長的登入天數幾天了？",
+      "answer": 2,
+      "answer_options": [
+        "1000",
+        "3000",
+        "4000",
+        "7300"
+      ],
+      "quizImage": "16b2023376ac3c22-A.jpg"
+    },
+    "665": {
+      "question": "班長最常使用的交通工具為何？",
+      "answer": 2,
+      "answer_options": [
+        "跑車",
+        "新幹線",
+        "飛行機",
+        "戰鬥機"
+      ],
+      "quizImage": "16b2023376ac3c22-A.jpg"
+    },
+    "666": {
+      "question": "威廉是第幾代神魔小弟？",
+      "answer": 2,
+      "answer_options": [
+        "一代 ",
+        "二代",
+        "三代",
+        "四代"
+      ],
+      "quizImage": "444b4e0a26b0a25d-B.jpg"
+    },
+    "667": {
+      "question": "威廉最常戴的帽子叫做什麼？",
+      "answer": 1,
+      "answer_options": [
+        "鴨舌帽",
+        "水兵帽",
+        "棒球帽",
+        "毛帽"
+      ],
+      "quizImage": "444b4e0a26b0a25d-B.jpg"
+    },
+    "668": {
+      "question": "CC喜歡吃什麼？",
+      "answer": 2,
+      "answer_options": [
+        "榴槤",
+        "咖哩飯",
+        "草莓製品",
+        "陽春麵"
+      ],
+      "quizImage": "f88ff4f32055e165-CC.jpg"
+    },
+    "669": {
+      "question": "CC的興趣是？",
+      "answer": 1,
+      "answer_options": [
+        "健身",
+        "唱歌",
+        "剪影片",
+        "游泳"
+      ],
+      "quizImage": "f88ff4f32055e165-CC.jpg"
+    },
+    "670": {
+      "question": "饅頭最喜歡看什麼？",
+      "answer": 2,
+      "answer_options": [
+        "風景",
+        "鬼片",
+        "動漫",
+        "書"
+      ],
+      "quizImage": "55e7389f996c0bd6-D.jpg"
+    },
+    "671": {
+      "question": "饅頭目前玩神魔資歷多久？",
+      "answer": 3,
+      "answer_options": [
+        "10年老玩家",
+        "5年鐵粉",
+        "1個月4天新生兒",
+        "1年4個月小菜鳥"
+      ],
+      "quizImage": "55e7389f996c0bd6-D.jpg"
+    },
+    "672": {
+      "question": "法蘭克最喜歡的神魔角色？",
+      "answer": 1,
+      "answer_options": [
+        "一願",
+        "零覓",
+        "尼祿",
+        "普羅米修斯"
+      ],
+      "quizImage": "4e4086637397939a-E.jpg"
+    },
+    "673": {
+      "question": "法蘭克最常被說的一句話是什麼？",
+      "answer": 0,
+      "answer_options": [
+        "生日快樂",
+        "恭喜發財",
+        "轉珠高手",
+        "一抽入魂"
+      ],
+      "quizImage": "4e4086637397939a-E.jpg"
+    },
+    "674": {
+      "question": "皮皮最喜歡的神魔召喚獸是什麼？",
+      "answer": 0,
+      "answer_options": [
+        "夏瑪西",
+        "夏娃",
+        "妲己",
+        "秦始皇"
+      ],
+      "quizImage": "c77ac49979ae8fec-F.jpg"
+    },
+    "675": {
+      "question": "皮皮覺得神魔之塔除了遊戲好玩外，神魔之塔還有什麼是吸引皮皮的點？",
+      "answer": 2,
+      "answer_options": [
+        "美麗絕倫的遊戲卡圖",
+        "別具匠心的關卡設計",
+        "引人入勝的背景故事",
+        "非常佛心的抽卡機制"
+      ],
+      "quizImage": "c77ac49979ae8fec-F.jpg"
+    },
+    "676": {
+      "question": "請問爾文斯有什麼習慣？",
+      "answer": 0,
+      "answer_options": [
+        "邊健身邊玩神魔",
+        "邊健身邊吃飯",
+        "邊健身邊睡覺",
+        "邊健身邊跳舞"
+      ],
+      "quizImage": "c18dc237a4c281ff-G.jpg"
+    },
+    "677": {
+      "question": "很多玩家要求爾文斯扮演哪個角色？",
+      "answer": 0,
+      "answer_options": [
+        "普羅米修斯",
+        "潘朵拉",
+        "涅索伊",
+        "刻琿"
+      ],
+      "quizImage": "c18dc237a4c281ff-G.jpg"
+    },
+    "678": {
+      "question": "Ashen 來自馬來西亞的哪裡？",
+      "answer": 0,
+      "answer_options": [
+        "吉隆坡",
+        "檳城",
+        "沙巴",
+        "馬六甲"
+      ],
+      "quizImage": "25a39dac63e5b303-H.jpg"
+    },
+    "679": {
+      "question": "Ashen 最近開始學習的運動是什麼？",
+      "answer": 2,
+      "answer_options": [
+        "羽毛球",
+        "網球",
+        "滑板",
+        "潛水"
+      ],
+      "quizImage": "25a39dac63e5b303-H.jpg"
+    },
+    "680": {
+      "question": "托米仔的愛好是？",
+      "answer": 2,
+      "answer_options": [
+        "睡覺",
+        "打電動",
+        "唱歌",
+        "素描"
+      ],
+      "quizImage": "e952ffa4823457df-I.jpg"
+    },
+    "681": {
+      "question": "托米仔的轉珠取向是？",
+      "answer": 0,
+      "answer_options": [
+        "左手",
+        "右手",
+        "雙手並用",
+        "轉珠筆"
+      ],
+      "quizImage": "e952ffa4823457df-I.jpg"
+    },
+    "682": {
+      "question": "請問DaiMa 的興趣是什麼？",
+      "answer": 2,
+      "answer_options": [
+        "跳舞、旅行",
+        "跳舞、影相",
+        "打電動、跳舞",
+        "做gym、跳舞",
+        ""
+      ],
+      "quizImage": "da04e9617bee5e15-J.jpg"
+    },
+    "683": {
+      "question": "請問DaiMa主要是跳什麼舞種？",
+      "answer": 0,
+      "answer_options": [
+        "hiphop",
+        "廣場舞",
+        "jazz funk ",
+        "breaking"
+      ],
+      "quizImage": "da04e9617bee5e15-J.jpg"
+    },
+    "684": {
+      "question": "木南最喜歡的卡片是？",
+      "answer": 2,
+      "answer_options": [
+        "肖恩",
+        "莉莉絲",
+        "莫莉",
+        "艾莉亞"
+      ],
+      "quizImage": "a118599ee5d16fe1-K.jpg"
+    },
+    "685": {
+      "question": "木南作為Coser多久了？",
+      "answer": 1,
+      "answer_options": [
+        "1年",
+        "2年",
+        "3年",
+        "4年"
+      ],
+      "quizImage": "a118599ee5d16fe1-K.jpg"
+    },
+    "686": {
+      "question": "凡希第一次與大家相遇的地方是？",
+      "answer": 0,
+      "answer_options": [
+        "龍刻快狠準",
+        "一抽約定大放送",
+        "服務台",
+        "舞台"
+      ],
+      "quizImage": "eb44866648f29aef-L.jpg"
     }
   }
 }

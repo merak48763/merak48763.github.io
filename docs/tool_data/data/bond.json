@@ -6528,10 +6528,34 @@
     ]
   },
   {
+    "owner": 10753,
+    "condition": 10755,
+    "conditionType": 2,
+    "ability": 20002,
+    "args": [
+      100,
+      1,
+      0,
+      0
+    ]
+  },
+  {
     "owner": 10754,
     "condition": 10738,
     "conditionType": 1,
     "ability": 20003,
+    "args": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 10755,
+    "condition": 10753,
+    "conditionType": 2,
+    "ability": 20005,
     "args": [
       1,
       0,
@@ -6559,6 +6583,18 @@
     "args": [
       1,
       0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 10760,
+    "condition": 10759,
+    "conditionType": 2,
+    "ability": 20002,
+    "args": [
+      100,
+      1,
       0,
       0
     ]
