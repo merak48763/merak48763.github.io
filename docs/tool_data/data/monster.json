@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2024.511",
-    "dv": 13487,
-    "time": 1726827698
+    "dv": 13493,
+    "time": 1727341298
   },
   "monster": {
     "1": {
@@ -26501,6 +26501,18 @@
       "race": 1,
       "rarity": 6
     },
+    "10754": {
+      "name": "紅葉",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
+    "10755": {
+      "name": "正幸",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
     "10756": {
       "name": "克雷曼",
       "attribute": 5,
@@ -26524,6 +26536,12 @@
       "attribute": 4,
       "race": 1,
       "rarity": 7
+    },
+    "10760": {
+      "name": "魯米納斯 ‧ 瓦倫泰",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 8
     },
     "10761": {
       "name": "希波庫特草",
