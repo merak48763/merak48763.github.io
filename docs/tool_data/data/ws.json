@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.510",
-    "dv": 24032,
-    "time": 1725851390
+    "version": "2024.600",
+    "dv": 24226,
+    "time": 1728273231
   },
   "ws": {
     "10001": {
@@ -3688,6 +3688,186 @@
     "10767": {
       "title": "",
       "desc": "•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+      "custom_desc": ""
+    },
+    "10768": {
+      "title": "",
+      "desc": "•&nbsp;水屬性以外成員<br />⇒&nbsp;進入「技能封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10769": {
+      "title": "",
+      "desc": "•&nbsp;火屬性以外成員<br />⇒&nbsp;進入「技能封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10770": {
+      "title": "",
+      "desc": "•&nbsp;木屬性以外成員<br />⇒&nbsp;進入「技能封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10771": {
+      "title": "",
+      "desc": "•&nbsp;光屬性以外成員<br />⇒&nbsp;進入「技能封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10772": {
+      "title": "",
+      "desc": "•&nbsp;暗屬性以外成員<br />⇒&nbsp;進入「技能封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10773": {
+      "title": "",
+      "desc": "•&nbsp;人類以外成員<br />⇒&nbsp;進入「技能封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10774": {
+      "title": "",
+      "desc": "•&nbsp;獸類以外成員<br />⇒&nbsp;進入「技能封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10775": {
+      "title": "",
+      "desc": "•&nbsp;妖精類以外成員<br />⇒&nbsp;進入「技能封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10776": {
+      "title": "",
+      "desc": "•&nbsp;龍類以外成員<br />⇒&nbsp;進入「技能封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10777": {
+      "title": "",
+      "desc": "•&nbsp;神族以外成員<br />⇒&nbsp;進入「技能封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10778": {
+      "title": "",
+      "desc": "•&nbsp;魔族以外成員<br />⇒&nbsp;進入「技能封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10779": {
+      "title": "",
+      "desc": "•&nbsp;機械族以外成員<br />⇒&nbsp;進入「技能封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10780": {
+      "title": "",
+      "desc": "•&nbsp;水屬性以外成員<br />⇒&nbsp;進入永久「攻擊封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10781": {
+      "title": "",
+      "desc": "•&nbsp;火屬性以外成員<br />⇒&nbsp;進入「攻擊封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10782": {
+      "title": "",
+      "desc": "•&nbsp;木屬性以外成員<br />⇒&nbsp;進入「攻擊封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10783": {
+      "title": "",
+      "desc": "•&nbsp;光屬性以外成員<br />⇒&nbsp;進入「攻擊封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10784": {
+      "title": "",
+      "desc": "•&nbsp;暗屬性以外成員<br />⇒&nbsp;進入「攻擊封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10785": {
+      "title": "",
+      "desc": "•&nbsp;人類以外成員<br />⇒&nbsp;進入「攻擊封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10786": {
+      "title": "",
+      "desc": "•&nbsp;獸類以外成員<br />⇒&nbsp;進入「攻擊封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10787": {
+      "title": "",
+      "desc": "•&nbsp;妖精類以外成員<br />⇒&nbsp;進入「攻擊封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10788": {
+      "title": "",
+      "desc": "•&nbsp;龍類以外成員<br />⇒&nbsp;進入「攻擊封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10789": {
+      "title": "",
+      "desc": "•&nbsp;神族以外成員<br />⇒&nbsp;進入「攻擊封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10790": {
+      "title": "",
+      "desc": "•&nbsp;魔族以外成員<br />⇒&nbsp;進入「攻擊封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10791": {
+      "title": "",
+      "desc": "•&nbsp;機械族以外成員<br />⇒&nbsp;進入「攻擊封印」<br />⇒&nbsp;直至進入下一層數&nbsp;(Wave)",
+      "custom_desc": ""
+    },
+    "10792": {
+      "title": "",
+      "desc": "•&nbsp;水屬性以外成員<br />⇒&nbsp;進入「回復封印」：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法提升當前生命力",
+      "custom_desc": ""
+    },
+    "10793": {
+      "title": "",
+      "desc": "•&nbsp;火屬性以外成員<br />⇒&nbsp;進入「回復封印」：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法提升當前生命力",
+      "custom_desc": ""
+    },
+    "10794": {
+      "title": "",
+      "desc": "•&nbsp;木屬性以外成員<br />⇒&nbsp;進入「回復封印」：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法提升當前生命力",
+      "custom_desc": ""
+    },
+    "10795": {
+      "title": "",
+      "desc": "•&nbsp;光屬性以外成員<br />⇒&nbsp;進入「回復封印」：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法提升當前生命力",
+      "custom_desc": ""
+    },
+    "10796": {
+      "title": "",
+      "desc": "•&nbsp;暗屬性以外成員<br />⇒&nbsp;進入「回復封印」：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法提升當前生命力",
+      "custom_desc": ""
+    },
+    "10797": {
+      "title": "",
+      "desc": "•&nbsp;人類以外成員<br />⇒&nbsp;進入永久「回復封印」：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法提升當前生命力",
+      "custom_desc": ""
+    },
+    "10798": {
+      "title": "",
+      "desc": "•&nbsp;獸類以外成員<br />⇒&nbsp;進入永久「回復封印」：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法提升當前生命力",
+      "custom_desc": ""
+    },
+    "10799": {
+      "title": "",
+      "desc": "•&nbsp;妖精類以外成員<br />⇒&nbsp;進入永久「回復封印」：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法提升當前生命力",
+      "custom_desc": ""
+    },
+    "10800": {
+      "title": "",
+      "desc": "•&nbsp;龍類以外成員<br />⇒&nbsp;進入永久「回復封印」：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法提升當前生命力",
+      "custom_desc": ""
+    },
+    "10801": {
+      "title": "",
+      "desc": "•&nbsp;神族以外成員<br />⇒&nbsp;進入永久「回復封印」：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法提升當前生命力",
+      "custom_desc": ""
+    },
+    "10802": {
+      "title": "",
+      "desc": "•&nbsp;魔族以外成員<br />⇒&nbsp;進入永久「回復封印」：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法提升當前生命力",
+      "custom_desc": ""
+    },
+    "10803": {
+      "title": "",
+      "desc": "•&nbsp;機械族以外成員<br />⇒&nbsp;進入永久「回復封印」：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法提升當前生命力",
       "custom_desc": ""
     }
   }

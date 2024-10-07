@@ -3617,6 +3617,431 @@
           }
         ]
       ]
+    },
+    {
+      "id": 27,
+      "series": 1,
+      "scid": 27,
+      "name": "冷冽談判",
+      "nameEn": "Calm Negotiation",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 16,
+            "args": [
+              10000000,
+              5,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              10000000,
+              5,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              10000000,
+              5,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              50000000,
+              10,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              50000000,
+              10,
+              0
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 27,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": []
+          },
+          {
+            "skill": 43,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": []
+          },
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 28,
+      "series": 1,
+      "scid": 28,
+      "name": "難以割離的念想",
+      "nameEn": "Hard to Say Goodbye",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 1,
+      "instantSkill": [
+        [
+          {
+            "skill": 8,
+            "args": [
+              200000
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": [
+              300000
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": [
+              400000
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": []
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 9,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              4
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 20,
+            "args": [
+              3,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              3,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              3,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              3,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              3,
+              4
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 29,
+      "series": 1,
+      "scid": 29,
+      "name": "同盟破敵的決意",
+      "nameEn": "Aligned Determination",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 3,
+      "instantSkill": [
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 4,
+            "args": [
+              50,
+              1,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 4,
+            "args": [
+              50,
+              1,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 4,
+            "args": [
+              50,
+              1,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 4,
+            "args": [
+              50,
+              1,
+              4
+            ]
+          },
+          {
+            "skill": 4,
+            "args": [
+              50,
+              1,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 4,
+            "args": [
+              50,
+              2,
+              4
+            ]
+          },
+          {
+            "skill": 4,
+            "args": [
+              50,
+              2,
+              2
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 8,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 8,
+            "args": []
+          }
+        ]
+      ]
     }
   ],
   "series": [

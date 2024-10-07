@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.511",
-    "dv": 24054,
-    "time": 1726827698
+    "version": "2024.600",
+    "dv": 24226,
+    "time": 1728273231
   },
   "es": {
     "0": {
@@ -47169,6 +47169,211 @@
       "icons": [
         465
       ]
+    },
+    "7300": {
+      "title": "【固定 1 連擊】",
+      "desc": "•&nbsp;連擊&nbsp;(Combo)&nbsp;數目固定為&nbsp;1",
+      "custom_desc": ""
+    },
+    "7301": {
+      "title": "【固定 2 連擊】",
+      "desc": "•&nbsp;連擊&nbsp;(Combo)&nbsp;數目固定為&nbsp;2",
+      "custom_desc": ""
+    },
+    "7302": {
+      "title": "【固定 3 連擊】",
+      "desc": "•&nbsp;連擊&nbsp;(Combo)&nbsp;數目固定為&nbsp;3",
+      "custom_desc": ""
+    },
+    "7303": {
+      "title": "【固定 4 連擊】",
+      "desc": "•&nbsp;連擊&nbsp;(Combo)&nbsp;數目固定為&nbsp;4",
+      "custom_desc": ""
+    },
+    "7304": {
+      "title": "【固定 5 連擊】",
+      "desc": "•&nbsp;連擊&nbsp;(Combo)&nbsp;數目固定為&nbsp;5",
+      "custom_desc": ""
+    },
+    "7305": {
+      "title": "【固定 6 連擊】",
+      "desc": "•&nbsp;連擊&nbsp;(Combo)&nbsp;數目固定為&nbsp;6",
+      "custom_desc": ""
+    },
+    "7306": {
+      "title": "【固定 7 連擊】",
+      "desc": "•&nbsp;連擊&nbsp;(Combo)&nbsp;數目固定為&nbsp;7",
+      "custom_desc": ""
+    },
+    "7307": {
+      "title": "【固定 8 連擊】",
+      "desc": "•&nbsp;連擊&nbsp;(Combo)&nbsp;數目固定為&nbsp;8",
+      "custom_desc": ""
+    },
+    "7308": {
+      "title": "【固定 9 連擊】",
+      "desc": "•&nbsp;連擊&nbsp;(Combo)&nbsp;數目固定為&nbsp;9",
+      "custom_desc": ""
+    },
+    "7309": {
+      "title": "【固定 10 連擊】",
+      "desc": "•&nbsp;連擊&nbsp;(Combo)&nbsp;數目固定為&nbsp;10",
+      "custom_desc": ""
+    },
+    "7328": {
+      "title": "【只能首消】",
+      "desc": "•&nbsp;1&nbsp;回合內<br />⇒&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7329": {
+      "title": "【只能首消】",
+      "desc": "•&nbsp;2&nbsp;回合內<br />⇒&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7330": {
+      "title": "【只能首消】",
+      "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7331": {
+      "title": "【只能首消】",
+      "desc": "•&nbsp;4&nbsp;回合內<br />⇒&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7332": {
+      "title": "【只能首消】",
+      "desc": "•&nbsp;5&nbsp;回合內<br />⇒&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7333": {
+      "title": "【只能首消】",
+      "desc": "•&nbsp;6&nbsp;回合內<br />⇒&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7334": {
+      "title": "【只能首消】",
+      "desc": "•&nbsp;7&nbsp;回合內<br />⇒&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7335": {
+      "title": "【只能首消】",
+      "desc": "•&nbsp;8&nbsp;回合內<br />⇒&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7336": {
+      "title": "【只能首消】",
+      "desc": "•&nbsp;9&nbsp;回合內<br />⇒&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7337": {
+      "title": "【只能首消】",
+      "desc": "•&nbsp;10&nbsp;回合內<br />⇒&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7338": {
+      "title": "【只能首消】",
+      "desc": "•&nbsp;98&nbsp;回合內<br />⇒&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7339": {
+      "title": "【水符石掉落率 0%】",
+      "desc": "•&nbsp;1&nbsp;回合內<br />⇒&nbsp;水符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7340": {
+      "title": "【水符石掉落率 0%】",
+      "desc": "•&nbsp;2&nbsp;回合內<br />⇒&nbsp;水符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7341": {
+      "title": "【水符石掉落率 0%】",
+      "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;水符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7342": {
+      "title": "【火符石掉落率 0%】",
+      "desc": "•&nbsp;1&nbsp;回合內<br />⇒&nbsp;火符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7343": {
+      "title": "【火符石掉落率 0%】",
+      "desc": "•&nbsp;2&nbsp;回合內<br />⇒&nbsp;火符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7344": {
+      "title": "【火符石掉落率 0%】",
+      "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;火符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7345": {
+      "title": "【木符石掉落率 0%】",
+      "desc": "•&nbsp;1&nbsp;回合內<br />⇒&nbsp;木符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7346": {
+      "title": "【木符石掉落率 0%】",
+      "desc": "•&nbsp;2&nbsp;回合內<br />⇒&nbsp;木符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7347": {
+      "title": "【木符石掉落率 0%】",
+      "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;木符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7348": {
+      "title": "【光符石掉落率 0%】",
+      "desc": "•&nbsp;1&nbsp;回合內<br />⇒&nbsp;光符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7349": {
+      "title": "【光符石掉落率 0%】",
+      "desc": "•&nbsp;2&nbsp;回合內<br />⇒&nbsp;光符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7350": {
+      "title": "【光符石掉落率 0%】",
+      "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;光符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7351": {
+      "title": "【暗符石掉落率 0%】",
+      "desc": "•&nbsp;1&nbsp;回合內<br />⇒&nbsp;暗符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7352": {
+      "title": "【暗符石掉落率 0%】",
+      "desc": "•&nbsp;2&nbsp;回合內<br />⇒&nbsp;暗符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7353": {
+      "title": "【暗符石掉落率 0%】",
+      "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;暗符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7354": {
+      "title": "【心符石掉落率 0%】",
+      "desc": "•&nbsp;1&nbsp;回合內<br />⇒&nbsp;心符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7355": {
+      "title": "【心符石掉落率 0%】",
+      "desc": "•&nbsp;2&nbsp;回合內<br />⇒&nbsp;心符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7356": {
+      "title": "【心符石掉落率 0%】",
+      "desc": "•&nbsp;3&nbsp;回合內<br />⇒&nbsp;心符石的掉落率降至&nbsp;0<br />⇒&nbsp;將原有機率增加至<br />&nbsp;&nbsp;&nbsp;&nbsp;其他符石的掉落率",
+      "custom_desc": ""
+    },
+    "7358": {
+      "title": "【攻擊自戕】",
+      "desc": "•&nbsp;敵人發動攻擊<br />⇒&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
+      "custom_desc": ""
+    },
+    "7359": {
+      "title": "【擊碎龍脈儀】",
+      "desc": "•&nbsp;擊碎龍脈儀",
+      "custom_desc": ""
     }
   }
 }

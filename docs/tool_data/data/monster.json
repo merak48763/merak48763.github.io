@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.511",
-    "dv": 13493,
-    "time": 1727341298
+    "version": "2024.600",
+    "dv": 13506,
+    "time": 1728273231
   },
   "monster": {
     "1": {
@@ -17267,6 +17267,12 @@
       "race": 3,
       "rarity": 6
     },
+    "2888": {
+      "name": "魔方重塑 ‧ 摩斯",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
     "2900": {
       "name": "十年創紀 ‧ 瘋頭",
       "attribute": 1,
@@ -21277,6 +21283,12 @@
       "attribute": 5,
       "race": 10,
       "rarity": 7
+    },
+    "6685": {
+      "name": "魔方解因 ‧ 摩斯",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
     },
     "6999": {
       "name": "米拉珍",
@@ -26590,6 +26602,30 @@
       "attribute": 1,
       "race": 10,
       "rarity": 7
+    },
+    "10769": {
+      "name": "凡第爾國警察",
+      "attribute": 3,
+      "race": 7,
+      "rarity": 6
+    },
+    "10790": {
+      "name": "香魅兔女郎 ‧ 梅蜜",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10792": {
+      "name": "全面監視 ‧ 德里克",
+      "attribute": 3,
+      "race": 4,
+      "rarity": 6
+    },
+    "10796": {
+      "name": "骰子迷旅 ‧ 兔比",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 6
     },
     "5001": {
       "name": "UNKNOWN"
