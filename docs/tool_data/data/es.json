@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.600",
-    "dv": 24226,
-    "time": 1728273231
+    "version": "2024.601",
+    "dv": 24252,
+    "time": 1728551301
   },
   "es": {
     "0": {
@@ -37888,7 +37888,13 @@
     "6071": {
       "title": "【隱身 - 錮縛 - 技能】",
       "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;永久封鎖所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;的主動技能",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        901
+      ],
+      "alticons": [
+        []
+      ]
     },
     "6072": {
       "title": "【隱身 - 錮縛 - 技能、攻擊】",
@@ -38821,22 +38827,78 @@
     "6180": {
       "title": "【連擊相等盾】",
       "desc": "•【五屬連擊相等盾】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;屬性連擊相等需求減少&nbsp;1<br />⇒&nbsp;最多減至<br />&nbsp;&nbsp;【水木連擊相等盾】",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">attribute_change decrease 五屬 水木光暗 水木暗 水木</span>",
+      "icons": [
+        21561
+      ],
+      "alticons": [
+        [
+          21547
+        ],
+        [
+          21526
+        ],
+        [
+          21502
+        ]
+      ]
     },
     "6181": {
       "title": "【連擊相等盾】",
       "desc": "•【五屬連擊相等盾】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;屬性連擊相等需求減少&nbsp;1<br />⇒&nbsp;最多減至<br />&nbsp;&nbsp;【光暗連擊相等盾】",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">attribute_change decrease 五屬 火木光暗 木光暗 光暗</span>",
+      "icons": [
+        21561
+      ],
+      "alticons": [
+        [
+          21551
+        ],
+        [
+          21537
+        ],
+        [
+          21513
+        ]
+      ]
     },
     "6182": {
       "title": "【連擊相等盾】",
       "desc": "•【火木連擊相等盾】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;屬性連擊相等需求增加&nbsp;1<br />⇒&nbsp;最多加至<br />&nbsp;&nbsp;【五屬連擊相等盾】<br />＊召喚師死亡後重置",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">attribute_change increase 火木 火木暗 火木光暗 五屬</span>",
+      "icons": [
+        31506
+      ],
+      "alticons": [
+        [
+          31532
+        ],
+        [
+          31551
+        ],
+        [
+          31561
+        ]
+      ]
     },
     "6183": {
       "title": "【連擊相等盾】",
       "desc": "•【水火連擊相等盾】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;屬性連擊相等需求增加&nbsp;1<br />⇒&nbsp;最多加至<br />&nbsp;&nbsp;【五屬連擊相等盾】<br />＊召喚師死亡後重置",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">attribute_change increase 水火 水火光 水火光暗 五屬</span>",
+      "icons": [
+        31501
+      ],
+      "alticons": [
+        [
+          31522
+        ],
+        [
+          31544
+        ],
+        [
+          31561
+        ]
+      ]
     },
     "6184": {
       "title": "【連擊相等盾】",
@@ -39152,7 +39214,24 @@
     "6207": {
       "title": "【屬性弱攻 (循環)】",
       "desc": "•&nbsp;指定屬性傷害減至&nbsp;0%<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;改為另&nbsp;1&nbsp;種屬性<br />＊五屬循環周而復始",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">attribute_change loop 水 火 木 光 暗 init 敵人的屬性</span>",
+      "icons": [
+        40251
+      ],
+      "alticons": [
+        [
+          40252
+        ],
+        [
+          40253
+        ],
+        [
+          40254
+        ],
+        [
+          40255
+        ]
+      ]
     },
     "6208": {
       "title": "【燃燒之地】",
@@ -39189,7 +39268,10 @@
     "6212": {
       "title": "【凍結符石】",
       "desc": "•&nbsp;進場時【3&nbsp;粒凍結符石&nbsp;<br />&nbsp;&nbsp;(未凍結狀態)】<br />•&nbsp;敵人發動攻擊時<br />⇒&nbsp;隨機凍結的符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(未凍結狀態)&nbsp;增加&nbsp;3&nbsp;粒<br />⇒&nbsp;最多加至【15&nbsp;粒凍結符石&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;(未凍結狀態)】<br />＊召喚師死亡後重置",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        30972
+      ]
     },
     "6213": {
       "title": "【心之幻界 - 符石轉心】",
@@ -42126,7 +42208,10 @@
     "6566": {
       "title": "【減傷抗性 ‧ 吸取龍脈儀 - 減少抗性】",
       "desc": "•&nbsp;敵人為&nbsp;100%&nbsp;減傷抗性<br />•&nbsp;進場時吸取龍脈儀的能量<br />⇒&nbsp;以永久減少減傷抗性",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1035
+      ]
     },
     "6567": {
       "title": "【減傷抗性 - 首消符石減少抗性】",
@@ -42747,62 +42832,98 @@
     "6659": {
       "title": "【根據水成員數量 - 追擊】",
       "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中水屬性成員數量<br />⇒&nbsp;額外追打",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        871
+      ]
     },
     "6660": {
       "title": "【根據火成員數量 - 追擊】",
       "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中火屬性成員數量<br />⇒&nbsp;額外追打",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        871
+      ]
     },
     "6661": {
       "title": "【根據木成員數量 - 追擊】",
       "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中木屬性成員數量<br />⇒&nbsp;額外追打",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        871
+      ]
     },
     "6662": {
       "title": "【根據光成員數量 - 追擊】",
       "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中光屬性成員數量<br />⇒&nbsp;額外追打",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        871
+      ]
     },
     "6663": {
       "title": "【根據暗成員數量 - 追擊】",
       "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中暗屬性成員數量<br />⇒&nbsp;額外追打",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        871
+      ]
     },
     "6664": {
       "title": "【根據人類成員數量 - 追擊】",
       "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中人類成員數量<br />⇒&nbsp;額外追打",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        871
+      ]
     },
     "6665": {
       "title": "【根據獸類成員數量 - 追擊】",
       "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中獸類成員數量<br />⇒&nbsp;額外追打",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        871
+      ]
     },
     "6666": {
       "title": "【根據妖精類成員數量 - 追擊】",
       "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中妖精類成員數量<br />⇒&nbsp;額外追打",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        871
+      ]
     },
     "6667": {
       "title": "【根據龍類成員數量 - 追擊】",
       "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中龍類成員數量<br />⇒&nbsp;額外追打",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        871
+      ]
     },
     "6668": {
       "title": "【根據神族成員數量 - 追擊】",
       "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中神族成員數量<br />⇒&nbsp;額外追打",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        871
+      ]
     },
     "6669": {
       "title": "【根據魔族成員數量 - 追擊】",
       "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中魔族成員數量<br />⇒&nbsp;額外追打",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        871
+      ]
     },
     "6670": {
       "title": "【根據機械族成員數量 - 追擊】",
       "desc": "•&nbsp;敵人發動攻擊時<br />&nbsp;&nbsp;根據隊中機械族成員數量<br />⇒&nbsp;額外追打",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        871
+      ]
     },
     "6699": {
       "title": "【回技】",
@@ -42965,32 +43086,50 @@
     "6721": {
       "title": "【符石轉換】",
       "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        981
+      ]
     },
     "6722": {
       "title": "【符石轉換】",
       "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
-      "custom_desc": ""
+      "custom_desc": "<ul><li>轉化火10顆，其餘5種各4顆</li></ul>",
+      "icons": [
+        981
+      ]
     },
     "6723": {
       "title": "【符石轉換】",
       "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        981
+      ]
     },
     "6724": {
       "title": "【符石轉換】",
       "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        981
+      ]
     },
     "6725": {
       "title": "【符石轉換】",
       "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        981
+      ]
     },
     "6726": {
       "title": "【符石轉換】",
       "desc": "•&nbsp;每回合將所有符石<br />⇒&nbsp;轉化為固定數量的<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        981
+      ]
     },
     "6671": {
       "title": "【幽閉之途狀態】",
@@ -44631,42 +44770,66 @@
     "6924": {
       "title": "【回復弱化】",
       "desc": "•&nbsp;受到敵人攻擊<br />⇒&nbsp;全隊回復力減少&nbsp;25%<br />•&nbsp;受到敵人攻擊的回合愈多<br />⇒&nbsp;全隊回復力減少愈多<br />⇒&nbsp;最多減少&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1118
+      ]
     },
     "6925": {
       "title": "【回復弱化】",
       "desc": "•&nbsp;受到敵人攻擊<br />⇒&nbsp;全隊回復力減少&nbsp;50%<br />•&nbsp;受到敵人攻擊的回合愈多<br />⇒&nbsp;全隊回復力減少愈多<br />⇒&nbsp;最多減少&nbsp;100%<br />&nbsp;&nbsp;&nbsp;&nbsp;",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1118
+      ]
     },
     "6926": {
       "title": "【橫行轉水】",
       "desc": "•&nbsp;每回合將指定&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為水符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        981
+      ]
     },
     "6927": {
       "title": "【橫行轉火】",
       "desc": "•&nbsp;每回合將指定&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為火符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        981
+      ]
     },
     "6928": {
       "title": "【橫行轉木】",
       "desc": "•&nbsp;每回合將指定&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為木符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        981
+      ]
     },
     "6929": {
       "title": "【橫行轉光】",
       "desc": "•&nbsp;每回合將指定&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為光符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        981
+      ]
     },
     "6930": {
       "title": "【橫行轉暗】",
       "desc": "•&nbsp;每回合將指定&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為暗符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        981
+      ]
     },
     "6931": {
       "title": "【橫行轉心】",
       "desc": "•&nbsp;每回合將指定&nbsp;1&nbsp;橫行的符石<br />⇒&nbsp;轉化為心符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        981
+      ]
     },
     "6932": {
       "title": "【時光流逝】",
@@ -46593,102 +46756,162 @@
     "7208": {
       "title": "【水之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        251
+      ]
     },
     "7209": {
       "title": "【水之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        251
+      ]
     },
     "7210": {
       "title": "【水之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        251
+      ]
     },
     "7211": {
       "title": "【水之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        251
+      ]
     },
     "7212": {
       "title": "【火之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        252
+      ]
     },
     "7213": {
       "title": "【火之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        252
+      ]
     },
     "7214": {
       "title": "【火之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        252
+      ]
     },
     "7215": {
       "title": "【火之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        252
+      ]
     },
     "7216": {
       "title": "【木之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        253
+      ]
     },
     "7217": {
       "title": "【木之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        253
+      ]
     },
     "7218": {
       "title": "【木之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        253
+      ]
     },
     "7219": {
       "title": "【木之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        253
+      ]
     },
     "7220": {
       "title": "【光之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        254
+      ]
     },
     "7221": {
       "title": "【光之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        254
+      ]
     },
     "7222": {
       "title": "【光之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        254
+      ]
     },
     "7223": {
       "title": "【光之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        254
+      ]
     },
     "7224": {
       "title": "【暗之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        255
+      ]
     },
     "7225": {
       "title": "【暗之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        255
+      ]
     },
     "7226": {
       "title": "【暗之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        255
+      ]
     },
     "7227": {
       "title": "【暗之凝護】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        255
+      ]
     },
     "7228": {
       "title": "【水之幻界】",

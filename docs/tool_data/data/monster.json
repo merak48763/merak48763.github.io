@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.600",
-    "dv": 13506,
-    "time": 1728273231
+    "version": "2024.601",
+    "dv": 13526,
+    "time": 1728551301
   },
   "monster": {
     "1": {
@@ -21284,6 +21284,18 @@
       "race": 10,
       "rarity": 7
     },
+    "6683": {
+      "name": "卓識斷症 ‧ 華生",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 6
+    },
+    "6684": {
+      "name": "變量釋義 ‧ 莫里亞蒂",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
     "6685": {
       "name": "魔方解因 ‧ 摩斯",
       "attribute": 3,
@@ -26609,16 +26621,64 @@
       "race": 7,
       "rarity": 6
     },
+    "10771": {
+      "name": "萌鴨緝凶 ‧ 柯南道爾",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 6
+    },
+    "10772": {
+      "name": "午茶前推理 ‧ 阿嘉莎",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10773": {
+      "name": "卓識斷症 ‧ 華生",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 6
+    },
+    "10774": {
+      "name": "變量釋義 ‧ 莫里亞蒂",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10775": {
+      "name": "心理觀測 ‧ 克拉克",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
+    "10776": {
+      "name": "鋒迴偵查 ‧ 考克斯",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 6
+    },
     "10790": {
       "name": "香魅兔女郎 ‧ 梅蜜",
       "attribute": 2,
       "race": 1,
       "rarity": 6
     },
+    "10791": {
+      "name": "牌桌詭計 ‧ 黛碧與黛拉",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 6
+    },
     "10792": {
       "name": "全面監視 ‧ 德里克",
       "attribute": 3,
       "race": 4,
+      "rarity": 6
+    },
+    "10793": {
+      "name": "運氣輪盤 ‧ 百麗兒",
+      "attribute": 4,
+      "race": 5,
       "rarity": 6
     },
     "10796": {
