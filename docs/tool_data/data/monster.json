@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2024.601",
-    "dv": 13526,
-    "time": 1728551301
+    "dv": 13533,
+    "time": 1729243207
   },
   "monster": {
     "1": {
@@ -26681,10 +26681,28 @@
       "race": 5,
       "rarity": 6
     },
+    "10794": {
+      "name": "歡樂園長 ‧ 珀西",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 7
+    },
+    "10795": {
+      "name": "幕後真身 ‧ 珀西",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 7
+    },
     "10796": {
       "name": "骰子迷旅 ‧ 兔比",
       "attribute": 4,
       "race": 2,
+      "rarity": 6
+    },
+    "10797": {
+      "name": "作弊專家 ‧ 貝琳達",
+      "attribute": 1,
+      "race": 3,
       "rarity": 6
     },
     "5001": {
