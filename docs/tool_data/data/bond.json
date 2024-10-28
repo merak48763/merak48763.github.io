@@ -6744,6 +6744,30 @@
     ]
   },
   {
+    "owner": 10777,
+    "condition": 10778,
+    "conditionType": 2,
+    "ability": 20005,
+    "args": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 10778,
+    "condition": 10777,
+    "conditionType": 2,
+    "ability": 20017,
+    "args": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "owner": 10784,
     "condition": 10774,
     "conditionType": 1,

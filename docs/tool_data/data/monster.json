@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.601",
-    "dv": 13533,
-    "time": 1729243207
+    "version": "2024.602",
+    "dv": 13541,
+    "time": 1730089121
   },
   "monster": {
     "1": {
@@ -26655,6 +26655,30 @@
       "name": "鋒迴偵查 ‧ 考克斯",
       "attribute": 4,
       "race": 8,
+      "rarity": 6
+    },
+    "10777": {
+      "name": "祈愛的聖女 ‧ 艾莉亞",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10779": {
+      "name": "新手探員 ‧ 安妮卡",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10780": {
+      "name": "皇家女僕長 ‧ 切爾西",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
+    "10788": {
+      "name": "聖夜奪魂使 ‧ 糖糖",
+      "attribute": 5,
+      "race": 5,
       "rarity": 6
     },
     "10790": {

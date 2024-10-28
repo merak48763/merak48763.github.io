@@ -4042,6 +4042,465 @@
           }
         ]
       ]
+    },
+    {
+      "id": 30,
+      "series": 1,
+      "scid": 30,
+      "name": "星塵爆破",
+      "nameEn": "Stellar Explosion",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 1,
+      "instantSkill": [
+        [
+          {
+            "skill": 10,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": []
+          },
+          {
+            "skill": 6,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": []
+          },
+          {
+            "skill": 6,
+            "args": [
+              1
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 42,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              5
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 31,
+      "series": 1,
+      "scid": 31,
+      "name": "英靈的感召",
+      "nameEn": "Call of Heroic Spirits",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 3,
+      "instantSkill": [
+        [
+          {
+            "skill": 14,
+            "args": [
+              3,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              3,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              3,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              4,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              4,
+              4
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          },
+          {
+            "skill": 2,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          },
+          {
+            "skill": 2,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              6
+            ]
+          },
+          {
+            "skill": 1,
+            "args": [
+              100,
+              4,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              6
+            ]
+          },
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 32,
+      "series": 1,
+      "scid": 32,
+      "name": "龍的馴服者",
+      "nameEn": "Dragon Tamer",
+      "star": 3,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 39,
+            "args": [
+              20,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              20,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              20,
+              3
+            ]
+          },
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              20,
+              3
+            ]
+          },
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              20,
+              4
+            ]
+          },
+          {
+            "skill": 20,
+            "args": []
+          },
+          {
+            "skill": 44,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          },
+          {
+            "skill": 26,
+            "args": [
+              3
+            ]
+          }
+        ]
+      ]
     }
   ],
   "series": [
