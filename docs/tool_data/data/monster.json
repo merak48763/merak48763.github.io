@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2024.603",
-    "dv": 13557,
-    "time": 1730971136
+    "dv": 13573,
+    "time": 1732179687
   },
   "monster": {
     "1": {
@@ -17279,6 +17279,18 @@
       "race": 5,
       "rarity": 6
     },
+    "2890": {
+      "name": "朔月葬魂 ‧ 卑彌呼",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 8
+    },
+    "2891": {
+      "name": "月影傾天 ‧ 卑彌呼",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 8
+    },
     "2900": {
       "name": "十年創紀 ‧ 瘋頭",
       "attribute": 1,
@@ -21290,6 +21302,12 @@
       "race": 10,
       "rarity": 7
     },
+    "6681": {
+      "name": "朔月葬魂 ‧ 卑彌呼",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 8
+    },
     "6682": {
       "name": "真相演算 ‧ 福爾摩斯",
       "attribute": 3,
@@ -21319,6 +21337,12 @@
       "attribute": 4,
       "race": 5,
       "rarity": 6
+    },
+    "6687": {
+      "name": "月影傾天 ‧ 卑彌呼",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 8
     },
     "6999": {
       "name": "米拉珍",
@@ -26711,11 +26735,35 @@
       "race": 8,
       "rarity": 6
     },
+    "10782": {
+      "name": "前線指揮 ‧ 雷斯垂德",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 6
+    },
+    "10783": {
+      "name": "榮冕降臨 ‧ 查爾斯",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "10784": {
+      "name": "光榮傳遞 ‧ 喬治",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
     "10786": {
       "name": "異度殺戮 ‧ 貝西摩斯",
       "attribute": 2,
       "race": 2,
       "rarity": 7
+    },
+    "10787": {
+      "name": "抓娃娃達人 ‧ 宗仔",
+      "attribute": 4,
+      "race": 10,
+      "rarity": 6
     },
     "10788": {
       "name": "聖夜奪魂使 ‧ 糖糖",
