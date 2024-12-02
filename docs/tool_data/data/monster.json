@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.603",
-    "dv": 13573,
-    "time": 1732179687
+    "version": "2024.700",
+    "dv": 13609,
+    "time": 1733117967
   },
   "monster": {
     "1": {
@@ -17291,6 +17291,12 @@
       "race": 1,
       "rarity": 8
     },
+    "2893": {
+      "name": "權耀庇翼 ‧ 梅塔特隆",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 6
+    },
     "2900": {
       "name": "十年創紀 ‧ 瘋頭",
       "attribute": 1,
@@ -21343,6 +21349,12 @@
       "attribute": 5,
       "race": 1,
       "rarity": 8
+    },
+    "6689": {
+      "name": "權耀望守 ‧ 梅塔特隆",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 6
     },
     "6999": {
       "name": "米拉珍",
@@ -26824,6 +26836,96 @@
       "attribute": 1,
       "race": 3,
       "rarity": 6
+    },
+    "10798": {
+      "name": "最初的雪夜聖者 · 尼古拉斯",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 6
+    },
+    "10801": {
+      "name": "Spirit",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "10802": {
+      "name": "Shy",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10803": {
+      "name": "Lady Black",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "10804": {
+      "name": "天王寺曖",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10805": {
+      "name": "眠龍",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "10806": {
+      "name": "Century",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10807": {
+      "name": "Stardust",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10808": {
+      "name": "小石川惟子",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10809": {
+      "name": "輝與惟子與曖",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10810": {
+      "name": "Stigma",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "10811": {
+      "name": "斯維塔",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 6
+    },
+    "10812": {
+      "name": "怒氣",
+      "attribute": 2,
+      "race": 4,
+      "rarity": 6
+    },
+    "10813": {
+      "name": "唔呼呼",
+      "attribute": 3,
+      "race": 8,
+      "rarity": 6
+    },
+    "10818": {
+      "name": "蝦翁",
+      "attribute": 3,
+      "race": 7,
+      "rarity": 3
     },
     "5001": {
       "name": "UNKNOWN"
