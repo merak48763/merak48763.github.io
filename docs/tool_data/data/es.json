@@ -3810,12 +3810,22 @@
     "510": {
       "title": "【喋血屠刀 ‧ 靈之凝護】",
       "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;2%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        905,
+        803,
+        882
+      ]
     },
     "511": {
       "title": "【喋血屠刀 ‧ 靈之凝護】",
       "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;1%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        905,
+        805,
+        881
+      ]
     },
     "512": {
       "title": "【喋血屠刀 ‧ 靈之凝護】",
@@ -4292,7 +4302,8 @@
       "custom_desc": "",
       "icons": [
         905,
-        805
+        805,
+        882
       ]
     },
     "600": {
@@ -4301,7 +4312,8 @@
       "custom_desc": "",
       "icons": [
         905,
-        807
+        807,
+        882
       ]
     },
     "601": {
@@ -4310,7 +4322,8 @@
       "custom_desc": "",
       "icons": [
         905,
-        803
+        803,
+        883
       ]
     },
     "602": {
@@ -4319,7 +4332,8 @@
       "custom_desc": "",
       "icons": [
         905,
-        805
+        805,
+        883
       ]
     },
     "603": {
@@ -4328,7 +4342,8 @@
       "custom_desc": "",
       "icons": [
         905,
-        807
+        807,
+        883
       ]
     },
     "604": {
@@ -9387,12 +9402,22 @@
     "1551": {
       "title": "【喋血屠刀 ‧ 靈之凝護】",
       "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;5%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        905,
+        809,
+        883
+      ]
     },
     "1552": {
       "title": "【喋血屠刀 ‧ 靈之凝護】",
       "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;5%&nbsp;生命力",
       "custom_desc": "",
+      "icons": [
+        905,
+        811,
+        883
+      ],
       "keywords": [
         "一擊必殺",
         "扣血100%"
@@ -9401,27 +9426,52 @@
     "1553": {
       "title": "【喋血屠刀 ‧ 靈之凝護】",
       "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;30%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;10%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        905,
+        803,
+        884
+      ]
     },
     "1554": {
       "title": "【喋血屠刀 ‧ 靈之凝護】",
       "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;10%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        905,
+        805,
+        884
+      ]
     },
     "1555": {
       "title": "【喋血屠刀 ‧ 靈之凝護】",
       "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;70%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;10%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        905,
+        807,
+        884
+      ]
     },
     "1556": {
       "title": "【喋血屠刀 ‧ 靈之凝護】",
       "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;90%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;10%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        905,
+        809,
+        884
+      ]
     },
     "1557": {
       "title": "【喋血屠刀 ‧ 靈之凝護】",
       "desc": "每回合敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)，並不受任何攻擊傷害&nbsp;(包括主動技)。每消除&nbsp;1&nbsp;粒心符石，可扣除敵人&nbsp;10%&nbsp;生命力",
       "custom_desc": "",
+      "icons": [
+        905,
+        811,
+        884
+      ],
       "keywords": [
         "一擊必殺",
         "扣血100%"
@@ -13386,12 +13436,24 @@
     "2305": {
       "title": "【伏擊 ‧ 黏腐之道 ‧ 固定連擊凝護】",
       "desc": "首回合敵人會優先攻擊&nbsp;1&nbsp;次。<br />當首次受到敵人攻擊時，敵人會隨機黏附&nbsp;1&nbsp;橫行的位置；當第&nbsp;2&nbsp;次受到敵人攻擊時，敵人會隨機黏附&nbsp;1&nbsp;直行的位置。黏附位置的符石一經觸碰，即時停止移動符石。以上攻擊循環周而復始。<br />敵人不受任何攻擊傷害&nbsp;(包括主動技)。<br />首批消除&nbsp;4&nbsp;連擊&nbsp;(Combo)，可扣除敵人&nbsp;25%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1053,
+        952,
+        4,
+        886
+      ]
     },
     "2306": {
       "title": "【伏擊 ‧ 黏腐之道 ‧ 固定連擊凝護】",
       "desc": "首回合敵人會優先攻擊&nbsp;1&nbsp;次。<br />當首次受到敵人攻擊時，敵人會隨機黏附&nbsp;1&nbsp;橫行的位置；當第&nbsp;2&nbsp;次受到敵人攻擊時，敵人會隨機黏附&nbsp;1&nbsp;直行的位置。黏附位置的符石一經觸碰，即時停止移動符石。以上攻擊循環周而復始。<br />敵人不受任何攻擊傷害&nbsp;(包括主動技)。<br />首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)，可扣除敵人&nbsp;20%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1053,
+        952,
+        5,
+        885
+      ]
     },
     "2307": {
       "title": "",
@@ -18793,12 +18855,20 @@
     "3270": {
       "title": "【指定連擊法印 ‧ 起結有序 ‧ 指定連擊凝護 ‧ 攻擊無效】",
       "desc": "首批消除指定的連擊&nbsp;&nbsp;(Combo)，可扣除敵人&nbsp;25%&nbsp;生命力；除此以外，敵人不受任何攻擊傷害&nbsp;(包括主動技)。<br />達成指定連擊數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多。<br /><br />每回合以指定位置&nbsp;(綠色漩渦)&nbsp;的符石開始轉珠及在指定位置&nbsp;(紅色漩渦)&nbsp;結束轉珠，才會發動攻擊和回復&nbsp;(達成條件前，無法進行回復)。",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">random_combo 3 5</span>",
+      "icons": [
+        1008,
+        886
+      ]
     },
     "3271": {
       "title": "【指定連擊法印 ‧ 起結有序 ‧ 指定連擊凝護 ‧ 攻擊無效】",
       "desc": "【移動符石時顯示】<br />首批消除指定的連擊&nbsp;&nbsp;(Combo)，可扣除敵人&nbsp;20%&nbsp;生命力；除此以外，敵人不受任何攻擊傷害&nbsp;(包括主動技)。<br />達成指定連擊數，敵人不會發動攻擊；反之，差距的連擊&nbsp;(Combo)&nbsp;數愈多，敵人的連擊次數愈多。<br /><br />每回合以指定位置&nbsp;(綠色漩渦)&nbsp;的符石開始轉珠及在指定位置&nbsp;(紅色漩渦)&nbsp;結束轉珠，才會發動攻擊和回復&nbsp;(達成條件前，無法進行回復)。",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">random_combo 3 5</span>",
+      "icons": [
+        1008,
+        885
+      ]
     },
     "3272": {
       "title": "CD1 ‧ 首消9Combo盾 ‧ 無法控制 ‧ 無視減傷",
@@ -19934,6 +20004,7 @@
         6,
         852,
         856,
+        885,
         982
       ],
       "alticons": [
@@ -19941,24 +20012,28 @@
           7,
           852,
           856,
+          885,
           982
         ],
         [
           8,
           852,
           856,
+          885,
           982
         ],
         [
           9,
           852,
           856,
+          885,
           982
         ],
         [
           10,
           852,
           856,
+          885,
           982
         ]
       ],
@@ -20717,47 +20792,92 @@
     "3601": {
       "title": "【指定形狀凝護】",
       "desc": "以指定形狀消除符石<br />(可連同形狀旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;25%&nbsp;生命力。<br /><br />除此以外，<br />敵人不受任何攻擊傷害<br />(包括主動技)。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1007,
+        1055,
+        886
+      ]
     },
     "3602": {
       "title": "【指定形狀凝護】",
       "desc": "以指定形狀消除符石<br />(可連同形狀旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;25%&nbsp;生命力。<br /><br />除此以外，<br />敵人不受任何攻擊傷害<br />(包括主動技)。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1007,
+        1055,
+        886
+      ]
     },
     "3603": {
       "title": "【限制形狀凝護】",
       "desc": "以指定形狀消除符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;25%&nbsp;生命力。<br /><br />除此以外，<br />敵人不受任何攻擊傷害<br />(包括主動技)。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1007,
+        1055,
+        886
+      ]
     },
     "3604": {
       "title": "【敵屬形狀凝護】",
       "desc": "以指定形狀消除<br />與敵人相同屬性的符石<br />(可連同形狀旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;25%&nbsp;生命力。<br /><br />除此以外，<br />敵人不受任何攻擊傷害<br />(包括主動技)。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1007,
+        1055,
+        886
+      ]
     },
     "3605": {
       "title": "【敵屬形狀凝護】",
       "desc": "以指定形狀消除<br />與敵人相同屬性的符石<br />(可連同形狀旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;25%&nbsp;生命力。<br /><br />除此以外，<br />敵人不受任何攻擊傷害<br />(包括主動技)。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1007,
+        1055,
+        886
+      ]
     },
     "3606": {
       "title": "【敵屬限制形狀凝護】",
       "desc": "以指定形狀消除<br />與敵人相同屬性的符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;25%&nbsp;生命力。<br /><br />除此以外，<br />敵人不受任何攻擊傷害<br />(包括主動技)。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1007,
+        1055,
+        886
+      ]
     },
     "3607": {
       "title": "【克制敵屬形狀凝護】",
       "desc": "以指定形狀消除<br />克制敵人屬性的符石<br />(可連同形狀旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;25%&nbsp;生命力。<br /><br />除此以外，<br />敵人不受任何攻擊傷害<br />(包括主動技)。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1007,
+        1055,
+        886
+      ]
     },
     "3608": {
       "title": "【克制敵屬形狀凝護】",
       "desc": "以指定形狀消除<br />克制敵人屬性的符石<br />(可連同形狀旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;25%&nbsp;生命力。<br /><br />除此以外，<br />敵人不受任何攻擊傷害<br />(包括主動技)。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1007,
+        1055,
+        886
+      ]
     },
     "3609": {
       "title": "【克制敵屬限制形狀凝護】",
       "desc": "以指定形狀消除<br />克制敵人屬性的符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;25%&nbsp;生命力。<br /><br />除此以外，<br />敵人不受任何攻擊傷害<br />(包括主動技)。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1007,
+        1055,
+        886
+      ]
     },
     "3610": {
       "title": "先水電擊1顆 ‧ 越扣越強20% ‧ 無法控制",
@@ -28179,6 +28299,7 @@
       "icons": [
         1007,
         812,
+        885,
         855
       ],
       "keywords": [
@@ -28193,6 +28314,7 @@
       "icons": [
         1007,
         812,
+        885,
         855
       ],
       "keywords": [
@@ -28206,6 +28328,7 @@
       "custom_desc": "<ul><li>屬性順序隨機，五種屬性各出現1次</li></ul><span class=\"annotation\">trojan_hp_attack</span>",
       "icons": [
         812,
+        885,
         855
       ],
       "keywords": [
@@ -28220,27 +28343,32 @@
       "icons": [
         3,
         812,
+        885,
         855
       ],
       "alticons": [
         [
           4,
           812,
+          885,
           855
         ],
         [
           5,
           812,
+          885,
           855
         ],
         [
           6,
           812,
+          885,
           855
         ],
         [
           7,
           812,
+          885,
           855
         ]
       ],
@@ -28265,27 +28393,32 @@
       "icons": [
         54,
         812,
+        885,
         855
       ],
       "alticons": [
         [
           55,
           812,
+          885,
           855
         ],
         [
           56,
           812,
+          885,
           855
         ],
         [
           57,
           812,
+          885,
           855
         ],
         [
           58,
           812,
+          885,
           855
         ]
       ],
@@ -28309,6 +28442,7 @@
       "custom_desc": "<ul><li>未達成條件時，不會重新抽選數字</li></ul><span class=\"annotation\">random_number 11 20</span><span class=\"annotation\">trojan_hp_attack</span>",
       "icons": [
         812,
+        885,
         855
       ],
       "keywords": [
@@ -28319,7 +28453,12 @@
     "4861": {
       "title": "【首消粒數凝護 - 愈攻愈強 ‧ 無法控制】",
       "desc": "<em>【首消粒數凝護&nbsp;-&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />首批消除指定粒數符石，<br />可扣除敵人&nbsp;20%&nbsp;生命力。<br /><br />除此之外，<br />敵人不受任何攻擊傷害<br />(包括主動技)&nbsp;及<br />無視所有控制技能。<br /><br />達成上述條件，<br />敵人不會發動攻擊。<br />反之，敵人發動攻擊<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />(無視所有減傷效果和<br />&nbsp;意志技能)<br />敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升",
-      "custom_desc": "<span class=\"annotation\">random_number 16 20</span><span class=\"annotation\">trojan_hp_attack</span>",
+      "custom_desc": "<span class=\"annotation\">random_number 16 20</span><span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
+      "icons": [
+        812,
+        885,
+        855
+      ],
       "keywords": [
         "越扣越強",
         "喋血屠刀"
@@ -31394,6 +31533,7 @@
       "icons": [
         7,
         812,
+        885,
         854
       ],
       "keywords": [
@@ -31408,6 +31548,7 @@
       "icons": [
         6,
         812,
+        886,
         854
       ],
       "keywords": [
@@ -35812,7 +35953,8 @@
       "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
       "icons": [
         5,
-        812
+        812,
+        887
       ],
       "keywords": [
         "越扣越強",
@@ -35825,7 +35967,8 @@
       "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
       "icons": [
         6,
-        812
+        812,
+        887
       ],
       "keywords": [
         "越扣越強",
@@ -35838,7 +35981,8 @@
       "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
       "icons": [
         7,
-        812
+        812,
+        887
       ],
       "keywords": [
         "越扣越強",
@@ -35851,7 +35995,8 @@
       "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
       "icons": [
         8,
-        812
+        812,
+        887
       ],
       "keywords": [
         "越扣越強",
@@ -35864,7 +36009,8 @@
       "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
       "icons": [
         9,
-        812
+        812,
+        887
       ],
       "keywords": [
         "越扣越強",
@@ -35877,7 +36023,8 @@
       "custom_desc": "<span class=\"annotation\">trojan_hp_attack 25 50 100</span>",
       "icons": [
         10,
-        812
+        812,
+        887
       ],
       "keywords": [
         "越扣越強",
@@ -35889,7 +36036,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        905
+        905,
+        884
       ]
     },
     "5833": {
@@ -35897,7 +36045,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        905
+        905,
+        883
       ]
     },
     "5834": {
@@ -35905,7 +36054,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        905
+        905,
+        882
       ]
     },
     "5835": {
@@ -35913,7 +36063,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        905
+        905,
+        881
       ]
     },
     "5836": {
@@ -39319,7 +39470,8 @@
       "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;50%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
       "custom_desc": "",
       "icons": [
-        5
+        5,
+        887
       ]
     },
     "6222": {
@@ -39327,7 +39479,8 @@
       "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;50%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
       "custom_desc": "",
       "icons": [
-        6
+        6,
+        887
       ]
     },
     "6223": {
@@ -39335,7 +39488,8 @@
       "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;50%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
       "custom_desc": "",
       "icons": [
-        7
+        7,
+        887
       ]
     },
     "6224": {
@@ -39343,7 +39497,8 @@
       "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;50%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
       "custom_desc": "",
       "icons": [
-        8
+        8,
+        887
       ]
     },
     "6225": {
@@ -39351,7 +39506,8 @@
       "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;50%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;9&nbsp;連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
       "custom_desc": "",
       "icons": [
-        9
+        9,
+        887
       ]
     },
     "6226": {
@@ -39359,7 +39515,8 @@
       "desc": "•&nbsp;同時達成以下&nbsp;2&nbsp;個條件<br />⇒&nbsp;可扣除敵人&nbsp;50%&nbsp;生命力<br /><br />⓵&nbsp;需以指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;(角色頭像優先)&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;開始轉珠及在指定位置<br />&nbsp;&nbsp;&nbsp;&nbsp;首次結束轉珠<br />⓶&nbsp;首批消除&nbsp;10&nbsp;連擊&nbsp;(Combo)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
       "custom_desc": "",
       "icons": [
-        10
+        10,
+        887
       ]
     },
     "6227": {
@@ -46732,7 +46889,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        251
+        251,
+        884
       ]
     },
     "7209": {
@@ -46740,7 +46898,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        251
+        251,
+        883
       ]
     },
     "7210": {
@@ -46748,7 +46907,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        251
+        251,
+        882
       ]
     },
     "7211": {
@@ -46756,7 +46916,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        251
+        251,
+        881
       ]
     },
     "7212": {
@@ -46764,7 +46925,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        252
+        252,
+        884
       ]
     },
     "7213": {
@@ -46772,7 +46934,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        252
+        252,
+        883
       ]
     },
     "7214": {
@@ -46780,7 +46943,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        252
+        252,
+        882
       ]
     },
     "7215": {
@@ -46788,7 +46952,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        252
+        252,
+        881
       ]
     },
     "7216": {
@@ -46796,7 +46961,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        253
+        253,
+        884
       ]
     },
     "7217": {
@@ -46804,7 +46970,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        253
+        253,
+        883
       ]
     },
     "7218": {
@@ -46812,7 +46979,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        253
+        253,
+        882
       ]
     },
     "7219": {
@@ -46820,7 +46988,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        253
+        253,
+        881
       ]
     },
     "7220": {
@@ -46828,7 +46997,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        254
+        254,
+        884
       ]
     },
     "7221": {
@@ -46836,7 +47006,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        254
+        254,
+        883
       ]
     },
     "7222": {
@@ -46844,7 +47015,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        254
+        254,
+        882
       ]
     },
     "7223": {
@@ -46852,7 +47024,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        254
+        254,
+        881
       ]
     },
     "7224": {
@@ -46860,7 +47033,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;可扣除敵人&nbsp;10%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        255
+        255,
+        884
       ]
     },
     "7225": {
@@ -46868,7 +47042,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;可扣除敵人&nbsp;5%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        255
+        255,
+        883
       ]
     },
     "7226": {
@@ -46876,7 +47051,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;可扣除敵人&nbsp;2%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        255
+        255,
+        882
       ]
     },
     "7227": {
@@ -46884,7 +47060,8 @@
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;可扣除敵人&nbsp;1%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": "",
       "icons": [
-        255
+        255,
+        881
       ]
     },
     "7228": {
