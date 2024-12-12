@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.700",
-    "dv": 13609,
-    "time": 1733117967
+    "version": "2024.701",
+    "dv": 13617,
+    "time": 1733472807
   },
   "monster": {
     "1": {
@@ -26920,6 +26920,30 @@
       "attribute": 3,
       "race": 8,
       "rarity": 6
+    },
+    "10814": {
+      "name": "祈願",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 6
+    },
+    "10815": {
+      "name": "哭哭",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "10816": {
+      "name": "空虛",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 7
+    },
+    "10817": {
+      "name": "空虛=空迴",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 7
     },
     "10818": {
       "name": "蝦翁",

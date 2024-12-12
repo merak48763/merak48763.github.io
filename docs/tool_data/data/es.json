@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.700",
-    "dv": 24633,
-    "time": 1733117967
+    "version": "2024.701",
+    "dv": 24654,
+    "time": 1733472807
   },
   "es": {
     "0": {
@@ -34091,7 +34091,7 @@
       "desc": "•&nbsp;1&nbsp;回合內，<br />&nbsp;&nbsp;全隊攻擊力減至&nbsp;1%",
       "custom_desc": "",
       "icons": [
-        1055
+        1114
       ]
     },
     "5595": {
@@ -34099,7 +34099,7 @@
       "desc": "•&nbsp;2&nbsp;回合內，<br />&nbsp;&nbsp;全隊攻擊力減至&nbsp;1%",
       "custom_desc": "",
       "icons": [
-        1055
+        1114
       ]
     },
     "5596": {
@@ -34107,7 +34107,7 @@
       "desc": "•&nbsp;3&nbsp;回合內，<br />&nbsp;&nbsp;全隊攻擊力減至&nbsp;1%",
       "custom_desc": "",
       "icons": [
-        1055
+        1114
       ]
     },
     "5597": {
@@ -34115,7 +34115,7 @@
       "desc": "•&nbsp;4&nbsp;回合內，<br />&nbsp;&nbsp;全隊攻擊力減至&nbsp;1%",
       "custom_desc": "",
       "icons": [
-        1055
+        1114
       ]
     },
     "5598": {
@@ -34123,7 +34123,7 @@
       "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;全隊攻擊力減至&nbsp;1%",
       "custom_desc": "",
       "icons": [
-        1055
+        1114
       ]
     },
     "5599": {
@@ -48005,92 +48005,146 @@
     "7407": {
       "title": "【陰之氣 - 拘束】",
       "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;5&nbsp;層陰之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1228
+      ]
     },
     "7408": {
       "title": "【陰之氣 - 拘束】",
       "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;10&nbsp;層陰之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1228
+      ]
     },
     "7409": {
       "title": "【陰之氣 - 拘束】",
       "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;15&nbsp;層陰之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1228
+      ]
     },
     "7410": {
       "title": "【陰之氣 - 拘束】",
       "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;20&nbsp;層陰之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1228
+      ]
     },
     "7411": {
       "title": "【陰之氣 - 拘束】",
       "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;&nbsp;25&nbsp;層陰之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1228
+      ]
     },
     "7412": {
       "title": "【陰之氣 - 拘束】",
       "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;&nbsp;30&nbsp;層陰之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1228
+      ]
     },
     "7413": {
       "title": "【淨化印記 - 水】",
       "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1128
+      ]
     },
     "7414": {
       "title": "【淨化印記 - 火】",
       "desc": "•&nbsp;每回合所有火符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1128
+      ]
     },
     "7415": {
       "title": "【淨化印記 - 木】",
       "desc": "•&nbsp;每回合所有木符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1128
+      ]
     },
     "7416": {
       "title": "【淨化印記 - 光】",
       "desc": "•&nbsp;每回合所有光符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1128
+      ]
     },
     "7417": {
       "title": "【淨化印記 - 暗】",
       "desc": "•&nbsp;每回合所有暗符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1128
+      ]
     },
     "7418": {
       "title": "【淨化印記 - 心】",
       "desc": "•&nbsp;每回合所有心符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1128
+      ]
     },
     "7419": {
       "title": "【陽之氣】",
       "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;5&nbsp;層陽之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1229
+      ]
     },
     "7420": {
       "title": "【陽之氣】",
       "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;10&nbsp;層陽之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1229
+      ]
     },
     "7421": {
       "title": "【陽之氣】",
       "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;15&nbsp;層陽之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1229
+      ]
     },
     "7422": {
       "title": "【陽之氣】",
       "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;20&nbsp;層陽之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1229
+      ]
     },
     "7423": {
       "title": "【陽之氣】",
       "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;25&nbsp;層陽之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1229
+      ]
     },
     "7424": {
       "title": "【陽之氣】",
       "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;30&nbsp;層陽之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1229
+      ]
     },
     "7425": {
       "title": "【淡化印記 - 水】",
