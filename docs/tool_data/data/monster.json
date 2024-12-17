@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.701",
-    "dv": 13617,
-    "time": 1733472807
+    "version": "2024.710",
+    "dv": 13627,
+    "time": 1734404487
   },
   "monster": {
     "1": {
@@ -17297,6 +17297,24 @@
       "race": 5,
       "rarity": 6
     },
+    "2894": {
+      "name": "秩序重構 · 拉普拉斯",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 8
+    },
+    "2895": {
+      "name": "惑言噬愛 ‧ 夏娃",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 8
+    },
+    "2896": {
+      "name": "魔心征服 ‧ 巴力",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 8
+    },
     "2900": {
       "name": "十年創紀 ‧ 瘋頭",
       "attribute": 1,
@@ -26950,6 +26968,18 @@
       "attribute": 3,
       "race": 7,
       "rarity": 3
+    },
+    "10821": {
+      "name": "後來居上 · 白棋",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 6
+    },
+    "10825": {
+      "name": "詭秘聖祭 · 奧米伽",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 6
     },
     "5001": {
       "name": "UNKNOWN"
