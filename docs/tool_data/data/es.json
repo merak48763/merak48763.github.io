@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.710",
-    "dv": 24724,
-    "time": 1734600451
+    "version": "2024.711",
+    "dv": 24770,
+    "time": 1737104007
   },
   "es": {
     "0": {
@@ -32012,8 +32012,8 @@
       ]
     },
     "5327": {
-      "title": "【≥20 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥20&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥20 連擊盾 - 追擊】",
+      "desc": "•&nbsp;達成&nbsp;≥20&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊",
       "custom_desc": "",
       "icons": [
         70

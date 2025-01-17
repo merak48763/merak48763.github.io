@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.710",
-    "dv": 13629,
-    "time": 1734600451
+    "version": "2024.711",
+    "dv": 13665,
+    "time": 1737104007
   },
   "monster": {
     "1": {
@@ -17291,6 +17291,12 @@
       "race": 1,
       "rarity": 8
     },
+    "2892": {
+      "name": "傭兵逐夢 ‧ 費利克斯",
+      "attribute": 3,
+      "race": 8,
+      "rarity": 6
+    },
     "2893": {
       "name": "權耀庇翼 ‧ 梅塔特隆",
       "attribute": 4,
@@ -17404,6 +17410,54 @@
       "attribute": 1,
       "race": 5,
       "rarity": 8
+    },
+    "2915": {
+      "name": "三千界主 ‧ 濕婆",
+      "attribute": 1,
+      "race": 5,
+      "rarity": 7
+    },
+    "2916": {
+      "name": "寂滅吠陀 ‧ 梵天",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 7
+    },
+    "2917": {
+      "name": "百葉盛觀 ‧ 帕爾瓦蒂",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 7
+    },
+    "2918": {
+      "name": "無量蓮華 ‧ 拉克什米",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 7
+    },
+    "2919": {
+      "name": "菩提心醒 ‧ 毗濕奴",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 7
+    },
+    "2920": {
+      "name": "鄙惡無樂 ‧ 伐樓那",
+      "attribute": 1,
+      "race": 5,
+      "rarity": 7
+    },
+    "2921": {
+      "name": "怨憎梵火 ‧ 阿耆尼",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 7
+    },
+    "2922": {
+      "name": "浪蕩劫濁 ‧ 伐樓尼",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 7
     },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
@@ -21367,6 +21421,12 @@
       "attribute": 5,
       "race": 1,
       "rarity": 8
+    },
+    "6688": {
+      "name": "逐夢遠航 ‧ 費利克斯",
+      "attribute": 3,
+      "race": 8,
+      "rarity": 6
     },
     "6689": {
       "name": "權耀望守 ‧ 梅塔特隆",
@@ -26861,6 +26921,18 @@
       "race": 3,
       "rarity": 6
     },
+    "10799": {
+      "name": "鏡中重圓 · 珍妮",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 6
+    },
+    "10800": {
+      "name": "鏡映初晨 · 潘妮",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
     "10801": {
       "name": "Spirit",
       "attribute": 1,
@@ -26969,10 +27041,40 @@
       "race": 7,
       "rarity": 3
     },
+    "10819": {
+      "name": "雋永之約 ‧ 黑嘉嘉",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10820": {
+      "name": "情定棋局 ‧ 黑嘉嘉",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
     "10821": {
       "name": "後來居上 · 白棋",
       "attribute": 4,
       "race": 3,
+      "rarity": 6
+    },
+    "10822": {
+      "name": "構築先機 · 黑棋",
+      "attribute": 5,
+      "race": 3,
+      "rarity": 6
+    },
+    "10823": {
+      "name": "人造棋師 ‧ 道知",
+      "attribute": 4,
+      "race": 10,
+      "rarity": 6
+    },
+    "10824": {
+      "name": "喵之一手 ‧ Bubu",
+      "attribute": 1,
+      "race": 2,
       "rarity": 6
     },
     "10825": {
