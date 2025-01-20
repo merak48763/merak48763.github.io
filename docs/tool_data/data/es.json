@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.711",
-    "dv": 24770,
-    "time": 1737104007
+    "version": "2025.100",
+    "dv": 24884,
+    "time": 1737357571
   },
   "es": {
     "0": {
@@ -48279,6 +48279,246 @@
     "7451": {
       "title": "【煉獄之火】",
       "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;燃起煉獄之火<br />•&nbsp;其後每當敵人發動攻擊時<br />•&nbsp;額外&nbsp;4&nbsp;個位置<br />⇒&nbsp;燃起煉獄之火&nbsp;<br />•&nbsp;一旦觸碰被燃燒的位置<br />⇒&nbsp;召喚師會即時死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和意志技能)",
+      "custom_desc": ""
+    },
+    "7452": {
+      "title": "【全消盾 - 水、火】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水及火符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水及火符石)",
+      "custom_desc": ""
+    },
+    "7453": {
+      "title": "【全消盾 - 水、木】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水及木符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水及木符石)",
+      "custom_desc": ""
+    },
+    "7454": {
+      "title": "【全消盾 - 水、光】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水及光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水及光符石)",
+      "custom_desc": ""
+    },
+    "7455": {
+      "title": "【全消盾 - 水、暗】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水及暗符石)",
+      "custom_desc": ""
+    },
+    "7456": {
+      "title": "【全消盾 - 水、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水及心符石)",
+      "custom_desc": ""
+    },
+    "7457": {
+      "title": "【全消盾 - 火、木】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火及木符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火及木符石)",
+      "custom_desc": ""
+    },
+    "7458": {
+      "title": "【全消盾 - 火、光】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火及光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火及光符石)",
+      "custom_desc": ""
+    },
+    "7459": {
+      "title": "【全消盾 - 火、暗】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火及暗符石)",
+      "custom_desc": ""
+    },
+    "7460": {
+      "title": "【全消盾 - 火、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火及心符石)",
+      "custom_desc": ""
+    },
+    "7461": {
+      "title": "【全消盾 - 木、光】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有木及光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木及光符石)",
+      "custom_desc": ""
+    },
+    "7462": {
+      "title": "【全消盾 - 木、暗】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有木及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木及暗符石)",
+      "custom_desc": ""
+    },
+    "7463": {
+      "title": "【全消盾 - 木、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有木及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木及心符石)",
+      "custom_desc": ""
+    },
+    "7464": {
+      "title": "【全消盾 - 光、暗】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有光及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除光及暗符石)",
+      "custom_desc": ""
+    },
+    "7465": {
+      "title": "【全消盾 - 光、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有光及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除光及心符石)",
+      "custom_desc": ""
+    },
+    "7466": {
+      "title": "【全消盾 - 暗、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有暗及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除暗及心符石)",
+      "custom_desc": ""
+    },
+    "7467": {
+      "title": "【全消盾 - 水、火、木】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、火及木符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、火及木符石)",
+      "custom_desc": ""
+    },
+    "7468": {
+      "title": "【全消盾 - 水、火、光】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、火及光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、火及光符石)",
+      "custom_desc": ""
+    },
+    "7469": {
+      "title": "【全消盾 - 水、火、暗】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、火及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、火及暗符石)",
+      "custom_desc": ""
+    },
+    "7470": {
+      "title": "【全消盾 - 水、火、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、火及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、火及心符石)",
+      "custom_desc": ""
+    },
+    "7471": {
+      "title": "【全消盾 - 水、木、光】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、木及光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、木及光符石)",
+      "custom_desc": ""
+    },
+    "7472": {
+      "title": "【全消盾 - 水、木、暗】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、木及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、木及暗符石)",
+      "custom_desc": ""
+    },
+    "7473": {
+      "title": "【全消盾 - 水、木、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、木及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、木及心符石)",
+      "custom_desc": ""
+    },
+    "7474": {
+      "title": "【全消盾 - 水、光、暗】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、光及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、光及暗符石)",
+      "custom_desc": ""
+    },
+    "7475": {
+      "title": "【全消盾 - 水、光、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、光及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、光及心符石)",
+      "custom_desc": ""
+    },
+    "7476": {
+      "title": "【全消盾 - 水、暗、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、暗及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、暗及心符石)",
+      "custom_desc": ""
+    },
+    "7477": {
+      "title": "【全消盾 - 火、木、光】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火、木及光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火、木及光符石)",
+      "custom_desc": ""
+    },
+    "7478": {
+      "title": "【全消盾 - 火、木、暗】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火、木及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火、木及暗符石)",
+      "custom_desc": ""
+    },
+    "7479": {
+      "title": "【全消盾 - 火、木、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火、木及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火、木及心符石)",
+      "custom_desc": ""
+    },
+    "7480": {
+      "title": "【全消盾 - 火、光、暗】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火、光及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火、光及暗符石)",
+      "custom_desc": ""
+    },
+    "7481": {
+      "title": "【全消盾 - 火、光、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火、光及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火、光及心符石)",
+      "custom_desc": ""
+    },
+    "7482": {
+      "title": "【全消盾 - 火、暗、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火、暗及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火、暗及心符石)",
+      "custom_desc": ""
+    },
+    "7483": {
+      "title": "【全消盾 - 木、光、暗】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有木、光及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木、光及暗符石)",
+      "custom_desc": ""
+    },
+    "7484": {
+      "title": "【全消盾 - 木、光、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有木、光及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木、光及心符石)",
+      "custom_desc": ""
+    },
+    "7485": {
+      "title": "【全消盾 - 木、暗、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有木、暗及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木、暗及心符石)",
+      "custom_desc": ""
+    },
+    "7486": {
+      "title": "【全消盾 - 光、暗、心】",
+      "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有光、暗及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除光、暗及心符石)",
+      "custom_desc": ""
+    },
+    "7487": {
+      "title": "【風壓狀態】",
+      "desc": "•&nbsp;1&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
+      "custom_desc": ""
+    },
+    "7488": {
+      "title": "【風壓狀態】",
+      "desc": "•&nbsp;2&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
+      "custom_desc": ""
+    },
+    "7489": {
+      "title": "【風壓狀態】",
+      "desc": "•&nbsp;3&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
+      "custom_desc": ""
+    },
+    "7490": {
+      "title": "【風壓狀態】",
+      "desc": "•&nbsp;4&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
+      "custom_desc": ""
+    },
+    "7491": {
+      "title": "【風壓狀態】",
+      "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
+      "custom_desc": ""
+    },
+    "7492": {
+      "title": "【風壓狀態】",
+      "desc": "•&nbsp;10&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
+      "custom_desc": ""
+    },
+    "7493": {
+      "title": "【風壓狀態】",
+      "desc": "•&nbsp;98&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
+      "custom_desc": ""
+    },
+    "7500": {
+      "title": "",
+      "desc": "•&nbsp;達至&nbsp;≥5&nbsp;連擊",
+      "custom_desc": ""
+    },
+    "7501": {
+      "title": "",
+      "desc": "•&nbsp;消除&nbsp;1&nbsp;組&nbsp;≥5&nbsp;粒符石",
+      "custom_desc": ""
+    },
+    "7502": {
+      "title": "",
+      "desc": "•&nbsp;消除&nbsp;≥6&nbsp;粒強化符石",
+      "custom_desc": ""
+    },
+    "7503": {
+      "title": "",
+      "desc": "•&nbsp;消除&nbsp;≥6&nbsp;粒隊長屬性符石",
+      "custom_desc": ""
+    },
+    "7504": {
+      "title": "",
+      "desc": "•&nbsp;消除&nbsp;≥6&nbsp;粒心符石",
+      "custom_desc": ""
+    },
+    "7505": {
+      "title": "",
+      "desc": "•&nbsp;消除角色符石",
       "custom_desc": ""
     }
   }

@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.700",
-    "dv": 24633,
-    "time": 1733117967
+    "version": "2025.100",
+    "dv": 24884,
+    "time": 1737357571
   },
   "ws": {
     "10001": {
@@ -3517,27 +3517,27 @@
     },
     "10733": {
       "title": "",
-      "desc": "•&nbsp;進場回復&nbsp;250&nbsp;點戰力點<br />•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+      "desc": "•&nbsp;進場回復&nbsp;250&nbsp;點能力點<br />•&nbsp;能力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的能力點<br />•&nbsp;當能力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
       "custom_desc": ""
     },
     "10734": {
       "title": "",
-      "desc": "•&nbsp;進場回復&nbsp;500&nbsp;點戰力點<br />•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+      "desc": "•&nbsp;進場回復&nbsp;500&nbsp;點能力點<br />•&nbsp;能力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的能力點<br />•&nbsp;當能力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
       "custom_desc": ""
     },
     "10735": {
       "title": "",
-      "desc": "•&nbsp;進場回復&nbsp;1,000&nbsp;點戰力點<br />•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+      "desc": "•&nbsp;進場回復&nbsp;1,000&nbsp;點能力點<br />•&nbsp;能力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的能力點<br />•&nbsp;當能力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
       "custom_desc": ""
     },
     "10736": {
       "title": "",
-      "desc": "•&nbsp;進場回復&nbsp;2,000&nbsp;點戰力點<br />•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+      "desc": "•&nbsp;進場回復&nbsp;2,000&nbsp;點能力點<br />•&nbsp;能力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的能力點<br />•&nbsp;當能力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
       "custom_desc": ""
     },
     "10737": {
       "title": "",
-      "desc": "•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+      "desc": "•&nbsp;能力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的能力點<br />•&nbsp;當能力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
       "custom_desc": ""
     },
     "10738": {
@@ -3667,27 +3667,27 @@
     },
     "10763": {
       "title": "",
-      "desc": "•&nbsp;進場回復&nbsp;250&nbsp;點戰力點<br />•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+      "desc": "•&nbsp;進場回復&nbsp;250&nbsp;點能力點<br />•&nbsp;能力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的能力點<br />•&nbsp;當能力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
       "custom_desc": ""
     },
     "10764": {
       "title": "",
-      "desc": "•&nbsp;進場回復&nbsp;500&nbsp;點戰力點<br />•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+      "desc": "•&nbsp;進場回復&nbsp;500&nbsp;點能力點<br />•&nbsp;能力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的能力點<br />•&nbsp;當能力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
       "custom_desc": ""
     },
     "10765": {
       "title": "",
-      "desc": "•&nbsp;進場回復&nbsp;1,000&nbsp;點戰力點<br />•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+      "desc": "•&nbsp;進場回復&nbsp;1,000&nbsp;點能力點<br />•&nbsp;能力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的能力點<br />•&nbsp;當能力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
       "custom_desc": ""
     },
     "10766": {
       "title": "",
-      "desc": "•&nbsp;進場回復&nbsp;2,000&nbsp;點戰力點<br />•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+      "desc": "•&nbsp;進場回復&nbsp;2,000&nbsp;點能力點<br />•&nbsp;能力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的能力點<br />•&nbsp;當能力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
       "custom_desc": ""
     },
     "10767": {
       "title": "",
-      "desc": "•&nbsp;戰力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的戰力點<br />•&nbsp;當戰力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
+      "desc": "•&nbsp;能力點上限為&nbsp;10,000<br />•&nbsp;每次發動主動技能<br />⇒&nbsp;扣除相對應的能力點<br />•&nbsp;當能力點扣至&nbsp;0<br />⇒&nbsp;無法發動主動技能",
       "custom_desc": ""
     },
     "10768": {
@@ -3933,6 +3933,16 @@
     "10818": {
       "title": "",
       "desc": "•&nbsp;敵人發動攻擊時<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "10820": {
+      "title": "",
+      "desc": "【石牢】<br />•&nbsp;不能發動角色符石<br />•&nbsp;流光符石不能進入角色頭像",
+      "custom_desc": ""
+    },
+    "10827": {
+      "title": "",
+      "desc": "　",
       "custom_desc": ""
     }
   }

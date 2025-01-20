@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2024.711",
-    "dv": 13665,
-    "time": 1737104007
+    "version": "2025.100",
+    "dv": 13683,
+    "time": 1737357571
   },
   "monster": {
     "1": {
@@ -11951,6 +11951,12 @@
       "race": 1,
       "rarity": 5
     },
+    "1997": {
+      "name": "苜蓿秘靈",
+      "attribute": 3,
+      "race": 7,
+      "rarity": 6
+    },
     "1998": {
       "name": "Terence",
       "attribute": 5,
@@ -21434,6 +21440,18 @@
       "race": 5,
       "rarity": 6
     },
+    "6694": {
+      "name": "恆定的仿魂 ‧ 莉莉絲",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 8
+    },
+    "6695": {
+      "name": "鋼心鏖戰 ‧ 莉莉絲",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 8
+    },
     "6999": {
       "name": "米拉珍",
       "attribute": 5,
@@ -23893,6 +23911,12 @@
       "attribute": 3,
       "race": 8,
       "rarity": 7
+    },
+    "10289": {
+      "name": "耀輝小魔女",
+      "attribute": 4,
+      "race": 7,
+      "rarity": 4
     },
     "10290": {
       "name": "清涼一夏 ‧ 神魔小妹",
@@ -27087,6 +27111,30 @@
       "name": "莊嚴規律 · 藍德南",
       "attribute": 3,
       "race": 1,
+      "rarity": 6
+    },
+    "10828": {
+      "name": "恆定的仿魂 ‧ 莉莉絲",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 8
+    },
+    "10829": {
+      "name": "鋼心鏖戰 ‧ 莉莉絲",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 8
+    },
+    "10835": {
+      "name": "凜潔意氣 ‧ 甄珂",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 6
+    },
+    "10837": {
+      "name": "生靈塗炭 ‧ 胡射山邪祟",
+      "attribute": 2,
+      "race": 3,
       "rarity": 6
     },
     "5001": {
