@@ -48459,37 +48459,58 @@
     "7487": {
       "title": "【風壓狀態】",
       "desc": "•&nbsp;1&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1133
+      ]
     },
     "7488": {
       "title": "【風壓狀態】",
       "desc": "•&nbsp;2&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1133
+      ]
     },
     "7489": {
       "title": "【風壓狀態】",
       "desc": "•&nbsp;3&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1133
+      ]
     },
     "7490": {
       "title": "【風壓狀態】",
       "desc": "•&nbsp;4&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1133
+      ]
     },
     "7491": {
       "title": "【風壓狀態】",
       "desc": "•&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1133
+      ]
     },
     "7492": {
       "title": "【風壓狀態】",
       "desc": "•&nbsp;10&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1133
+      ]
     },
     "7493": {
       "title": "【風壓狀態】",
       "desc": "•&nbsp;98&nbsp;回合內，<br />&nbsp;&nbsp;全隊進入風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1133
+      ]
     },
     "7500": {
       "title": "",
