@@ -2,7 +2,7 @@
   "last_update": {
     "version": "2025.100",
     "dv": 24884,
-    "time": 1737357571
+    "time": 1737518487
   },
   "ws": {
     "10001": {
@@ -3872,62 +3872,62 @@
     },
     "10805": {
       "title": "",
-      "desc": "•&nbsp;進場時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個水屬性以外成員<br />⇒&nbsp;額外扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個水屬性以外成員<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
       "custom_desc": ""
     },
     "10806": {
       "title": "",
-      "desc": "•&nbsp;進場時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個火屬性以外成員<br />⇒&nbsp;額外扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個火屬性以外成員<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
       "custom_desc": ""
     },
     "10807": {
       "title": "",
-      "desc": "•&nbsp;進場時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個木屬性以外成員<br />⇒&nbsp;額外扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個木屬性以外成員<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
       "custom_desc": ""
     },
     "10808": {
       "title": "",
-      "desc": "•&nbsp;進場時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個光屬性以外成員<br />⇒&nbsp;額外扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個光屬性以外成員<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
       "custom_desc": ""
     },
     "10809": {
       "title": "",
-      "desc": "•&nbsp;進場時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個暗屬性以外成員<br />⇒&nbsp;額外扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個暗屬性以外成員<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
       "custom_desc": ""
     },
     "10810": {
       "title": "",
-      "desc": "•&nbsp;進場時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個人類以外成員<br />⇒&nbsp;額外扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個人類以外成員<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
       "custom_desc": ""
     },
     "10811": {
       "title": "",
-      "desc": "•&nbsp;進場時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個獸類以外成員<br />⇒&nbsp;額外扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個獸類以外成員<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
       "custom_desc": ""
     },
     "10812": {
       "title": "",
-      "desc": "•&nbsp;進場時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個妖精類以外成員<br />⇒&nbsp;額外扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個妖精類以外成員<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
       "custom_desc": ""
     },
     "10813": {
       "title": "",
-      "desc": "•&nbsp;進場時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個龍類以外成員<br />⇒&nbsp;額外扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個龍類以外成員<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
       "custom_desc": ""
     },
     "10814": {
       "title": "",
-      "desc": "•&nbsp;進場時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個神族以外成員<br />⇒&nbsp;額外扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個神族以外成員<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
       "custom_desc": ""
     },
     "10815": {
       "title": "",
-      "desc": "•&nbsp;進場時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個魔族以外成員<br />⇒&nbsp;額外扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個魔族以外成員<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
       "custom_desc": ""
     },
     "10816": {
       "title": "",
-      "desc": "•&nbsp;進場時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個機械族以外成員<br />⇒&nbsp;額外扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;&nbsp;&nbsp;每有&nbsp;1&nbsp;個機械族以外成員<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;100%",
       "custom_desc": ""
     },
     "10818": {
