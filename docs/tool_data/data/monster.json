@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2025.100",
-    "dv": 13683,
-    "time": 1737357571
+    "dv": 13710,
+    "time": 1737718167
   },
   "monster": {
     "1": {
@@ -17327,6 +17327,12 @@
       "race": 8,
       "rarity": 8
     },
+    "2897": {
+      "name": "嘯召立義 ‧ 姬臣",
+      "attribute": 1,
+      "race": 4,
+      "rarity": 6
+    },
     "2900": {
       "name": "十年創紀 ‧ 瘋頭",
       "attribute": 1,
@@ -21451,6 +21457,18 @@
       "attribute": 1,
       "race": 10,
       "rarity": 8
+    },
+    "6696": {
+      "name": "鯉躍天翔 ‧ 軒轅",
+      "attribute": 1,
+      "race": 4,
+      "rarity": 7
+    },
+    "6697": {
+      "name": "破厄天弓 ‧ 帝鴻",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 7
     },
     "6999": {
       "name": "米拉珍",
@@ -27113,6 +27131,12 @@
       "race": 1,
       "rarity": 6
     },
+    "10827": {
+      "name": "魔法石靈 ‧ 帕拉伊巴",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 6
+    },
     "10828": {
       "name": "恆定的仿魂 ‧ 莉莉絲",
       "attribute": 1,
@@ -27135,6 +27159,54 @@
       "name": "生靈塗炭 ‧ 胡射山邪祟",
       "attribute": 2,
       "race": 3,
+      "rarity": 6
+    },
+    "10838": {
+      "name": "極惡凶煞 ‧ 不周山邪祟 (魔)",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 7
+    },
+    "10839": {
+      "name": "極惡凶煞 ‧ 不周山邪祟 (獸)",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 7
+    },
+    "10840": {
+      "name": "極惡凶煞 ‧ 不周山邪祟 (龍)",
+      "attribute": 5,
+      "race": 4,
+      "rarity": 7
+    },
+    "10841": {
+      "name": "鯉躍天翔 ‧ 軒轅",
+      "attribute": 1,
+      "race": 4,
+      "rarity": 7
+    },
+    "10842": {
+      "name": "破厄天弓 ‧ 帝鴻",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 7
+    },
+    "10843": {
+      "name": "寳塔護陣 ‧ 炎帝",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 6
+    },
+    "10846": {
+      "name": "迷津指點 ‧ 小硯",
+      "attribute": 5,
+      "race": 3,
+      "rarity": 6
+    },
+    "10848": {
+      "name": "大仙顯靈 ‧ 黃大仙",
+      "attribute": 4,
+      "race": 5,
       "rarity": 6
     },
     "5001": {
