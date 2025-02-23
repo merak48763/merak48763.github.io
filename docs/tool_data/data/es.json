@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.100",
-    "dv": 24884,
-    "time": 1737518487
+    "version": "2025.102",
+    "dv": 24974,
+    "time": 1740290007
   },
   "es": {
     "0": {
@@ -40644,7 +40644,7 @@
       "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;10%",
       "custom_desc": "",
       "icons": [
-        1129
+        1130
       ]
     },
     "6368": {
@@ -40652,7 +40652,7 @@
       "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;20%",
       "custom_desc": "",
       "icons": [
-        1129
+        1130
       ]
     },
     "6369": {
@@ -40660,7 +40660,7 @@
       "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;30%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;30%",
       "custom_desc": "",
       "icons": [
-        1129
+        1130
       ]
     },
     "6370": {
@@ -40668,7 +40668,7 @@
       "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;40%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;40%",
       "custom_desc": "",
       "icons": [
-        1129
+        1130
       ]
     },
     "6371": {
@@ -40676,7 +40676,7 @@
       "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;50%",
       "custom_desc": "",
       "icons": [
-        1129
+        1130
       ]
     },
     "6372": {
@@ -40684,7 +40684,7 @@
       "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;60%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;60%",
       "custom_desc": "",
       "icons": [
-        1129
+        1130
       ]
     },
     "6373": {
@@ -40692,7 +40692,7 @@
       "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;70%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;70%",
       "custom_desc": "",
       "icons": [
-        1129
+        1130
       ]
     },
     "6374": {
@@ -40700,7 +40700,7 @@
       "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;80%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;80%",
       "custom_desc": "",
       "icons": [
-        1129
+        1130
       ]
     },
     "6375": {
@@ -40708,7 +40708,7 @@
       "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;90%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;90%",
       "custom_desc": "",
       "icons": [
-        1129
+        1130
       ]
     },
     "6376": {
@@ -40716,7 +40716,7 @@
       "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;召喚師陷入永久蠱蝕狀態：<br />⓵&nbsp;回合結束時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />⓶&nbsp;全隊攻擊力減少&nbsp;100%",
       "custom_desc": "",
       "icons": [
-        1129
+        1130
       ]
     },
     "6377": {
@@ -48149,32 +48149,50 @@
     "7425": {
       "title": "【淡化印記 - 水】",
       "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加淡化印記",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1129
+      ]
     },
     "7426": {
       "title": "【淡化印記 - 火】",
       "desc": "•&nbsp;每回合所有火符石<br />⇒&nbsp;添加淡化印記",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1129
+      ]
     },
     "7427": {
       "title": "【淡化印記 - 木】",
       "desc": "•&nbsp;每回合所有木符石<br />⇒&nbsp;添加淡化印記",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1129
+      ]
     },
     "7428": {
       "title": "【淡化印記 - 光】",
       "desc": "•&nbsp;每回合所有光符石<br />⇒&nbsp;添加淡化印記",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1129
+      ]
     },
     "7429": {
       "title": "【淡化印記 - 暗】",
       "desc": "•&nbsp;每回合所有暗符石<br />⇒&nbsp;添加淡化印記",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1129
+      ]
     },
     "7430": {
       "title": "【淡化印記 - 心】",
       "desc": "•&nbsp;每回合所有心符石<br />⇒&nbsp;添加淡化印記",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1129
+      ]
     },
     "7431": {
       "title": "【煉獄之火】",

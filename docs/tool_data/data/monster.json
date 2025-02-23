@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.100",
-    "dv": 13710,
-    "time": 1737718167
+    "version": "2025.102",
+    "dv": 13732,
+    "time": 1740290007
   },
   "monster": {
     "1": {
@@ -17471,6 +17471,18 @@
       "race": 5,
       "rarity": 7
     },
+    "2923": {
+      "name": "全知的啓示者 ‧ 猶格索托斯",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 8
+    },
+    "2924": {
+      "name": "幻昔的變革者 ‧ 猶格索托斯",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 8
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21445,6 +21457,12 @@
       "attribute": 4,
       "race": 5,
       "rarity": 6
+    },
+    "6693": {
+      "name": "全知的啓示者 ‧ 猶格索托斯",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 8
     },
     "6694": {
       "name": "恆定的仿魂 ‧ 莉莉絲",
@@ -27155,6 +27173,12 @@
       "race": 2,
       "rarity": 6
     },
+    "10836": {
+      "name": "雷鞭銳網 ‧ 凌笙",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 6
+    },
     "10837": {
       "name": "生靈塗炭 ‧ 胡射山邪祟",
       "attribute": 2,
@@ -27197,9 +27221,27 @@
       "race": 5,
       "rarity": 6
     },
+    "10844": {
+      "name": "精妙棋訣 ‧ 黑嘉嘉",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "10845": {
+      "name": "破局鏗鳴 ‧ 黑嘉嘉",
+      "attribute": 5,
+      "race": 3,
+      "rarity": 6
+    },
     "10846": {
       "name": "迷津指點 ‧ 小硯",
       "attribute": 5,
+      "race": 3,
+      "rarity": 6
+    },
+    "10847": {
+      "name": "靈驗籤詩 ‧ 小筆",
+      "attribute": 3,
       "race": 3,
       "rarity": 6
     },
@@ -27207,6 +27249,24 @@
       "name": "大仙顯靈 ‧ 黃大仙",
       "attribute": 4,
       "race": 5,
+      "rarity": 6
+    },
+    "10849": {
+      "name": "忠毅顯赫 ‧ 車公",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 6
+    },
+    "10850": {
+      "name": "吉運轉來 ‧ 吉娘",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
+    "10851": {
+      "name": "福祿傳予 ‧ 仙羊",
+      "attribute": 3,
+      "race": 2,
       "rarity": 6
     },
     "5001": {
