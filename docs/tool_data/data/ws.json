@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.100",
-    "dv": 24884,
-    "time": 1737518487
+    "version": "2025.110",
+    "dv": 25042,
+    "time": 1740367409
   },
   "ws": {
     "10001": {
@@ -3938,6 +3938,36 @@
     "10820": {
       "title": "",
       "desc": "【石牢】<br />•&nbsp;不能發動角色符石<br />•&nbsp;流光符石不能進入角色頭像",
+      "custom_desc": ""
+    },
+    "10821": {
+      "title": "",
+      "desc": "•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒&nbsp;沒有消除該角色符石，<br />&nbsp;&nbsp;&nbsp;&nbsp;該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;進入「殞命輪迴」(已殞命)",
+      "custom_desc": ""
+    },
+    "10822": {
+      "title": "",
+      "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;5%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
+      "custom_desc": ""
+    },
+    "10823": {
+      "title": "",
+      "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
+      "custom_desc": ""
+    },
+    "10824": {
+      "title": "",
+      "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;15%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
+      "custom_desc": ""
+    },
+    "10825": {
+      "title": "",
+      "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
+      "custom_desc": ""
+    },
+    "10826": {
+      "title": "",
+      "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;25%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
       "custom_desc": ""
     },
     "10827": {

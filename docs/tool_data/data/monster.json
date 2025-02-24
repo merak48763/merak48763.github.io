@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.102",
-    "dv": 13732,
-    "time": 1740290007
+    "version": "2025.110",
+    "dv": 13763,
+    "time": 1740367409
   },
   "monster": {
     "1": {
@@ -17333,6 +17333,12 @@
       "race": 4,
       "rarity": 6
     },
+    "2898": {
+      "name": "絢光折射 ‧ 極光 23",
+      "attribute": 5,
+      "race": 3,
+      "rarity": 6
+    },
     "2900": {
       "name": "十年創紀 ‧ 瘋頭",
       "attribute": 1,
@@ -27268,6 +27274,90 @@
       "attribute": 3,
       "race": 2,
       "rarity": 6
+    },
+    "10852": {
+      "name": "雷姆",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 6
+    },
+    "10853": {
+      "name": "月下的眸光 ‧ 鬼化雷姆",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 6
+    },
+    "10854": {
+      "name": "拉姆",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
+    "10855": {
+      "name": "奧托 ‧ 蘇文與菲魯菲",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "10856": {
+      "name": "菲魯特",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10857": {
+      "name": "愛蜜莉雅與帕克",
+      "attribute": 5,
+      "race": 3,
+      "rarity": 6
+    },
+    "10858": {
+      "name": "庫珥修 ‧ 卡爾斯騰與菲莉絲",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "10859": {
+      "name": "菜月昴",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "10860": {
+      "name": "碧翠絲",
+      "attribute": 5,
+      "race": 3,
+      "rarity": 6
+    },
+    "10862": {
+      "name": "特蕾西亞 ‧ 范 ‧ 阿斯特雷亞",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10863": {
+      "name": "威爾海姆 ‧ 范 ‧ 阿斯特雷亞",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "10867": {
+      "name": "艾爾莎 ‧ 葛蘭西爾特",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "10872": {
+      "name": "銀髮天使・愛蜜莉雅",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 7
+    },
+    "10873": {
+      "name": "蒸番薯",
+      "attribute": 2,
+      "race": 7,
+      "rarity": 3
     },
     "5001": {
       "name": "UNKNOWN"
