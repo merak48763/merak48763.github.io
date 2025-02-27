@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.110",
-    "dv": 13763,
-    "time": 1740367409
+    "version": "2025.111",
+    "dv": 13769,
+    "time": 1740654327
   },
   "monster": {
     "1": {
@@ -27341,10 +27341,28 @@
       "race": 1,
       "rarity": 6
     },
+    "10864": {
+      "name": "由里烏斯 ‧ 尤克歷烏斯",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "10865": {
+      "name": "羅茲瓦爾 ‧ L ‧ 梅札斯",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
     "10867": {
       "name": "艾爾莎 ‧ 葛蘭西爾特",
       "attribute": 5,
       "race": 1,
+      "rarity": 6
+    },
+    "10870": {
+      "name": "貝特魯吉烏斯 ‧ 羅曼尼康帝",
+      "attribute": 5,
+      "race": 3,
       "rarity": 6
     },
     "10872": {
