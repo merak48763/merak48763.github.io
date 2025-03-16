@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2025.111",
-    "dv": 13769,
-    "time": 1740654327
+    "dv": 13779,
+    "time": 1742097692
   },
   "monster": {
     "1": {
@@ -27329,6 +27329,12 @@
       "race": 3,
       "rarity": 6
     },
+    "10861": {
+      "name": "白鯨",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 7
+    },
     "10862": {
       "name": "特蕾西亞 ‧ 范 ‧ 阿斯特雷亞",
       "attribute": 2,
@@ -27353,10 +27359,28 @@
       "race": 1,
       "rarity": 6
     },
+    "10866": {
+      "name": "梅莉 ‧ 波特魯特",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 6
+    },
     "10867": {
       "name": "艾爾莎 ‧ 葛蘭西爾特",
       "attribute": 5,
       "race": 1,
+      "rarity": 6
+    },
+    "10868": {
+      "name": "大兔",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 6
+    },
+    "10869": {
+      "name": "加菲爾 ‧ 汀澤爾",
+      "attribute": 4,
+      "race": 2,
       "rarity": 6
     },
     "10870": {
@@ -27364,6 +27388,12 @@
       "attribute": 5,
       "race": 3,
       "rarity": 6
+    },
+    "10871": {
+      "name": "艾姬多娜",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 7
     },
     "10872": {
       "name": "銀髮天使・愛蜜莉雅",
