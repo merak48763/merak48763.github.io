@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.111",
-    "dv": 13779,
-    "time": 1742097692
+    "version": "2025.200",
+    "dv": 13806,
+    "time": 1742824901
   },
   "monster": {
     "1": {
@@ -17489,6 +17489,12 @@
       "race": 8,
       "rarity": 8
     },
+    "2925": {
+      "name": "秘燈千願 ‧ 傑尼",
+      "attribute": 1,
+      "race": 5,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21493,6 +21499,18 @@
       "attribute": 4,
       "race": 2,
       "rarity": 7
+    },
+    "6698": {
+      "name": "命運歡樂頌 ‧ 貝多芬",
+      "attribute": 1,
+      "race": 5,
+      "rarity": 6
+    },
+    "6699": {
+      "name": "無調性和聲 ‧ 莫札特",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 6
     },
     "6999": {
       "name": "米拉珍",
@@ -27406,6 +27424,66 @@
       "attribute": 2,
       "race": 7,
       "rarity": 3
+    },
+    "10874": {
+      "name": "命運歡樂頌 ‧ 貝多芬",
+      "attribute": 1,
+      "race": 5,
+      "rarity": 6
+    },
+    "10875": {
+      "name": "無調性和聲 ‧ 莫札特",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 6
+    },
+    "10876": {
+      "name": "調律享頌樂 ‧ 舒伯特",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 6
+    },
+    "10877": {
+      "name": "悖德夢幻曲 ‧ 舒曼",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 6
+    },
+    "10878": {
+      "name": "啟迪旋律線 ‧ 海頓",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
+    "10879": {
+      "name": "獨弦羅曼號 ‧ 柴可夫斯基",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 6
+    },
+    "10880": {
+      "name": "古典樂靈",
+      "attribute": 2,
+      "race": 7,
+      "rarity": 3
+    },
+    "10882": {
+      "name": "和諧離別曲 ‧ 蕭邦",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
+    "10886": {
+      "name": "潛幕謀局 ‧ 雷蒙德",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "11002": {
+      "name": "聖裁時刻 ‧ 貞德",
+      "attribute": 1,
+      "race": 4,
+      "rarity": 7
     },
     "5001": {
       "name": "UNKNOWN"

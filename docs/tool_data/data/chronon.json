@@ -4964,6 +4964,466 @@
           }
         ]
       ]
+    },
+    {
+      "id": 36,
+      "series": 1,
+      "scid": 36,
+      "name": "少女們與巧克力",
+      "nameEn": "Maidens and Chocolates",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 35,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 35,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 35,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 35,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 35,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              70
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              90
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 37,
+      "series": 1,
+      "scid": 37,
+      "name": "大魔女的加護",
+      "nameEn": "The Great Witch’s Protection",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 3,
+      "instantSkill": [
+        [
+          {
+            "skill": 14,
+            "args": [
+              3,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              3,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              3,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              4,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              4,
+              5
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 42,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              10
+            ]
+          },
+          {
+            "skill": 27,
+            "args": []
+          },
+          {
+            "skill": 28,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              10
+            ]
+          },
+          {
+            "skill": 27,
+            "args": []
+          },
+          {
+            "skill": 28,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 21,
+            "args": [
+              5,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 21,
+            "args": [
+              5,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 21,
+            "args": [
+              5,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 21,
+            "args": [
+              5,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 21,
+            "args": [
+              5,
+              4
+            ]
+          },
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 38,
+      "series": 1,
+      "scid": 38,
+      "name": "以炮響拉開帷幕",
+      "nameEn": "A Thunderous Prelude",
+      "star": 3,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              10,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              10,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              15,
+              3
+            ]
+          },
+          {
+            "skill": 23,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              15,
+              3
+            ]
+          },
+          {
+            "skill": 23,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              10,
+              20,
+              3
+            ]
+          },
+          {
+            "skill": 23,
+            "args": []
+          },
+          {
+            "skill": 46,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          },
+          {
+            "skill": 23,
+            "args": []
+          }
+        ]
+      ]
     }
   ],
   "series": [

@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.110",
-    "dv": 25042,
-    "time": 1740367409
+    "version": "2025.200",
+    "dv": 25201,
+    "time": 1742824901
   },
   "ws": {
     "10001": {
@@ -1417,32 +1417,32 @@
     },
     "10312": {
       "title": "",
-      "desc": "鎖定&nbsp;1&nbsp;個位置，每觸碰鎖定位置，減少移動符石時間&nbsp;1&nbsp;秒&nbsp;(無視技能)",
+      "desc": "•&nbsp;隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間減少&nbsp;1&nbsp;秒",
       "custom_desc": ""
     },
     "10313": {
       "title": "",
-      "desc": "鎖定&nbsp;1&nbsp;個位置，每觸碰鎖定位置，減少移動符石時間&nbsp;2&nbsp;秒&nbsp;(無視技能)",
+      "desc": "•&nbsp;隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間減少&nbsp;2&nbsp;秒",
       "custom_desc": ""
     },
     "10314": {
       "title": "",
-      "desc": "鎖定&nbsp;1&nbsp;個位置，每觸碰鎖定位置，減少移動符石時間&nbsp;3&nbsp;秒&nbsp;(無視技能)",
+      "desc": "•&nbsp;隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間減少&nbsp;3&nbsp;秒",
       "custom_desc": ""
     },
     "10315": {
       "title": "",
-      "desc": "鎖定&nbsp;2&nbsp;個位置，每觸碰鎖定位置，減少移動符石時間&nbsp;1&nbsp;秒&nbsp;(無視技能)",
+      "desc": "•&nbsp;隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間減少&nbsp;1&nbsp;秒",
       "custom_desc": ""
     },
     "10316": {
       "title": "",
-      "desc": "鎖定&nbsp;2&nbsp;個位置，每觸碰鎖定位置，減少移動符石時間&nbsp;2&nbsp;秒&nbsp;(無視技能)",
+      "desc": "•&nbsp;隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間減少&nbsp;2&nbsp;秒",
       "custom_desc": ""
     },
     "10317": {
       "title": "",
-      "desc": "鎖定&nbsp;2&nbsp;個位置，每觸碰鎖定位置，減少移動符石時間&nbsp;3&nbsp;秒&nbsp;(無視技能)",
+      "desc": "•&nbsp;隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間減少&nbsp;3&nbsp;秒",
       "custom_desc": ""
     },
     "10318": {
@@ -2392,12 +2392,12 @@
     },
     "10507": {
       "title": "",
-      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰縮時地型<br />⇒&nbsp;當前移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;50%&nbsp;<br />•&nbsp;每個縮時地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間減少&nbsp;10&nbsp;秒",
       "custom_desc": ""
     },
     "10508": {
       "title": "",
-      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰縮時地型<br />⇒&nbsp;當前移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;50%&nbsp;<br />•&nbsp;每個縮時地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間減少&nbsp;10&nbsp;秒",
       "custom_desc": ""
     },
     "10509": {
@@ -3947,32 +3947,77 @@
     },
     "10822": {
       "title": "",
-      "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;5%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
+      "desc": "•&nbsp;回合結束時<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;5%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;下回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
       "custom_desc": ""
     },
     "10823": {
       "title": "",
-      "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
+      "desc": "•&nbsp;回合結束時<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;下回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
       "custom_desc": ""
     },
     "10824": {
       "title": "",
-      "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;15%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
+      "desc": "•&nbsp;回合結束時<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;15%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;下回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
       "custom_desc": ""
     },
     "10825": {
       "title": "",
-      "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
+      "desc": "•&nbsp;回合結束時<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;下回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
       "custom_desc": ""
     },
     "10826": {
       "title": "",
-      "desc": "•&nbsp;每進入下一層數&nbsp;(Wave)<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;25%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
+      "desc": "•&nbsp;回合結束時<br />⓵&nbsp;當前沒有魔獸值狀態<br />⇒&nbsp;召喚師累積&nbsp;0%&nbsp;魔獸值<br />⓶&nbsp;反之<br />⇒&nbsp;召喚師累積&nbsp;25%&nbsp;魔獸值<br /><br />•&nbsp;當累積至&nbsp;100%&nbsp;魔獸值<br />⇒&nbsp;下回合結束時召喚師會死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />•&nbsp;點擊右上方技能圖示<br />⇒&nbsp;將魔獸值減至&nbsp;0%<br />&nbsp;(每場戰鬥可發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;每多&nbsp;1&nbsp;個【Re:ZERO】成員，<br />&nbsp;&nbsp;可額外發動&nbsp;1&nbsp;次，<br />&nbsp;&nbsp;最多可發動&nbsp;7&nbsp;次)",
       "custom_desc": ""
     },
     "10827": {
       "title": "",
       "desc": "　",
+      "custom_desc": ""
+    },
+    "10837": {
+      "title": "",
+      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
+      "custom_desc": ""
+    },
+    "10838": {
+      "title": "",
+      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
+      "custom_desc": ""
+    },
+    "10839": {
+      "title": "",
+      "desc": "•&nbsp;每回合隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
+      "custom_desc": ""
+    },
+    "10840": {
+      "title": "",
+      "desc": "•&nbsp;每回合隨機&nbsp;8&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
+      "custom_desc": ""
+    },
+    "10841": {
+      "title": "",
+      "desc": "•&nbsp;每回合隨機&nbsp;10&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
+      "custom_desc": ""
+    },
+    "10842": {
+      "title": "",
+      "desc": "•&nbsp;回合開始時倒數&nbsp;20&nbsp;秒<br />•&nbsp;倒數至&nbsp;0&nbsp;秒時<br />⇒&nbsp;立即進入敵人行動階段",
+      "custom_desc": ""
+    },
+    "10843": {
+      "title": "",
+      "desc": "•&nbsp;回合開始時倒數&nbsp;15&nbsp;秒<br />•&nbsp;倒數至&nbsp;0&nbsp;秒時<br />⇒&nbsp;立即進入敵人行動階段",
+      "custom_desc": ""
+    },
+    "10844": {
+      "title": "",
+      "desc": "•&nbsp;回合開始時倒數&nbsp;10&nbsp;秒<br />•&nbsp;倒數至&nbsp;0&nbsp;秒時<br />⇒&nbsp;立即進入敵人行動階段",
+      "custom_desc": ""
+    },
+    "10845": {
+      "title": "",
+      "desc": "•&nbsp;回合開始時倒數&nbsp;5&nbsp;秒<br />•&nbsp;倒數至&nbsp;0&nbsp;秒時<br />⇒&nbsp;立即進入敵人行動階段",
       "custom_desc": ""
     }
   }

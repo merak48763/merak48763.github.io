@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.111",
-    "dv": 25060,
-    "time": 1742097692
+    "version": "2025.200",
+    "dv": 25201,
+    "time": 1742824901
   },
   "es": {
     "0": {
@@ -28091,7 +28091,7 @@
     },
     "4820": {
       "title": "",
-      "desc": "<em>【時間黑洞&nbsp;‧&nbsp;非石化狀態&nbsp;-&nbsp;攻擊弱化&nbsp;‧&nbsp;愈戰愈強】</em><br /><br />首回合隨機鎖定&nbsp;2&nbsp;個位置，<br />其後每次受到敵人攻擊時，<br />額外鎖定&nbsp;1&nbsp;個位置；<br />每觸碰被鎖定的位置，<br />移動符石時間減少&nbsp;3&nbsp;秒。<br /><br />敵人所受傷害減至&nbsp;10%；<br />只有敵人置身在石化狀態，<br />才會對其造成完整攻擊傷害。<br /><br />敵人生命力愈低時，<br />攻擊力會大幅提升，<br />達到一定血量時會連撃&nbsp;2&nbsp;次",
+      "desc": "<em>【縮時地型&nbsp;‧&nbsp;非石化狀態&nbsp;-&nbsp;攻擊弱化&nbsp;‧&nbsp;愈戰愈強】</em><br /><br />•&nbsp;首回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;其後每次受到敵人攻擊<br />⇒&nbsp;額外&nbsp;1&nbsp;個位置<br />&nbsp;&nbsp;&nbsp;&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間減少&nbsp;3&nbsp;秒<br /><br />敵人所受傷害減至&nbsp;10%；<br />只有敵人置身在石化狀態，<br />才會對其造成完整攻擊傷害。<br /><br />敵人生命力愈低時，<br />攻擊力會大幅提升，<br />達到一定血量時會連撃&nbsp;2&nbsp;次",
       "custom_desc": ""
     },
     "4821": {
@@ -29724,7 +29724,7 @@
     },
     "5024": {
       "title": "",
-      "desc": "<em>【攻前盾&nbsp;‧&nbsp;時間黑洞&nbsp;‧&nbsp;9&nbsp;連擊盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人無視任何攻擊傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />每當敵人發動攻擊時，<br />隨機鎖定&nbsp;3&nbsp;個位置，<br />每觸碰被鎖定的位置，<br />將移動符石時間減少&nbsp;3&nbsp;秒。<br /><br />9&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。<br /><br />無視所有減傷效果和<br />意志技能。",
+      "desc": "<em>【攻前盾&nbsp;‧&nbsp;縮時地型&nbsp;‧&nbsp;9&nbsp;連擊盾&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人無視任何攻擊傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;隨機&nbsp;3&nbsp;個位置<br />&nbsp;&nbsp;&nbsp;&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間減少&nbsp;3&nbsp;秒<br /><br />9&nbsp;連擊&nbsp;(Combo)&nbsp;或以上<br />才會對敵人造成攻擊傷害。<br /><br />無視所有減傷效果和<br />意志技能。",
       "custom_desc": ""
     },
     "5025": {
@@ -33983,16 +33983,16 @@
       ]
     },
     "5580": {
-      "title": "【時間黑洞】",
-      "desc": "•&nbsp;首回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現時間黑洞<br />•&nbsp;每當敵人發動攻擊時<br />⇒&nbsp;額外&nbsp;3&nbsp;個位置<br />&nbsp;&nbsp;&nbsp;&nbsp;出現時間黑洞<br />•&nbsp;每次觸碰時間黑洞<br />⇒&nbsp;移動符石時間減少&nbsp;3&nbsp;秒",
+      "title": "【縮時地型】",
+      "desc": "•&nbsp;首回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;額外&nbsp;3&nbsp;個位置<br />&nbsp;&nbsp;&nbsp;&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間減少&nbsp;3&nbsp;秒",
       "custom_desc": "",
       "icons": [
         1002
       ]
     },
     "5581": {
-      "title": "【時間黑洞】",
-      "desc": "•&nbsp;首回合隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現時間黑洞<br />•&nbsp;每當敵人發動攻擊時<br />⇒&nbsp;額外&nbsp;6&nbsp;個位置<br />&nbsp;&nbsp;&nbsp;&nbsp;出現時間黑洞<br />•&nbsp;每次觸碰時間黑洞<br />⇒&nbsp;移動符石時間減少&nbsp;3&nbsp;秒",
+      "title": "【縮時地型】",
+      "desc": "•&nbsp;首回合隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;額外&nbsp;6&nbsp;個位置<br />&nbsp;&nbsp;&nbsp;&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間減少&nbsp;3&nbsp;秒",
       "custom_desc": "",
       "icons": [
         1002
@@ -44024,7 +44024,7 @@
       "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥10,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
       "custom_desc": "",
       "icons": [
-        1039
+        231
       ]
     },
     "6810": {
@@ -44032,7 +44032,7 @@
       "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥30,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
       "custom_desc": "",
       "icons": [
-        1039
+        233
       ]
     },
     "6811": {
@@ -44040,7 +44040,7 @@
       "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥50,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
       "custom_desc": "",
       "icons": [
-        1039
+        235
       ]
     },
     "6812": {
@@ -44048,7 +44048,7 @@
       "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥20,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
       "custom_desc": "",
       "icons": [
-        1039
+        232
       ]
     },
     "6813": {
@@ -44056,7 +44056,7 @@
       "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥40,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
       "custom_desc": "",
       "icons": [
-        1039
+        234
       ]
     },
     "6814": {
@@ -45173,27 +45173,42 @@
     "6965": {
       "title": "【龍刻脈動 ≥60,001 分損敵】",
       "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥60,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        236
+      ]
     },
     "6966": {
       "title": "【龍刻脈動 ≥70,001 分損敵】",
       "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥70,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        237
+      ]
     },
     "6967": {
       "title": "【龍刻脈動 ≥80,001 分損敵】",
       "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥80,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        238
+      ]
     },
     "6968": {
       "title": "【龍刻脈動 ≥90,001 分損敵】",
       "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥90,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        239
+      ]
     },
     "6969": {
       "title": "【龍刻脈動 ≥100,001 分損敵】",
       "desc": "•&nbsp;發動龍刻脈動，<br />&nbsp;&nbsp;並於龍刻脈動中<br />&nbsp;&nbsp;達成&nbsp;≥100,001&nbsp;分<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        240
+      ]
     },
     "6970": {
       "title": "逃跑",
@@ -47752,12 +47767,18 @@
     "7360": {
       "title": "【反饋】",
       "desc": "•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1052
+      ]
     },
     "7361": {
       "title": "【反饋】",
       "desc": "•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;500,000&nbsp;點的傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1052
+      ]
     },
     "7362": {
       "title": "【減傷狀態】",
@@ -48302,177 +48323,282 @@
     "7452": {
       "title": "【全消盾 - 水、火】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水及火符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水及火符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7453": {
       "title": "【全消盾 - 水、木】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水及木符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水及木符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7454": {
       "title": "【全消盾 - 水、光】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水及光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水及光符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7455": {
       "title": "【全消盾 - 水、暗】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水及暗符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7456": {
       "title": "【全消盾 - 水、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7457": {
       "title": "【全消盾 - 火、木】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火及木符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火及木符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7458": {
       "title": "【全消盾 - 火、光】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火及光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火及光符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7459": {
       "title": "【全消盾 - 火、暗】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火及暗符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7460": {
       "title": "【全消盾 - 火、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7461": {
       "title": "【全消盾 - 木、光】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有木及光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木及光符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7462": {
       "title": "【全消盾 - 木、暗】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有木及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木及暗符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7463": {
       "title": "【全消盾 - 木、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有木及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7464": {
       "title": "【全消盾 - 光、暗】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有光及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除光及暗符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7465": {
       "title": "【全消盾 - 光、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有光及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除光及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7466": {
       "title": "【全消盾 - 暗、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有暗及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除暗及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1025
+      ]
     },
     "7467": {
       "title": "【全消盾 - 水、火、木】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、火及木符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、火及木符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7468": {
       "title": "【全消盾 - 水、火、光】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、火及光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、火及光符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7469": {
       "title": "【全消盾 - 水、火、暗】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、火及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、火及暗符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7470": {
       "title": "【全消盾 - 水、火、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、火及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、火及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7471": {
       "title": "【全消盾 - 水、木、光】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、木及光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、木及光符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7472": {
       "title": "【全消盾 - 水、木、暗】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、木及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、木及暗符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7473": {
       "title": "【全消盾 - 水、木、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、木及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、木及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7474": {
       "title": "【全消盾 - 水、光、暗】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、光及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、光及暗符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7475": {
       "title": "【全消盾 - 水、光、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、光及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、光及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7476": {
       "title": "【全消盾 - 水、暗、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有水、暗及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水、暗及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7477": {
       "title": "【全消盾 - 火、木、光】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火、木及光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火、木及光符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7478": {
       "title": "【全消盾 - 火、木、暗】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火、木及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火、木及暗符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7479": {
       "title": "【全消盾 - 火、木、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火、木及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火、木及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7480": {
       "title": "【全消盾 - 火、光、暗】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火、光及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火、光及暗符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7481": {
       "title": "【全消盾 - 火、光、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火、光及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火、光及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7482": {
       "title": "【全消盾 - 火、暗、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有火、暗及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火、暗及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7483": {
       "title": "【全消盾 - 木、光、暗】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有木、光及暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木、光及暗符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7484": {
       "title": "【全消盾 - 木、光、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有木、光及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木、光及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7485": {
       "title": "【全消盾 - 木、暗、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有木、暗及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木、暗及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7486": {
       "title": "【全消盾 - 光、暗、心】",
       "desc": "•&nbsp;首批消除場上<br />&nbsp;&nbsp;&nbsp;所有光、暗及心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除光、暗及心符石)",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1026
+      ]
     },
     "7487": {
       "title": "【風壓狀態】",
@@ -48606,6 +48732,241 @@
     "7505": {
       "title": "",
       "desc": "•&nbsp;消除角色符石",
+      "custom_desc": ""
+    },
+    "7506": {
+      "title": "【隊中有水以外 - 清技及 EP】",
+      "desc": "•&nbsp;隊中有水屬性以外成員<br />⇒&nbsp;進場及每回合結束時，<br />　所有成員的主動技能&nbsp;CD、<br />&nbsp;&nbsp;&nbsp;&nbsp;EP&nbsp;及累積戰鬥回合數重置",
+      "custom_desc": ""
+    },
+    "7507": {
+      "title": "【隊中有火以外 - 清技及 EP】",
+      "desc": "•&nbsp;隊中有火屬性以外成員<br />⇒&nbsp;進場及每回合結束時，<br />　所有成員的主動技能&nbsp;CD、<br />&nbsp;&nbsp;&nbsp;&nbsp;EP&nbsp;及累積戰鬥回合數重置",
+      "custom_desc": ""
+    },
+    "7508": {
+      "title": "【隊中有木以外 - 清技及 EP】",
+      "desc": "•&nbsp;隊中有木屬性以外成員<br />⇒&nbsp;進場及每回合結束時，<br />　所有成員的主動技能&nbsp;CD、<br />&nbsp;&nbsp;&nbsp;&nbsp;EP&nbsp;及累積戰鬥回合數重置",
+      "custom_desc": ""
+    },
+    "7509": {
+      "title": "【隊中有光以外 - 清技及 EP】",
+      "desc": "•&nbsp;隊中有光屬性以外成員<br />⇒&nbsp;進場及每回合結束時，<br />　所有成員的主動技能&nbsp;CD、<br />&nbsp;&nbsp;&nbsp;&nbsp;EP&nbsp;及累積戰鬥回合數重置",
+      "custom_desc": ""
+    },
+    "7510": {
+      "title": "【隊中有暗以外 - 清技及 EP】",
+      "desc": "•&nbsp;隊中有暗屬性以外成員<br />⇒&nbsp;進場及每回合結束時，<br />　所有成員的主動技能&nbsp;CD、<br />&nbsp;&nbsp;&nbsp;&nbsp;EP&nbsp;及累積戰鬥回合數重置",
+      "custom_desc": ""
+    },
+    "7511": {
+      "title": "【隊中有人以外 - 清技及 EP】",
+      "desc": "•&nbsp;隊中有人類以外成員<br />⇒&nbsp;進場及每回合結束時，<br />　所有成員的主動技能&nbsp;CD、<br />&nbsp;&nbsp;&nbsp;&nbsp;EP&nbsp;及累積戰鬥回合數重置",
+      "custom_desc": ""
+    },
+    "7512": {
+      "title": "【隊中有獸以外 - 清技及 EP】",
+      "desc": "•&nbsp;隊中有獸類以外成員<br />⇒&nbsp;進場及每回合結束時，<br />　所有成員的主動技能&nbsp;CD、<br />&nbsp;&nbsp;&nbsp;&nbsp;EP&nbsp;及累積戰鬥回合數重置",
+      "custom_desc": ""
+    },
+    "7513": {
+      "title": "【隊中有妖以外 - 清技及 EP】",
+      "desc": "•&nbsp;隊中有妖精類以外成員<br />⇒&nbsp;進場及每回合結束時，<br />　所有成員的主動技能&nbsp;CD、<br />&nbsp;&nbsp;&nbsp;&nbsp;EP&nbsp;及累積戰鬥回合數重置",
+      "custom_desc": ""
+    },
+    "7514": {
+      "title": "【隊中有龍以外 - 清技及 EP】",
+      "desc": "•&nbsp;隊中有龍類以外成員<br />⇒&nbsp;進場及每回合結束時，<br />　所有成員的主動技能&nbsp;CD、<br />&nbsp;&nbsp;&nbsp;&nbsp;EP&nbsp;及累積戰鬥回合數重置",
+      "custom_desc": ""
+    },
+    "7515": {
+      "title": "【隊中有神以外 - 清技及 EP】",
+      "desc": "•&nbsp;隊中有神族以外成員<br />⇒&nbsp;進場及每回合結束時，<br />　所有成員的主動技能&nbsp;CD、<br />&nbsp;&nbsp;&nbsp;&nbsp;EP&nbsp;及累積戰鬥回合數重置",
+      "custom_desc": ""
+    },
+    "7516": {
+      "title": "【隊中有魔以外 - 清技及 EP】",
+      "desc": "•&nbsp;隊中有魔族以外成員<br />⇒&nbsp;進場及每回合結束時，<br />　所有成員的主動技能&nbsp;CD、<br />&nbsp;&nbsp;&nbsp;&nbsp;EP&nbsp;及累積戰鬥回合數重置",
+      "custom_desc": ""
+    },
+    "7517": {
+      "title": "【隊中有機械以外 - 清技及 EP】",
+      "desc": "•&nbsp;隊中有機械族以外成員<br />⇒&nbsp;進場及每回合結束時，<br />　所有成員的主動技能&nbsp;CD、<br />&nbsp;&nbsp;&nbsp;&nbsp;EP&nbsp;及累積戰鬥回合數重置",
+      "custom_desc": ""
+    },
+    "7518": {
+      "title": "【劍之地型】",
+      "desc": "•&nbsp;隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現劍之地型<br /><br />•&nbsp;移動符石時須觸碰<br />&nbsp;&nbsp;劍之地型，且劍之地型<br />&nbsp;&nbsp;須為注滿力量狀態，<br />&nbsp;&nbsp;才會對敵人造成攻擊傷害。<br /><br />※&nbsp;每個劍之地型<br />&nbsp;&nbsp;&nbsp;&nbsp;於首次觸碰時會注滿力量，<br />&nbsp;&nbsp;&nbsp;&nbsp;第&nbsp;2&nbsp;次或以後觸碰時<br />⇒&nbsp;力量重置為&nbsp;0",
+      "custom_desc": ""
+    },
+    "7519": {
+      "title": "【劍之地型】",
+      "desc": "•&nbsp;隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現劍之地型<br /><br />•&nbsp;移動符石時須觸碰<br />&nbsp;&nbsp;所有劍之地型，<br />&nbsp;&nbsp;且所有劍之地型<br />&nbsp;&nbsp;須為注滿力量狀態，<br />&nbsp;&nbsp;才會對敵人造成攻擊傷害。<br /><br />※&nbsp;每個劍之地型<br />&nbsp;&nbsp;&nbsp;&nbsp;於首次觸碰時會注滿力量，<br />&nbsp;&nbsp;&nbsp;&nbsp;第&nbsp;2&nbsp;次或以後觸碰時<br />⇒&nbsp;力量重置為&nbsp;0",
+      "custom_desc": ""
+    },
+    "7520": {
+      "title": "【劍之地型】",
+      "desc": "•&nbsp;隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現劍之地型<br /><br />•&nbsp;移動符石時須觸碰<br />&nbsp;&nbsp;所有劍之地型，<br />&nbsp;&nbsp;且所有劍之地型<br />&nbsp;&nbsp;須為注滿力量狀態，<br />&nbsp;&nbsp;才會對敵人造成攻擊傷害。<br /><br />※&nbsp;每個劍之地型<br />&nbsp;&nbsp;&nbsp;&nbsp;於首次觸碰時會注滿力量，<br />&nbsp;&nbsp;&nbsp;&nbsp;第&nbsp;2&nbsp;次或以後觸碰時<br />⇒&nbsp;力量重置為&nbsp;0",
+      "custom_desc": ""
+    },
+    "7521": {
+      "title": "【劍之地型】",
+      "desc": "•&nbsp;隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現劍之地型<br /><br />•&nbsp;移動符石時須觸碰<br />&nbsp;&nbsp;所有劍之地型，<br />&nbsp;&nbsp;且所有劍之地型<br />&nbsp;&nbsp;須為注滿力量狀態，<br />&nbsp;&nbsp;才會對敵人造成攻擊傷害。<br /><br />※&nbsp;每個劍之地型<br />&nbsp;&nbsp;&nbsp;&nbsp;於首次觸碰時會注滿力量，<br />&nbsp;&nbsp;&nbsp;&nbsp;第&nbsp;2&nbsp;次或以後觸碰時<br />⇒&nbsp;力量重置為&nbsp;0",
+      "custom_desc": ""
+    },
+    "7522": {
+      "title": "【劍之地型】",
+      "desc": "•&nbsp;隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現劍之地型<br /><br />•&nbsp;移動符石時須觸碰<br />&nbsp;&nbsp;所有劍之地型，<br />&nbsp;&nbsp;且所有劍之地型<br />&nbsp;&nbsp;須為注滿力量狀態，<br />&nbsp;&nbsp;才會對敵人造成攻擊傷害。<br /><br />※&nbsp;每個劍之地型<br />&nbsp;&nbsp;&nbsp;&nbsp;於首次觸碰時會注滿力量，<br />&nbsp;&nbsp;&nbsp;&nbsp;第&nbsp;2&nbsp;次或以後觸碰時<br />⇒&nbsp;力量重置為&nbsp;0",
+      "custom_desc": ""
+    },
+    "7523": {
+      "title": "【劍之地型】",
+      "desc": "•&nbsp;隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現劍之地型<br /><br />•&nbsp;移動符石時須觸碰<br />&nbsp;&nbsp;所有劍之地型，<br />&nbsp;&nbsp;且所有劍之地型<br />&nbsp;&nbsp;須為注滿力量狀態，<br />&nbsp;&nbsp;才會對敵人造成攻擊傷害。<br /><br />※&nbsp;每個劍之地型<br />&nbsp;&nbsp;&nbsp;&nbsp;於首次觸碰時會注滿力量，<br />&nbsp;&nbsp;&nbsp;&nbsp;第&nbsp;2&nbsp;次或以後觸碰時<br />⇒&nbsp;力量重置為&nbsp;0",
+      "custom_desc": ""
+    },
+    "7524": {
+      "title": "【1 次受擊以後 - 反饋護盾】",
+      "desc": "•&nbsp;敵人受到&nbsp;1&nbsp;次攻擊後<br />⓵&nbsp;該回合其後承受傷害變為&nbsp;1<br />⓶&nbsp;該回合其後每受到&nbsp;1&nbsp;次攻擊<br />⇒&nbsp;對召喚師造成&nbsp;100,000&nbsp;點傷害<br />⇒&nbsp;最多可造成&nbsp;1,000,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7525": {
+      "title": "【6 次受擊以後 - 反饋護盾】",
+      "desc": "•&nbsp;敵人受到&nbsp;6&nbsp;次攻擊後<br />⓵&nbsp;該回合其後承受傷害變為&nbsp;1<br />⓶&nbsp;該回合其後每受到&nbsp;1&nbsp;次攻擊<br />⇒&nbsp;對召喚師造成&nbsp;100,000&nbsp;點傷害<br />⇒&nbsp;最多可造成&nbsp;1,000,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7526": {
+      "title": "【12 次受擊以後 - 反饋護盾】",
+      "desc": "•&nbsp;敵人受到&nbsp;12&nbsp;次攻擊後<br />⓵&nbsp;該回合其後承受傷害變為&nbsp;1<br />⓶&nbsp;該回合其後每受到&nbsp;1&nbsp;次攻擊<br />⇒&nbsp;對召喚師造成&nbsp;100,000&nbsp;點傷害<br />⇒&nbsp;最多可造成&nbsp;1,000,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7527": {
+      "title": "【18 次受擊以後 - 反饋護盾】",
+      "desc": "•&nbsp;敵人受到&nbsp;18&nbsp;次攻擊後<br />⓵&nbsp;該回合其後承受傷害變為&nbsp;1<br />⓶&nbsp;該回合其後每受到&nbsp;1&nbsp;次攻擊<br />⇒&nbsp;對召喚師造成&nbsp;100,000&nbsp;點傷害<br />⇒&nbsp;最多可造成&nbsp;1,000,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7528": {
+      "title": "【24 次受擊以後 - 反饋護盾】",
+      "desc": "•&nbsp;敵人受到&nbsp;24&nbsp;次攻擊後<br />⓵&nbsp;該回合其後承受傷害變為&nbsp;1<br />⓶&nbsp;該回合其後每受到&nbsp;1&nbsp;次攻擊<br />⇒&nbsp;對召喚師造成&nbsp;100,000&nbsp;點傷害<br />⇒&nbsp;最多可造成&nbsp;1,000,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7529": {
+      "title": "【30 次受擊以後 - 反饋護盾】",
+      "desc": "•&nbsp;敵人受到&nbsp;30&nbsp;次攻擊後<br />⓵&nbsp;該回合其後承受傷害變為&nbsp;1<br />⓶&nbsp;該回合其後每受到&nbsp;1&nbsp;次攻擊<br />⇒&nbsp;對召喚師造成&nbsp;100,000&nbsp;點傷害<br />⇒&nbsp;最多可造成&nbsp;1,000,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7530": {
+      "title": "【1 次受擊以後 - 反饋護盾】",
+      "desc": "•&nbsp;敵人受到&nbsp;1&nbsp;次攻擊後<br />⓵&nbsp;該回合其後承受傷害變為&nbsp;1<br />⓶&nbsp;該回合其後每受到&nbsp;1&nbsp;次攻擊<br />⇒&nbsp;對召喚師造成&nbsp;500,000&nbsp;點傷害<br />⇒&nbsp;最多可造成&nbsp;5,000,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7531": {
+      "title": "【6 次受擊以後 - 反饋護盾】",
+      "desc": "•&nbsp;敵人受到&nbsp;6&nbsp;次攻擊後<br />⓵&nbsp;該回合其後承受傷害變為&nbsp;1<br />⓶&nbsp;該回合其後每受到&nbsp;1&nbsp;次攻擊<br />⇒&nbsp;對召喚師造成&nbsp;500,000&nbsp;點傷害<br />⇒&nbsp;最多可造成&nbsp;5,000,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7532": {
+      "title": "【12 次受擊以後 - 反饋護盾】",
+      "desc": "•&nbsp;敵人受到&nbsp;12&nbsp;次攻擊後<br />⓵&nbsp;該回合其後承受傷害變為&nbsp;1<br />⓶&nbsp;該回合其後每受到&nbsp;1&nbsp;次攻擊<br />⇒&nbsp;對召喚師造成&nbsp;500,000&nbsp;點傷害<br />⇒&nbsp;最多可造成&nbsp;5,000,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7533": {
+      "title": "【18 次受擊以後 - 反饋護盾】",
+      "desc": "•&nbsp;敵人受到&nbsp;18&nbsp;次攻擊後<br />⓵&nbsp;該回合其後承受傷害變為&nbsp;1<br />⓶&nbsp;該回合其後每受到&nbsp;1&nbsp;次攻擊<br />⇒&nbsp;對召喚師造成&nbsp;500,000&nbsp;點傷害<br />⇒&nbsp;最多可造成&nbsp;5,000,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7534": {
+      "title": "【24 次受擊以後 - 反饋護盾】",
+      "desc": "•&nbsp;敵人受到&nbsp;24&nbsp;次攻擊後<br />⓵&nbsp;該回合其後承受傷害變為&nbsp;1<br />⓶&nbsp;該回合其後每受到&nbsp;1&nbsp;次攻擊<br />⇒&nbsp;對召喚師造成&nbsp;500,000&nbsp;點傷害<br />⇒&nbsp;最多可造成&nbsp;5,000,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7535": {
+      "title": "【30 次受擊以後 - 反饋護盾】",
+      "desc": "•&nbsp;敵人受到&nbsp;30&nbsp;次攻擊後<br />⓵&nbsp;該回合其後承受傷害變為&nbsp;1<br />⓶&nbsp;該回合其後每受到&nbsp;1&nbsp;次攻擊<br />⇒&nbsp;對召喚師造成&nbsp;500,000&nbsp;點傷害<br />⇒&nbsp;最多可造成&nbsp;5,000,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7536": {
+      "title": "【音樂符石】",
+      "desc": "•&nbsp;首回合隨機將&nbsp;2&nbsp;粒符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
+      "custom_desc": ""
+    },
+    "7537": {
+      "title": "【音樂符石】",
+      "desc": "•&nbsp;首回合隨機將&nbsp;4&nbsp;粒符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
+      "custom_desc": ""
+    },
+    "7538": {
+      "title": "【音樂符石】",
+      "desc": "•&nbsp;首回合隨機將&nbsp;6&nbsp;粒符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
+      "custom_desc": ""
+    },
+    "7539": {
+      "title": "【音樂符石】",
+      "desc": "•&nbsp;首回合隨機將&nbsp;8&nbsp;粒符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
+      "custom_desc": ""
+    },
+    "7540": {
+      "title": "【音樂符石】",
+      "desc": "•&nbsp;首回合隨機將&nbsp;10&nbsp;粒符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
+      "custom_desc": ""
+    },
+    "7541": {
+      "title": "【音樂符石 - 水】",
+      "desc": "•&nbsp;首回合將水符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
+      "custom_desc": ""
+    },
+    "7542": {
+      "title": "【音樂符石 - 火】",
+      "desc": "•&nbsp;首回合將火符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
+      "custom_desc": ""
+    },
+    "7543": {
+      "title": "【音樂符石 - 木】",
+      "desc": "•&nbsp;首回合將木符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
+      "custom_desc": ""
+    },
+    "7544": {
+      "title": "【音樂符石 - 光】",
+      "desc": "•&nbsp;首回合將光符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
+      "custom_desc": ""
+    },
+    "7545": {
+      "title": "【音樂符石 - 暗】",
+      "desc": "•&nbsp;首回合將暗符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
+      "custom_desc": ""
+    },
+    "7546": {
+      "title": "【殞命輪迴】",
+      "desc": "•&nbsp;所有成員<br />⇒&nbsp;進入&nbsp;10&nbsp;回合「殞命輪迴」",
+      "custom_desc": ""
+    },
+    "7547": {
+      "title": "【殞命輪迴】",
+      "desc": "•&nbsp;所有成員<br />⇒&nbsp;進入&nbsp;5&nbsp;回合「殞命輪迴」",
+      "custom_desc": ""
+    },
+    "7548": {
+      "title": "【殞命輪迴】",
+      "desc": "•&nbsp;所有成員<br />⇒&nbsp;進入&nbsp;3&nbsp;回合「殞命輪迴」",
+      "custom_desc": ""
+    },
+    "7557": {
+      "title": "戰鬥圖板 - 越扣越強25%",
+      "desc": "•&nbsp;移動符石時間內，<br />&nbsp;&nbsp;可任意移動符石<br />&nbsp;&nbsp;而不會發動消除<br /><br />•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+      "custom_desc": ""
+    },
+    "7558": {
+      "title": "戰鬥圖板 - 越扣越強25%",
+      "desc": "•&nbsp;移動符石時間內，<br />&nbsp;&nbsp;可任意移動符石<br />&nbsp;&nbsp;而不會發動消除<br />•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+      "custom_desc": ""
+    },
+    "7559": {
+      "title": "戰鬥圖板 - 越扣越強25%",
+      "desc": "•&nbsp;移動符石時間內，<br />&nbsp;&nbsp;可任意移動符石<br />&nbsp;&nbsp;而不會發動消除<br /><br />•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
+      "custom_desc": ""
+    },
+    "7560": {
+      "title": "戰鬥圖板 - 越扣越強25%",
+      "desc": "•&nbsp;移動符石時間內，<br />&nbsp;&nbsp;可任意移動符石<br />&nbsp;&nbsp;而不會發動消除<br /><br />•&nbsp;首批完成指定拼圖<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不受任何傷害<br /><br />•&nbsp;若無法達成上述條件，<br />&nbsp;&nbsp;敵人發動攻擊時<br />⇒&nbsp;扣除召喚師&nbsp;25%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />•&nbsp;敵人攻擊次數愈多時<br />⇒&nbsp;攻擊力持續提升&nbsp;",
       "custom_desc": ""
     }
   }
