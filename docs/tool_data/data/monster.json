@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.200",
-    "dv": 13806,
-    "time": 1742824901
+    "version": "2025.201",
+    "dv": 13812,
+    "time": 1743482253
   },
   "monster": {
     "1": {
@@ -27467,6 +27467,12 @@
       "race": 7,
       "rarity": 3
     },
+    "10881": {
+      "name": "狂熱圓舞曲 ‧ 李斯特",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 6
+    },
     "10882": {
       "name": "和諧離別曲 ‧ 蕭邦",
       "attribute": 5,
@@ -27477,6 +27483,18 @@
       "name": "潛幕謀局 ‧ 雷蒙德",
       "attribute": 3,
       "race": 1,
+      "rarity": 6
+    },
+    "10889": {
+      "name": "檸可思議 ‧ 林黛玉",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 6
+    },
+    "10890": {
+      "name": "球美之水 ‧ 賈寶玉",
+      "attribute": 1,
+      "race": 8,
       "rarity": 6
     },
     "11002": {
