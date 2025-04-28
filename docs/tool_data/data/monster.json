@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.201",
-    "dv": 13812,
-    "time": 1743482253
+    "version": "2025.211",
+    "dv": 13867,
+    "time": 1745828967
   },
   "monster": {
     "1": {
@@ -17495,6 +17495,12 @@
       "race": 5,
       "rarity": 6
     },
+    "2926": {
+      "name": "煦日燦華 ‧ 紅璦",
+      "attribute": 4,
+      "race": 4,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21511,6 +21517,18 @@
       "attribute": 2,
       "race": 5,
       "rarity": 6
+    },
+    "6700": {
+      "name": "天道震鳴 ‧ 刻琿",
+      "attribute": 2,
+      "race": 4,
+      "rarity": 8
+    },
+    "6701": {
+      "name": "皓耀珀火 ‧ 刻琿",
+      "attribute": 2,
+      "race": 4,
+      "rarity": 8
     },
     "6999": {
       "name": "米拉珍",
@@ -27479,10 +27497,40 @@
       "race": 5,
       "rarity": 6
     },
+    "10883": {
+      "name": "惡魔詠歎調 ‧ 帕格尼尼",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
+    "10884": {
+      "name": "沉默賦格曲 ‧ 巴赫",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 7
+    },
+    "10885": {
+      "name": "幸福進行曲 ‧ 孟德爾頌",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 6
+    },
     "10886": {
       "name": "潛幕謀局 ‧ 雷蒙德",
       "attribute": 3,
       "race": 1,
+      "rarity": 6
+    },
+    "10887": {
+      "name": "正道鐵律 ‧ 蓋倫",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "10888": {
+      "name": "貪婪暗契 ‧ 希特",
+      "attribute": 3,
+      "race": 4,
       "rarity": 6
     },
     "10889": {
@@ -27495,6 +27543,120 @@
       "name": "球美之水 ‧ 賈寶玉",
       "attribute": 1,
       "race": 8,
+      "rarity": 6
+    },
+    "10891": {
+      "name": "天道震鳴 ‧ 刻琿",
+      "attribute": 2,
+      "race": 4,
+      "rarity": 8
+    },
+    "10892": {
+      "name": "皓耀珀火 ‧ 刻琿",
+      "attribute": 2,
+      "race": 4,
+      "rarity": 8
+    },
+    "10895": {
+      "name": "空條徐倫與石之海",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "10896": {
+      "name": "東方仗助與瘋狂鑽石",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10897": {
+      "name": "廣瀨康一與迴音三號",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "10898": {
+      "name": "喬魯諾 ‧ 喬巴拿與黃金體驗",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10899": {
+      "name": "喬魯諾 ‧ 喬巴拿與黃金體驗鎮魂曲",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10900": {
+      "name": "虹村億泰與轟炸空間",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "10901": {
+      "name": "特莉休 ‧ 烏納與辣妹",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10902": {
+      "name": "艾梅斯 ‧ 羅斯提羅與親吻",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "10903": {
+      "name": "布羅諾 ‧ 布加拉提與鋼鏈手指",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10904": {
+      "name": "幽浮一族",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 6
+    },
+    "10905": {
+      "name": "岸邊露伴與天堂之門",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "10906": {
+      "name": "吉良吉影與殺手皇后",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10907": {
+      "name": "川尻浩作與殺手皇后",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 7
+    },
+    "10908": {
+      "name": "葛德 ‧ 米斯達與性感手槍",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10910": {
+      "name": "普羅修特與壯烈成仁與貝西與海灘男孩",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10916": {
+      "name": "空條承太郎與白金之星 ‧ 世界",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 7
+    },
+    "10917": {
+      "name": "夜幕貓影 ‧ 斯芬克斯",
+      "attribute": 4,
+      "race": 7,
       "rarity": 6
     },
     "11002": {

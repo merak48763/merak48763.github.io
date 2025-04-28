@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.201",
-    "dv": 25209,
-    "time": 1743482253
+    "version": "2025.211",
+    "dv": 25372,
+    "time": 1745828967
   },
   "es": {
     "0": {
@@ -48947,6 +48947,46 @@
     "7548": {
       "title": "【殞命輪迴】",
       "desc": "•&nbsp;所有成員<br />⇒&nbsp;進入&nbsp;3&nbsp;回合「殞命輪迴」",
+      "custom_desc": ""
+    },
+    "7549": {
+      "title": "【殞命輪迴 - 布羅諾 ‧ 布加拉提與鋼鏈手指】",
+      "desc": "•&nbsp;進場時，最左方的<br />「布羅諾&nbsp;‧&nbsp;布加拉提與鋼鏈手指」<br />⇒&nbsp;進入&nbsp;3&nbsp;回合「殞命輪迴」",
+      "custom_desc": ""
+    },
+    "7550": {
+      "title": "【殞命輪迴 - 幽浮一族】",
+      "desc": "•&nbsp;進場時，<br />&nbsp;&nbsp;最左方的「幽浮一族」<br />⇒&nbsp;進入&nbsp;3&nbsp;回合「殞命輪迴」",
+      "custom_desc": ""
+    },
+    "7551": {
+      "title": "【解除殞命輪迴倒數狀態 - 布羅諾 ‧ 布加拉提\n  與鋼鏈手指 ‧ 成功解除 - 【布加拉提小隊】成員 - 亢奮、CD -7】",
+      "desc": "•&nbsp;解除「布羅諾&nbsp;‧&nbsp;布加拉提<br />&nbsp;&nbsp;與鋼鏈手指」的<br />&nbsp;「殞命輪迴」倒數狀態，<br />&nbsp;&nbsp;成功解除後<br />⇒&nbsp;【布加拉提小隊】成員<br />⓵&nbsp;進入&nbsp;7&nbsp;回合亢奮狀態<br />⓶&nbsp;技能&nbsp;CD&nbsp;-7<br />⓷&nbsp;技能&nbsp;EP&nbsp;+7",
+      "custom_desc": ""
+    },
+    "7552": {
+      "title": "　",
+      "desc": "　",
+      "custom_desc": ""
+    },
+    "7553": {
+      "title": "　",
+      "desc": "　",
+      "custom_desc": ""
+    },
+    "7554": {
+      "title": "　",
+      "desc": "　",
+      "custom_desc": ""
+    },
+    "7555": {
+      "title": "　",
+      "desc": "　",
+      "custom_desc": ""
+    },
+    "7556": {
+      "title": "　",
+      "desc": "　",
       "custom_desc": ""
     },
     "7557": {

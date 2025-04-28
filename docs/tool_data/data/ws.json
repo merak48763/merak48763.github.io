@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.200",
-    "dv": 25201,
-    "time": 1742824901
+    "version": "2025.211",
+    "dv": 25372,
+    "time": 1745828967
   },
   "ws": {
     "10001": {
@@ -3975,6 +3975,51 @@
       "desc": "　",
       "custom_desc": ""
     },
+    "10828": {
+      "title": "",
+      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「DISC」：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不能發動主動技能<br />⇒&nbsp;效果持續至召喚師死亡或<br />&nbsp;&nbsp;&nbsp;&nbsp;擊斃「普奇神父與白蛇」",
+      "custom_desc": ""
+    },
+    "10829": {
+      "title": "",
+      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「DISC」：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不能發動主動技能<br />⇒&nbsp;效果持續至召喚師死亡或<br />&nbsp;&nbsp;&nbsp;&nbsp;擊斃「普奇神父與白蛇」",
+      "custom_desc": ""
+    },
+    "10830": {
+      "title": "",
+      "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「DISC」：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不能發動主動技能<br />⇒&nbsp;效果持續至召喚師死亡或<br />&nbsp;&nbsp;&nbsp;&nbsp;擊斃「普奇神父與白蛇」",
+      "custom_desc": ""
+    },
+    "10831": {
+      "title": "",
+      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「DISC」：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不能發動主動技能<br />⇒&nbsp;效果持續至召喚師死亡或<br />&nbsp;&nbsp;&nbsp;&nbsp;擊斃「普奇神父與白蛇」",
+      "custom_desc": ""
+    },
+    "10832": {
+      "title": "",
+      "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「DISC」：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不能發動主動技能<br />⇒&nbsp;效果持續至召喚師死亡或<br />&nbsp;&nbsp;&nbsp;&nbsp;擊斃「普奇神父與白蛇」",
+      "custom_desc": ""
+    },
+    "10833": {
+      "title": "",
+      "desc": "•&nbsp;移動&nbsp;4000&nbsp;步後，<br />&nbsp;&nbsp;&nbsp;回合結束時<br />⇒&nbsp;召喚師會死亡<br />※&nbsp;召喚師死亡復活後<br />⇒&nbsp;重置步數",
+      "custom_desc": ""
+    },
+    "10834": {
+      "title": "",
+      "desc": "•&nbsp;移動&nbsp;3000&nbsp;步後，<br />&nbsp;&nbsp;&nbsp;回合結束時<br />⇒&nbsp;召喚師會死亡<br />※&nbsp;召喚師死亡復活後<br />⇒&nbsp;重置步數",
+      "custom_desc": ""
+    },
+    "10835": {
+      "title": "",
+      "desc": "•&nbsp;移動&nbsp;2000&nbsp;步後，<br />&nbsp;&nbsp;&nbsp;回合結束時<br />⇒&nbsp;召喚師會死亡<br />※&nbsp;召喚師死亡復活後<br />⇒&nbsp;重置步數",
+      "custom_desc": ""
+    },
+    "10836": {
+      "title": "",
+      "desc": "•&nbsp;移動&nbsp;1000&nbsp;步後，<br />&nbsp;&nbsp;&nbsp;回合結束時<br />⇒&nbsp;召喚師會死亡<br />※&nbsp;召喚師死亡復活後<br />⇒&nbsp;重置步數",
+      "custom_desc": ""
+    },
     "10837": {
       "title": "",
       "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
@@ -4018,6 +4063,11 @@
     "10845": {
       "title": "",
       "desc": "•&nbsp;回合開始時倒數&nbsp;5&nbsp;秒<br />•&nbsp;倒數至&nbsp;0&nbsp;秒時<br />⇒&nbsp;立即進入敵人行動階段",
+      "custom_desc": ""
+    },
+    "10852": {
+      "title": "",
+      "desc": "　",
       "custom_desc": ""
     }
   }
