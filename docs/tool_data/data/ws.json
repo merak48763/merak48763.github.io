@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.211",
-    "dv": 25372,
-    "time": 1745828967
+    "version": "2025.301",
+    "dv": 25547,
+    "time": 1748145695
   },
   "ws": {
     "10001": {
@@ -3975,11 +3975,6 @@
       "desc": "　",
       "custom_desc": ""
     },
-    "10828": {
-      "title": "",
-      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「DISC」：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不能發動主動技能<br />⇒&nbsp;效果持續至召喚師死亡或<br />&nbsp;&nbsp;&nbsp;&nbsp;擊斃「普奇神父與白蛇」",
-      "custom_desc": ""
-    },
     "10829": {
       "title": "",
       "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「DISC」：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不能發動主動技能<br />⇒&nbsp;效果持續至召喚師死亡或<br />&nbsp;&nbsp;&nbsp;&nbsp;擊斃「普奇神父與白蛇」",
@@ -4022,27 +4017,27 @@
     },
     "10837": {
       "title": "",
-      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
+      "desc": "•&nbsp;每回合固定&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
       "custom_desc": ""
     },
     "10838": {
       "title": "",
-      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
+      "desc": "•&nbsp;每回合固定&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
       "custom_desc": ""
     },
     "10839": {
       "title": "",
-      "desc": "•&nbsp;每回合隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
+      "desc": "•&nbsp;每回合固定&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
       "custom_desc": ""
     },
     "10840": {
       "title": "",
-      "desc": "•&nbsp;每回合隨機&nbsp;8&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
+      "desc": "•&nbsp;每回合固定&nbsp;8&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
       "custom_desc": ""
     },
     "10841": {
       "title": "",
-      "desc": "•&nbsp;每回合隨機&nbsp;10&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
+      "desc": "•&nbsp;每回合固定&nbsp;10&nbsp;個位置<br />⇒&nbsp;出現縮時地型<br />•&nbsp;每次觸碰縮時地型<br />⇒&nbsp;移動符石時間<br />&nbsp;&nbsp;&nbsp;&nbsp;減少&nbsp;10&nbsp;秒&nbsp;",
       "custom_desc": ""
     },
     "10842": {
@@ -4068,6 +4063,106 @@
     "10852": {
       "title": "",
       "desc": "　",
+      "custom_desc": ""
+    },
+    "10853": {
+      "title": "",
+      "desc": "•&nbsp;進場時，<br />每有&nbsp;1&nbsp;個水屬性以外成員<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;60%",
+      "custom_desc": ""
+    },
+    "10854": {
+      "title": "",
+      "desc": "•&nbsp;進場時，<br />每有&nbsp;1&nbsp;個火屬性以外成員<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;60%",
+      "custom_desc": ""
+    },
+    "10855": {
+      "title": "",
+      "desc": "•&nbsp;進場時，<br />每有&nbsp;1&nbsp;個木屬性以外成員<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;60%",
+      "custom_desc": ""
+    },
+    "10856": {
+      "title": "",
+      "desc": "•&nbsp;進場時，<br />每有&nbsp;1&nbsp;個光屬性以外成員<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;60%",
+      "custom_desc": ""
+    },
+    "10857": {
+      "title": "",
+      "desc": "•&nbsp;進場時，<br />每有&nbsp;1&nbsp;個暗屬性以外成員<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;60%",
+      "custom_desc": ""
+    },
+    "10858": {
+      "title": "",
+      "desc": "•&nbsp;進場時，<br />每有&nbsp;1&nbsp;個人類以外成員<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;60%",
+      "custom_desc": ""
+    },
+    "10859": {
+      "title": "",
+      "desc": "•&nbsp;進場時，<br />每有&nbsp;1&nbsp;個獸類以外成員<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;60%",
+      "custom_desc": ""
+    },
+    "10860": {
+      "title": "",
+      "desc": "•&nbsp;進場時，<br />每有&nbsp;1&nbsp;個妖精類以外成員<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;60%<br />",
+      "custom_desc": ""
+    },
+    "10861": {
+      "title": "",
+      "desc": "•&nbsp;進場時，<br />每有&nbsp;1&nbsp;個龍類以外成員<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;60%",
+      "custom_desc": ""
+    },
+    "10862": {
+      "title": "",
+      "desc": "•&nbsp;進場時，<br />每有&nbsp;1&nbsp;個神族以外成員<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;60%<br />",
+      "custom_desc": ""
+    },
+    "10863": {
+      "title": "",
+      "desc": "•&nbsp;進場時，<br />每有&nbsp;1&nbsp;個魔族以外成員<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;60%",
+      "custom_desc": ""
+    },
+    "10864": {
+      "title": "",
+      "desc": "•&nbsp;進場時，<br />每有&nbsp;1&nbsp;個機械族以外成員<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力<br />⇒&nbsp;最多扣除&nbsp;60%",
+      "custom_desc": ""
+    },
+    "10865": {
+      "title": "",
+      "desc": "•&nbsp;點選符石的時間愈長<br />⇒&nbsp;符石體積愈大",
+      "custom_desc": ""
+    },
+    "10866": {
+      "title": "",
+      "desc": "•&nbsp;點選符石的時間愈長<br />⇒&nbsp;符石體積愈大",
+      "custom_desc": ""
+    },
+    "10867": {
+      "title": "",
+      "desc": "•&nbsp;點選符石的時間愈長<br />⇒&nbsp;符石體積愈大",
+      "custom_desc": ""
+    },
+    "10868": {
+      "title": "",
+      "desc": "•&nbsp;點選符石的時間愈長<br />⇒&nbsp;符石體積愈大",
+      "custom_desc": ""
+    },
+    "10869": {
+      "title": "",
+      "desc": "•&nbsp;單數橫行出現「紅色妨礙地型」",
+      "custom_desc": ""
+    },
+    "10870": {
+      "title": "",
+      "desc": "•&nbsp;雙數橫行出現「紅色妨礙地型」",
+      "custom_desc": ""
+    },
+    "10871": {
+      "title": "",
+      "desc": "•&nbsp;單數直行出現「綠色妨礙地型」",
+      "custom_desc": ""
+    },
+    "10872": {
+      "title": "",
+      "desc": "•&nbsp;雙數直行出現「綠色妨礙地型」",
       "custom_desc": ""
     }
   }

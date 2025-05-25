@@ -5424,6 +5424,428 @@
           }
         ]
       ]
+    },
+    {
+      "id": 39,
+      "series": 1,
+      "scid": 39,
+      "name": "守護的羽翼",
+      "nameEn": "Feathers of Protection",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              4
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 27,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": []
+          },
+          {
+            "skill": 35,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": []
+          },
+          {
+            "skill": 35,
+            "args": [
+              1
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          },
+          {
+            "skill": 3,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 40,
+      "series": 1,
+      "scid": 40,
+      "name": "彩球競逐",
+      "nameEn": "Colorful Splashes",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 1,
+      "instantSkill": [
+        [
+          {
+            "skill": 3,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              1
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 25,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 25,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 25,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 25,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 25,
+            "args": []
+          },
+          {
+            "skill": 24,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              70
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              90
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 41,
+      "series": 1,
+      "scid": 41,
+      "name": "無畏航路",
+      "nameEn": "Fearless Flight",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 3,
+      "instantSkill": [
+        [
+          {
+            "skill": 14,
+            "args": [
+              3,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              3,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              3,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              4,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              4,
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 2,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": []
+          },
+          {
+            "skill": 43,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": []
+          },
+          {
+            "skill": 43,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 21,
+            "args": [
+              2,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 21,
+            "args": [
+              2,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 21,
+            "args": [
+              2,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 21,
+            "args": [
+              2,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 21,
+            "args": [
+              2,
+              6
+            ]
+          },
+          {
+            "skill": 14,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ]
     }
   ],
   "series": [

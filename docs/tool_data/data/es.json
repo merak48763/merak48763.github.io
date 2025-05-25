@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.211",
-    "dv": 25372,
-    "time": 1745828967
+    "version": "2025.301",
+    "dv": 25547,
+    "time": 1748145695
   },
   "es": {
     "0": {
@@ -29977,6 +29977,11 @@
       "desc": "首批消除&nbsp;21&nbsp;粒符石<br />才會對敵人造成攻擊傷害。",
       "custom_desc": ""
     },
+    "5068": {
+      "title": "【〖腐化 ‧ 水連擊零化〗】",
+      "desc": "<em>【〖腐化&nbsp;‧&nbsp;水連擊零化〗】</em><br /><br />首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0&nbsp;<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
+      "custom_desc": ""
+    },
     "5069": {
       "title": "【〖腐化 ‧ 10 億護盾〗】",
       "desc": "隊伍中成員的單一傷害<br />達&nbsp;10&nbsp;億才能對敵人<br />造成攻擊傷害。",
@@ -30694,72 +30699,72 @@
       ]
     },
     "5158": {
-      "title": "【≥2 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥2&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥2 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥2&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         52
       ]
     },
     "5159": {
-      "title": "【≥3 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥3&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥3 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥3&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         53
       ]
     },
     "5160": {
-      "title": "【≥4 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥4&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥4 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥4&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         54
       ]
     },
     "5161": {
-      "title": "【≥5 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥5&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥5 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥5&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         55
       ]
     },
     "5162": {
-      "title": "【≥6 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥6&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥6 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥6&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         56
       ]
     },
     "5163": {
-      "title": "【≥7 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥7&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥7 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥7&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         57
       ]
     },
     "5164": {
-      "title": "【≥8 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥8&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥8 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥8&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         58
       ]
     },
     "5165": {
-      "title": "【≥9 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥9&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥9 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥9&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         59
       ]
     },
     "5166": {
-      "title": "【≥10 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥10&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥10 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥10&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         60
@@ -31940,72 +31945,72 @@
       ]
     },
     "5318": {
-      "title": "【≥11 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥11&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥11 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥11&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         61
       ]
     },
     "5319": {
-      "title": "【≥12 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥12&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥12 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥12&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         62
       ]
     },
     "5320": {
-      "title": "【≥13 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥13&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥13 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥13&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         63
       ]
     },
     "5321": {
-      "title": "【≥14 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥14&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥14 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥14&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         64
       ]
     },
     "5322": {
-      "title": "【≥15 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥15&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥15 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥15&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         65
       ]
     },
     "5323": {
-      "title": "【≥16 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥16&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥16 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥16&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         66
       ]
     },
     "5324": {
-      "title": "【≥17 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥17&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥17 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥17&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         67
       ]
     },
     "5325": {
-      "title": "【≥18 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥18&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥18 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥18&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         68
       ]
     },
     "5326": {
-      "title": "【≥19 連擊盾 - 反擊】",
-      "desc": "達成&nbsp;≥19&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
+      "title": "【≥19 連擊盾 - 追擊】",
+      "desc": "達成&nbsp;≥19&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
       "icons": [
         69
@@ -32913,11 +32918,6 @@
       "icons": [
         913
       ]
-    },
-    "5068": {
-      "title": "【〖腐化 ‧ 水連擊零化〗】",
-      "desc": "<em>【〖腐化&nbsp;‧&nbsp;水連擊零化〗】</em><br /><br />首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0&nbsp;<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-      "custom_desc": ""
     },
     "5438": {
       "title": "【水符石起手盾】",
@@ -36918,7 +36918,7 @@
     "5942": {
       "title": "【請回答問題】",
       "desc": "問題：<br /><em>@quiz</em><br /><br />請鎖定正確的召喚獸，<br />並發動攻擊。<br /><br />鎖定錯誤的召喚獸，<br />並發動攻擊，<br />回合結束時召喚師會死亡。",
-      "custom_desc": "",
+      "custom_desc": "<span class=\"annotation\">quiz 50063,50064,50065,50066 704,705,706,707,708,709,710,711,712,713,714,715,716,717,718</span>",
       "icons": [
         1038
       ]
@@ -42666,7 +42666,7 @@
       "desc": "•&nbsp;達成&nbsp;≥50&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
       "icons": [
-        79
+        2021
       ]
     },
     "6618": {
@@ -42690,7 +42690,7 @@
       "desc": "•&nbsp;達成&nbsp;≥50&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊<br />⇒&nbsp;最多追打&nbsp;9&nbsp;次",
       "custom_desc": "",
       "icons": [
-        79
+        2021
       ]
     },
     "6624": {
@@ -43056,6 +43056,212 @@
         871
       ]
     },
+    "6671": {
+      "title": "【幽閉之途狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+      "custom_desc": ""
+    },
+    "6672": {
+      "title": "【幽閉之途狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+      "custom_desc": ""
+    },
+    "6673": {
+      "title": "【幽閉之途狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+      "custom_desc": ""
+    },
+    "6674": {
+      "title": "【幽閉之途狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+      "custom_desc": ""
+    },
+    "6675": {
+      "title": "【幽閉之途狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+      "custom_desc": ""
+    },
+    "6676": {
+      "title": "【幽閉之途狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+      "custom_desc": ""
+    },
+    "6677": {
+      "title": "【幽閉之途狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+      "custom_desc": ""
+    },
+    "6678": {
+      "title": "【沉默狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+      "custom_desc": "",
+      "icons": [
+        1139
+      ]
+    },
+    "6679": {
+      "title": "【沉默狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+      "custom_desc": "",
+      "icons": [
+        1139
+      ]
+    },
+    "6680": {
+      "title": "【沉默狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+      "custom_desc": "",
+      "icons": [
+        1139
+      ]
+    },
+    "6681": {
+      "title": "【沉默狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+      "custom_desc": "",
+      "icons": [
+        1139
+      ]
+    },
+    "6682": {
+      "title": "【沉默狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+      "custom_desc": "",
+      "icons": [
+        1139
+      ]
+    },
+    "6683": {
+      "title": "【沉默狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+      "custom_desc": "",
+      "icons": [
+        1139
+      ]
+    },
+    "6684": {
+      "title": "【沉默狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
+      "custom_desc": "",
+      "icons": [
+        1139
+      ]
+    },
+    "6685": {
+      "title": "【麻痺狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+      "custom_desc": "",
+      "icons": [
+        1140
+      ],
+      "keywords": [
+        "麻痺狀態"
+      ]
+    },
+    "6686": {
+      "title": "【麻痺狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+      "custom_desc": "",
+      "icons": [
+        1140
+      ],
+      "keywords": [
+        "麻痺狀態"
+      ]
+    },
+    "6687": {
+      "title": "【麻痺狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+      "custom_desc": "",
+      "icons": [
+        1140
+      ],
+      "keywords": [
+        "麻痺狀態"
+      ]
+    },
+    "6688": {
+      "title": "【麻痺狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+      "custom_desc": "",
+      "icons": [
+        1140
+      ],
+      "keywords": [
+        "麻痺狀態"
+      ]
+    },
+    "6689": {
+      "title": "【麻痺狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+      "custom_desc": "",
+      "icons": [
+        1140
+      ],
+      "keywords": [
+        "麻痺狀態"
+      ]
+    },
+    "6690": {
+      "title": "【麻痺狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+      "custom_desc": "",
+      "icons": [
+        1140
+      ],
+      "keywords": [
+        "麻痺狀態"
+      ]
+    },
+    "6691": {
+      "title": "【麻痺狀態】",
+      "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+      "custom_desc": "",
+      "icons": [
+        1140
+      ],
+      "keywords": [
+        "麻痺狀態"
+      ]
+    },
+    "6692": {
+      "title": "【亢奮變疲憊狀態】",
+      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為疲憊狀態",
+      "custom_desc": ""
+    },
+    "6693": {
+      "title": "【亢奮變天罰回復狀態】",
+      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為天罰回復狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;回復力減至&nbsp;0%",
+      "custom_desc": ""
+    },
+    "6694": {
+      "title": "【亢奮變休眠狀態】",
+      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為休眠狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0",
+      "custom_desc": ""
+    },
+    "6695": {
+      "title": "【亢奮變風壓狀態】",
+      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
+      "custom_desc": ""
+    },
+    "6696": {
+      "title": "【亢奮變幽閉之途狀態】",
+      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為幽閉之途狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
+      "custom_desc": ""
+    },
+    "6697": {
+      "title": "【亢奮變沉默狀態】",
+      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為沉默狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
+      "custom_desc": ""
+    },
+    "6698": {
+      "title": "【亢奮變麻痺狀態】",
+      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
+      "custom_desc": "",
+      "keywords": [
+        "麻痺狀態"
+      ]
+    },
     "6699": {
       "title": "【回技】",
       "desc": "•&nbsp;所有成員的主動技能<br />&nbsp;&nbsp;CD&nbsp;變&nbsp;0",
@@ -43262,211 +43468,65 @@
         981
       ]
     },
-    "6671": {
-      "title": "【幽閉之途狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
-      "custom_desc": ""
-    },
-    "6672": {
-      "title": "【幽閉之途狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
-      "custom_desc": ""
-    },
-    "6673": {
-      "title": "【幽閉之途狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
-      "custom_desc": ""
-    },
-    "6674": {
-      "title": "【幽閉之途狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
-      "custom_desc": ""
-    },
-    "6675": {
-      "title": "【幽閉之途狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
-      "custom_desc": ""
-    },
-    "6676": {
-      "title": "【幽閉之途狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
-      "custom_desc": ""
-    },
-    "6677": {
-      "title": "【幽閉之途狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合<br />&nbsp;&nbsp;幽閉之途狀態：<br />&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
-      "custom_desc": ""
-    },
-    "6678": {
-      "title": "【沉默狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": "",
-      "icons": [
-        1139
-      ]
-    },
-    "6679": {
-      "title": "【沉默狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": "",
-      "icons": [
-        1139
-      ]
-    },
-    "6680": {
-      "title": "【沉默狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": "",
-      "icons": [
-        1139
-      ]
-    },
-    "6681": {
-      "title": "【沉默狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": "",
-      "icons": [
-        1139
-      ]
-    },
-    "6682": {
-      "title": "【沉默狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": "",
-      "icons": [
-        1139
-      ]
-    },
-    "6683": {
-      "title": "【沉默狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": "",
-      "icons": [
-        1139
-      ]
-    },
-    "6684": {
-      "title": "【沉默狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合沉默狀態：<br />&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": "",
-      "icons": [
-        1139
-      ]
-    },
-    "6685": {
-      "title": "【麻痺狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;1&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-      "custom_desc": "",
-      "icons": [
-        1140
-      ],
+    "6727": {
+      "title": "敵技6727",
+      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【弱化圍城】<br />•&nbsp;每回合鎖定場上所有符石，<br />&nbsp;&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;5%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
+      "custom_desc": "<span class=\"annotation\">monster_icon 6399</span> 九封災厄 (Wave 7) (核心封閉階段的本體)<br /><ul><li>一步一傷最低扣至1血</li></ul>",
       "keywords": [
-        "麻痺狀態"
+        "災厄級"
       ]
     },
-    "6686": {
-      "title": "【麻痺狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;2&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-      "custom_desc": "",
-      "icons": [
-        1140
-      ],
-      "keywords": [
-        "麻痺狀態"
-      ]
-    },
-    "6687": {
-      "title": "【麻痺狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;3&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-      "custom_desc": "",
-      "icons": [
-        1140
-      ],
-      "keywords": [
-        "麻痺狀態"
-      ]
-    },
-    "6688": {
-      "title": "【麻痺狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;4&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-      "custom_desc": "",
-      "icons": [
-        1140
-      ],
-      "keywords": [
-        "麻痺狀態"
-      ]
-    },
-    "6689": {
-      "title": "【麻痺狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;5&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-      "custom_desc": "",
-      "icons": [
-        1140
-      ],
-      "keywords": [
-        "麻痺狀態"
-      ]
-    },
-    "6690": {
-      "title": "【麻痺狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;10&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-      "custom_desc": "",
-      "icons": [
-        1140
-      ],
-      "keywords": [
-        "麻痺狀態"
-      ]
-    },
-    "6691": {
-      "title": "【麻痺狀態】",
-      "desc": "•&nbsp;全隊增加&nbsp;98&nbsp;回合麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-      "custom_desc": "",
-      "icons": [
-        1140
-      ],
-      "keywords": [
-        "麻痺狀態"
-      ]
-    },
-    "6692": {
-      "title": "【亢奮變疲憊狀態】",
-      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為疲憊狀態",
+    "6728": {
+      "title": "敵技6728",
+      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【弱化圍城】<br />•&nbsp;每回合鎖定場上所有符石，<br />&nbsp;&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;10%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
       "custom_desc": ""
     },
-    "6693": {
-      "title": "【亢奮變天罰回復狀態】",
-      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為天罰回復狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;回復力減至&nbsp;0%",
-      "custom_desc": ""
-    },
-    "6694": {
-      "title": "【亢奮變休眠狀態】",
-      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為休眠狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;無法使用技能及<br />&nbsp;&nbsp;&nbsp;&nbsp;攻擊力變&nbsp;0",
-      "custom_desc": ""
-    },
-    "6695": {
-      "title": "【亢奮變風壓狀態】",
-      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為風壓狀態：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石",
-      "custom_desc": ""
-    },
-    "6696": {
-      "title": "【亢奮變幽閉之途狀態】",
-      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為幽閉之途狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;發動角色符石<br />⇒&nbsp;持續將移動符石時<br />&nbsp;&nbsp;&nbsp;&nbsp;觸碰的符石變為黑白色",
-      "custom_desc": ""
-    },
-    "6697": {
-      "title": "【亢奮變沉默狀態】",
-      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為沉默狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
-      "custom_desc": ""
-    },
-    "6698": {
-      "title": "【亢奮變麻痺狀態】",
-      "desc": "•&nbsp;將所有成員的亢奮狀態<br />⇒&nbsp;變為麻痺狀態：<br />⓵&nbsp;不能發動攻擊<br />⓶&nbsp;自身技能不會冷卻<br />⓷&nbsp;自身&nbsp;EP&nbsp;不會增加<br />⓸&nbsp;自身不受回技或回&nbsp;EP&nbsp;影響",
-      "custom_desc": "",
+    "6729": {
+      "title": "敵技6729",
+      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【電擊之暗&nbsp;‧&nbsp;電擊符石】<br />•&nbsp;進場時將所有暗符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;3&nbsp;粒符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;如有電擊符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;電擊符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+      "custom_desc": "<span class=\"annotation\">monster_icon 6399</span> 九封災厄 (Wave 4) (核心封閉階段的本體)<br /><ul><li>一步一傷最低扣至1血</li></ul>",
       "keywords": [
-        "麻痺狀態"
+        "災厄級"
       ]
+    },
+    "6730": {
+      "title": "敵技6730",
+      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【電擊之暗&nbsp;‧&nbsp;電擊符石】<br />•&nbsp;進場時將所有暗符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;3&nbsp;粒符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;如有電擊符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;電擊符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+      "custom_desc": ""
+    },
+    "6731": {
+      "title": "敵技6731",
+      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【暗連擊零化】<br />•&nbsp;首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />【符石轉暗】<br />•&nbsp;每回合將暗以外數量最少的<br />1&nbsp;種屬性符石轉化為暗符石。",
+      "custom_desc": "<span class=\"annotation\">monster_icon 6399</span> 九封災厄 (Wave 10) (核心封閉階段的本體)<br /><ul><li>一步一傷最低扣至1血</li></ul>",
+      "keywords": [
+        "災厄級"
+      ]
+    },
+    "6732": {
+      "title": "敵技6732",
+      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【暗連擊零化】<br />•&nbsp;首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />【符石轉暗】<br />•&nbsp;每回合將暗以外數量最少的<br />1&nbsp;種屬性符石轉化為暗符石。",
+      "custom_desc": ""
+    },
+    "6733": {
+      "title": "敵技6733",
+      "desc": "【轉化符石技能無效】<br />•&nbsp;我方所有轉化符石效果無效<br /><br />【黑洞】<br />•&nbsp;進場時隨機&nbsp;9&nbsp;個位置<br />⇒&nbsp;變為黑洞<br />•&nbsp;召喚師在黑洞位置<br />&nbsp;&nbsp;最後結束轉珠<br />⓵&nbsp;全隊傷害減至&nbsp;0<br />⓶&nbsp;敵人發動攻擊時<br />⇒扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />【90&nbsp;步限制】<br />•&nbsp;每回合只能移動&nbsp;90&nbsp;步，<br />&nbsp;&nbsp;步數用盡時將停止移動符石<br /><br />【符石轉換】<br />•&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量的五屬及心符石",
+      "custom_desc": "<span class=\"annotation\">monster_icon 6399</span> 九封災厄 (核心張開階段的本體)<br /><ul><li>轉化水、火、木、光各6顆，暗、心各3顆</li></ul>",
+      "keywords": [
+        "災厄級"
+      ]
+    },
+    "6734": {
+      "title": "【封王核心】",
+      "desc": "【封王核心】<br /><br />•&nbsp;消耗敵人生命力時<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br /><br />•「殘像肆虐&nbsp;‧&nbsp;卡俄斯」<br />&nbsp;&nbsp;生命力為&nbsp;0&nbsp;<br />⇒&nbsp;張開核心<br /><br />•&nbsp;核心張開時，<br />&nbsp;&nbsp;首批消除&nbsp;≥9&nbsp;組屬性符石<br />⇒&nbsp;才能對核心造成傷害<br />⇒&nbsp;否則核心承受傷害變為&nbsp;1",
+      "custom_desc": "<span class=\"annotation\">monster_icon 6398</span> 九封災厄 (核心)",
+      "keywords": [
+        "災厄級"
+      ]
+    },
+    "6735": {
+      "title": "【封王核心】",
+      "desc": "【封王核心】<br /><br />•&nbsp;消耗敵人生命力時<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br /><br />•「殘像肆虐&nbsp;‧&nbsp;卡俄斯」<br />&nbsp;&nbsp;生命力為&nbsp;0&nbsp;<br />⇒&nbsp;張開核心<br /><br />•&nbsp;核心張開時，<br />&nbsp;&nbsp;首批消除&nbsp;≥9&nbsp;組屬性符石<br />⇒&nbsp;才能對核心造成傷害<br />⇒&nbsp;否則核心承受傷害變為&nbsp;1",
+      "custom_desc": ""
     },
     "6736": {
       "title": "【請回答問題】",
@@ -43958,66 +44018,6 @@
       "icons": [
         1039
       ]
-    },
-    "6727": {
-      "title": "敵技6727",
-      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【弱化圍城】<br />•&nbsp;每回合鎖定場上所有符石，<br />&nbsp;&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;5%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-      "custom_desc": "<span class=\"annotation\">monster_icon 6399</span> 九封災厄 (Wave 7) (核心封閉階段的本體)<br /><ul><li>一步一傷最低扣至1血</li></ul>",
-      "keywords": [
-        "災厄級"
-      ]
-    },
-    "6728": {
-      "title": "敵技6728",
-      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【弱化圍城】<br />•&nbsp;每回合鎖定場上所有符石，<br />&nbsp;&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;10%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
-      "custom_desc": ""
-    },
-    "6729": {
-      "title": "敵技6729",
-      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【電擊之暗&nbsp;‧&nbsp;電擊符石】<br />•&nbsp;進場時將所有暗符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;3&nbsp;粒符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;如有電擊符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;電擊符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
-      "custom_desc": "<span class=\"annotation\">monster_icon 6399</span> 九封災厄 (Wave 4) (核心封閉階段的本體)<br /><ul><li>一步一傷最低扣至1血</li></ul>",
-      "keywords": [
-        "災厄級"
-      ]
-    },
-    "6730": {
-      "title": "敵技6730",
-      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【電擊之暗&nbsp;‧&nbsp;電擊符石】<br />•&nbsp;進場時將所有暗符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;3&nbsp;粒符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;如有電擊符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;電擊符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
-      "custom_desc": ""
-    },
-    "6731": {
-      "title": "敵技6731",
-      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【暗連擊零化】<br />•&nbsp;首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />【符石轉暗】<br />•&nbsp;每回合將暗以外數量最少的<br />1&nbsp;種屬性符石轉化為暗符石。",
-      "custom_desc": "<span class=\"annotation\">monster_icon 6399</span> 九封災厄 (Wave 10) (核心封閉階段的本體)<br /><ul><li>一步一傷最低扣至1血</li></ul>",
-      "keywords": [
-        "災厄級"
-      ]
-    },
-    "6732": {
-      "title": "敵技6732",
-      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【暗連擊零化】<br />•&nbsp;首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />【符石轉暗】<br />•&nbsp;每回合將暗以外數量最少的<br />1&nbsp;種屬性符石轉化為暗符石。",
-      "custom_desc": ""
-    },
-    "6733": {
-      "title": "敵技6733",
-      "desc": "【轉化符石技能無效】<br />•&nbsp;我方所有轉化符石效果無效<br /><br />【黑洞】<br />•&nbsp;進場時隨機&nbsp;9&nbsp;個位置<br />⇒&nbsp;變為黑洞<br />•&nbsp;召喚師在黑洞位置<br />&nbsp;&nbsp;最後結束轉珠<br />⓵&nbsp;全隊傷害減至&nbsp;0<br />⓶&nbsp;敵人發動攻擊時<br />⇒扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br /><br />【90&nbsp;步限制】<br />•&nbsp;每回合只能移動&nbsp;90&nbsp;步，<br />&nbsp;&nbsp;步數用盡時將停止移動符石<br /><br />【符石轉換】<br />•&nbsp;每回合將所有符石轉化為<br />⇒&nbsp;固定數量的五屬及心符石",
-      "custom_desc": "<span class=\"annotation\">monster_icon 6399</span> 九封災厄 (核心張開階段的本體)<br /><ul><li>轉化水、火、木、光各6顆，暗、心各3顆</li></ul>",
-      "keywords": [
-        "災厄級"
-      ]
-    },
-    "6734": {
-      "title": "【封王核心】",
-      "desc": "【封王核心】<br /><br />•&nbsp;消耗敵人生命力時<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br /><br />•「殘像肆虐&nbsp;‧&nbsp;卡俄斯」<br />&nbsp;&nbsp;生命力為&nbsp;0&nbsp;<br />⇒&nbsp;張開核心<br /><br />•&nbsp;核心張開時，<br />&nbsp;&nbsp;首批消除&nbsp;≥9&nbsp;組屬性符石<br />⇒&nbsp;才能對核心造成傷害<br />⇒&nbsp;否則核心承受傷害變為&nbsp;1",
-      "custom_desc": "<span class=\"annotation\">monster_icon 6398</span> 九封災厄 (核心)",
-      "keywords": [
-        "災厄級"
-      ]
-    },
-    "6735": {
-      "title": "【封王核心】",
-      "desc": "【封王核心】<br /><br />•&nbsp;消耗敵人生命力時<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力<br /><br />•「殘像肆虐&nbsp;‧&nbsp;卡俄斯」<br />&nbsp;&nbsp;生命力為&nbsp;0&nbsp;<br />⇒&nbsp;張開核心<br /><br />•&nbsp;核心張開時，<br />&nbsp;&nbsp;首批消除&nbsp;≥9&nbsp;組屬性符石<br />⇒&nbsp;才能對核心造成傷害<br />⇒&nbsp;否則核心承受傷害變為&nbsp;1",
-      "custom_desc": ""
     },
     "6809": {
       "title": "【龍刻脈動 ≥10,001 分損敵】",
@@ -45213,7 +45213,7 @@
     "6970": {
       "title": "逃跑",
       "desc": "　",
-      "custom_desc": "<ul><li>視覺特效技能</li><li>DIO的逃跑特效</li></ul>",
+      "custom_desc": "<ul><li>視覺特效技能</li><li><span class=\"annotation\">monster_icon 10598</span>的逃跑特效</li></ul>",
       "icons": [
         1127
       ],
@@ -48025,7 +48025,7 @@
     },
     "7407": {
       "title": "【陰之氣 - 拘束】",
-      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;5&nbsp;層陰之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;5&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
       "custom_desc": "",
       "icons": [
         1228
@@ -48033,7 +48033,7 @@
     },
     "7408": {
       "title": "【陰之氣 - 拘束】",
-      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;10&nbsp;層陰之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;10&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
       "custom_desc": "",
       "icons": [
         1228
@@ -48041,7 +48041,7 @@
     },
     "7409": {
       "title": "【陰之氣 - 拘束】",
-      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;15&nbsp;層陰之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;15&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
       "custom_desc": "",
       "icons": [
         1228
@@ -48049,7 +48049,7 @@
     },
     "7410": {
       "title": "【陰之氣 - 拘束】",
-      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;20&nbsp;層陰之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;20&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
       "custom_desc": "",
       "icons": [
         1228
@@ -48057,7 +48057,7 @@
     },
     "7411": {
       "title": "【陰之氣 - 拘束】",
-      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;&nbsp;25&nbsp;層陰之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;&nbsp;25&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
       "custom_desc": "",
       "icons": [
         1228
@@ -48065,7 +48065,7 @@
     },
     "7412": {
       "title": "【陰之氣 - 拘束】",
-      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;&nbsp;30&nbsp;層陰之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;&nbsp;30&nbsp;層陰之氣<br />•&nbsp;陰之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陰之氣消失<br />•&nbsp;陰之氣&nbsp;≥0<br />⇒&nbsp;拘束所有成員：<br />&nbsp;&nbsp;&nbsp;不能發動龍刻脈動、<br />&nbsp;&nbsp;&nbsp;主動技能及龍刻技能",
       "custom_desc": "",
       "icons": [
         1228
@@ -48073,7 +48073,7 @@
     },
     "7413": {
       "title": "【淨化印記 - 水】",
-      "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
+      "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
       "custom_desc": "",
       "icons": [
         1128
@@ -48081,7 +48081,7 @@
     },
     "7414": {
       "title": "【淨化印記 - 火】",
-      "desc": "•&nbsp;每回合所有火符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
+      "desc": "•&nbsp;每回合所有火符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
       "custom_desc": "",
       "icons": [
         1128
@@ -48089,7 +48089,7 @@
     },
     "7415": {
       "title": "【淨化印記 - 木】",
-      "desc": "•&nbsp;每回合所有木符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
+      "desc": "•&nbsp;每回合所有木符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
       "custom_desc": "",
       "icons": [
         1128
@@ -48097,7 +48097,7 @@
     },
     "7416": {
       "title": "【淨化印記 - 光】",
-      "desc": "•&nbsp;每回合所有光符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
+      "desc": "•&nbsp;每回合所有光符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
       "custom_desc": "",
       "icons": [
         1128
@@ -48105,7 +48105,7 @@
     },
     "7417": {
       "title": "【淨化印記 - 暗】",
-      "desc": "•&nbsp;每回合所有暗符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
+      "desc": "•&nbsp;每回合所有暗符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
       "custom_desc": "",
       "icons": [
         1128
@@ -48113,7 +48113,7 @@
     },
     "7418": {
       "title": "【淨化印記 - 心】",
-      "desc": "•&nbsp;每回合所有心符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
+      "desc": "•&nbsp;每回合所有心符石<br />⇒&nbsp;添加淨化印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒淨化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陰之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空淨化印記",
       "custom_desc": "",
       "icons": [
         1128
@@ -48121,7 +48121,7 @@
     },
     "7419": {
       "title": "【陽之氣】",
-      "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;5&nbsp;層陽之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量",
+      "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;5&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量<br />⓷&nbsp;敵人不會被附上狀態",
       "custom_desc": "",
       "icons": [
         1229
@@ -48129,7 +48129,7 @@
     },
     "7420": {
       "title": "【陽之氣】",
-      "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;10&nbsp;層陽之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量",
+      "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;10&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量<br />⓷&nbsp;敵人不會被附上狀態",
       "custom_desc": "",
       "icons": [
         1229
@@ -48137,7 +48137,7 @@
     },
     "7421": {
       "title": "【陽之氣】",
-      "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;15&nbsp;層陽之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量",
+      "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;15&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量<br />⓷&nbsp;敵人不會被附上狀態",
       "custom_desc": "",
       "icons": [
         1229
@@ -48145,7 +48145,7 @@
     },
     "7422": {
       "title": "【陽之氣】",
-      "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;20&nbsp;層陽之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量",
+      "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;20&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量<br />⓷&nbsp;敵人不會被附上狀態",
       "custom_desc": "",
       "icons": [
         1229
@@ -48153,7 +48153,7 @@
     },
     "7423": {
       "title": "【陽之氣】",
-      "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;25&nbsp;層陽之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量",
+      "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;25&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量<br />⓷&nbsp;敵人不會被附上狀態",
       "custom_desc": "",
       "icons": [
         1229
@@ -48161,7 +48161,7 @@
     },
     "7424": {
       "title": "【陽之氣】",
-      "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;30&nbsp;層陽之氣<br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量",
+      "desc": "•&nbsp;進場時，敵人會擁有<br />&nbsp;&nbsp;30&nbsp;層陽之氣<br />•&nbsp;陽之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;陽之氣消失<br />•&nbsp;陽之氣&nbsp;≥0<br />⓵&nbsp;無法對敵人<br />&nbsp;&nbsp;&nbsp;&nbsp;造成傷害、消耗<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害、消耗的血量<br />⓷&nbsp;敵人不會被附上狀態",
       "custom_desc": "",
       "icons": [
         1229
@@ -48169,7 +48169,7 @@
     },
     "7425": {
       "title": "【淡化印記 - 水】",
-      "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加淡化印記",
+      "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加淡化印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣",
       "custom_desc": "",
       "icons": [
         1129
@@ -48177,7 +48177,7 @@
     },
     "7426": {
       "title": "【淡化印記 - 火】",
-      "desc": "•&nbsp;每回合所有火符石<br />⇒&nbsp;添加淡化印記",
+      "desc": "•&nbsp;每回合所有火符石<br />⇒&nbsp;添加淡化印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣",
       "custom_desc": "",
       "icons": [
         1129
@@ -48185,7 +48185,7 @@
     },
     "7427": {
       "title": "【淡化印記 - 木】",
-      "desc": "•&nbsp;每回合所有木符石<br />⇒&nbsp;添加淡化印記",
+      "desc": "•&nbsp;每回合所有木符石<br />⇒&nbsp;添加淡化印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣",
       "custom_desc": "",
       "icons": [
         1129
@@ -48193,7 +48193,7 @@
     },
     "7428": {
       "title": "【淡化印記 - 光】",
-      "desc": "•&nbsp;每回合所有光符石<br />⇒&nbsp;添加淡化印記",
+      "desc": "•&nbsp;每回合所有光符石<br />⇒&nbsp;添加淡化印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣",
       "custom_desc": "",
       "icons": [
         1129
@@ -48201,7 +48201,7 @@
     },
     "7429": {
       "title": "【淡化印記 - 暗】",
-      "desc": "•&nbsp;每回合所有暗符石<br />⇒&nbsp;添加淡化印記",
+      "desc": "•&nbsp;每回合所有暗符石<br />⇒&nbsp;添加淡化印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣",
       "custom_desc": "",
       "icons": [
         1129
@@ -48209,7 +48209,7 @@
     },
     "7430": {
       "title": "【淡化印記 - 心】",
-      "desc": "•&nbsp;每回合所有心符石<br />⇒&nbsp;添加淡化印記",
+      "desc": "•&nbsp;每回合所有心符石<br />⇒&nbsp;添加淡化印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒淡化印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層陽之氣",
       "custom_desc": "",
       "icons": [
         1129
@@ -48965,29 +48965,59 @@
       "custom_desc": ""
     },
     "7552": {
-      "title": "　",
+      "title": "逃跑",
       "desc": "　",
-      "custom_desc": ""
+      "custom_desc": "<ul><li>視覺特效技能</li><li><span class=\"annotation\">monster_icon 10907</span>的逃跑特效</li></ul>",
+      "icons": [
+        1127
+      ],
+      "keywords": [
+        "特效"
+      ]
     },
     "7553": {
-      "title": "　",
+      "title": "逃跑",
       "desc": "　",
-      "custom_desc": ""
+      "custom_desc": "<ul><li>視覺特效技能</li><li><span class=\"annotation\">monster_icon 10910</span>的逃跑特效</li></ul>",
+      "icons": [
+        1127
+      ],
+      "keywords": [
+        "特效"
+      ]
     },
     "7554": {
-      "title": "　",
+      "title": "逃跑",
       "desc": "　",
-      "custom_desc": ""
+      "custom_desc": "<ul><li>視覺特效技能</li><li><span class=\"annotation\">monster_icon 10912</span>的逃跑特效</li></ul>",
+      "icons": [
+        1127
+      ],
+      "keywords": [
+        "特效"
+      ]
     },
     "7555": {
-      "title": "　",
+      "title": "逃跑",
       "desc": "　",
-      "custom_desc": ""
+      "custom_desc": "<ul><li>視覺特效技能</li><li><span class=\"annotation\">monster_icon 10914</span>的逃跑特效</li></ul>",
+      "icons": [
+        1127
+      ],
+      "keywords": [
+        "特效"
+      ]
     },
     "7556": {
-      "title": "　",
+      "title": "逃跑",
       "desc": "　",
-      "custom_desc": ""
+      "custom_desc": "<ul><li>視覺特效技能</li><li><span class=\"annotation\">monster_icon 10915</span>的逃跑特效</li></ul>",
+      "icons": [
+        1127
+      ],
+      "keywords": [
+        "特效"
+      ]
     },
     "7557": {
       "title": "排珠 ‧ 戰鬥圖板 - 越扣越強25%",
@@ -49036,6 +49066,418 @@
       "icons": [
         1003
       ]
+    },
+    "7563": {
+      "title": "【水屬弱攻】",
+      "desc": "•&nbsp;水屬性傷害減至&nbsp;50%",
+      "custom_desc": "",
+      "icons": [
+        251
+      ]
+    },
+    "7564": {
+      "title": "【火屬弱攻】",
+      "desc": "•&nbsp;火屬性傷害減至&nbsp;50%",
+      "custom_desc": "",
+      "icons": [
+        252
+      ]
+    },
+    "7565": {
+      "title": "【木屬弱攻】",
+      "desc": "•&nbsp;木屬性傷害減至&nbsp;50%",
+      "custom_desc": "",
+      "icons": [
+        253
+      ]
+    },
+    "7566": {
+      "title": "【光屬弱攻】",
+      "desc": "•&nbsp;光屬性傷害減至&nbsp;50%",
+      "custom_desc": "",
+      "icons": [
+        254
+      ]
+    },
+    "7567": {
+      "title": "【暗屬弱攻】",
+      "desc": "•&nbsp;暗屬性傷害減至&nbsp;50%",
+      "custom_desc": "",
+      "icons": [
+        255
+      ]
+    },
+    "7568": {
+      "title": "【水屬弱攻】",
+      "desc": "•&nbsp;水屬性傷害減至&nbsp;25%",
+      "custom_desc": "",
+      "icons": [
+        251
+      ]
+    },
+    "7569": {
+      "title": "【火屬弱攻】",
+      "desc": "•&nbsp;火屬性傷害減至&nbsp;25%",
+      "custom_desc": "",
+      "icons": [
+        252
+      ]
+    },
+    "7570": {
+      "title": "【木屬弱攻】",
+      "desc": "•&nbsp;木屬性傷害減至&nbsp;25%",
+      "custom_desc": "",
+      "icons": [
+        253
+      ]
+    },
+    "7571": {
+      "title": "【光屬弱攻】",
+      "desc": "•&nbsp;光屬性傷害減至&nbsp;25%",
+      "custom_desc": "",
+      "icons": [
+        254
+      ]
+    },
+    "7572": {
+      "title": "【暗屬弱攻】",
+      "desc": "•&nbsp;暗屬性傷害減至&nbsp;25%",
+      "custom_desc": "",
+      "icons": [
+        255
+      ]
+    },
+    "7573": {
+      "title": "【消水禁咒】",
+      "desc": "•&nbsp;4&nbsp;回合內，無法消除水符石",
+      "custom_desc": "",
+      "icons": [
+        301
+      ]
+    },
+    "7574": {
+      "title": "【消火禁咒】",
+      "desc": "•&nbsp;4&nbsp;回合內，無法消除火符石",
+      "custom_desc": "",
+      "icons": [
+        302
+      ]
+    },
+    "7575": {
+      "title": "【消木禁咒】",
+      "desc": "•&nbsp;4&nbsp;回合內，無法消除木符石",
+      "custom_desc": "",
+      "icons": [
+        303
+      ]
+    },
+    "7576": {
+      "title": "【消光禁咒】",
+      "desc": "•&nbsp;4&nbsp;回合內，無法消除光符石",
+      "custom_desc": "",
+      "icons": [
+        304
+      ]
+    },
+    "7577": {
+      "title": "【消暗禁咒】",
+      "desc": "•&nbsp;4&nbsp;回合內，無法消除暗符石",
+      "custom_desc": "",
+      "icons": [
+        305
+      ]
+    },
+    "7578": {
+      "title": "【消心禁咒】",
+      "desc": "•&nbsp;4&nbsp;回合內，無法消除心符石",
+      "custom_desc": "",
+      "icons": [
+        306
+      ]
+    },
+    "7579": {
+      "title": "【消水禁咒】",
+      "desc": "•&nbsp;5&nbsp;回合內，無法消除水符石",
+      "custom_desc": "",
+      "icons": [
+        301
+      ]
+    },
+    "7580": {
+      "title": "【消火禁咒】",
+      "desc": "•&nbsp;5&nbsp;回合內，無法消除火符石",
+      "custom_desc": "",
+      "icons": [
+        302
+      ]
+    },
+    "7581": {
+      "title": "【消木禁咒】",
+      "desc": "•&nbsp;5&nbsp;回合內，無法消除木符石",
+      "custom_desc": "",
+      "icons": [
+        303
+      ]
+    },
+    "7582": {
+      "title": "【消光禁咒】",
+      "desc": "•&nbsp;5&nbsp;回合內，無法消除光符石",
+      "custom_desc": "",
+      "icons": [
+        304
+      ]
+    },
+    "7583": {
+      "title": "【消暗禁咒】",
+      "desc": "•&nbsp;5&nbsp;回合內，無法消除暗符石",
+      "custom_desc": "",
+      "icons": [
+        305
+      ]
+    },
+    "7584": {
+      "title": "【消心禁咒】",
+      "desc": "•&nbsp;5&nbsp;回合內，無法消除心符石",
+      "custom_desc": "",
+      "icons": [
+        306
+      ]
+    },
+    "7585": {
+      "title": "【錮縛 - 技能、攻擊】",
+      "desc": "•&nbsp;進場時永久封鎖<br />⇒&nbsp;所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+      "custom_desc": "",
+      "icons": [
+        853
+      ]
+    },
+    "7586": {
+      "title": "【錮縛 - 技能、攻擊】",
+      "desc": "•&nbsp;受到敵人首次攻擊<br />&nbsp;&nbsp;(不包括突擊)<br />⇒&nbsp;永久封鎖所有成員的<br />&nbsp;&nbsp;&nbsp;&nbsp;主動技能及攻擊",
+      "custom_desc": "",
+      "icons": [
+        853
+      ]
+    },
+    "7587": {
+      "title": "【≥60 連擊盾】",
+      "desc": "•&nbsp;達成&nbsp;≥60&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        2022
+      ]
+    },
+    "7588": {
+      "title": "【≥70 連擊盾】",
+      "desc": "•&nbsp;達成&nbsp;≥70&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        2023
+      ]
+    },
+    "7589": {
+      "title": "【≥80 連擊盾】",
+      "desc": "•&nbsp;達成&nbsp;≥80&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        2024
+      ]
+    },
+    "7590": {
+      "title": "【≥90 連擊盾】",
+      "desc": "•&nbsp;達成&nbsp;≥90&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        2025
+      ]
+    },
+    "7591": {
+      "title": "【≥100 連擊盾】",
+      "desc": "•&nbsp;達成&nbsp;≥100&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        2026
+      ]
+    },
+    "7592": {
+      "title": "【≥60 連擊盾 - 追擊】",
+      "desc": "•&nbsp;達成&nbsp;≥60&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊<br />⇒&nbsp;最多追打&nbsp;9&nbsp;次",
+      "custom_desc": "",
+      "icons": [
+        2022
+      ]
+    },
+    "7593": {
+      "title": "【≥70 連擊盾 - 追擊】",
+      "desc": "•&nbsp;達成&nbsp;≥70&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊<br />⇒&nbsp;最多追打&nbsp;9&nbsp;次",
+      "custom_desc": "",
+      "icons": [
+        2023
+      ]
+    },
+    "7594": {
+      "title": "【≥80 連擊盾 - 追擊】",
+      "desc": "•&nbsp;達成&nbsp;≥80&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊<br />⇒&nbsp;最多追打&nbsp;9&nbsp;次",
+      "custom_desc": "",
+      "icons": [
+        2024
+      ]
+    },
+    "7595": {
+      "title": "【≥90 連擊盾 - 追擊】",
+      "desc": "•&nbsp;達成&nbsp;≥90&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊<br />⇒&nbsp;最多追打&nbsp;9&nbsp;次",
+      "custom_desc": "",
+      "icons": [
+        2025
+      ]
+    },
+    "7596": {
+      "title": "【≥100 連擊盾 - 追擊】",
+      "desc": "•&nbsp;達成&nbsp;≥100&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />⇒&nbsp;並根據差距的連擊數<br />&nbsp;&nbsp;&nbsp;&nbsp;追打相應次數攻擊<br />⇒&nbsp;最多追打&nbsp;9&nbsp;次",
+      "custom_desc": "",
+      "icons": [
+        2026
+      ]
+    },
+    "7597": {
+      "title": "【首消 ≥11 組屬性符石盾】",
+      "desc": "•&nbsp;首批消除&nbsp;≥11&nbsp;組屬性符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        181
+      ]
+    },
+    "7598": {
+      "title": "【首消 ≥12 組屬性符石盾】",
+      "desc": "•&nbsp;首批消除&nbsp;≥12&nbsp;組屬性符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        182
+      ]
+    },
+    "7599": {
+      "title": "【首消 ≥13 組屬性符石盾】",
+      "desc": "•&nbsp;首批消除&nbsp;≥13&nbsp;組屬性符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        183
+      ]
+    },
+    "7600": {
+      "title": "【首消 ≥14 組屬性符石盾】",
+      "desc": "•&nbsp;首批消除&nbsp;≥14&nbsp;組屬性符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        184
+      ]
+    },
+    "7601": {
+      "title": "【首消 ≥15 組屬性符石盾】",
+      "desc": "•&nbsp;首批消除&nbsp;≥15&nbsp;組屬性符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        185
+      ]
+    },
+    "7602": {
+      "title": "【首消 ≥16 組屬性符石盾】",
+      "desc": "•&nbsp;首批消除&nbsp;≥16&nbsp;組屬性符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        186
+      ]
+    },
+    "7603": {
+      "title": "【首消 ≥17 組屬性符石盾】",
+      "desc": "•&nbsp;首批消除&nbsp;≥17&nbsp;組屬性符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        187
+      ]
+    },
+    "7604": {
+      "title": "【首消 ≥18 組屬性符石盾】",
+      "desc": "•&nbsp;首批消除&nbsp;≥18&nbsp;組屬性符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        188
+      ]
+    },
+    "7605": {
+      "title": "【首消 ≥19 組屬性符石盾】",
+      "desc": "•&nbsp;首批消除&nbsp;≥19&nbsp;組屬性符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        189
+      ]
+    },
+    "7606": {
+      "title": "【首消 ≥20 組屬性符石盾】",
+      "desc": "•&nbsp;首批消除&nbsp;≥20&nbsp;組屬性符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": "",
+      "icons": [
+        190
+      ]
+    },
+    "7607": {
+      "title": "【獵人】",
+      "desc": "•&nbsp;隊中每有&nbsp;1&nbsp;個人類成員<br />⇒&nbsp;敵人攻擊力提升<br />⇒&nbsp;5&nbsp;個提升至最大&nbsp;11&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7608": {
+      "title": "【獵獸】",
+      "desc": "•&nbsp;隊中每有&nbsp;1&nbsp;個獸類成員<br />&nbsp;&nbsp;⇒&nbsp;敵人攻擊力提升<br />&nbsp;&nbsp;⇒&nbsp;5&nbsp;個提升至最大&nbsp;11&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7609": {
+      "title": "【獵妖】",
+      "desc": "•&nbsp;隊中每有&nbsp;1&nbsp;個妖精類成員<br />&nbsp;&nbsp;⇒&nbsp;敵人攻擊力提升<br />&nbsp;&nbsp;⇒&nbsp;5&nbsp;個提升至最大&nbsp;11&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7610": {
+      "title": "【獵龍】",
+      "desc": "•&nbsp;隊中每有&nbsp;1&nbsp;個龍類成員<br />&nbsp;&nbsp;⇒&nbsp;敵人攻擊力提升<br />&nbsp;&nbsp;⇒&nbsp;5&nbsp;個提升至最大&nbsp;11&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7611": {
+      "title": "【獵神】",
+      "desc": "•&nbsp;隊中每有&nbsp;1&nbsp;個神族成員<br />&nbsp;&nbsp;⇒&nbsp;敵人攻擊力提升<br />&nbsp;&nbsp;⇒&nbsp;5&nbsp;個提升至最大&nbsp;11&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7612": {
+      "title": "【獵魔】",
+      "desc": "•&nbsp;隊中每有&nbsp;1&nbsp;個魔族成員<br />&nbsp;&nbsp;⇒&nbsp;敵人攻擊力提升<br />&nbsp;&nbsp;⇒&nbsp;5&nbsp;個提升至最大&nbsp;11&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7613": {
+      "title": "【獵機械】",
+      "desc": "•&nbsp;隊中每有&nbsp;1&nbsp;個機械族成員<br />&nbsp;&nbsp;⇒&nbsp;敵人攻擊力提升<br />&nbsp;&nbsp;⇒&nbsp;5&nbsp;個提升至最大&nbsp;11&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7614": {
+      "title": "【獵水】",
+      "desc": "•&nbsp;隊中每有&nbsp;1&nbsp;個水屬性成員<br />&nbsp;&nbsp;⇒&nbsp;敵人攻擊力提升<br />&nbsp;&nbsp;⇒&nbsp;5&nbsp;個提升至最大&nbsp;11&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7615": {
+      "title": "【獵火】",
+      "desc": "•&nbsp;隊中每有&nbsp;1&nbsp;個火屬性成員<br />&nbsp;&nbsp;⇒&nbsp;敵人攻擊力提升<br />&nbsp;&nbsp;⇒&nbsp;5&nbsp;個提升至最大&nbsp;11&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7616": {
+      "title": "【獵木】",
+      "desc": "•&nbsp;隊中每有&nbsp;1&nbsp;個木屬性成員<br />&nbsp;&nbsp;⇒&nbsp;敵人攻擊力提升<br />&nbsp;&nbsp;⇒&nbsp;5&nbsp;個提升至最大&nbsp;11&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7617": {
+      "title": "【獵光】",
+      "desc": "•&nbsp;隊中每有&nbsp;1&nbsp;個光屬性成員<br />&nbsp;&nbsp;⇒&nbsp;敵人攻擊力提升<br />&nbsp;&nbsp;⇒&nbsp;5&nbsp;個提升至最大&nbsp;11&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7618": {
+      "title": "【獵暗】",
+      "desc": "•&nbsp;隊中每有&nbsp;1&nbsp;個暗屬性成員<br />&nbsp;&nbsp;⇒&nbsp;敵人攻擊力提升<br />&nbsp;&nbsp;⇒&nbsp;5&nbsp;個提升至最大&nbsp;11&nbsp;倍",
+      "custom_desc": ""
     }
   }
 }

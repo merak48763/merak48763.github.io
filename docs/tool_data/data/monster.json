@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.211",
-    "dv": 13867,
-    "time": 1745828967
+    "version": "2025.301",
+    "dv": 13899,
+    "time": 1748145695
   },
   "monster": {
     "1": {
@@ -17501,6 +17501,12 @@
       "race": 4,
       "rarity": 6
     },
+    "2927": {
+      "name": "桃香綺思 ‧ 妲己",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21529,6 +21535,12 @@
       "attribute": 2,
       "race": 4,
       "rarity": 8
+    },
+    "6702": {
+      "name": "無限之環 ‧ 莫比烏斯",
+      "attribute": 3,
+      "race": 8,
+      "rarity": 7
     },
     "6999": {
       "name": "米拉珍",
@@ -27195,7 +27207,7 @@
       "name": "魔法石靈 ‧ 帕拉伊巴",
       "attribute": 1,
       "race": 3,
-      "rarity": 6
+      "rarity": 7
     },
     "10828": {
       "name": "恆定的仿魂 ‧ 莉莉絲",
@@ -27513,7 +27525,7 @@
       "name": "幸福進行曲 ‧ 孟德爾頌",
       "attribute": 2,
       "race": 5,
-      "rarity": 6
+      "rarity": 7
     },
     "10886": {
       "name": "潛幕謀局 ‧ 雷蒙德",
@@ -27556,6 +27568,12 @@
       "attribute": 2,
       "race": 4,
       "rarity": 8
+    },
+    "10894": {
+      "name": "鶴骨仙風 ‧ 太乙真人",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 6
     },
     "10895": {
       "name": "空條徐倫與石之海",
@@ -27641,11 +27659,47 @@
       "race": 1,
       "rarity": 6
     },
+    "10909": {
+      "name": "納蘭迦 ‧ 吉爾各與史密斯飛船",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
     "10910": {
       "name": "普羅修特與壯烈成仁與貝西與海灘男孩",
       "attribute": 4,
       "race": 1,
       "rarity": 6
+    },
+    "10911": {
+      "name": "里蘇特 ‧ 涅羅與金屬製品",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "10912": {
+      "name": "迪亞波羅與緋紅之王",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 7
+    },
+    "10913": {
+      "name": "天氣預報",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "10914": {
+      "name": "普奇神父與白蛇",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 7
+    },
+    "10915": {
+      "name": "普奇神父與天堂製造",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 7
     },
     "10916": {
       "name": "空條承太郎與白金之星 ‧ 世界",
@@ -27657,6 +27711,48 @@
       "name": "夜幕貓影 ‧ 斯芬克斯",
       "attribute": 4,
       "race": 7,
+      "rarity": 6
+    },
+    "10918": {
+      "name": "時夏清馥 ‧ 菖蒲",
+      "attribute": 5,
+      "race": 3,
+      "rarity": 6
+    },
+    "10919": {
+      "name": "無限之環 ‧ 莫比烏斯",
+      "attribute": 3,
+      "race": 8,
+      "rarity": 7
+    },
+    "10920": {
+      "name": "無底之瓶 ‧ 克萊因",
+      "attribute": 1,
+      "race": 4,
+      "rarity": 7
+    },
+    "10921": {
+      "name": "侵掠效應 ‧ 麥科洛",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
+    "10922": {
+      "name": "錯覺愚弄 ‧ 艾賓浩斯",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 6
+    },
+    "10923": {
+      "name": "弔詭階梯 ‧ 潘洛斯",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 6
+    },
+    "10924": {
+      "name": "純潔之心 ‧ 美杜莎",
+      "attribute": 5,
+      "race": 1,
       "rarity": 6
     },
     "11002": {

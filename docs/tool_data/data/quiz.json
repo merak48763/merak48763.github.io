@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "version": "2025.100",
-    "time": 1737518487
+    "version": "2025.301",
+    "time": 1748145695
   },
   "quiz": {
     "1": {
@@ -7388,6 +7388,171 @@
         "3"
       ],
       "quizImage": null
+    },
+    "704": {
+      "question": "圖中的測驗，被稱統稱為什麼 ?",
+      "answer": 1,
+      "answer_options": [
+        "泰倫斯效應",
+        "麥科洛效應",
+        "直直橫效應",
+        "橫橫直效應"
+      ],
+      "quizImage": "db25030007e84f12-McCollough_effect_01.png"
+    },
+    "705": {
+      "question": "圖中的測驗，被稱統稱為什麼 ?",
+      "answer": 0,
+      "answer_options": [
+        "艾賓浩斯錯覺",
+        "大小波錯覺",
+        "橙波波錯覺",
+        "思覺失調測驗"
+      ],
+      "quizImage": "d254cd30aca6dfcd-DelboeufIllusion_01.png"
+    },
+    "706": {
+      "question": "圖中橙色的圓形哪一個較大 ?",
+      "answer": 2,
+      "answer_options": [
+        "左方較大",
+        "右方較大",
+        "左右方一樣大",
+        "圖中沒有圓形"
+      ],
+      "quizImage": "d254cd30aca6dfcd-DelboeufIllusion_01.png"
+    },
+    "707": {
+      "question": "圖中的物件被稱為什麼 ?",
+      "answer": 3,
+      "answer_options": [
+        "聖杯",
+        "中世紀古董瓶",
+        "體力藥水",
+        "克萊因瓶"
+      ],
+      "quizImage": "ada3987a217d9a57-Klein_bottle_001.png"
+    },
+    "708": {
+      "question": "克萊因瓶最著名的特性是什麼？",
+      "answer": 2,
+      "answer_options": [
+        "滴水不漏",
+        "二維曲面沒邊界",
+        "沒有內外之分",
+        "由玻璃製成"
+      ],
+      "quizImage": "ada3987a217d9a57-Klein_bottle_001.png"
+    },
+    "709": {
+      "question": "圖中的圖案一般被稱為？",
+      "answer": 1,
+      "answer_options": [
+        "天國的階梯",
+        "潘洛斯階梯",
+        "人性的光輝",
+        "潘朵拉樓梯"
+      ],
+      "quizImage": "82930aa1cb31b50e-PenroseStairs_effect_01.png"
+    },
+    "710": {
+      "question": "請找出圖中的潘洛斯階梯的最高點 / 最低點",
+      "answer": 3,
+      "answer_options": [
+        "A",
+        "B",
+        "C",
+        "無法得知"
+      ],
+      "quizImage": "9165956150e4769e-PenroseStairs_effect_02.png"
+    },
+    "711": {
+      "question": "根據麥科洛效應，會令人產生怎樣的錯覺 ?",
+      "answer": 1,
+      "answer_options": [
+        "氣溫的變化",
+        "顏色的偏差",
+        "性別的分辨",
+        "近視的深淺"
+      ],
+      "quizImage": "db25030007e84f12-McCollough_effect_01.png"
+    },
+    "712": {
+      "question": "下列哪一個是「莫比烏斯環」的特色？",
+      "answer": 1,
+      "answer_options": [
+        "有兩個面和兩條邊",
+        "有一個面和一條邊",
+        "是封閉的立方體",
+        "可以無限延伸"
+      ],
+      "quizImage": "97e8ec34f41e79bf-Mobius_01.png"
+    },
+    "713": {
+      "question": "艾賓浩斯錯覺主要是利用什麼影響我們的判斷？",
+      "answer": 3,
+      "answer_options": [
+        "光線方向",
+        "顏色深淺",
+        "背景圖案",
+        "周圍物體的大小"
+      ],
+      "quizImage": "d254cd30aca6dfcd-DelboeufIllusion_01.png"
+    },
+    "714": {
+      "question": "哪一個圖形「不可能」存在於三維空間？",
+      "answer": 2,
+      "answer_options": [
+        "圓錐",
+        "球體",
+        "潘洛斯三角",
+        "柱體"
+      ],
+      "quizImage": "7b80498aa7937362-PenroseStairs_effect_03.png"
+    },
+    "715": {
+      "question": "在莫比烏斯環上畫一直線，最後線條會？",
+      "answer": 1,
+      "answer_options": [
+        "分成兩段",
+        "回到起點但在另一面",
+        "畫出天際",
+        "形成螺旋狀"
+      ],
+      "quizImage": "300d9aeefd6582e0-Mobius_02.png"
+    },
+    "716": {
+      "question": "克萊因瓶與莫比烏斯環的共同點為？",
+      "answer": 2,
+      "answer_options": [
+        "都無法用紙做出模型",
+        "都有內外結構",
+        "都是一種非歐幾何體",
+        "都具有透明性"
+      ],
+      "quizImage": "3412fdf5474c1f03-Mobius_03.png"
+    },
+    "717": {
+      "question": "以下哪一種錯覺會使樓梯看似永無止盡地上升或下降？",
+      "answer": 2,
+      "answer_options": [
+        "莫比烏斯錯覺",
+        "錯視梯形",
+        "潘洛斯階梯",
+        "立體透視錯覺"
+      ],
+      "quizImage": "82930aa1cb31b50e-PenroseStairs_effect_01.png"
+    },
+    "718": {
+      "question": "潘洛斯三角由誰提出？",
+      "answer": 1,
+      "answer_options": [
+        "艾舍爾",
+        "羅傑‧潘洛斯",
+        "克萊因",
+        "艾賓浩斯"
+      ],
+      "quizImage": "7b80498aa7937362-PenroseStairs_effect_03.png"
     }
   }
 }
