@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.301",
-    "dv": 13899,
-    "time": 1748145695
+    "version": "2025.302",
+    "dv": 13909,
+    "time": 1749312276
   },
   "monster": {
     "1": {
@@ -27753,6 +27753,36 @@
       "name": "純潔之心 ‧ 美杜莎",
       "attribute": 5,
       "race": 1,
+      "rarity": 6
+    },
+    "10925": {
+      "name": "抗爭航蹤 ‧ 紐澤西",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 6
+    },
+    "10926": {
+      "name": "綠化航行 ‧ 錫赫",
+      "attribute": 3,
+      "race": 10,
+      "rarity": 6
+    },
+    "10927": {
+      "name": "貴婦風範 ‧ 保妮",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 6
+    },
+    "10929": {
+      "name": "虛榮權途 ‧ 科克",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 6
+    },
+    "10930": {
+      "name": "符元芳兔 ‧ 林黛玉",
+      "attribute": 5,
+      "race": 8,
       "rarity": 6
     },
     "11002": {
