@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.302",
-    "dv": 13909,
-    "time": 1749312276
+    "version": "2025.310",
+    "dv": 13938,
+    "time": 1750044302
   },
   "monster": {
     "1": {
@@ -17507,6 +17507,12 @@
       "race": 3,
       "rarity": 6
     },
+    "2928": {
+      "name": "童稚友誼 ‧ 摩迪與曼尼",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -24984,7 +24990,7 @@
       "rarity": 5
     },
     "10453": {
-      "name": "禍心形身  ‧ 卡洛",
+      "name": "禍心形身 ‧ 卡洛",
       "attribute": 1,
       "race": 8,
       "rarity": 6
@@ -27783,6 +27789,84 @@
       "name": "符元芳兔 ‧ 林黛玉",
       "attribute": 5,
       "race": 8,
+      "rarity": 6
+    },
+    "10931": {
+      "name": "最佳應援・阿奎亞",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "10932": {
+      "name": "B小町・露比",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10933": {
+      "name": "有馬佳奈",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "10934": {
+      "name": "MEMcho",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10935": {
+      "name": "天才演員・黑川茜",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "10936": {
+      "name": "B小町・有馬佳奈",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10937": {
+      "name": "露比",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10938": {
+      "name": "B小町・MEMcho",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "10939": {
+      "name": "B小町",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 7
+    },
+    "10940": {
+      "name": "小愛與露比與阿奎亞",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10941": {
+      "name": "皮耶勇酷雞",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10948": {
+      "name": "傳奇偶像・小愛",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 8
+    },
+    "10949": {
+      "name": "齋藤美彌子",
+      "attribute": 1,
+      "race": 1,
       "rarity": 6
     },
     "11002": {

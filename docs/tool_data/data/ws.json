@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.301",
-    "dv": 25547,
-    "time": 1748145695
+    "version": "2025.310",
+    "dv": 25626,
+    "time": 1750044302
   },
   "ws": {
     "10001": {
@@ -4163,6 +4163,16 @@
     "10872": {
       "title": "",
       "desc": "•&nbsp;雙數直行出現「綠色妨礙地型」",
+      "custom_desc": ""
+    },
+    "10873": {
+      "title": "",
+      "desc": "•&nbsp;點擊右上方技能圖示<br />⇒【我推的孩子】成員<br />⓵&nbsp;主動技能&nbsp;CD&nbsp;變&nbsp;0&nbsp;<br />⓶&nbsp;EP&nbsp;回滿<br /><br />•&nbsp;首次發動上述技能後，<br />&nbsp;&nbsp;累計消除&nbsp;90&nbsp;粒屬性符石<br />⇒&nbsp;下回合起可點擊<br />&nbsp;&nbsp;&nbsp;&nbsp;右上方技能圖示<br />⇒【我推的孩子】成員<br />⓵&nbsp;主動技能&nbsp;CD&nbsp;變&nbsp;0&nbsp;<br />⓶&nbsp;EP&nbsp;回滿<br />※發動後，<br />&nbsp;&nbsp;&nbsp;&nbsp;將重置累計消除數量&nbsp;",
+      "custom_desc": ""
+    },
+    "10874": {
+      "title": "",
+      "desc": "　",
       "custom_desc": ""
     }
   }

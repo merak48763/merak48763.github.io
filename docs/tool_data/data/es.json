@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.301",
-    "dv": 25547,
-    "time": 1748145695
+    "version": "2025.310",
+    "dv": 25626,
+    "time": 1750044302
   },
   "es": {
     "0": {
@@ -4123,18 +4123,18 @@
       "custom_desc": ""
     },
     "568": {
-      "title": "血弱50%-半扣自盡",
-      "desc": "敵人生命力&nbsp;50%&nbsp;或以下時，每回合發動攻擊時會扣除召喚師&nbsp;50%&nbsp;生命力並扣除自身&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
+      "title": "【自戕 ‧ 亡命爆擊】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;≤50%，<br />&nbsp;&nbsp;在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;50%&nbsp;生命力",
       "custom_desc": ""
     },
     "569": {
-      "title": "血弱70%-同歸於盡",
-      "desc": "敵人生命力&nbsp;70%&nbsp;或以下時，每回合發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力並扣除自身&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
+      "title": "【自戕 ‧ 亡命爆擊】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;≤70%，<br />&nbsp;&nbsp;在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "570": {
-      "title": "血弱50%-同歸於盡",
-      "desc": "敵人生命力&nbsp;50%&nbsp;或以下時，每回合發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力並扣除自身&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
+      "title": "【自戕 ‧ 亡命爆擊】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;≤50%，<br />&nbsp;&nbsp;在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
       "custom_desc": ""
     },
     "571": {
@@ -6489,33 +6489,33 @@
       "custom_desc": ""
     },
     "997": {
-      "title": "同歸於盡-3顆凍結",
-      "desc": "敵人發動攻擊時會扣除召喚師固定血量的生命力&nbsp;(無視所有減傷效果和意志技能)&nbsp;及扣除自身&nbsp;100%&nbsp;生命力，並隨機凍結場上&nbsp;3&nbsp;粒符石；如有符石處於凍結狀態而未被消除時，3&nbsp;回合內不能消除該符石",
+      "title": "【自戕 ‧ 亡命爆擊 ‧ 凍結符石】",
+      "desc": "•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師固定血量的生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和意志技能)<br />⓸&nbsp;隨機將&nbsp;3&nbsp;粒符石<br />⇒&nbsp;添加為凍結符石<br />&nbsp;&nbsp;&nbsp;(未凍結狀態)<br />&nbsp;&nbsp;&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;將未凍結狀態的符石<br />⇒&nbsp;添加為冰封狀態，<br />&nbsp;&nbsp;&nbsp;&nbsp;冰封狀態下的符石&nbsp;3&nbsp;回合內<br />⇒&nbsp;不能消除、轉化或引爆",
       "custom_desc": ""
     },
     "998": {
-      "title": "同歸於盡-6顆凍結",
+      "title": "【自戕 ‧ 亡命爆擊 ‧ 凍結符石】",
       "desc": "敵人發動攻擊時會扣除召喚師固定血量的生命力&nbsp;(無視所有減傷效果和意志技能)&nbsp;及扣除自身&nbsp;100%&nbsp;生命力，並隨機凍結場上&nbsp;6&nbsp;粒符石；如有符石處於凍結狀態而未被消除時，3&nbsp;回合內不能消除該符石",
       "custom_desc": ""
     },
     "999": {
-      "title": "同歸於盡-9顆凍結",
+      "title": "【自戕 ‧ 亡命爆擊 ‧ 凍結符石】",
       "desc": "敵人發動攻擊時會扣除召喚師固定血量的生命力&nbsp;(無視所有減傷效果和意志技能)&nbsp;及扣除自身&nbsp;100%&nbsp;生命力，並隨機凍結場上&nbsp;9&nbsp;粒符石；如有符石處於凍結狀態而未被消除時，3&nbsp;回合內不能消除該符石",
       "custom_desc": ""
     },
     "1000": {
-      "title": "同歸於盡-3顆點燃20%",
+      "title": "【自戕 ‧ 亡命爆擊 ‧ 爆擊符石】",
       "desc": "敵人發動攻擊時會扣除召喚師固定血量的生命力&nbsp;(無視所有減傷效果和意志技能)&nbsp;及扣除自身&nbsp;100%&nbsp;生命力，並隨機鎖定場上的&nbsp;3&nbsp;粒符石；如有鎖定的符石未被消除時，符石會被引爆，每粒被引爆的符石，將扣除召喚師　20%&nbsp;生命力",
       "custom_desc": ""
     },
     "1001": {
-      "title": "同歸於盡-6顆點燃20%",
+      "title": "【自戕 ‧ 亡命爆擊 ‧ 爆擊符石】",
       "desc": "敵人發動攻擊時會扣除召喚師固定血量的生命力&nbsp;(無視所有減傷效果和意志技能)&nbsp;及扣除自身&nbsp;100%&nbsp;生命力，並隨機鎖定場上的&nbsp;6&nbsp;粒符石；如有鎖定的符石未被消除時，符石會被引爆，每粒被引爆的符石，將扣除召喚師　20%&nbsp;生命力",
       "custom_desc": ""
     },
     "1002": {
-      "title": "同歸於盡-9顆點燃20%",
-      "desc": "敵人發動攻擊時會扣除召喚師固定血量的生命力&nbsp;(無視所有減傷效果和意志技能)&nbsp;及扣除自身&nbsp;100%&nbsp;生命力，並隨機鎖定場上的&nbsp;9&nbsp;粒符石；如有鎖定的符石未被消除時，符石會被引爆，每粒被引爆的符石，將扣除召喚師　20%&nbsp;生命力",
+      "title": "【自戕 ‧ 亡命爆擊 ‧ 爆擊符石】",
+      "desc": "•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師固定血量的生命力<br />⓸&nbsp;隨機將&nbsp;9&nbsp;粒符石<br />⇒&nbsp;添加為爆擊符石<br />&nbsp;&nbsp;&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;引爆爆擊符石，<br />&nbsp;&nbsp;&nbsp;每引爆&nbsp;1&nbsp;粒<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力",
       "custom_desc": ""
     },
     "1003": {
@@ -11183,8 +11183,8 @@
       ]
     },
     "1871": {
-      "title": "CD1 ‧ 同歸於盡",
-      "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br />每回合發動攻擊時會令召喚師死亡並扣除自身&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
+      "title": "【攻速變更 ‧ 自戕 ‧ 亡命爆擊】",
+      "desc": "•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": "",
       "icons": [
         1121,
@@ -11908,8 +11908,8 @@
       ]
     },
     "2012": {
-      "title": "CD1 ‧ 同歸於盡",
-      "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br />每回合發動攻擊時會令召喚師死亡並扣除自身&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
+      "title": "【攻速變更 ‧ 自戕 ‧ 亡命爆擊】",
+      "desc": "•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "2013": {
@@ -13006,8 +13006,8 @@
       "custom_desc": ""
     },
     "2224": {
-      "title": "敵轉暗 ‧ 黑白符石 ‧ CD3-同歸於盡 ‧ 無法控制",
-      "desc": "首回合敵人會轉變為暗屬性，並將所有符石變為黑白色。<br />敵人首次攻擊變為&nbsp;CD&nbsp;3，發動攻擊時會令召喚師死亡並扣除自身&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)。<br />敵人會無視所有控制技能",
+      "title": "【敵屬變暗 ‧ 幽閉空間 ‧ 攻速變更 ‧ 自戕 ‧ 亡命爆擊】",
+      "desc": "•&nbsp;進場敵人會轉變為暗屬性，<br />&nbsp;&nbsp;並將所有符石變為黑白色。<br /><br />•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;3<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;敵人不會被附上狀態",
       "custom_desc": ""
     },
     "2225": {
@@ -16761,8 +16761,8 @@
       ]
     },
     "2933": {
-      "title": "",
-      "desc": "清空龍脈儀的能量、消除召喚師所有附加效果、重置所有成員的技能&nbsp;CD&nbsp;及累積戰鬥回合數。<br />敵人的攻擊變為&nbsp;CD&nbsp;7，並於每回合出現不同的敵技：隱匿之途、燃燒之地、電擊、連環光牢、幽閉空間、黏腐之地、風化符石。<br />敵人不受任何攻擊傷害&nbsp;(包括主動技)，及無視所有控制技能。<br />累積首批消除&nbsp;100&nbsp;粒符石，可扣除敵人&nbsp;100%&nbsp;生命力。<br />敵人發動攻擊時會令召喚師死亡並扣除自身&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
+      "title": "【淨化龍脈儀 ‧ 淨世 ‧ 攻速變更 ‧ 七技連環 ‧ 攻擊無效 ‧ 100 粒符石護盾 ‧ 自戕 ‧ 亡命爆擊】",
+      "desc": "•&nbsp;進場時<br />⓵&nbsp;吸取龍脈儀的能量<br />⓶&nbsp;消除召喚師所有附加效果<br />⓷&nbsp;將所有成員主動技能&nbsp;CD<br />&nbsp;&nbsp;&nbsp;&nbsp;及累積戰鬥回合數重置<br /><br />•&nbsp;敵人的攻擊變為&nbsp;CD&nbsp;7<br /><br />•&nbsp;每回合出現不同敵技：<br />▋隱匿之途<br />▋燃燒之地<br />▋電擊符石<br />▋連環光牢<br />▋幽閉空間<br />▋黏腐之地<br />▋風化符石<br /><br />•&nbsp;累積首批消除&nbsp;100&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "2934": {
@@ -16809,8 +16809,8 @@
       ]
     },
     "2942": {
-      "title": "龍脈重置 ‧ 技能重置 ‧ 附加消除 ‧ CD4-四連障礙 ‧ 累積首消60顆符石盾100% ‧ 同歸於盡 ‧ 無法控制",
-      "desc": "清空龍脈儀的能量、消除召喚師所有附加效果、重置所有成員的技能&nbsp;CD&nbsp;及累積戰鬥回合數。<br />敵人的攻擊變為&nbsp;CD&nbsp;4，並於每回合出現不同的敵技：隱匿之途、燃燒之地、幽閉空間、黏腐之地。<br />敵人不受任何攻擊傷害&nbsp;(包括主動技)，及無視所有控制技能。<br />累積首批消除&nbsp;60&nbsp;粒符石，可扣除敵人&nbsp;100%&nbsp;生命力。<br />敵人發動攻擊時會令召喚師死亡並扣除自身&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
+      "title": "【吸取龍脈儀 ‧ 淨世 ‧ 攻速變更 ‧ 四技連環 ‧ 攻擊無效 ‧ 60 粒符石護盾 ‧ 自戕 ‧ 亡命爆擊】",
+      "desc": "•&nbsp;進場時<br />⓵&nbsp;吸取龍脈儀的能量<br />⓶&nbsp;消除召喚師所有附加效果<br />⓷&nbsp;將所有成員主動技能&nbsp;CD<br />&nbsp;&nbsp;&nbsp;&nbsp;及累積戰鬥回合數重置<br /><br />•&nbsp;敵人的攻擊變為&nbsp;CD&nbsp;4<br /><br />•&nbsp;每回合出現不同敵技：<br />▋隱匿之途<br />▋燃燒之地<br />▋幽閉空間<br />▋黏腐之地<br /><br />•&nbsp;累積首批消除&nbsp;60&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": "<ul><li>隱匿之途：持續隱藏軌跡</li><li>燃燒之地：4格燃燒20%</li><li>幽閉空間：全版黑白</li><li>黏腐之地：4格黏附</li></ul>",
       "icons": [
         955
@@ -20499,8 +20499,8 @@
       ]
     },
     "3565": {
-      "title": "CD3 ‧ 首回移除光射擊 ‧ 同歸於盡 ‧ 首消23顆符石盾",
-      "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;3。<br /><br />首回合移除所有光符石，<br />並根據被移除符石數量<br />⇒&nbsp;射擊橫行的位置<br />⇒&nbsp;最多射擊&nbsp;5&nbsp;橫行的位置。<br />＊被射擊的位置一經觸碰，<br />即時停止移動符石。<br /><br />敵人發動攻擊時會<br />⇒&nbsp;令召喚師死亡<br />⇒&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)<br /><br />•&nbsp;首批消除&nbsp;23&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "title": "【攻速變更 ‧ 連環光牢 ‧ 自戕 ‧ 亡命爆擊 ‧ 首消 23 粒數盾】",
+      "desc": "•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;3。<br /><br />•&nbsp;進場時移除所有光符石，<br />&nbsp;&nbsp;並根據被移除符石數量<br />⇒&nbsp;射擊橫行的位置<br />⇒&nbsp;最多射擊&nbsp;5&nbsp;橫行的位置。<br />•&nbsp;被射擊的位置一經觸碰<br />⇒&nbsp;即時停止移動符石<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;首批消除&nbsp;23&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "<ul><li>攻擊帶有一擊必殺的效果，所以即使開技能拆掉炸彈，不特別應對還是會死</li></ul>",
       "icons": [
         959,
@@ -20508,15 +20508,14 @@
         1121
       ],
       "keywords": [
-        "亡命爆擊",
         "喋血屠刀",
         "扣血100%",
         "一擊必殺"
       ]
     },
     "3566": {
-      "title": "",
-      "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;3。<br /><br />首回合移除所有光符石，<br />並根據被移除符石數量<br />⇒&nbsp;射擊橫行的位置<br />⇒&nbsp;最多射擊&nbsp;5&nbsp;橫行的位置。<br />＊被射擊的位置一經觸碰，<br />即時停止移動符石。<br /><br />敵人發動攻擊時會<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />⇒&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)<br /><br />•&nbsp;首批消除&nbsp;17&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "title": "【攻速變更 ‧ 連環光牢 ‧ 自戕 ‧ 亡命爆擊 ‧ 首消 17 粒數盾】",
+      "desc": "•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;3。<br /><br />•&nbsp;進場時移除所有光符石，<br />&nbsp;&nbsp;並根據被移除符石數量<br />⇒&nbsp;射擊橫行的位置<br />⇒&nbsp;最多射擊&nbsp;5&nbsp;橫行的位置。<br />•&nbsp;被射擊的位置一經觸碰<br />⇒&nbsp;即時停止移動符石<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;首批消除&nbsp;17&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": ""
     },
     "3567": {
@@ -23575,15 +23574,15 @@
     },
     "4054": {
       "title": "龍脈重置 ‧ 超級技能重置 ‧ 附加消除 ‧ CD5-五連障礙 ‧ 累積首消100顆符石盾100% ‧ 同歸於盡 ‧ 無法控制",
-      "desc": "清空龍脈儀的能量、<br />消除召喚師所有附加效果、<br />重置所有成員的技能&nbsp;CD、<br />EP&nbsp;及累積戰鬥回合數。<br /><br />敵人的攻擊變為&nbsp;CD&nbsp;5，<br />並於每回合出現不同敵技：<br />幽閉空間、隱匿之途、<br />燃燒之軌、黏腐之軌、<br />風化符石。<br /><br />累積首批消除&nbsp;100&nbsp;粒符石，<br />可扣除敵人&nbsp;100%&nbsp;生命力。<br /><br />敵人不受任何攻擊傷害<br />(包括主動技)，<br />及無視所有控制技能。<br /><br />敵人發動攻擊時會<br />⇒&nbsp;令召喚師死亡<br />⇒&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)",
-      "custom_desc": "<ul><li>幽閉空間：全版黑白</li><li>隱匿之途：持續隱藏軌跡</li><li>燃燒之軌：6格燃燒軌跡5000</li><li>黏腐之軌：持續黏附軌跡</li><li>風化符石：上下橫行風化15000</li></ul>",
+      "desc": "•&nbsp;進場時<br />⓵&nbsp;吸取龍脈儀的能量<br />⓶&nbsp;消除召喚師所有附加效果<br />⓷&nbsp;將所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP<br />&nbsp;&nbsp;&nbsp;&nbsp;及累積戰鬥回合數重置<br /><br />•&nbsp;敵人的攻擊變為&nbsp;CD&nbsp;5<br /><br />•&nbsp;每回合出現不同敵技：<br />▋幽閉空間<br />▋隱匿之途<br />▋燃燒之軌<br />▋黏腐之軌<br />▋風化符石<br /><br />•&nbsp;累積首批消除&nbsp;100&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": "<ul><li>隱匿之途：持續隱藏軌跡</li><li>燃燒之軌：6格燃燒軌跡5000</li><li>黏腐之軌：持續黏附軌跡</li><li>風化符石：上下橫行風化15000</li></ul>",
       "icons": [
         955
       ]
     },
     "4055": {
       "title": "",
-      "desc": "清空龍脈儀的能量、<br />消除召喚師所有附加效果、<br />重置所有成員的技能&nbsp;CD、<br />EP&nbsp;及累積戰鬥回合數。<br /><br />敵人的攻擊變為&nbsp;CD&nbsp;5，<br />敵人會持續追加敵技：<br />幽閉空間、隱匿之途、<br />燃燒之軌、命懸一線、<br />風化符石。<br /><br />累積首批消除&nbsp;100&nbsp;粒符石，<br />可扣除敵人&nbsp;100%&nbsp;生命力。<br /><br />敵人不受任何攻擊傷害<br />(包括主動技)，<br />及無視所有控制技能。<br /><br />敵人發動攻擊時會<br />⇒&nbsp;令召喚師死亡<br />⇒&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)",
+      "desc": "•&nbsp;進場時<br />⓵&nbsp;吸取龍脈儀的能量<br />⓶&nbsp;消除召喚師所有附加效果<br />⓷&nbsp;將所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP<br />&nbsp;&nbsp;&nbsp;&nbsp;及累積戰鬥回合數重置<br /><br />•&nbsp;敵人的攻擊變為&nbsp;CD&nbsp;5<br /><br />•&nbsp;每回合持續追加敵技：<br />▋幽閉空間<br />▋隱匿之途<br />▋燃燒之軌<br />▋命懸一線<br />▋風化符石<br /><br />•&nbsp;累積首批消除&nbsp;100&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "4056": {
@@ -24273,22 +24272,22 @@
     },
     "4148": {
       "title": "",
-      "desc": "累積消除&nbsp;5&nbsp;粒火符石，<br />才會對敵人造成攻擊傷害。<br /><br />•&nbsp;首批消除光符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1<br /><br />敵人發動攻擊時會<br />⇒&nbsp;令召喚師死亡<br />⇒&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)",
+      "desc": "•&nbsp;累積消除&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />•&nbsp;首批消除光符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "4149": {
       "title": "",
-      "desc": "累積消除&nbsp;10&nbsp;粒火符石，<br />才會對敵人造成攻擊傷害。<br /><br />•&nbsp;首批消除光符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1<br /><br />敵人發動攻擊時會<br />⇒&nbsp;令召喚師死亡<br />⇒&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)",
+      "desc": "•&nbsp;累積消除&nbsp;10&nbsp;粒火符石<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />•&nbsp;首批消除光符石<br />⇒&nbsp;敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "4150": {
       "title": "",
-      "desc": "累積消除&nbsp;20&nbsp;粒火符石，<br />才會對敵人造成攻擊傷害。<br /><br />首批消除光符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害<br /><br />敵人發動攻擊時會<br />⇒&nbsp;令召喚師死亡<br />⇒&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)",
+      "desc": "•&nbsp;累積消除&nbsp;20&nbsp;粒火符石<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />首批消除光符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "4151": {
       "title": "",
-      "desc": "累積消除&nbsp;30&nbsp;粒火符石，<br />才會對敵人造成攻擊傷害。<br /><br />首批消除光符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害<br /><br />敵人發動攻擊時會<br />⇒&nbsp;令召喚師死亡<br />⇒&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />(無視所有減傷效果和<br />意志技能)",
+      "desc": "•&nbsp;累積消除&nbsp;30&nbsp;粒火符石<br />⇒&nbsp;才會對敵人造成攻擊傷害<br /><br />首批消除光符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "4152": {
@@ -36513,9 +36512,9 @@
       ]
     },
     "5891": {
-      "title": "【吸取龍脈儀 ‧ 淨世 ‧ 清技 ‧ 攻速變更 ‧ 三技連環 ‧ 45 粒符石護盾 ‧ 同歸於盡 ‧ 無法控制】",
-      "desc": "•&nbsp;進場時<br />⓵&nbsp;吸取龍脈儀的能量<br />⓶&nbsp;消除召喚師所有附加效果<br />⓷&nbsp;將所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP<br />&nbsp;&nbsp;&nbsp;&nbsp;及累積戰鬥回合數重置<br /><br />•&nbsp;敵人的攻擊變為&nbsp;CD&nbsp;3<br /><br />•&nbsp;每回合出現不同敵技：<br />▋隱匿之途<br />▋前路茫茫<br />▋起結有序<br /><br />•&nbsp;累積首批消除&nbsp;45&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態<br /><br />•&nbsp;敵人行動時會<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力",
-      "custom_desc": "<ul><li>隱匿之途：持續隱藏軌跡</li><li>前路茫茫：全版隱藏-轉珠顯示</li><li>起結有序：紅綠燈</li></ul>",
+      "title": "【吸取龍脈儀 ‧ 淨世 ‧ 清技 ‧ 攻速變更 ‧ 三技連環 ‧ 45 粒符石護盾 ‧ 自戕 ‧ 亡命爆擊 ‧ 無法控制】",
+      "desc": "•&nbsp;進場時<br />⓵&nbsp;吸取龍脈儀的能量<br />⓶&nbsp;消除召喚師所有附加效果<br />⓷&nbsp;將所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP<br />&nbsp;&nbsp;&nbsp;&nbsp;及累積戰鬥回合數重置<br /><br />•&nbsp;敵人的攻擊變為&nbsp;CD&nbsp;3<br /><br />•&nbsp;每回合出現不同敵技：<br />▋隱匿之途<br />▋前路茫茫<br />▋起結有序<br /><br />•&nbsp;累積首批消除&nbsp;45&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": "<ul><li>隱匿之途：持續隱藏軌跡</li></ul>",
       "icons": [
         955
       ],
@@ -36524,8 +36523,8 @@
       ]
     },
     "5892": {
-      "title": "【吸取龍脈儀 ‧ 淨世 ‧ 清技 ‧ 攻速變更 ‧ 三技連環 ‧ 60 粒符石護盾 ‧ 同歸於盡 ‧ 無法控制】",
-      "desc": "•&nbsp;進場時<br />⓵&nbsp;吸取龍脈儀的能量<br />⓶&nbsp;消除召喚師所有附加效果<br />⓷&nbsp;將所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP<br />&nbsp;&nbsp;&nbsp;&nbsp;及累積戰鬥回合數重置<br /><br />•&nbsp;敵人的攻擊變為&nbsp;CD&nbsp;3<br /><br />•&nbsp;每回合出現不同敵技：<br />▋隱匿之途<br />▋前路茫茫<br />▋起結有序<br /><br />•&nbsp;累積首批消除&nbsp;60&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態<br /><br />•&nbsp;敵人行動時會<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力",
+      "title": "【吸取龍脈儀 ‧ 淨世 ‧ 清技 ‧ 攻速變更 ‧ 三技連環 ‧ 60 粒符石護盾 ‧ 自戕 ‧ 亡命爆擊 ‧ 無法控制】",
+      "desc": "•&nbsp;進場時<br />⓵&nbsp;吸取龍脈儀的能量<br />⓶&nbsp;消除召喚師所有附加效果<br />⓷&nbsp;將所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主動技能&nbsp;CD、EP<br />&nbsp;&nbsp;&nbsp;&nbsp;及累積戰鬥回合數重置<br /><br />•&nbsp;敵人的攻擊變為&nbsp;CD&nbsp;3<br /><br />•&nbsp;每回合出現不同敵技：<br />▋隱匿之途<br />▋前路茫茫<br />▋起結有序<br /><br />•&nbsp;累積首批消除&nbsp;60&nbsp;粒符石<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此以外，<br />&nbsp;&nbsp;敵人不會受到任何傷害及<br />&nbsp;&nbsp;不會被附上狀態<br /><br />•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": "",
       "keywords": [
         "附加消除"
@@ -38656,8 +38655,8 @@
       ]
     },
     "6151": {
-      "title": "【同歸於盡】",
-      "desc": "•&nbsp;敵人行動時會<br />⓵&nbsp;令召喚師死亡<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;意志技能)<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力",
+      "title": "【自戕 ‧ 亡命爆擊】",
+      "desc": "•&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;不會發動攻擊<br />⓶&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />⓷&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": "",
       "icons": [
         1006
