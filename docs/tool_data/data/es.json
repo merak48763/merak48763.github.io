@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.311",
-    "dv": 25644,
-    "time": 1750940193
+    "version": "2025.312",
+    "dv": 25670,
+    "time": 1752404908
   },
   "es": {
     "0": {
@@ -2775,7 +2775,7 @@
     },
     "485": {
       "title": "根據成員屬性數量 - 弱攻",
-      "desc": "召喚師隊伍中成員屬性愈多，全隊攻擊力愈低",
+      "desc": "召喚師隊伍中成員的屬性愈多，全隊攻擊力愈低",
       "custom_desc": "<details><summary>弱攻</summary><span class=\"annotation\">table 成員屬性數,1,2,3,4,5 減傷,,,,,80%</span></details>"
     },
     "486": {

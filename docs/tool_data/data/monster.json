@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.311",
-    "dv": 13950,
-    "time": 1750940193
+    "version": "2025.312",
+    "dv": 13968,
+    "time": 1752404908
   },
   "monster": {
     "1": {
@@ -17513,6 +17513,54 @@
       "race": 1,
       "rarity": 6
     },
+    "2929": {
+      "name": "馭魚肉貓 ‧ 肉圓",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 7
+    },
+    "2930": {
+      "name": "心之戲法 ‧ 高柏飛",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 7
+    },
+    "2931": {
+      "name": "貓風捕影 ‧ 阿飄",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 7
+    },
+    "2932": {
+      "name": "奔襲貓勢 ‧ 零",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 7
+    },
+    "2933": {
+      "name": "貓眾駕馭 ‧ 蜜兒",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 7
+    },
+    "2934": {
+      "name": "構築籠牢 ‧ 慌慌",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 7
+    },
+    "2935": {
+      "name": "味蕾盛宴 ‧ 泡芙",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 7
+    },
+    "2936": {
+      "name": "智計千謀 ‧ 添哥",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 7
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -27776,6 +27824,12 @@
     "10927": {
       "name": "貴婦風範 ‧ 保妮",
       "attribute": 5,
+      "race": 2,
+      "rarity": 6
+    },
+    "10928": {
+      "name": "獵犬王子 ‧ 泰迪",
+      "attribute": 1,
       "race": 2,
       "rarity": 6
     },
