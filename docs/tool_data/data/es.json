@@ -27131,12 +27131,18 @@
     "5067": {
       "title": "【〖腐化 ‧ 首消 21 粒數盾〗】",
       "desc": "首批消除&nbsp;21&nbsp;粒符石<br />才會對敵人造成攻擊傷害。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        10918
+      ]
     },
     "5068": {
       "title": "【〖腐化 ‧ 水連擊零化〗】",
       "desc": "<em>【〖腐化&nbsp;‧&nbsp;水連擊零化〗】</em><br /><br />首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0&nbsp;<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        10421
+      ]
     },
     "5069": {
       "title": "【〖腐化 ‧ 10 億護盾〗】",
@@ -29690,17 +29696,26 @@
     "5518": {
       "title": "【〖腐化 ‧ 首消 17 粒數盾 - 反擊〗】",
       "desc": "•&nbsp;首批消除&nbsp;17&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;數量反擊相應次數攻擊",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        10918
+      ]
     },
     "5519": {
       "title": "【〖腐化 ‧ 首消 21 粒數盾 - 反擊〗】",
       "desc": "•&nbsp;首批消除&nbsp;21&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;數量反擊相應次數攻擊",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        10918
+      ]
     },
     "5520": {
       "title": "【〖腐化 ‧ 首消 23 粒數盾 - 反擊〗】",
       "desc": "•&nbsp;首批消除&nbsp;23&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;數量反擊相應次數攻擊",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        10918
+      ]
     },
     "5521": {
       "title": "【〖腐化 ‧ 黏腐之軌〗】",
