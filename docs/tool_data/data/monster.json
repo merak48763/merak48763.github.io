@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.312",
-    "dv": 13968,
-    "time": 1752404908
+    "version": "2025.400",
+    "dv": 13996,
+    "time": 1752467656
   },
   "monster": {
     "1": {
@@ -17561,6 +17561,12 @@
       "race": 2,
       "rarity": 7
     },
+    "2937": {
+      "name": "破軍戟影 ‧ 呂布",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21595,6 +21601,18 @@
       "attribute": 3,
       "race": 8,
       "rarity": 7
+    },
+    "6703": {
+      "name": "妖精王 ‧ 奧伯隆",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 6
+    },
+    "6704": {
+      "name": "五宿思慕 ‧ 緹坦妮雅",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 6
     },
     "6999": {
       "name": "米拉珍",
@@ -27957,6 +27975,66 @@
       "name": "齋藤美彌子",
       "attribute": 1,
       "race": 1,
+      "rarity": 6
+    },
+    "10950": {
+      "name": "五宿思慕 ‧ 緹坦妮雅",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 6
+    },
+    "10951": {
+      "name": "四世孤舞 ‧ 卡門",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
+    "10952": {
+      "name": "二緣龍情 ‧ 華胥",
+      "attribute": 3,
+      "race": 4,
+      "rarity": 6
+    },
+    "10953": {
+      "name": "妖精王 ‧ 奧伯隆",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 6
+    },
+    "10954": {
+      "name": "三生花夢 ‧ 碧霞",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
+    "10955": {
+      "name": "一言情誓 ‧ 賽璐璐",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 6
+    },
+    "10956": {
+      "name": "迷夢妖精",
+      "attribute": 1,
+      "race": 7,
+      "rarity": 6
+    },
+    "10957": {
+      "name": "碧鱗盎息 ‧ 懸律",
+      "attribute": 3,
+      "race": 4,
+      "rarity": 5
+    },
+    "10958": {
+      "name": "秘法操縱 ‧ 阿貝利希",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 6
+    },
+    "10962": {
+      "name": "碧藍假期 ‧ 阿圖姆",
+      "attribute": 2,
+      "race": 10,
       "rarity": 6
     },
     "11002": {
