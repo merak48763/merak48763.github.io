@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.400",
-    "dv": 13996,
-    "time": 1752467656
+    "version": "2025.402",
+    "dv": 14002,
+    "time": 1753328914
   },
   "monster": {
     "1": {
@@ -28030,6 +28030,24 @@
       "attribute": 1,
       "race": 3,
       "rarity": 6
+    },
+    "10959": {
+      "name": "魔域貴公 ‧ 埃斯卡米洛",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
+    "10960": {
+      "name": "孤月清霜 ‧ 望舒元君",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 5
+    },
+    "10961": {
+      "name": "殞愛的妖精王 ‧ 奧伯隆",
+      "attribute": 5,
+      "race": 3,
+      "rarity": 7
     },
     "10962": {
       "name": "碧藍假期 ‧ 阿圖姆",
