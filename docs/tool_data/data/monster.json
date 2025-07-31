@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2025.402",
-    "dv": 14002,
-    "time": 1753328914
+    "dv": 14019,
+    "time": 1753978420
   },
   "monster": {
     "1": {
@@ -21614,6 +21614,18 @@
       "race": 3,
       "rarity": 6
     },
+    "6705": {
+      "name": "永晝聖戰 ‧ 涅索伊",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 8
+    },
+    "6706": {
+      "name": "破穹槍芒 ‧ 涅索伊",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 8
+    },
     "6999": {
       "name": "米拉珍",
       "attribute": 5,
@@ -28054,6 +28066,42 @@
       "attribute": 2,
       "race": 10,
       "rarity": 6
+    },
+    "10963": {
+      "name": "藍濤潛龍 ‧ 所多瑪",
+      "attribute": 1,
+      "race": 4,
+      "rarity": 6
+    },
+    "10964": {
+      "name": "愜意長夏 ‧ 零覓",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 6
+    },
+    "10965": {
+      "name": "青澀盛夏 ‧ 一願",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "10966": {
+      "name": "冰凌的眷佑 ‧ 米斯特汀",
+      "attribute": 1,
+      "race": 4,
+      "rarity": 6
+    },
+    "10967": {
+      "name": "永晝聖戰 ‧ 涅索伊",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 8
+    },
+    "10968": {
+      "name": "破穹槍芒 ‧ 涅索伊",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 8
     },
     "11002": {
       "name": "聖裁時刻 ‧ 貞德",
