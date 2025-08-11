@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.402",
-    "dv": 14019,
-    "time": 1753978420
+    "version": "2025.410",
+    "dv": 14050,
+    "time": 1754897829
   },
   "monster": {
     "1": {
@@ -17567,6 +17567,12 @@
       "race": 8,
       "rarity": 6
     },
+    "2938": {
+      "name": "轟鳴滅式 ‧ 魔式幻兵",
+      "attribute": 2,
+      "race": 10,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -28102,6 +28108,90 @@
       "attribute": 4,
       "race": 5,
       "rarity": 8
+    },
+    "10969": {
+      "name": "尤菲米亞 ‧ 利 ‧ 不列顛尼亞",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "10970": {
+      "name": "紅月卡蓮與紅蓮貳式",
+      "attribute": 2,
+      "race": 10,
+      "rarity": 6
+    },
+    "10971": {
+      "name": "娜娜莉 ‧ 維 ‧ 不列顛尼亞",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "10972": {
+      "name": "樞木朱雀與蘭斯洛特",
+      "attribute": 4,
+      "race": 10,
+      "rarity": 6
+    },
+    "10973": {
+      "name": "黑色騎士團首領 ‧ ZERO",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "10974": {
+      "name": "羅洛 ‧ 蘭佩洛基與文森特",
+      "attribute": 4,
+      "race": 10,
+      "rarity": 6
+    },
+    "10975": {
+      "name": "藤堂鏡志郎與斬月",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 6
+    },
+    "10976": {
+      "name": "夏麗 ‧ 菲奈特",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "10977": {
+      "name": "柯內莉亞 ‧ 利 ‧ 不列顛尼亞與格洛斯特 (柯內莉亞機)",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 6
+    },
+    "10978": {
+      "name": "維蕾塔 ‧ 努",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "10979": {
+      "name": "傑瑞米亞 ‧ 哥德巴爾德與齊格菲",
+      "attribute": 4,
+      "race": 10,
+      "rarity": 6
+    },
+    "10992": {
+      "name": "C.C.",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 6
+    },
+    "10993": {
+      "name": "永遠的契約 ‧ ZERO與C.C.",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 7
+    },
+    "10994": {
+      "name": "機兵 ‧ 突擊",
+      "attribute": 3,
+      "race": 7,
+      "rarity": 6
     },
     "11002": {
       "name": "聖裁時刻 ‧ 貞德",
