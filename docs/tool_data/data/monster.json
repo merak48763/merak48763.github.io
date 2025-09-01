@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.410",
-    "dv": 14050,
-    "time": 1754897829
+    "version": "2025.411",
+    "dv": 14074,
+    "time": 1756727258
   },
   "monster": {
     "1": {
@@ -28171,6 +28171,78 @@
     },
     "10979": {
       "name": "傑瑞米亞 ‧ 哥德巴爾德與齊格菲",
+      "attribute": 4,
+      "race": 10,
+      "rarity": 6
+    },
+    "10980": {
+      "name": "魯路修 ‧ 維 ‧ 不列顛尼亞與海市蜃樓",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 7
+    },
+    "10981": {
+      "name": "紅月卡蓮與紅蓮聖天八極式",
+      "attribute": 2,
+      "race": 10,
+      "rarity": 7
+    },
+    "10982": {
+      "name": "樞木朱雀與蘭斯洛特 ‧ 亞彼恩",
+      "attribute": 4,
+      "race": 10,
+      "rarity": 7
+    },
+    "10983": {
+      "name": "黎星刻與神虎",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 6
+    },
+    "10984": {
+      "name": "V.V.",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
+    "10985": {
+      "name": "亞妮 ‧ 阿爾斯托雷姆與莫德雷德",
+      "attribute": 2,
+      "race": 10,
+      "rarity": 6
+    },
+    "10986": {
+      "name": "吉諾 ‧ 拜茵貝爾格與崔斯坦",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 6
+    },
+    "10987": {
+      "name": "俾斯麥 ‧ 瓦爾德施泰因與加拉哈特",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 6
+    },
+    "10988": {
+      "name": "夏陸陸 ‧ 吉 ‧ 不列顛尼亞與瑪莉安娜 ‧ 維 ‧ 不列顛尼亞",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 7
+    },
+    "10989": {
+      "name": "修奈傑爾 ‧ 埃爾 ‧ 不列顛尼亞與達摩克里斯",
+      "attribute": 4,
+      "race": 10,
+      "rarity": 7
+    },
+    "10990": {
+      "name": "蘿傑與阿修與Zi-奧提伽",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 6
+    },
+    "10991": {
+      "name": "諾蘭德 ‧ 馮 ‧ 呂訥堡與弗爾伯特 ‧ 泰坦模式",
       "attribute": 4,
       "race": 10,
       "rarity": 6
