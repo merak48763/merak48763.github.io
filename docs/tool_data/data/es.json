@@ -24019,19 +24019,37 @@
       ]
     },
     "4508": {
-      "title": "",
+      "title": "【清技 ‧ 病毒 ‧ 8 連擊盾 ‧ 無法控制】",
       "desc": "<em>【清技&nbsp;‧&nbsp;病毒&nbsp;‧&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />首回合將所有成員的技能&nbsp;CD<br />及累積戰鬥回合數重置。<br /><br />固定在&nbsp;2&nbsp;個位置植入病毒。<br /><br />每經過病毒位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;病毒<br />當累積至&nbsp;100%&nbsp;病毒<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1208,
+        58,
+        852,
+        855
+      ]
     },
     "4509": {
-      "title": "",
+      "title": "【攻速變更 ‧  淨世 ‧  全版消除盾 ‧ 病毒 ‧ 防禦盾 25% ‧ 無法控制】",
       "desc": "<em>【攻速變更&nbsp;‧&nbsp;&nbsp;淨世&nbsp;‧&nbsp;&nbsp;全版消除盾&nbsp;‧&nbsp;病毒&nbsp;‧&nbsp;防禦盾&nbsp;25%&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。<br /><br />固定在&nbsp;4&nbsp;個位置植入病毒。<br /><br />每經過病毒位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;病毒<br />當累積至&nbsp;100%&nbsp;病毒<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />每回合攻擊最多只能造成<br />敵人生命力&nbsp;25%&nbsp;的傷害&nbsp;<br />(主動技除外)。<br /><br />無視所有控制技能。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1208,
+        903,
+        1018,
+        855
+      ]
     },
     "4510": {
-      "title": "",
+      "title": "【攻速變更 ‧ 淨世 ‧ 全版消除盾 ‧ 病毒 ‧ 前路茫茫 ‧ 無法控制】",
       "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;全版消除盾&nbsp;‧&nbsp;病毒&nbsp;‧&nbsp;前路茫茫&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。<br /><br />固定在&nbsp;4&nbsp;個位置植入病毒。<br /><br />每經過病毒位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;病毒<br />當累積至&nbsp;100%&nbsp;病毒<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />每回合開始移動符石時，<br />才會顯示場上的符石。<br /><br />無視所有控制技能。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1208,
+        955,
+        1018,
+        855
+      ]
     },
     "4511": {
       "title": "【攻速變更 ‧ 淨世 ‧ 全版消除盾 ‧ 病毒 ‧ 無法控制】",
@@ -24047,19 +24065,37 @@
       ]
     },
     "4512": {
-      "title": "",
+      "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 病毒 ‧ 四屬強化盾 ‧ 無法控制】",
       "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;病毒&nbsp;‧&nbsp;四屬強化盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />固定在&nbsp;6&nbsp;個位置植入病毒。<br /><br />每經過病毒位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;病毒<br />當累積至&nbsp;100%&nbsp;病毒<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />「水、火、光、暗」<br />&nbsp;&nbsp;強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有控制技能。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1208,
+        1741,
+        1066,
+        855
+      ]
     },
     "4513": {
-      "title": "",
+      "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 病毒 ‧ 四屬盾 ‧ 無法控制】",
       "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;病毒&nbsp;‧&nbsp;四屬盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />固定在&nbsp;6&nbsp;個位置植入病毒。<br /><br />每經過病毒位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;病毒<br />當累積至&nbsp;100%&nbsp;病毒<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />&nbsp;&nbsp;水、火、光、暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />無視所有控制技能。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1208,
+        1641,
+        1066,
+        855
+      ]
     },
     "4514": {
-      "title": "",
+      "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 病毒 ‧ 四屬強化盾 ‧ 反首消木符石盾 - 化血 - 反擊】",
       "desc": "<em>【攻速變更&nbsp;‧&nbsp;淨世&nbsp;‧&nbsp;轉化符石技能無效&nbsp;‧&nbsp;病毒&nbsp;‧&nbsp;四屬強化盾&nbsp;‧&nbsp;反首消木符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />首回合消除所有附加效果，<br />其技能&nbsp;CD&nbsp;將被重置。<br /><br />我方所有轉化符石效果無效。<br /><br />固定在&nbsp;6&nbsp;個位置植入病毒。<br /><br />每經過病毒位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;病毒<br />當累積至&nbsp;100%&nbsp;病毒<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />•&nbsp;同時消除<br />「水、火、光、暗」<br />&nbsp;&nbsp;強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;100%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1208,
+        1741,
+        1066,
+        313
+      ]
     },
     "4515": {
       "title": "【攻速變更 ‧ 淨世 ‧ 轉化符石技能無效 ‧ 病毒 ‧ 四屬盾 ‧ 反首消木符石盾 - 化血 - 反擊】",
@@ -24067,7 +24103,7 @@
       "custom_desc": "<span class=\"annotation\">generic_board 6 5 010001000000001100000000100010 virus_sigma</span>",
       "icons": [
         1208,
-        1661,
+        1641,
         1066,
         313
       ],
@@ -26834,34 +26870,64 @@
       "custom_desc": ""
     },
     "5016": {
-      "title": "",
+      "title": "【攻前盾 ‧ 消水禁咒 ‧ 符石轉水 ‧ 防禦崩壞】",
       "desc": "<em>【攻前盾&nbsp;‧&nbsp;消水禁咒&nbsp;‧&nbsp;符石轉水&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人無視任何攻擊傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />敵人首次發動攻擊時：<br />1&nbsp;回合內，<br />水符石無法被消除；<br />將所有心符石<br />轉化為水符石。<br /><br />無視所有減傷效果和<br />意志技能。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        901,
+        301,
+        1009
+      ]
     },
     "5017": {
-      "title": "",
+      "title": "【攻前盾 ‧ 消火禁咒 ‧ 符石轉火 ‧ 防禦崩壞】",
       "desc": "<em>【攻前盾&nbsp;‧&nbsp;消火禁咒&nbsp;‧&nbsp;符石轉火&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人無視任何攻擊傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />敵人首次發動攻擊時：<br />1&nbsp;回合內，<br />火符石無法被消除；<br />將所有心符石<br />轉化為火符石。<br /><br />無視所有減傷效果和<br />意志技能。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        901,
+        302,
+        1009
+      ]
     },
     "5018": {
-      "title": "",
+      "title": "【攻前盾 ‧ 消木禁咒 ‧ 符石轉木 ‧ 防禦崩壞】",
       "desc": "<em>【攻前盾&nbsp;‧&nbsp;消木禁咒&nbsp;‧&nbsp;符石轉木&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人無視任何攻擊傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />敵人首次發動攻擊時：<br />1&nbsp;回合內，<br />木符石無法被消除；<br />將所有心符石<br />轉化為木符石。<br /><br />無視所有減傷效果和<br />意志技能。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        901,
+        303,
+        1009
+      ]
     },
     "5019": {
-      "title": "",
+      "title": "【攻前盾 ‧ 消光禁咒 ‧ 符石轉光 ‧ 防禦崩壞】",
       "desc": "<em>【攻前盾&nbsp;‧&nbsp;消光禁咒&nbsp;‧&nbsp;符石轉光&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人無視任何攻擊傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />敵人首次發動攻擊時：<br />1&nbsp;回合內，<br />光符石無法被消除；<br />將所有心符石<br />轉化為光符石。<br /><br />無視所有減傷效果和<br />意志技能。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        901,
+        304,
+        1009
+      ]
     },
     "5020": {
-      "title": "",
+      "title": "【攻前盾 ‧ 消暗禁咒 ‧ 符石轉暗 ‧ 防禦崩壞】",
       "desc": "<em>【攻前盾&nbsp;‧&nbsp;消暗禁咒&nbsp;‧&nbsp;符石轉暗&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人無視任何攻擊傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />敵人首次發動攻擊時：<br />1&nbsp;回合內，<br />暗符石無法被消除；<br />將所有心符石<br />轉化為暗符石。<br /><br />無視所有減傷效果和<br />意志技能。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        901,
+        305,
+        1009
+      ]
     },
     "5021": {
-      "title": "",
+      "title": "【攻前盾 ‧ 消心禁咒 ‧ 符石轉心 ‧ 防禦崩壞】",
       "desc": "<em>【攻前盾&nbsp;‧&nbsp;消心禁咒&nbsp;‧&nbsp;符石轉心&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />敵人無視任何攻擊傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。<br /><br />敵人首次發動攻擊時：<br />1&nbsp;回合內，<br />心符石無法被消除；<br />隨機將&nbsp;1&nbsp;種屬性符石<br />轉化為心符石。<br /><br />無視所有減傷效果和<br />意志技能。",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        901,
+        306,
+        1001
+      ]
     },
     "5022": {
       "title": "",
@@ -27047,67 +27113,67 @@
       "title": "【〖腐化 ‧ 固定 10 連擊盾〗】",
       "desc": "首批消除&nbsp;10&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        10010
-      ],
       "keywords": [
         "固定連擊盾"
+      ],
+      "corrupt": [
+        true
       ]
     },
     "5055": {
       "title": "【〖腐化 ‧ ≥10 連擊盾 - 追擊〗】",
       "desc": "達成&nbsp;≥10&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />反擊相應次數攻擊。",
       "custom_desc": "",
-      "icons": [
-        10060
+      "corrupt": [
+        true
       ]
     },
     "5056": {
       "title": "【〖腐化 ‧ 克制敵屬強化限制形狀盾〗】",
       "desc": "以指定形狀消除<br />克制敵人屬性的強化符石<br />(不可連同形狀旁邊的符石)&nbsp;<br />才會對敵人造成攻擊傷害。",
       "custom_desc": "",
-      "icons": [
-        11007
+      "corrupt": [
+        true
       ]
     },
     "5057": {
       "title": "【〖腐化 ‧ 五屬強化盾〗】",
       "desc": "<em>【〖腐化&nbsp;‧&nbsp;五屬強化盾〗】</em><br /><br />•&nbsp;同時消除五屬強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
-      "icons": [
-        11761
+      "corrupt": [
+        true
       ]
     },
     "5058": {
       "title": "【〖腐化 ‧ 五屬連擊相等盾 〗】",
       "desc": "同時首批消除相同組數的<br />五屬符石，<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        11561
+      "corrupt": [
+        true
       ]
     },
     "5059": {
       "title": "【〖腐化 ‧ 起結有序〗】",
       "desc": "每回合以指定位置&nbsp;(綠色漩渦)&nbsp;的符石開始轉珠及在指定位置&nbsp;(紅色漩渦)&nbsp;結束轉珠，才會發動攻擊和回復。<br />(達成條件前，無法進行回復)",
       "custom_desc": "",
-      "icons": [
-        11008
+      "corrupt": [
+        true
       ]
     },
     "5060": {
       "title": "【〖腐化 ‧ 全消心盾〗】",
       "desc": "<em>【〖腐化&nbsp;‧&nbsp;全消心盾〗】</em><br /><br />•&nbsp;首批消除場上所有心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除心符石)",
       "custom_desc": "",
-      "icons": [
-        10266
+      "corrupt": [
+        true
       ]
     },
     "5061": {
       "title": "【〖腐化 ‧ 反首消心符石盾 - 化血 - 反擊〗】",
       "desc": "<em>【〖腐化&nbsp;‧&nbsp;反首消心符石盾&nbsp;-&nbsp;化血&nbsp;-&nbsp;反擊〗】</em><br /><br />首批消除心符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
       "custom_desc": "",
-      "icons": [
-        10316
+      "corrupt": [
+        true
       ]
     },
     "5062": {
@@ -27122,75 +27188,75 @@
       "title": "【〖腐化 ‧ 克敵符石護盾 90 粒〗】",
       "desc": "累積消除&nbsp;90&nbsp;粒或以上、<br />克制敵人屬性的符石<br />(不受轉換屬性技能影響)，<br />才會對敵人造成攻擊傷害。<br />如果達成上述條件，<br />CD&nbsp;0&nbsp;時重置符石數目；<br />反之，<br />CD&nbsp;0&nbsp;時敵人會發動攻擊。",
       "custom_desc": "",
-      "icons": [
-        10901
+      "corrupt": [
+        true
       ]
     },
     "5064": {
       "title": "【〖腐化 ‧ 光以外弱攻〗】",
       "desc": "只有光屬性的攻擊<br />才會對敵人造成傷害。",
       "custom_desc": "",
-      "icons": [
-        10254
+      "corrupt": [
+        true
       ]
     },
     "5065": {
       "title": "【〖腐化 ‧ 光以外弱攻〗】",
       "desc": "光屬性的攻擊<br />無法對敵人造成傷害。",
       "custom_desc": "",
-      "icons": [
-        10254
+      "corrupt": [
+        true
       ]
     },
     "5066": {
       "title": "【〖腐化 ‧ 神族以外弱攻〗】",
       "desc": "只有神族的攻擊<br />才會對敵人造成傷害。",
       "custom_desc": "",
-      "icons": [
-        10602
+      "corrupt": [
+        true
       ]
     },
     "5067": {
       "title": "【〖腐化 ‧ 首消 21 粒數盾〗】",
       "desc": "首批消除&nbsp;21&nbsp;粒符石<br />才會對敵人造成攻擊傷害。",
       "custom_desc": "",
-      "icons": [
-        10918
+      "corrupt": [
+        true
       ]
     },
     "5068": {
       "title": "【〖腐化 ‧ 水連擊零化〗】",
       "desc": "<em>【〖腐化&nbsp;‧&nbsp;水連擊零化〗】</em><br /><br />首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0&nbsp;<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
       "custom_desc": "",
-      "icons": [
-        10421
+      "corrupt": [
+        true
       ]
     },
     "5069": {
       "title": "【〖腐化 ‧ 10 億護盾〗】",
       "desc": "隊伍中成員的單一傷害<br />達&nbsp;10&nbsp;億才能對敵人<br />造成攻擊傷害。",
       "custom_desc": "",
-      "icons": [
-        10118
+      "corrupt": [
+        true
       ]
     },
     "5070": {
       "title": "【〖腐化 ‧ 全消盾〗】",
       "desc": "<em>【〖腐化&nbsp;‧&nbsp;全版消除盾〗】</em><br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。",
       "custom_desc": "",
-      "icons": [
-        11018
+      "corrupt": [
+        true
       ]
     },
     "5071": {
       "title": "【〖腐化 ‧ 五屬傷害盾〗】",
       "desc": "敵人受到五屬傷害後<br />⇒&nbsp;才可以對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;&nbsp;(無屬性傷害不受影響)",
       "custom_desc": "<ul><li>每回合重新計算，需要在一回合內打出五種屬性傷害</li><li><em>無屬性傷害不受影響 (正設)</em></li></ul>",
-      "icons": [
-        11017
-      ],
       "keywords": [
         "五屬擊盾"
+      ],
+      "corrupt": [
+        true
       ]
     },
     "5072": {
@@ -29180,545 +29246,545 @@
       "title": "【〖腐化 ‧ 固定 8 連擊盾〗】",
       "desc": "首批消除&nbsp;8&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        10008
-      ],
       "keywords": [
         "固定連擊盾"
+      ],
+      "corrupt": [
+        true
       ]
     },
     "5455": {
       "title": "【〖腐化 ‧ 固定 9 連擊盾〗】",
       "desc": "首批消除&nbsp;9&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        10009
-      ],
       "keywords": [
         "固定連擊盾"
+      ],
+      "corrupt": [
+        true
       ]
     },
     "5456": {
       "title": "【〖腐化 ‧ 固定 10 連擊盾〗】",
       "desc": "首批消除&nbsp;10&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        10010
-      ],
       "keywords": [
         "固定連擊盾"
+      ],
+      "corrupt": [
+        true
       ]
     },
     "5457": {
       "title": "【〖腐化 ‧ ≥8 連擊盾 - 追擊〗】",
       "desc": "達成&nbsp;≥8&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
-      "icons": [
-        10058
+      "corrupt": [
+        true
       ]
     },
     "5458": {
       "title": "【〖腐化 ‧ ≥10 連擊盾 - 追擊〗】",
       "desc": "達成&nbsp;≥10&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
-      "icons": [
-        10060
+      "corrupt": [
+        true
       ]
     },
     "5459": {
       "title": "【〖腐化 ‧ ≥15 連擊盾 - 追擊〗】",
       "desc": "達成&nbsp;≥15&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
-      "icons": [
-        10065
+      "corrupt": [
+        true
       ]
     },
     "5460": {
       "title": "【〖腐化 ‧ ≥20 連擊盾 - 追擊〗】",
       "desc": "達成&nbsp;≥20&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1，<br />並根據差距的連擊數，<br />追打相應次數攻擊。",
       "custom_desc": "",
-      "icons": [
-        10070
+      "corrupt": [
+        true
       ]
     },
     "5461": {
       "title": "【〖腐化 ‧ 克制敵屬強化限制形狀盾〗】",
       "desc": "在指定位置消除<br />克制敵人屬性的強化符石<br />(不可連同位置旁邊的符石)&nbsp;<br />才會對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        11007
+      "corrupt": [
+        true
       ]
     },
     "5462": {
       "title": "【〖腐化 ‧ 敵屬強化限制形狀盾〗】",
       "desc": "在指定位置消除<br />與敵人相同屬性的強化符石<br />(不可連同位置旁邊的符石)&nbsp;<br />才會對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        11007
+      "corrupt": [
+        true
       ]
     },
     "5463": {
       "title": "【〖腐化 ‧ 五屬盾〗】",
       "desc": "•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
-      "icons": [
-        11661
+      "corrupt": [
+        true
       ]
     },
     "5464": {
       "title": "【〖腐化 ‧ 五屬強化盾〗】",
       "desc": "•&nbsp;同時消除五屬強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
-      "icons": [
-        11761
+      "corrupt": [
+        true
       ]
     },
     "5465": {
       "title": "【〖腐化 ‧ 五屬盾 - 追擊〗】",
       "desc": "•&nbsp;同時消除五屬符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;敵人發動攻擊時，該回合<br />&nbsp;&nbsp;每欠消除&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;敵人額外追打&nbsp;1&nbsp;次",
       "custom_desc": "",
-      "icons": [
-        11661
+      "corrupt": [
+        true
       ]
     },
     "5466": {
       "title": "【〖腐化 ‧ 五屬強化盾 - 追擊〗】",
       "desc": "•&nbsp;同時消除五屬強化符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;敵人發動攻擊時，該回合<br />&nbsp;&nbsp;每欠消除&nbsp;1&nbsp;種<br />&nbsp;&nbsp;屬性強化符石<br />⇒&nbsp;敵人額外追打&nbsp;1&nbsp;次",
       "custom_desc": "",
-      "icons": [
-        11761
+      "corrupt": [
+        true
       ]
     },
     "5467": {
       "title": "【〖腐化 ‧ 水火木連擊相等盾〗】",
       "desc": "同時首批消除相同組數的<br />水、火及木符石，<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        11521
+      "corrupt": [
+        true
       ]
     },
     "5468": {
       "title": "【〖腐化 ‧ 光暗連擊相等盾〗】",
       "desc": "同時首批消除相同組數的<br />光及暗符石，<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        11513
+      "corrupt": [
+        true
       ]
     },
     "5469": {
       "title": "【〖腐化 ‧ 五屬連擊相等盾〗】",
       "desc": "同時首批消除<br />相同組數的五屬符石，<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        11561
+      "corrupt": [
+        true
       ]
     },
     "5470": {
       "title": "【〖腐化 ‧ 五屬及心連擊相等盾〗】",
       "desc": "同時首批消除<br />相同組數的五屬及心符石，<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        11567
+      "corrupt": [
+        true
       ]
     },
     "5471": {
       "title": "【〖腐化 ‧ 起結有序〗】",
       "desc": "需以指定位置&nbsp;(綠色漩渦)&nbsp;<br />開始轉珠及在指定位置<br />(紅色漩渦)&nbsp;結束轉珠。<br /><br />未有達成上述條件：<br />⓵&nbsp;該回合攻擊力變為&nbsp;0<br />⓶&nbsp;無法進行回復",
       "custom_desc": "",
-      "icons": [
-        11008
+      "corrupt": [
+        true
       ]
     },
     "5472": {
       "title": "【〖腐化 ‧ 全消水盾〗】",
       "desc": "•&nbsp;首批消除場上所有水符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除水符石)",
       "custom_desc": "",
-      "icons": [
-        10261
+      "corrupt": [
+        true
       ]
     },
     "5473": {
       "title": "【〖腐化 ‧ 全消火盾〗】",
       "desc": "•&nbsp;首批消除場上所有火符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除火符石)",
       "custom_desc": "",
-      "icons": [
-        10262
+      "corrupt": [
+        true
       ]
     },
     "5474": {
       "title": "【〖腐化 ‧ 全消木盾〗】",
       "desc": "•&nbsp;首批消除場上所有木符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除木符石)",
       "custom_desc": "",
-      "icons": [
-        10263
+      "corrupt": [
+        true
       ]
     },
     "5475": {
       "title": "【〖腐化 ‧ 全消光盾〗】",
       "desc": "•&nbsp;首批消除場上所有光符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除光符石)",
       "custom_desc": "",
-      "icons": [
-        10264
+      "corrupt": [
+        true
       ]
     },
     "5476": {
       "title": "【〖腐化 ‧ 全消暗盾〗】",
       "desc": "•&nbsp;首批消除場上所有暗符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除暗符石)",
       "custom_desc": "",
-      "icons": [
-        10265
+      "corrupt": [
+        true
       ]
     },
     "5477": {
       "title": "【〖腐化 ‧ 全消心盾〗】",
       "desc": "•&nbsp;首批消除場上所有心符石<br />⇒&nbsp;才能對敵人造成攻擊傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br />&nbsp;&nbsp;&nbsp;(需消除心符石)",
       "custom_desc": "",
-      "icons": [
-        10266
+      "corrupt": [
+        true
       ]
     },
     "5478": {
       "title": "【〖腐化 ‧ 反首消水符石盾 - 化血 - 反擊〗】",
       "desc": "首批消除水符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
       "custom_desc": "",
-      "icons": [
-        10311
+      "corrupt": [
+        true
       ]
     },
     "5479": {
       "title": "【〖腐化 ‧ 反首消火符石盾 - 化血 - 反擊〗】",
       "desc": "首批消除火符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
       "custom_desc": "",
-      "icons": [
-        10312
+      "corrupt": [
+        true
       ]
     },
     "5480": {
       "title": "【〖腐化 ‧ 反首消木符石盾 - 化血 - 反擊〗】",
       "desc": "首批消除木符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
       "custom_desc": "",
-      "icons": [
-        10313
+      "corrupt": [
+        true
       ]
     },
     "5481": {
       "title": "【〖腐化 ‧ 反首消光符石盾 - 化血 - 反擊〗】",
       "desc": "首批消除光符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
       "custom_desc": "",
-      "icons": [
-        10314
+      "corrupt": [
+        true
       ]
     },
     "5482": {
       "title": "【〖腐化 ‧ 反首消暗符石盾 - 化血 - 反擊〗】",
       "desc": "首批消除暗符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
       "custom_desc": "",
-      "icons": [
-        10315
+      "corrupt": [
+        true
       ]
     },
     "5483": {
       "title": "【〖腐化 ‧ 反首消心符石盾 - 化血 - 反擊〗】",
       "desc": "首批消除心符石及擊中敵人：<br />⓵&nbsp;無法對敵人造成傷害<br />⓶&nbsp;敵人回復相等於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該傷害的血量<br />⓷&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;200%&nbsp;攻擊傷害&nbsp;2&nbsp;次",
       "custom_desc": "",
-      "icons": [
-        10316
+      "corrupt": [
+        true
       ]
     },
     "5484": {
       "title": "【〖腐化 ‧ 敵屬元素護盾 30 粒〗】",
       "desc": "•&nbsp;累積消除&nbsp;30&nbsp;粒敵屬符石<br />&nbsp;&nbsp;(不受轉換屬性技能影響)<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;如果達成上述條件<br />⇒&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;重置符石數目<br />⓶&nbsp;不會發動攻擊<br />•&nbsp;反之，CD&nbsp;0&nbsp;時<br />⇒&nbsp;敵人發動攻擊",
       "custom_desc": "",
-      "icons": [
-        10901
+      "corrupt": [
+        true
       ]
     },
     "5485": {
       "title": "【〖腐化 ‧ 敵屬元素護盾 60 粒〗】",
       "desc": "•&nbsp;累積消除&nbsp;60&nbsp;粒敵屬符石<br />&nbsp;&nbsp;(不受轉換屬性技能影響)<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;如果達成上述條件<br />⇒&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;重置符石數目<br />⓶&nbsp;不會發動攻擊<br />•&nbsp;反之，CD&nbsp;0&nbsp;時<br />⇒&nbsp;敵人發動攻擊",
       "custom_desc": "",
-      "icons": [
-        10901
+      "corrupt": [
+        true
       ]
     },
     "5486": {
       "title": "【〖腐化 ‧ 敵屬元素護盾 90 粒〗】",
       "desc": "•&nbsp;累積消除&nbsp;90&nbsp;粒敵屬符石<br />&nbsp;&nbsp;(不受轉換屬性技能影響)<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;如果達成上述條件<br />⇒&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;重置符石數目<br />⓶&nbsp;不會發動攻擊<br />•&nbsp;反之，CD&nbsp;0&nbsp;時<br />⇒&nbsp;敵人發動攻擊",
       "custom_desc": "",
-      "icons": [
-        10901
+      "corrupt": [
+        true
       ]
     },
     "5487": {
       "title": "【〖腐化 ‧ 克敵元素護盾 30 粒〗】",
       "desc": "•&nbsp;累積消除&nbsp;30&nbsp;粒<br />&nbsp;&nbsp;克制敵人屬性的符石<br />&nbsp;&nbsp;(不受轉換屬性技能影響)<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;如果達成上述條件<br />⇒&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;重置符石數目<br />⓶&nbsp;不會發動攻擊<br />•&nbsp;反之，CD&nbsp;0&nbsp;時<br />⇒&nbsp;敵人發動攻擊",
       "custom_desc": "",
-      "icons": [
-        10901
+      "corrupt": [
+        true
       ]
     },
     "5488": {
       "title": "【〖腐化 ‧ 克敵元素護盾 60 粒〗】",
       "desc": "•&nbsp;累積消除&nbsp;60&nbsp;粒<br />&nbsp;&nbsp;克制敵人屬性的符石<br />&nbsp;&nbsp;(不受轉換屬性技能影響)<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;如果達成上述條件<br />⇒&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;重置符石數目<br />⓶&nbsp;不會發動攻擊<br />•&nbsp;反之，CD&nbsp;0&nbsp;時<br />⇒&nbsp;敵人發動攻擊",
       "custom_desc": "",
-      "icons": [
-        10901
+      "corrupt": [
+        true
       ]
     },
     "5489": {
       "title": "【〖腐化 ‧ 克敵元素護盾 90 粒〗】",
       "desc": "•&nbsp;累積消除&nbsp;90&nbsp;粒<br />&nbsp;&nbsp;克制敵人屬性的符石<br />&nbsp;&nbsp;(不受轉換屬性技能影響)<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;如果達成上述條件<br />⇒&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;重置符石數目<br />⓶&nbsp;不會發動攻擊<br />•&nbsp;反之，CD&nbsp;0&nbsp;時<br />⇒&nbsp;敵人發動攻擊",
       "custom_desc": "",
-      "icons": [
-        10901
+      "corrupt": [
+        true
       ]
     },
     "5490": {
       "title": "【〖腐化 ‧ 水以外弱攻〗】",
       "desc": "•&nbsp;水屬性以外傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10251
+      "corrupt": [
+        true
       ]
     },
     "5491": {
       "title": "【〖腐化 ‧ 火以外弱攻〗】",
       "desc": "•&nbsp;火屬性以外傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10252
+      "corrupt": [
+        true
       ]
     },
     "5492": {
       "title": "【〖腐化 ‧ 木以外弱攻〗】",
       "desc": "•&nbsp;木屬性以外傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10253
+      "corrupt": [
+        true
       ]
     },
     "5493": {
       "title": "【〖腐化 ‧ 光以外弱攻〗】",
       "desc": "•&nbsp;光屬性以外傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10254
+      "corrupt": [
+        true
       ]
     },
     "5494": {
       "title": "【〖腐化 ‧ 暗以外弱攻〗】",
       "desc": "•&nbsp;暗屬性以外傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10255
+      "corrupt": [
+        true
       ]
     },
     "5495": {
       "title": "【〖腐化 ‧ 無屬以外弱攻〗】",
       "desc": "•&nbsp;無屬性以外傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10901
+      "corrupt": [
+        true
       ]
     },
     "5496": {
       "title": "【〖腐化 ‧ 水屬弱攻〗】",
       "desc": "•&nbsp;水屬性傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10251
+      "corrupt": [
+        true
       ]
     },
     "5497": {
       "title": "【〖腐化 ‧ 火屬弱攻〗】",
       "desc": "•&nbsp;火屬性傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10252
+      "corrupt": [
+        true
       ]
     },
     "5498": {
       "title": "【〖腐化 ‧ 木屬弱攻〗】",
       "desc": "•&nbsp;木屬性傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10253
+      "corrupt": [
+        true
       ]
     },
     "5499": {
       "title": "【〖腐化 ‧ 光屬弱攻〗】",
       "desc": "•&nbsp;光屬性傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10254
+      "corrupt": [
+        true
       ]
     },
     "5500": {
       "title": "【〖腐化 ‧ 暗屬弱攻〗】",
       "desc": "•&nbsp;暗屬性傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10255
+      "corrupt": [
+        true
       ]
     },
     "5501": {
       "title": "【〖腐化 ‧ 無屬弱攻〗】",
       "desc": "•&nbsp;無屬性傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10901
+      "corrupt": [
+        true
       ]
     },
     "5502": {
       "title": "【〖腐化 ‧ 人類以外弱攻〗】",
       "desc": "•&nbsp;人類以外的傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10601
+      "corrupt": [
+        true
       ]
     },
     "5503": {
       "title": "【〖腐化 ‧ 獸類以外弱攻〗】",
       "desc": "•&nbsp;獸類以外的傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10605
+      "corrupt": [
+        true
       ]
     },
     "5504": {
       "title": "【〖腐化 ‧ 妖精類以外弱攻〗】",
       "desc": "•&nbsp;妖精類以外的傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10606
+      "corrupt": [
+        true
       ]
     },
     "5505": {
       "title": "【〖腐化 ‧ 龍類以外弱攻〗】",
       "desc": "•&nbsp;龍類以外的傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10604
+      "corrupt": [
+        true
       ]
     },
     "5506": {
       "title": "【〖腐化 ‧ 神族以外弱攻〗】",
       "desc": "•&nbsp;神族以外的傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10602
+      "corrupt": [
+        true
       ]
     },
     "5507": {
       "title": "【〖腐化 ‧ 魔族以外弱攻〗】",
       "desc": "•&nbsp;魔族以外的傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10603
+      "corrupt": [
+        true
       ]
     },
     "5508": {
       "title": "【〖腐化 ‧ 機械族以外弱攻〗】",
       "desc": "•&nbsp;機械族以外的傷害減至&nbsp;0%",
       "custom_desc": "",
-      "icons": [
-        10607
+      "corrupt": [
+        true
       ]
     },
     "5509": {
       "title": "【〖腐化 ‧ 水連擊零化〗】",
       "desc": "首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
       "custom_desc": "",
-      "icons": [
-        10421
+      "corrupt": [
+        true
       ]
     },
     "5510": {
       "title": "【〖腐化 ‧ 火連擊零化〗】",
       "desc": "首批消除火符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消火符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
       "custom_desc": "",
-      "icons": [
-        10422
+      "corrupt": [
+        true
       ]
     },
     "5511": {
       "title": "【〖腐化 ‧ 木連擊零化〗】",
       "desc": "首批消除木符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消木符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
       "custom_desc": "",
-      "icons": [
-        10423
+      "corrupt": [
+        true
       ]
     },
     "5512": {
       "title": "【〖腐化 ‧ 光連擊零化〗】",
       "desc": "首批消除光符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消光符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
       "custom_desc": "",
-      "icons": [
-        10424
+      "corrupt": [
+        true
       ]
     },
     "5513": {
       "title": "【〖腐化 ‧ 暗連擊零化〗】",
       "desc": "首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
       "custom_desc": "",
-      "icons": [
-        10425
+      "corrupt": [
+        true
       ]
     },
     "5514": {
       "title": "【〖腐化 ‧ 心連擊零化〗】",
       "desc": "首批消除心符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消心符石組數<br />⇒&nbsp;額外追打相應次數攻擊",
       "custom_desc": "",
-      "icons": [
-        10426
+      "corrupt": [
+        true
       ]
     },
     "5515": {
       "title": "【〖腐化 ‧ 5 億護盾〗】",
       "desc": "•&nbsp;單一傷害達&nbsp;5&nbsp;億的成員<br />⇒&nbsp;才能對敵人造成傷害",
       "custom_desc": "",
-      "icons": [
-        10115
+      "corrupt": [
+        true
       ]
     },
     "5516": {
       "title": "【〖腐化 ‧ 10 億護盾〗】",
       "desc": "•&nbsp;單一傷害達&nbsp;10&nbsp;億的成員<br />⇒&nbsp;才能對敵人造成傷害",
       "custom_desc": "",
-      "icons": [
-        10118
+      "corrupt": [
+        true
       ]
     },
     "5517": {
       "title": "【〖腐化 ‧ 20 億護盾〗】",
       "desc": "•&nbsp;單一傷害達&nbsp;20&nbsp;億的成員<br />⇒&nbsp;才能對敵人造成傷害",
       "custom_desc": "",
-      "icons": [
-        10119
+      "corrupt": [
+        true
       ]
     },
     "5518": {
       "title": "【〖腐化 ‧ 首消 17 粒數盾 - 反擊〗】",
       "desc": "•&nbsp;首批消除&nbsp;17&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;數量反擊相應次數攻擊",
       "custom_desc": "",
-      "icons": [
-        10918
+      "corrupt": [
+        true
       ]
     },
     "5519": {
       "title": "【〖腐化 ‧ 首消 21 粒數盾 - 反擊〗】",
       "desc": "•&nbsp;首批消除&nbsp;21&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;數量反擊相應次數攻擊",
       "custom_desc": "",
-      "icons": [
-        10918
+      "corrupt": [
+        true
       ]
     },
     "5520": {
       "title": "【〖腐化 ‧ 首消 23 粒數盾 - 反擊〗】",
       "desc": "•&nbsp;首批消除&nbsp;23&nbsp;粒符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;達成條件時<br />⇒&nbsp;敵人不會發動攻擊<br />•&nbsp;反之，敵人根據差距符石<br />&nbsp;&nbsp;數量反擊相應次數攻擊",
       "custom_desc": "",
-      "icons": [
-        10918
+      "corrupt": [
+        true
       ]
     },
     "5521": {
@@ -29733,56 +29799,56 @@
       "title": "【〖腐化 ‧ 燃燒之軌〗】",
       "desc": "•&nbsp;持續燃燒移動符石時<br />&nbsp;&nbsp;觸碰的位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成&nbsp;5000&nbsp;點傷害<br /><br />•&nbsp;發動無視〖腐化〗敵技角色<br />&nbsp;&nbsp;的「角色符石」<br />⇒&nbsp;可將此燃燒傷害減至&nbsp;0",
       "custom_desc": "",
-      "icons": [
-        10951
+      "corrupt": [
+        true
       ]
     },
     "5523": {
       "title": "【〖腐化 ‧ 首消 ≥6 組屬性符石盾〗】",
       "desc": "首批消除&nbsp;≥6&nbsp;組屬性符石<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        10176
+      "corrupt": [
+        true
       ]
     },
     "5524": {
       "title": "【〖腐化 ‧ 防禦盾 25%〗】",
       "desc": "每回合最多只能對敵人造成<br />敵人生命力&nbsp;25%&nbsp;的攻擊傷害",
       "custom_desc": "",
-      "icons": [
-        10903
+      "corrupt": [
+        true
       ]
     },
     "5526": {
       "title": "【〖腐化 ‧ 非電擊狀態 - 弱攻〗】",
       "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有敵人置身在電擊狀態<br />⇒&nbsp;才會對其造成完整傷害",
       "custom_desc": "",
-      "icons": [
-        11255
+      "corrupt": [
+        true
       ]
     },
     "5527": {
       "title": "【〖腐化 ‧ 攻前盾〗】",
       "desc": "敵人無視任何傷害，<br />直至敵人第&nbsp;1&nbsp;次攻擊。",
       "custom_desc": "",
-      "icons": [
-        10901
+      "corrupt": [
+        true
       ]
     },
     "5528": {
       "title": "【〖腐化 ‧ 暴風〗】",
       "desc": "•&nbsp;暴風席捲最左方及最右方<br />&nbsp;&nbsp;直行的位置<br />•&nbsp;暴風位置內的<br />&nbsp;&nbsp;符石不能消除或引爆<br />•&nbsp;該位置一經觸碰<br />⇒&nbsp;即時停止移動符石<br /><br />•&nbsp;發動無視〖腐化〗敵技角色<br />&nbsp;&nbsp;的「角色符石」<br />⇒&nbsp;觸碰暴風時仍可移動符石",
       "custom_desc": "",
-      "icons": [
-        10978
+      "corrupt": [
+        true
       ]
     },
     "5529": {
       "title": "【〖腐化 ‧ 減傷抗性〗】",
       "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，<br />敵人攻擊次數愈多，<br />減傷狀態削弱愈多。",
       "custom_desc": "<span class=\"annotation\">crumbling_walls 100 85 60 35 20 15 10 5 0</span>",
-      "icons": [
-        11937
+      "corrupt": [
+        true
       ]
     },
     "5530": {
@@ -32486,57 +32552,27 @@
     "6007": {
       "title": "【隱身 - 回復弱化】",
       "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;1&nbsp;回合內，<br />&nbsp;&nbsp;&nbsp;所有成員的回復力減至&nbsp;0%",
-      "custom_desc": "",
-      "icons": [
-        901
-      ],
-      "alticons": [
-        []
-      ]
+      "custom_desc": ""
     },
     "6008": {
       "title": "【隱身 - 回復弱化】",
       "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;2&nbsp;回合內，<br />&nbsp;&nbsp;&nbsp;所有成員的回復力減至&nbsp;0%",
-      "custom_desc": "",
-      "icons": [
-        901
-      ],
-      "alticons": [
-        []
-      ]
+      "custom_desc": ""
     },
     "6009": {
       "title": "【隱身 - 回復弱化】",
       "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;3&nbsp;回合內，<br />&nbsp;&nbsp;&nbsp;所有成員的回復力減至&nbsp;0%",
-      "custom_desc": "",
-      "icons": [
-        901
-      ],
-      "alticons": [
-        []
-      ]
+      "custom_desc": ""
     },
     "6010": {
       "title": "【隱身 - 回復弱化】",
       "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;4&nbsp;回合內，<br />&nbsp;&nbsp;&nbsp;所有成員的回復力減至&nbsp;0%",
-      "custom_desc": "",
-      "icons": [
-        901
-      ],
-      "alticons": [
-        []
-      ]
+      "custom_desc": ""
     },
     "6011": {
       "title": "【隱身 - 回復弱化】",
       "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;5&nbsp;回合內，<br />&nbsp;&nbsp;&nbsp;所有成員的回復力減至&nbsp;0%",
-      "custom_desc": "",
-      "icons": [
-        901
-      ],
-      "alticons": [
-        []
-      ]
+      "custom_desc": ""
     },
     "6012": {
       "title": "【隱身 - 喋血屠刀 50%】",
@@ -32871,24 +32907,12 @@
     "6071": {
       "title": "【隱身 - 錮縛 - 技能】",
       "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;永久封鎖所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;的主動技能",
-      "custom_desc": "",
-      "icons": [
-        901
-      ],
-      "alticons": [
-        []
-      ]
+      "custom_desc": ""
     },
     "6072": {
       "title": "【隱身 - 錮縛 - 技能、攻擊】",
       "desc": "•&nbsp;敵人會隱身<br />⇒&nbsp;直至發動第&nbsp;1&nbsp;次攻擊、<br />&nbsp;&nbsp;&nbsp;&nbsp;受到傷害或消耗<br />•&nbsp;隱身期間敵人<br />&nbsp;&nbsp;不受任何攻擊傷害<br />&nbsp;&nbsp;及不會被附上狀態<br />•&nbsp;當召喚師在敵人<br />&nbsp;&nbsp;隱身期間受到攻擊<br />⇒&nbsp;永久封鎖所有成員<br />&nbsp;&nbsp;&nbsp;&nbsp;的主動技能及攻擊",
-      "custom_desc": "",
-      "icons": [
-        901
-      ],
-      "alticons": [
-        []
-      ]
+      "custom_desc": ""
     },
     "6073": {
       "title": "【攻擊力基值弱化 - 加攻】",
@@ -34138,144 +34162,144 @@
       "title": "【〖腐化 ‧ 水強化限制形狀盾〗】",
       "desc": "在指定位置消除水強化符石<br />(不可連同位置旁邊的符石)&nbsp;<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        11007
+      "corrupt": [
+        true
       ]
     },
     "6243": {
       "title": "【〖腐化 ‧ 火強化限制形狀盾〗】",
       "desc": "在指定位置消除火強化符石<br />(不可連同位置旁邊的符石)&nbsp;<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        11007
+      "corrupt": [
+        true
       ]
     },
     "6244": {
       "title": "【〖腐化 ‧ 木強化限制形狀盾〗】",
       "desc": "在指定位置消除木強化符石<br />(不可連同位置旁邊的符石)&nbsp;<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        11007
+      "corrupt": [
+        true
       ]
     },
     "6245": {
       "title": "【〖腐化 ‧ 光強化限制形狀盾〗】",
       "desc": "在指定位置消除光強化符石<br />(不可連同位置旁邊的符石)&nbsp;<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        11007
+      "corrupt": [
+        true
       ]
     },
     "6246": {
       "title": "【〖腐化 ‧ 暗強化限制形狀盾〗】",
       "desc": "在指定位置消除暗強化符石<br />(不可連同位置旁邊的符石)&nbsp;<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
       "custom_desc": "",
-      "icons": [
-        11007
+      "corrupt": [
+        true
       ]
     },
     "6247": {
       "title": "【〖腐化 ‧ 水符石護盾 30 粒〗】",
       "desc": "•&nbsp;累積消除&nbsp;30&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;如果達成上述條件<br />⇒&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;重置符石數目<br />⓶&nbsp;不會發動攻擊<br />•&nbsp;反之，CD&nbsp;0&nbsp;時<br />⇒&nbsp;敵人發動攻擊",
       "custom_desc": "",
-      "icons": [
-        10251
+      "corrupt": [
+        true
       ]
     },
     "6248": {
       "title": "【〖腐化 ‧ 火符石護盾 30 粒〗】",
       "desc": "•&nbsp;累積消除&nbsp;30&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;如果達成上述條件<br />⇒&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;重置符石數目<br />⓶&nbsp;不會發動攻擊<br />•&nbsp;反之，CD&nbsp;0&nbsp;時<br />⇒&nbsp;敵人發動攻擊",
       "custom_desc": "",
-      "icons": [
-        10252
+      "corrupt": [
+        true
       ]
     },
     "6249": {
       "title": "【〖腐化 ‧ 木符石護盾 30 粒〗】",
       "desc": "•&nbsp;累積消除&nbsp;30&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;如果達成上述條件<br />⇒&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;重置符石數目<br />⓶&nbsp;不會發動攻擊<br />•&nbsp;反之，CD&nbsp;0&nbsp;時<br />⇒&nbsp;敵人發動攻擊",
       "custom_desc": "",
-      "icons": [
-        10253
+      "corrupt": [
+        true
       ]
     },
     "6250": {
       "title": "【〖腐化 ‧ 光符石護盾 30 粒〗】",
       "desc": "•&nbsp;累積消除&nbsp;30&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;如果達成上述條件<br />⇒&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;重置符石數目<br />⓶&nbsp;不會發動攻擊<br />•&nbsp;反之，CD&nbsp;0&nbsp;時<br />⇒&nbsp;敵人發動攻擊",
       "custom_desc": "",
-      "icons": [
-        10254
+      "corrupt": [
+        true
       ]
     },
     "6251": {
       "title": "【〖腐化 ‧ 暗符石護盾 30 粒〗】",
       "desc": "•&nbsp;累積消除&nbsp;30&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害，<br />&nbsp;&nbsp;&nbsp;&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />•&nbsp;如果達成上述條件<br />⇒&nbsp;敵人在&nbsp;CD&nbsp;0&nbsp;時<br />⓵&nbsp;重置符石數目<br />⓶&nbsp;不會發動攻擊<br />•&nbsp;反之，CD&nbsp;0&nbsp;時<br />⇒&nbsp;敵人發動攻擊",
       "custom_desc": "",
-      "icons": [
-        10255
+      "corrupt": [
+        true
       ]
     },
     "6252": {
       "title": "【〖腐化 ‧ 防禦盾 20%〗】",
       "desc": "每回合最多只能對敵人造成<br />敵人生命力&nbsp;20%&nbsp;的攻擊傷害",
       "custom_desc": "",
-      "icons": [
-        10903
+      "corrupt": [
+        true
       ]
     },
     "6253": {
       "title": "【〖腐化 ‧ 防禦盾 25%〗】",
       "desc": "每回合最多只能對敵人造成<br />敵人生命力&nbsp;25%&nbsp;的攻擊傷害",
       "custom_desc": "",
-      "icons": [
-        10903
+      "corrupt": [
+        true
       ]
     },
     "6254": {
       "title": "【〖腐化 ‧ 防禦盾 50%〗】",
       "desc": "每回合最多只能對敵人造成<br />敵人生命力&nbsp;50%&nbsp;的攻擊傷害",
       "custom_desc": "",
-      "icons": [
-        10903
+      "corrupt": [
+        true
       ]
     },
     "6255": {
       "title": "【〖腐化 ‧ 減傷抗性 - 首消符石種類〗】",
       "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;所受傷害",
       "custom_desc": "",
-      "icons": [
-        11921
+      "corrupt": [
+        true
       ]
     },
     "6256": {
       "title": "【〖腐化 ‧ 減傷抗性 - 首消符石種類〗】",
       "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;所受傷害",
       "custom_desc": "",
-      "icons": [
-        11922
+      "corrupt": [
+        true
       ]
     },
     "6257": {
       "title": "【〖腐化 ‧ 減傷抗性 - 首消符石種類〗】",
       "desc": "首批消除多於&nbsp;1&nbsp;種符石：<br />每首批消除多&nbsp;1&nbsp;種符石<br />⇒&nbsp;該回合敵人減少<br />&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;所受傷害",
       "custom_desc": "",
-      "icons": [
-        11923
+      "corrupt": [
+        true
       ]
     },
     "6258": {
       "title": "【〖腐化 ‧ 減傷抗性〗】",
       "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，<br />敵人發動攻擊的回合愈多，<br />減傷狀態削弱愈多。",
       "custom_desc": "<span class=\"annotation\">crumbling_walls 100 80 60 40 20 0</span>",
-      "icons": [
-        11937
+      "corrupt": [
+        true
       ]
     },
     "6259": {
       "title": "【〖腐化 ‧ 減傷抗性〗】",
       "desc": "敵人為&nbsp;100%&nbsp;減傷狀態，<br />受到敵人攻擊的回合愈多，<br />減傷狀態削弱愈多。",
       "custom_desc": "<span class=\"annotation\">crumbling_walls 100 80 60 40 20 0</span>",
-      "icons": [
-        11937
+      "corrupt": [
+        true
       ]
     },
     "6260": {
@@ -34314,72 +34338,72 @@
       "title": "【〖腐化 ‧ 燃燒之軌〗】",
       "desc": "•&nbsp;燃燒移動符石時觸碰的位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成&nbsp;10000&nbsp;點傷害<br /><br />•&nbsp;發動無視〖腐化〗敵技角色<br />&nbsp;&nbsp;的「角色符石」<br />⇒&nbsp;可將此燃燒傷害減至&nbsp;0",
       "custom_desc": "",
-      "icons": [
-        10951
+      "corrupt": [
+        true
       ]
     },
     "6265": {
       "title": "【〖腐化 ‧ 燃燒之軌〗】",
       "desc": "•&nbsp;燃燒移動符石時觸碰的位置<br />•&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;20%&nbsp;生命力<br /><br />•&nbsp;發動無視〖腐化〗敵技角色<br />&nbsp;&nbsp;的「角色符石」<br />⇒&nbsp;可將此燃燒傷害減至&nbsp;0",
       "custom_desc": "",
-      "icons": [
-        10951
+      "corrupt": [
+        true
       ]
     },
     "6266": {
       "title": "【〖腐化 ‧ 非點燃狀態 - 弱攻〗】",
       "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有敵人置身在點燃狀態<br />⇒&nbsp;才會對其造成完整傷害",
       "custom_desc": "",
-      "icons": [
-        11252
+      "corrupt": [
+        true
       ]
     },
     "6267": {
       "title": "【〖腐化 ‧ 非凍結狀態 - 弱攻〗】",
       "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有敵人置身在凍結狀態<br />⇒&nbsp;才會對其造成完整傷害",
       "custom_desc": "",
-      "icons": [
-        11251
+      "corrupt": [
+        true
       ]
     },
     "6268": {
       "title": "【〖腐化 ‧ 非電擊狀態 - 弱攻〗】",
       "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有敵人置身在電擊狀態<br />⇒&nbsp;才會對其造成完整傷害",
       "custom_desc": "",
-      "icons": [
-        11255
+      "corrupt": [
+        true
       ]
     },
     "6269": {
       "title": "【〖腐化 ‧ 非石化狀態 - 弱攻〗】",
       "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有敵人置身在石化狀態<br />⇒&nbsp;才會對其造成完整傷害",
       "custom_desc": "",
-      "icons": [
-        11253
+      "corrupt": [
+        true
       ]
     },
     "6270": {
       "title": "【〖腐化 ‧ 非暈擊狀態 - 弱攻〗】",
       "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有敵人置身在暈擊狀態<br />⇒&nbsp;才會對其造成完整傷害",
       "custom_desc": "",
-      "icons": [
-        11254
+      "corrupt": [
+        true
       ]
     },
     "6271": {
       "title": "【〖腐化 ‧ 非中毒狀態 - 弱攻〗】",
       "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有敵人置身在中毒狀態<br />⇒&nbsp;才會對其造成完整傷害",
       "custom_desc": "",
-      "icons": [
-        11257
+      "corrupt": [
+        true
       ]
     },
     "6272": {
       "title": "【〖腐化 ‧ 非烈毒狀態 - 弱攻〗】",
       "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有敵人置身在烈毒狀態<br />⇒&nbsp;才會對其造成完整傷害",
       "custom_desc": "",
-      "icons": [
-        11258
+      "corrupt": [
+        true
       ]
     },
     "6273": {
@@ -34474,24 +34498,24 @@
       "title": "【〖腐化 ‧ 連環光牢〗】",
       "desc": "•&nbsp;進場時射擊最左方及最右方<br />&nbsp;&nbsp;直行的位置<br />•&nbsp;被射擊的位置一經觸碰<br />⇒&nbsp;即時停止移動符石<br /><br />•&nbsp;發動無視〖腐化〗敵技角色<br />&nbsp;&nbsp;的「角色符石」<br />⇒&nbsp;觸碰上述射擊位置<br />&nbsp;&nbsp;&nbsp;&nbsp;仍可移動符石",
       "custom_desc": "",
-      "icons": [
-        10959
+      "corrupt": [
+        true
       ]
     },
     "6285": {
       "title": "【〖腐化 ‧ 連環光牢〗】",
       "desc": "•&nbsp;進場時射擊最頂及最底<br />&nbsp;&nbsp;橫行的位置<br />•&nbsp;被射擊的位置一經觸碰<br />⇒&nbsp;即時停止移動符石<br /><br />•&nbsp;發動無視〖腐化〗敵技角色<br />&nbsp;&nbsp;的「角色符石」<br />⇒&nbsp;觸碰上述射擊位置<br />&nbsp;&nbsp;&nbsp;&nbsp;仍可移動符石",
       "custom_desc": "",
-      "icons": [
-        10959
+      "corrupt": [
+        true
       ]
     },
     "6286": {
       "title": "【〖腐化 ‧ 連環光牢〗】",
       "desc": "•&nbsp;進場時射擊<br />&nbsp;&nbsp;最頂及最底橫行、<br />&nbsp;&nbsp;最左及最右方直行位置<br />•&nbsp;被射擊的位置一經觸碰<br />⇒&nbsp;即時停止移動符石<br /><br />•&nbsp;發動無視〖腐化〗敵技角色<br />&nbsp;&nbsp;的「角色符石」<br />⇒&nbsp;觸碰上述射擊位置<br />&nbsp;&nbsp;&nbsp;&nbsp;仍可移動符石",
       "custom_desc": "",
-      "icons": [
-        10959
+      "corrupt": [
+        true
       ]
     },
     "6287": {
@@ -34546,48 +34570,48 @@
       "title": "【〖腐化 ‧ 力的印記 - 水〗】",
       "desc": "•&nbsp;回合結束時所有水符石<br />⇒&nbsp;添加力的印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;2&nbsp;重印記力量<br />•&nbsp;疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才能對敵人造成傷害<br /><br />召喚師死亡後，<br />清空力的印記及印記力量",
       "custom_desc": "",
-      "icons": [
-        11107
+      "corrupt": [
+        true
       ]
     },
     "6294": {
       "title": "【〖腐化 ‧ 力的印記 - 火〗】",
       "desc": "•&nbsp;回合結束時所有火符石<br />⇒&nbsp;添加力的印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;2&nbsp;重印記力量<br />•&nbsp;疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才能對敵人造成傷害<br /><br />召喚師死亡後，<br />清空力的印記及印記力量",
       "custom_desc": "",
-      "icons": [
-        11107
+      "corrupt": [
+        true
       ]
     },
     "6295": {
       "title": "【〖腐化 ‧ 力的印記 - 木〗】",
       "desc": "•&nbsp;回合結束時所有木符石<br />⇒&nbsp;添加力的印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;2&nbsp;重印記力量<br />•&nbsp;疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才能對敵人造成傷害<br /><br />召喚師死亡後，<br />清空力的印記及印記力量",
       "custom_desc": "",
-      "icons": [
-        11107
+      "corrupt": [
+        true
       ]
     },
     "6296": {
       "title": "【〖腐化 ‧ 力的印記 - 光〗】",
       "desc": "•&nbsp;回合結束時所有光符石<br />⇒&nbsp;添加力的印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;2&nbsp;重印記力量<br />•&nbsp;疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才能對敵人造成傷害<br /><br />召喚師死亡後，<br />清空力的印記及印記力量",
       "custom_desc": "",
-      "icons": [
-        11107
+      "corrupt": [
+        true
       ]
     },
     "6297": {
       "title": "【〖腐化 ‧ 力的印記 - 暗〗】",
       "desc": "•&nbsp;回合結束時所有暗符石<br />⇒&nbsp;添加力的印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;2&nbsp;重印記力量<br />•&nbsp;疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才能對敵人造成傷害<br /><br />召喚師死亡後，<br />清空力的印記及印記力量",
       "custom_desc": "",
-      "icons": [
-        11107
+      "corrupt": [
+        true
       ]
     },
     "6298": {
       "title": "【〖腐化 ‧ 力的印記 - 心〗】",
       "desc": "•&nbsp;回合結束時所有心符石<br />⇒&nbsp;添加力的印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;2&nbsp;重印記力量<br />•&nbsp;疊至最高&nbsp;10&nbsp;重印記力量<br />⇒&nbsp;才能對敵人造成傷害<br /><br />召喚師死亡後，<br />清空力的印記及印記力量",
       "custom_desc": "",
-      "icons": [
-        11107
+      "corrupt": [
+        true
       ]
     },
     "6299": {
@@ -38767,40 +38791,40 @@
       "title": "【〖腐化 ‧ 水十字限盾 (≥3 組)〗】",
       "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒水符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
-      "icons": [
-        10451
+      "corrupt": [
+        true
       ]
     },
     "7075": {
       "title": "【〖腐化 ‧ 火十字限盾 (≥3 組)〗】",
       "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒火符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
-      "icons": [
-        10452
+      "corrupt": [
+        true
       ]
     },
     "7076": {
       "title": "【〖腐化 ‧ 木十字限盾 (≥3 組)〗】",
       "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒木符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
-      "icons": [
-        10453
+      "corrupt": [
+        true
       ]
     },
     "7077": {
       "title": "【〖腐化 ‧ 光十字限盾 (≥3 組)〗】",
       "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒光符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
-      "icons": [
-        10454
+      "corrupt": [
+        true
       ]
     },
     "7078": {
       "title": "【〖腐化 ‧ 暗十字限盾 (≥3 組)〗】",
       "desc": "•&nbsp;以【十】形首批消除<br />&nbsp;&nbsp;≥3&nbsp;組&nbsp;5&nbsp;粒暗符石<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
       "custom_desc": "",
-      "icons": [
-        10455
+      "corrupt": [
+        true
       ]
     },
     "7079": {
