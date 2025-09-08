@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.411",
-    "dv": 14074,
-    "time": 1756727258
+    "version": "2025.500",
+    "dv": 14098,
+    "time": 1757302317
   },
   "monster": {
     "1": {
@@ -17573,6 +17573,12 @@
       "race": 10,
       "rarity": 6
     },
+    "2939": {
+      "name": "荒漠追憶 ‧ 伊南娜",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21631,6 +21637,12 @@
       "attribute": 4,
       "race": 5,
       "rarity": 8
+    },
+    "6707": {
+      "name": "諸神的黃昏 ‧ 奧丁",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 7
     },
     "6999": {
       "name": "米拉珍",
@@ -27659,6 +27671,12 @@
       "race": 4,
       "rarity": 8
     },
+    "10893": {
+      "name": "縱橫九霄 ‧ 玄璜",
+      "attribute": 5,
+      "race": 4,
+      "rarity": 6
+    },
     "10894": {
       "name": "鶴骨仙風 ‧ 太乙真人",
       "attribute": 4,
@@ -28269,6 +28287,60 @@
       "name": "聖裁時刻 ‧ 貞德",
       "attribute": 1,
       "race": 4,
+      "rarity": 7
+    },
+    "11011": {
+      "name": "歷史之殤 ‧ 烏爾德",
+      "attribute": 1,
+      "race": 5,
+      "rarity": 6
+    },
+    "11014": {
+      "name": "眾神之后 · 弗麗嘉",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
+    "11015": {
+      "name": "諸神的黃昏 ‧ 奧丁",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 7
+    },
+    "11016": {
+      "name": "諸神的黃昏 ‧ 奧丁 (費雷之力)",
+      "attribute": 1,
+      "race": 5,
+      "rarity": 7
+    },
+    "11017": {
+      "name": "諸神的黃昏 ‧ 奧丁 (提爾之力)",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 7
+    },
+    "11018": {
+      "name": "諸神的黃昏 ‧ 奧丁 (費蕾雅之力)",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 7
+    },
+    "11019": {
+      "name": "諸神的黃昏 ‧ 奧丁 (索爾之力)",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 7
+    },
+    "11020": {
+      "name": "諸神的黃昏 ‧ 奧丁 (洛基之力)",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 7
+    },
+    "11021": {
+      "name": "吞日噬月 · 芬爾厄",
+      "attribute": 5,
+      "race": 2,
       "rarity": 7
     },
     "5001": {
