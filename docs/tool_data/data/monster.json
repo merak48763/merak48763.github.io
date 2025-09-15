@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.500",
-    "dv": 14098,
-    "time": 1757302317
+    "version": "2025.501",
+    "dv": 14104,
+    "time": 1757943806
   },
   "monster": {
     "1": {
@@ -28295,6 +28295,12 @@
       "race": 5,
       "rarity": 6
     },
+    "11013": {
+      "name": "宿因牽引 ‧ 薇兒丹蒂",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 6
+    },
     "11014": {
       "name": "眾神之后 · 弗麗嘉",
       "attribute": 5,
@@ -28342,6 +28348,18 @@
       "attribute": 5,
       "race": 2,
       "rarity": 7
+    },
+    "11022": {
+      "name": "墨喙神諭 ‧ 福金和霧尼",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 7
+    },
+    "11023": {
+      "name": "厄戀終結 ‧ 安爾伯達",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
     },
     "5001": {
       "name": "UNKNOWN"
