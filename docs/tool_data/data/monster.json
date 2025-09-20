@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2025.501",
-    "dv": 14104,
-    "time": 1757943806
+    "dv": 14118,
+    "time": 1758369416
   },
   "monster": {
     "1": {
@@ -17579,6 +17579,36 @@
       "race": 5,
       "rarity": 6
     },
+    "2941": {
+      "name": "永豔血姬 ‧ 伊莉莎白",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 8
+    },
+    "2942": {
+      "name": "疾躍燼痕 ‧ 潔琪",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 8
+    },
+    "2943": {
+      "name": "索命毒誓 ‧ 貝莉",
+      "attribute": 3,
+      "race": 8,
+      "rarity": 8
+    },
+    "2944": {
+      "name": "愛離俘虜 ‧ 傑克",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 8
+    },
+    "2945": {
+      "name": "詭笑剪影 ‧ 陶德",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 8
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -28295,6 +28325,12 @@
       "race": 5,
       "rarity": 6
     },
+    "11012": {
+      "name": "戰線裁剪 ‧ 斯庫爾德",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 6
+    },
     "11013": {
       "name": "宿因牽引 ‧ 薇兒丹蒂",
       "attribute": 3,
@@ -28359,6 +28395,12 @@
       "name": "厄戀終結 ‧ 安爾伯達",
       "attribute": 5,
       "race": 5,
+      "rarity": 6
+    },
+    "11024": {
+      "name": "碎骨屠戮 ‧ 蓋恩",
+      "attribute": 4,
+      "race": 8,
       "rarity": 6
     },
     "5001": {
