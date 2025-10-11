@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2025.510",
-    "dv": 14155,
-    "time": 1759726419
+    "dv": 14167,
+    "time": 1760199561
   },
   "monster": {
     "1": {
@@ -28487,9 +28487,21 @@
       "race": 8,
       "rarity": 6
     },
+    "11038": {
+      "name": "蜘蛛 ‧ 伽利略",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
     "11039": {
       "name": "闇鴉 ‧ 酷洛",
       "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "11040": {
+      "name": "巨鼠 ‧ 巴比倫",
+      "attribute": 3,
       "race": 1,
       "rarity": 6
     },
@@ -28498,6 +28510,30 @@
       "attribute": 4,
       "race": 1,
       "rarity": 6
+    },
+    "11042": {
+      "name": "魔界貴族 ‧ 基札戮姆",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 7
+    },
+    "11043": {
+      "name": "三重詠唱 ‧ 洛伊德",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 7
+    },
+    "11044": {
+      "name": "銀色劍姬 ‧ 希露法",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 7
+    },
+    "11045": {
+      "name": "傳説的魔人 ‧ 古力太郎",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 7
     },
     "11053": {
       "name": "慈愛的修女 ‧ 伊夏",
