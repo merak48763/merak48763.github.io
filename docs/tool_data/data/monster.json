@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.510",
-    "dv": 14167,
-    "time": 1760199561
+    "version": "2025.600",
+    "dv": 14197,
+    "time": 1762171850
   },
   "monster": {
     "1": {
@@ -17615,6 +17615,12 @@
       "race": 8,
       "rarity": 8
     },
+    "2946": {
+      "name": "憧憬魅妝 ‧ 梅林",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21678,6 +21684,12 @@
       "name": "諸神的黃昏 ‧ 奧丁",
       "attribute": 5,
       "race": 5,
+      "rarity": 7
+    },
+    "6708": {
+      "name": "凜潔心界 ‧ 曼陀羅",
+      "attribute": 2,
+      "race": 3,
       "rarity": 7
     },
     "6999": {
@@ -28535,6 +28547,48 @@
       "race": 8,
       "rarity": 7
     },
+    "11046": {
+      "name": "使從契約 ‧ 吉列爾",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 6
+    },
+    "11047": {
+      "name": "神的信使 ‧ 吉列爾",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 7
+    },
+    "11048": {
+      "name": "反射的受詛者 ‧ 內戰",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "11049": {
+      "name": "魔界龍 ‧ 黑龍",
+      "attribute": 5,
+      "race": 4,
+      "rarity": 6
+    },
+    "11050": {
+      "name": "美味佳餚 ‧ 必要食品",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 6
+    },
+    "11051": {
+      "name": "月皇 ‧ 安娜斯塔西亞",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "11052": {
+      "name": "教皇 ‧ 吉丹",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 7
+    },
     "11053": {
       "name": "慈愛的修女 ‧ 伊夏",
       "attribute": 4,
@@ -28545,6 +28599,42 @@
       "name": "鬆餅",
       "attribute": 5,
       "race": 7,
+      "rarity": 6
+    },
+    "11055": {
+      "name": "凜潔心界 ‧ 曼陀羅",
+      "attribute": 2,
+      "race": 3,
+      "rarity": 7
+    },
+    "11056": {
+      "name": "繪世畫軸 ‧ 葛飾北齋",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 6
+    },
+    "11057": {
+      "name": "送葬惡欲 ‧ 但丁",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "11058": {
+      "name": "妖火婆娑 ‧ 悠真",
+      "attribute": 2,
+      "race": 3,
+      "rarity": 6
+    },
+    "11059": {
+      "name": "初生之犢 ‧ 伯賽大",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 6
+    },
+    "11060": {
+      "name": "蠶食心域 ‧ 烏里瑪",
+      "attribute": 2,
+      "race": 3,
       "rarity": 6
     },
     "5001": {

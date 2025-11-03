@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.510",
-    "dv": 26479,
-    "time": 1759726419
+    "version": "2025.600",
+    "dv": 26623,
+    "time": 1762171850
   },
   "es": {
     "0": {
@@ -1162,37 +1162,37 @@
     },
     "190": {
       "title": "反擊300",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;300&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;300&nbsp;點的傷害",
       "custom_desc": ""
     },
     "191": {
       "title": "反擊500",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;500&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;500&nbsp;點的傷害",
       "custom_desc": ""
     },
     "192": {
       "title": "反擊1000",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;1000&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;1000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "193": {
       "title": "反擊2000",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;2000&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;2000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "194": {
       "title": "反擊3000",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;3000&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;3000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "195": {
       "title": "反擊4000",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;4000&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;4000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "196": {
       "title": "反擊5000",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;5000&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;5000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "197": {
@@ -1252,37 +1252,37 @@
     },
     "205": {
       "title": "垂死反擊300",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;300&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;300&nbsp;點的傷害",
       "custom_desc": ""
     },
     "206": {
       "title": "垂死反擊500",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;500&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;500&nbsp;點的傷害",
       "custom_desc": ""
     },
     "207": {
       "title": "垂死反擊1000",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;1000&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;1000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "208": {
       "title": "垂死反擊2000",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;2000&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;2000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "209": {
       "title": "垂死反擊3000",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;3000&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;3000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "210": {
       "title": "垂死反擊4000",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;4000&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;4000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "211": {
       "title": "垂死反擊5000",
-      "desc": "對每個發動攻擊的成員，造成&nbsp;5000&nbsp;點的傷害",
+      "desc": "對每個發動攻擊及擊中敵人的成員，造成&nbsp;5000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "212": {
@@ -11564,7 +11564,7 @@
     },
     "2223": {
       "title": "",
-      "desc": "敵人會令木屬性的攻擊傷害減至&nbsp;10%。<br />此外，敵人會對每個發動攻擊的成員，造成&nbsp;5000&nbsp;點的傷害",
+      "desc": "敵人會令木屬性的攻擊傷害減至&nbsp;10%。<br />此外，敵人會對每個發動攻擊及擊中敵人的成員，造成&nbsp;5000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "2224": {
@@ -15077,7 +15077,7 @@
     },
     "2916": {
       "title": "",
-      "desc": "只有水屬性的攻擊才會對敵人造成傷害。<br />5&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害，連擊&nbsp;(Combo)&nbsp;只計算首批消除的符石。<br />對每個發動攻擊的成員，造成&nbsp;10000&nbsp;點的傷害",
+      "desc": "只有水屬性的攻擊才會對敵人造成傷害。<br />5&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害，連擊&nbsp;(Combo)&nbsp;只計算首批消除的符石。<br />對每個發動攻擊及擊中敵人的成員，造成&nbsp;10000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "2917": {
@@ -15090,7 +15090,7 @@
     },
     "2918": {
       "title": "",
-      "desc": "只有水屬性的攻擊才會對敵人造成傷害。<br />6&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害，連擊&nbsp;(Combo)&nbsp;只計算首批消除的符石。<br />對每個發動攻擊的成員，造成&nbsp;10000&nbsp;點的傷害",
+      "desc": "只有水屬性的攻擊才會對敵人造成傷害。<br />6&nbsp;連擊&nbsp;(Combo)&nbsp;才會對敵人造成攻擊傷害，連擊&nbsp;(Combo)&nbsp;只計算首批消除的符石。<br />對每個發動攻擊及擊中敵人的成員，造成&nbsp;10000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "2919": {
@@ -16206,12 +16206,12 @@
     },
     "3116": {
       "title": "",
-      "desc": "火屬性的攻擊無法對敵人造成攻擊傷害。<br />敵人當前生命力大於&nbsp;1%&nbsp;時，下一次所受傷害不會使其死亡&nbsp;(包括主動技)。當敵人生命力剩&nbsp;1&nbsp;點時，敵人完全回復生命力&nbsp;(只發動&nbsp;1&nbsp;次)，並提升生命力及攻擊力&nbsp;2&nbsp;倍。<br />對每個發動攻擊的成員，造成&nbsp;3000&nbsp;點的傷害。<br />無視所有控制技能",
+      "desc": "火屬性的攻擊無法對敵人造成攻擊傷害。<br />敵人當前生命力大於&nbsp;1%&nbsp;時，下一次所受傷害不會使其死亡&nbsp;(包括主動技)。當敵人生命力剩&nbsp;1&nbsp;點時，敵人完全回復生命力&nbsp;(只發動&nbsp;1&nbsp;次)，並提升生命力及攻擊力&nbsp;2&nbsp;倍。<br />對每個發動攻擊及擊中敵人的成員，造成&nbsp;3000&nbsp;點的傷害。<br />無視所有控制技能",
       "custom_desc": ""
     },
     "3117": {
       "title": "",
-      "desc": "火屬性的攻擊無法對敵人造成攻擊傷害。<br />敵人當前生命力大於&nbsp;1%&nbsp;時，下一次所受傷害不會使其死亡&nbsp;(包括主動技)。當敵人生命力剩&nbsp;1&nbsp;點時，敵人完全回復生命力&nbsp;(只發動&nbsp;1&nbsp;次)，並提升生命力及攻擊力&nbsp;2&nbsp;倍。<br />對每個發動攻擊的成員，造成&nbsp;3000&nbsp;點的傷害。<br />無視所有控制技能",
+      "desc": "火屬性的攻擊無法對敵人造成攻擊傷害。<br />敵人當前生命力大於&nbsp;1%&nbsp;時，下一次所受傷害不會使其死亡&nbsp;(包括主動技)。當敵人生命力剩&nbsp;1&nbsp;點時，敵人完全回復生命力&nbsp;(只發動&nbsp;1&nbsp;次)，並提升生命力及攻擊力&nbsp;2&nbsp;倍。<br />對每個發動攻擊及擊中敵人的成員，造成&nbsp;3000&nbsp;點的傷害。<br />無視所有控制技能",
       "custom_desc": ""
     },
     "3118": {
@@ -16670,7 +16670,7 @@
     },
     "3197": {
       "title": "",
-      "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br />只有獸類成員的攻擊才會對敵人造成傷害。<br />敵人會對每個發動攻擊的成員，造成&nbsp;5000&nbsp;點的傷害。<br />無視所有控制技能",
+      "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;1。<br />只有獸類成員的攻擊才會對敵人造成傷害。<br />敵人會對每個發動攻擊及擊中敵人的成員，造成&nbsp;5000&nbsp;點的傷害。<br />無視所有控制技能",
       "custom_desc": ""
     },
     "3198": {
@@ -17577,7 +17577,7 @@
     },
     "3363": {
       "title": "CD2 ‧ 反擊10000 ‧ 20%盾 ‧ 一擊必殺",
-      "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;2。<br /><br />敵人會對每個發動攻擊的成員，造成&nbsp;10,000&nbsp;點的傷害。<br /><br />每回合攻擊最多只能造成敵人生命力&nbsp;20%&nbsp;的傷害&nbsp;(主動技除外)。<br /><br />敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
+      "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;2。<br /><br />敵人會對每個發動攻擊及擊中敵人的成員，造成&nbsp;10,000&nbsp;點的傷害。<br /><br />每回合攻擊最多只能造成敵人生命力&nbsp;20%&nbsp;的傷害&nbsp;(主動技除外)。<br /><br />敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
       "custom_desc": "",
       "keywords": [
         "喋血屠刀",
@@ -17586,7 +17586,7 @@
     },
     "3364": {
       "title": "CD2 ‧ 反擊6000 ‧ 20%盾 ‧ 一擊必殺",
-      "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;2。<br /><br />敵人會對每個發動攻擊的成員，造成&nbsp;6,000&nbsp;點的傷害。<br /><br />每回合攻擊最多只能造成敵人生命力&nbsp;20%&nbsp;的傷害&nbsp;(主動技除外)。<br /><br />敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
+      "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;2。<br /><br />敵人會對每個發動攻擊及擊中敵人的成員，造成&nbsp;6,000&nbsp;點的傷害。<br /><br />每回合攻擊最多只能造成敵人生命力&nbsp;20%&nbsp;的傷害&nbsp;(主動技除外)。<br /><br />敵人發動攻擊時會扣除召喚師&nbsp;100%&nbsp;生命力&nbsp;(無視所有減傷效果和意志技能)",
       "custom_desc": "",
       "keywords": [
         "喋血屠刀",
@@ -20040,17 +20040,17 @@
     },
     "3788": {
       "title": "",
-      "desc": "每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
+      "desc": "每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
       "custom_desc": ""
     },
     "3789": {
       "title": "雙重火焰地型10000 ‧ 8+Combo追擊盾 ‧ 無法控制",
-      "desc": "每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
+      "desc": "每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
       "custom_desc": ""
     },
     "3790": {
       "title": "雙重火焰地型10000 ‧ 首消7Combo盾 ‧ 無法控制",
-      "desc": "每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
+      "desc": "每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
       "custom_desc": "",
       "keywords": [
         "固定連擊盾"
@@ -20058,17 +20058,17 @@
     },
     "3791": {
       "title": "",
-      "desc": "每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
+      "desc": "每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />7&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
       "custom_desc": ""
     },
     "3792": {
       "title": "",
-      "desc": "每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
+      "desc": "每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
       "custom_desc": ""
     },
     "3793": {
       "title": "四重火焰地型10000 ‧ 首消7Combo盾 ‧ 無法控制",
-      "desc": "每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
+      "desc": "每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />無視所有控制技能。",
       "custom_desc": "",
       "keywords": [
         "固定連擊盾"
@@ -23061,7 +23061,7 @@
     },
     "4340": {
       "title": "【火焰地型 ‧ 指定 4 連擊盾】",
-      "desc": "<em>【火焰地型&nbsp;‧&nbsp;指定&nbsp;4&nbsp;連擊盾】</em><br /><br />每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊的成員，<br />造成&nbsp;1,000&nbsp;點的傷害。<br /><br />首批消除&nbsp;4&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。",
+      "desc": "<em>【火焰地型&nbsp;‧&nbsp;指定&nbsp;4&nbsp;連擊盾】</em><br /><br />每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;1,000&nbsp;點的傷害。<br /><br />首批消除&nbsp;4&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。",
       "custom_desc": "",
       "keywords": [
         "固定連擊盾"
@@ -23069,7 +23069,7 @@
     },
     "4341": {
       "title": "【火焰地型 ‧ 指定 5 連擊盾 ‧ 愈攻愈強】",
-      "desc": "<em>【火焰地型&nbsp;‧&nbsp;指定&nbsp;5&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊的成員，<br />造成&nbsp;2,000&nbsp;點的傷害。<br /><br />首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
+      "desc": "<em>【火焰地型&nbsp;‧&nbsp;指定&nbsp;5&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強】</em><br /><br />每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;2,000&nbsp;點的傷害。<br /><br />首批消除&nbsp;5&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次",
       "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
       "keywords": [
         "固定連擊盾"
@@ -23077,7 +23077,7 @@
     },
     "4342": {
       "title": "【火焰地型 ‧ 指定 6 連擊盾 ‧ 愈攻愈強 ‧ 無法控制】",
-      "desc": "<em>【火焰地型&nbsp;‧&nbsp;指定&nbsp;6&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊的成員，<br />造成&nbsp;5,000&nbsp;點的傷害。<br /><br />首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次<br /><br />無視所有控制技能。",
+      "desc": "<em>【火焰地型&nbsp;‧&nbsp;指定&nbsp;6&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;5,000&nbsp;點的傷害。<br /><br />首批消除&nbsp;6&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次<br /><br />無視所有控制技能。",
       "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
       "keywords": [
         "固定連擊盾"
@@ -23085,7 +23085,7 @@
     },
     "4343": {
       "title": "【火焰地型 ‧ 指定 7 連擊盾 ‧ 愈攻愈強 ‧ 無法控制】",
-      "desc": "<em>【火焰地型&nbsp;‧&nbsp;指定&nbsp;7&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次<br /><br />無視所有控制技能。",
+      "desc": "<em>【火焰地型&nbsp;‧&nbsp;指定&nbsp;7&nbsp;連擊盾&nbsp;‧&nbsp;愈攻愈強&nbsp;‧&nbsp;無法控制】</em><br /><br />每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;附加火焰地型<br /><br />若召喚師沒有在<br />火焰地型位置結束轉珠，<br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />首批消除&nbsp;7&nbsp;連擊&nbsp;(Combo)&nbsp;<br />才會對敵人造成攻擊傷害。<br /><br />敵人攻擊次數愈多時，<br />攻擊力會大幅提升，<br />達到一定次數時會連撃&nbsp;2&nbsp;次<br /><br />無視所有控制技能。",
       "custom_desc": "<span class=\"annotation\">trojan_attack</span>",
       "keywords": [
         "固定連擊盾"
@@ -23208,7 +23208,7 @@
     },
     "4360": {
       "title": "敵技4360",
-      "desc": "#title0#【無法控制】<br />#desc0#•&nbsp;敵人不會被附上狀態<br /><br />#title0#【四段生命&nbsp;25%】<br />#desc0#•&nbsp;敵人生命分為&nbsp;4&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />#title0#▋階段&nbsp;1<br />#desc0#<br />#title1#【敵屬變水】<br />#desc1#•&nbsp;敵人轉換為水屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【凍結圍城】<br />#desc1#•&nbsp;進場時將所有符石<br />⇒&nbsp;添加為凍結符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(未凍結狀態)<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;將未凍結狀態的符石<br />⇒&nbsp;添加為冰封狀態<br />•&nbsp;冰封狀態下的符石&nbsp;3&nbsp;回合內<br />⇒&nbsp;不能消除、轉化或引爆<br /><br />#title1#【起結有序】<br />#desc1#需以指定位置&nbsp;(綠色漩渦)&nbsp;<br />開始轉珠及在指定位置<br />(紅色漩渦)&nbsp;結束轉珠。<br /><br />未有達成上述條件：<br />⓵&nbsp;全隊攻擊力變為&nbsp;0<br />⓶&nbsp;無法進行回復<br /><br />#title1#【消敵人克制屬性符石禁咒】<br />#desc1#•&nbsp;敵人克制的屬性符石<br />⇒&nbsp;無法被消除<br /><br />#title0#▋階段&nbsp;2<br />#desc0#<br />#title1#【敵屬變火】<br />#desc1#•&nbsp;敵人轉換為火屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【角色符石地型盾】<br />#desc1#隨機鎖定&nbsp;2&nbsp;個位置。<br />「移動符石時間完結一刻」<br />角色符石需置於鎖定位置內，<br />該角色才能<br />對敵人造成攻擊傷害。<br />其他成員攻擊力變&nbsp;0。<br /><br />#title1#【反饋】<br />#desc1#•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點的傷害<br /><br />#title1#【消敵人克制屬性符石禁咒】<br />#desc1#•&nbsp;敵人克制的屬性符石<br />⇒&nbsp;無法被消除<br /><br />#title0#▋階段&nbsp;3<br />#desc0#<br />#title1#【敵屬變木】<br />#desc1#•&nbsp;敵人轉換為木屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【瘴氣】<br />#desc1#•&nbsp;最左方及最右方直行位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />#title1#【反首消木符石盾&nbsp;-&nbsp;反擊】<br />#desc1#首批消除木符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;500%&nbsp;攻擊傷害<br /><br />#title1#【消敵人克制屬性符石禁咒】<br />#desc1#•&nbsp;敵人克制的屬性符石<br />⇒&nbsp;無法被消除<br /><br />#title0#▋階段&nbsp;4<br />#desc0#<br />#title1#【敵屬變水】<br />#desc1#•&nbsp;敵人轉換為水屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【淨世】<br />#desc1#•&nbsp;進場時消除召喚師<br />&nbsp;&nbsp;所有附加效果，<br />&nbsp;&nbsp;相關技能&nbsp;CD&nbsp;將被重置<br /><br />#title1#【水連擊零化】<br />#desc1#首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />#title1#【克制敵屬強化限制形狀盾】<br />#desc1#•&nbsp;在指定位置消除<br />&nbsp;&nbsp;克制敵人屬性的強化符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />#title1#【符石轉水】<br />#desc1#•&nbsp;每回合將水以外<br />&nbsp;&nbsp;數量最少的&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為水符石",
+      "desc": "#title0#【無法控制】<br />#desc0#•&nbsp;敵人不會被附上狀態<br /><br />#title0#【四段生命&nbsp;25%】<br />#desc0#•&nbsp;敵人生命分為&nbsp;4&nbsp;個階段<br />•&nbsp;召喚師需要分階段攻擊敵人<br /><br />#title0#▋階段&nbsp;1<br />#desc0#<br />#title1#【敵屬變水】<br />#desc1#•&nbsp;敵人轉換為水屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【凍結圍城】<br />#desc1#•&nbsp;進場時將所有符石<br />⇒&nbsp;添加為凍結符石<br />&nbsp;&nbsp;&nbsp;&nbsp;(未凍結狀態)<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;將未凍結狀態的符石<br />⇒&nbsp;添加為冰封狀態<br />•&nbsp;冰封狀態下的符石&nbsp;3&nbsp;回合內<br />⇒&nbsp;不能消除、轉化或引爆<br /><br />#title1#【起結有序】<br />#desc1#需以指定位置&nbsp;(綠色漩渦)&nbsp;<br />開始轉珠及在指定位置<br />(紅色漩渦)&nbsp;結束轉珠。<br /><br />未有達成上述條件：<br />⓵&nbsp;全隊攻擊力變為&nbsp;0<br />⓶&nbsp;無法進行回復<br /><br />#title1#【消敵人克制屬性符石禁咒】<br />#desc1#•&nbsp;敵人克制的屬性符石<br />⇒&nbsp;無法被消除<br /><br />#title0#▋階段&nbsp;2<br />#desc0#<br />#title1#【敵屬變火】<br />#desc1#•&nbsp;敵人轉換為火屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【角色符石地型盾】<br />#desc1#隨機鎖定&nbsp;2&nbsp;個位置。<br />「移動符石時間完結一刻」<br />角色符石需置於鎖定位置內，<br />該角色才能<br />對敵人造成攻擊傷害。<br />其他成員攻擊力變&nbsp;0。<br /><br />#title1#【反饋】<br />#desc1#•&nbsp;對每個發動攻擊及擊中敵人的成員<br />⇒&nbsp;造成&nbsp;40,000&nbsp;點的傷害<br /><br />#title1#【消敵人克制屬性符石禁咒】<br />#desc1#•&nbsp;敵人克制的屬性符石<br />⇒&nbsp;無法被消除<br /><br />#title0#▋階段&nbsp;3<br />#desc0#<br />#title1#【敵屬變木】<br />#desc1#•&nbsp;敵人轉換為木屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【瘴氣】<br />#desc1#•&nbsp;最左方及最右方直行位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡<br /><br />#title1#【反首消木符石盾&nbsp;-&nbsp;反擊】<br />#desc1#首批消除木符石及擊中敵人：<br />⓵&nbsp;敵人承受傷害變為&nbsp;1<br />⓶&nbsp;敵人反擊<br />⇒&nbsp;自身&nbsp;500%&nbsp;攻擊傷害<br /><br />#title1#【消敵人克制屬性符石禁咒】<br />#desc1#•&nbsp;敵人克制的屬性符石<br />⇒&nbsp;無法被消除<br /><br />#title0#▋階段&nbsp;4<br />#desc0#<br />#title1#【敵屬變水】<br />#desc1#•&nbsp;敵人轉換為水屬性<br /><br />#title1#【攻速變&nbsp;1】<br />#desc1#•&nbsp;敵人首次攻擊變為&nbsp;CD&nbsp;1<br /><br />#title1#【淨世】<br />#desc1#•&nbsp;進場時消除召喚師<br />&nbsp;&nbsp;所有附加效果，<br />&nbsp;&nbsp;相關技能&nbsp;CD&nbsp;將被重置<br /><br />#title1#【水連擊零化】<br />#desc1#首批消除水符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消水符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />#title1#【克制敵屬強化限制形狀盾】<br />#desc1#•&nbsp;在指定位置消除<br />&nbsp;&nbsp;克制敵人屬性的強化符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1<br /><br />#title1#【符石轉水】<br />#desc1#•&nbsp;每回合將水以外<br />&nbsp;&nbsp;數量最少的&nbsp;1&nbsp;種屬性符石<br />⇒&nbsp;轉化為水符石",
       "custom_desc": "<span class=\"annotation\">monster_icon 6395</span> 七封災厄 (核心封閉階段的本體)<ul><li>此技能的四段生命分割點固定為最大血量的75%、50%、25%，不是傳統的【防禦盾 25%】機制</li></ul>",
       "icons": [
         1008,
@@ -24133,12 +24133,12 @@
     },
     "4520": {
       "title": "【攻速變更 ‧ 保護地型 ‧ 6 連擊盾 ‧ 無法控制】",
-      "desc": "<em>【攻速變更&nbsp;‧&nbsp;保護地型&nbsp;‧&nbsp;6&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;附加保護地型<br /><br />若召喚師沒有在<br />保護地型位置結束轉珠，<br />對每個發動攻擊的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
+      "desc": "<em>【攻速變更&nbsp;‧&nbsp;保護地型&nbsp;‧&nbsp;6&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;附加保護地型<br /><br />若召喚師沒有在<br />保護地型位置結束轉珠，<br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />6&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
       "custom_desc": ""
     },
     "4521": {
       "title": "【攻速變更 ‧ 保護地型 ‧ 8 連擊盾 ‧ 無法控制】",
-      "desc": "<em>【攻速變更&nbsp;‧&nbsp;保護地型&nbsp;‧&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;附加保護地型<br /><br />若召喚師沒有在<br />保護地型位置結束轉珠，<br />對每個發動攻擊的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
+      "desc": "<em>【攻速變更&nbsp;‧&nbsp;保護地型&nbsp;‧&nbsp;8&nbsp;連擊盾&nbsp;‧&nbsp;無法控制】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;附加保護地型<br /><br />若召喚師沒有在<br />保護地型位置結束轉珠，<br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;10,000&nbsp;點的傷害。<br /><br />8&nbsp;連擊&nbsp;(Combo)&nbsp;或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊&nbsp;(Combo)&nbsp;數目的多寡而作出相應次數的攻擊。<br /><br />無視所有控制技能。",
       "custom_desc": ""
     },
     "4522": {
@@ -24269,7 +24269,7 @@
     },
     "4543": {
       "title": "",
-      "desc": "<em>【天惠之擊&nbsp;‧&nbsp;補龍脈儀&nbsp;‧&nbsp;心連擊零化&nbsp;‧&nbsp;亡命&nbsp;-&nbsp;隱藏圍城】</em><br /><br />所有成員：<br />⓵&nbsp;技能&nbsp;CD&nbsp;變&nbsp;0<br />⓶&nbsp;EP&nbsp;回滿<br />⓷&nbsp;7&nbsp;回合內，攻擊力&nbsp;2&nbsp;倍<br /><br />首回合將龍脈儀存滿。<br /><br />首批消除心符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消心符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />敵人死亡後，<br />將所有符石轉化為隱藏符石",
+      "desc": "<em>【天惠之擊&nbsp;‧&nbsp;提升龍脈儀&nbsp;‧&nbsp;心連擊零化&nbsp;‧&nbsp;亡命&nbsp;-&nbsp;隱藏圍城】</em><br /><br />所有成員：<br />⓵&nbsp;技能&nbsp;CD&nbsp;變&nbsp;0<br />⓶&nbsp;EP&nbsp;回滿<br />⓷&nbsp;7&nbsp;回合內，攻擊力&nbsp;2&nbsp;倍<br /><br />首回合將龍脈儀存滿。<br /><br />首批消除心符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消心符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />敵人死亡後，<br />將所有符石轉化為隱藏符石",
       "custom_desc": ""
     },
     "4544": {
@@ -26744,7 +26744,7 @@
     },
     "5001": {
       "title": "",
-      "desc": "<em>【攻速變更&nbsp;‧&nbsp;反饋&nbsp;‧&nbsp;全版消除盾】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />對每個發動攻擊的成員，<br />造成&nbsp;6,000&nbsp;點的傷害。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。",
+      "desc": "<em>【攻速變更&nbsp;‧&nbsp;反饋&nbsp;‧&nbsp;全版消除盾】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;6,000&nbsp;點的傷害。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。",
       "custom_desc": ""
     },
     "5002": {
@@ -26754,7 +26754,7 @@
     },
     "5003": {
       "title": "",
-      "desc": "<em>【攻速變更&nbsp;‧&nbsp;反饋&nbsp;‧&nbsp;全版消除盾】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />對每個發動攻擊的成員，<br />造成&nbsp;40,000&nbsp;點的傷害。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。",
+      "desc": "<em>【攻速變更&nbsp;‧&nbsp;反饋&nbsp;‧&nbsp;全版消除盾】</em><br /><br />敵人首次攻擊變為&nbsp;CD&nbsp;1。<br /><br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;40,000&nbsp;點的傷害。<br /><br />首批消除場上所有符石<br />才能對敵人造成攻擊傷害。",
       "custom_desc": ""
     },
     "5004": {
@@ -27101,7 +27101,7 @@
     },
     "5052": {
       "title": "",
-      "desc": "<em>【角色符石地型盾&nbsp;‧&nbsp;反饋&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />隨機鎖定&nbsp;2&nbsp;個位置。<br />「移動符石時間完結一刻」<br />角色符石需置於鎖定位置內，<br />該角色才能<br />對敵人造成攻擊傷害。<br />其他角色攻擊變&nbsp;0。<br /><br />對每個發動攻擊的成員，<br />造成&nbsp;40,000&nbsp;點的傷害。<br /><br />無視所有減傷效果和<br />意志技能。",
+      "desc": "<em>【角色符石地型盾&nbsp;‧&nbsp;反饋&nbsp;‧&nbsp;防禦崩壞】</em><br /><br />隨機鎖定&nbsp;2&nbsp;個位置。<br />「移動符石時間完結一刻」<br />角色符石需置於鎖定位置內，<br />該角色才能<br />對敵人造成攻擊傷害。<br />其他角色攻擊變&nbsp;0。<br /><br />對每個發動攻擊及擊中敵人的成員，<br />造成&nbsp;40,000&nbsp;點的傷害。<br /><br />無視所有減傷效果和<br />意志技能。",
       "custom_desc": ""
     },
     "5053": {
@@ -30000,7 +30000,7 @@
       "custom_desc": ""
     },
     "5554": {
-      "title": "【強化攻擊弱效】",
+      "title": "【強化攻擊弱攻】",
       "desc": "•&nbsp;消除屬性強化符石<br />⇒&nbsp;敵人所受該屬性傷害<br />&nbsp;&nbsp;&nbsp;&nbsp;減至&nbsp;10%",
       "custom_desc": ""
     },
@@ -32180,77 +32180,77 @@
     },
     "5958": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5959": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5960": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5961": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5962": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;5,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5963": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5964": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5965": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5966": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5967": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;10,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5968": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5969": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5970": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5971": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5972": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "5973": {
@@ -34811,17 +34811,17 @@
     },
     "6336": {
       "title": "【反饋】",
-      "desc": "•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
+      "desc": "•&nbsp;對每個發動攻擊及擊中敵人的成員<br />⇒&nbsp;造成&nbsp;20,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "6337": {
       "title": "【反饋】",
-      "desc": "•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;50,000&nbsp;點的傷害",
+      "desc": "•&nbsp;對每個發動攻擊及擊中敵人的成員<br />⇒&nbsp;造成&nbsp;50,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "6338": {
       "title": "【反饋】",
-      "desc": "•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
+      "desc": "•&nbsp;對每個發動攻擊及擊中敵人的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "6339": {
@@ -37071,7 +37071,7 @@
     },
     "6727": {
       "title": "敵技6727",
-      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【弱化圍城】<br />•&nbsp;每回合鎖定場上所有符石，<br />&nbsp;&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;5%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
+      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊及擊中敵人的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【弱化圍城】<br />•&nbsp;每回合鎖定場上所有符石，<br />&nbsp;&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;5%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
       "custom_desc": "<span class=\"annotation\">monster_icon 6399</span> 九封災厄 (Wave 7) (核心封閉階段的本體)<br /><ul><li>一步一傷最低扣至1血</li></ul>",
       "keywords": [
         "災厄級"
@@ -37079,12 +37079,12 @@
     },
     "6728": {
       "title": "敵技6728",
-      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【弱化圍城】<br />•&nbsp;每回合鎖定場上所有符石，<br />&nbsp;&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;10%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
+      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊及擊中敵人的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【弱化圍城】<br />•&nbsp;每回合鎖定場上所有符石，<br />&nbsp;&nbsp;每消除&nbsp;1&nbsp;粒被鎖定的符石<br />⇒&nbsp;全隊攻擊力減少&nbsp;10%。<br />&nbsp;&nbsp;&nbsp;(發動龍刻脈動視作&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;消除場上的鎖定符石)",
       "custom_desc": ""
     },
     "6729": {
       "title": "敵技6729",
-      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【電擊之暗&nbsp;‧&nbsp;電擊符石】<br />•&nbsp;進場時將所有暗符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;3&nbsp;粒符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;如有電擊符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;電擊符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊及擊中敵人的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【電擊之暗&nbsp;‧&nbsp;電擊符石】<br />•&nbsp;進場時將所有暗符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;3&nbsp;粒符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;如有電擊符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;電擊符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
       "custom_desc": "<span class=\"annotation\">monster_icon 6399</span> 九封災厄 (Wave 4) (核心封閉階段的本體)<br /><ul><li>一步一傷最低扣至1血</li></ul>",
       "keywords": [
         "災厄級"
@@ -37092,12 +37092,12 @@
     },
     "6730": {
       "title": "敵技6730",
-      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【電擊之暗&nbsp;‧&nbsp;電擊符石】<br />•&nbsp;進場時將所有暗符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;3&nbsp;粒符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;如有電擊符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;電擊符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊及擊中敵人的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【電擊之暗&nbsp;‧&nbsp;電擊符石】<br />•&nbsp;進場時將所有暗符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;每回合結束時，<br />&nbsp;&nbsp;&nbsp;隨機將&nbsp;3&nbsp;粒符石<br />⇒&nbsp;添加為電擊符石<br />•&nbsp;如有電擊符石未被消除<br />⇒&nbsp;全隊攻擊力變&nbsp;0<br />•&nbsp;電擊符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
       "custom_desc": ""
     },
     "6731": {
       "title": "敵技6731",
-      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【暗連擊零化】<br />•&nbsp;首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />【符石轉暗】<br />•&nbsp;每回合將暗以外數量最少的<br />1&nbsp;種屬性符石轉化為暗符石。",
+      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊及擊中敵人的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【暗連擊零化】<br />•&nbsp;首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />【符石轉暗】<br />•&nbsp;每回合將暗以外數量最少的<br />1&nbsp;種屬性符石轉化為暗符石。",
       "custom_desc": "<span class=\"annotation\">monster_icon 6399</span> 九封災厄 (Wave 10) (核心封閉階段的本體)<br /><ul><li>一步一傷最低扣至1血</li></ul>",
       "keywords": [
         "災厄級"
@@ -37105,7 +37105,7 @@
     },
     "6732": {
       "title": "敵技6732",
-      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【暗連擊零化】<br />•&nbsp;首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />【符石轉暗】<br />•&nbsp;每回合將暗以外數量最少的<br />1&nbsp;種屬性符石轉化為暗符石。",
+      "desc": "【一步一傷】<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除召喚師&nbsp;2%&nbsp;生命力<br /><br />【扣血攻擊】<br />•&nbsp;根據「移動符石期間<br />&nbsp;&nbsp;召喚師被扣除生命力&nbsp;x&nbsp;50」<br />&nbsp;&nbsp;((最多為召喚師<br />&nbsp;&nbsp;&nbsp;&nbsp;總生命力上限&nbsp;-1)&nbsp;x&nbsp;50)<br />⇒&nbsp;扣除敵人相應生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(需消除符石)<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />【反饋】<br />•&nbsp;對每個發動攻擊及擊中敵人的成員<br />⇒&nbsp;造成&nbsp;100,000&nbsp;點的傷害<br /><br />【暗連擊零化】<br />•&nbsp;首批消除暗符石<br />⓵&nbsp;該回合全隊攻擊力變&nbsp;0<br />⓶&nbsp;敵人根據首消暗符石組數<br />⇒&nbsp;額外追打相應次數攻擊<br /><br />【符石轉暗】<br />•&nbsp;每回合將暗以外數量最少的<br />1&nbsp;種屬性符石轉化為暗符石。",
       "custom_desc": ""
     },
     "6733": {
@@ -38829,52 +38829,52 @@
     },
     "7079": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "7080": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "7081": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "7082": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "7083": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;100,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "7084": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "7085": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "7086": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "7087": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "7088": {
       "title": "【火焰地型】",
-      "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
+      "desc": "•&nbsp;每回合隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現火焰地型<br /><br />•&nbsp;若召喚師沒有在<br />&nbsp;&nbsp;火焰地型位置<br />&nbsp;&nbsp;&nbsp;最後結束轉珠<br />⇒&nbsp;對每個發動攻擊及擊中敵人的成員<br />&nbsp;&nbsp;&nbsp;&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "7089": {
@@ -40124,12 +40124,12 @@
     },
     "7360": {
       "title": "【反饋】",
-      "desc": "•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
+      "desc": "•&nbsp;對每個發動攻擊及擊中敵人的成員<br />⇒&nbsp;造成&nbsp;200,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "7361": {
       "title": "【反饋】",
-      "desc": "•&nbsp;對每個發動攻擊的成員<br />⇒&nbsp;造成&nbsp;500,000&nbsp;點的傷害",
+      "desc": "•&nbsp;對每個發動攻擊及擊中敵人的成員<br />⇒&nbsp;造成&nbsp;500,000&nbsp;點的傷害",
       "custom_desc": ""
     },
     "7362": {
@@ -42196,6 +42196,176 @@
       "title": "【技能 EP -10】",
       "desc": "•&nbsp;所有成員技能&nbsp;EP&nbsp;-10",
       "custom_desc": ""
+    },
+    "7776": {
+      "title": "【≤1 連擊盾】",
+      "desc": "達成&nbsp;≤1&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7777": {
+      "title": "【≤2 連擊盾】",
+      "desc": "達成&nbsp;≤2&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7778": {
+      "title": "【≤3 連擊盾】",
+      "desc": "達成&nbsp;≤3&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7779": {
+      "title": "【≤4 連擊盾】",
+      "desc": "達成&nbsp;≤4&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7780": {
+      "title": "【≤5 連擊盾】",
+      "desc": "達成&nbsp;≤5&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7781": {
+      "title": "【≤6 連擊盾】",
+      "desc": "達成&nbsp;≤6&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7782": {
+      "title": "【≤7 連擊盾】",
+      "desc": "達成&nbsp;≤7&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7783": {
+      "title": "【≤8 連擊盾】",
+      "desc": "達成&nbsp;≤8&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7784": {
+      "title": "【≤9 連擊盾】",
+      "desc": "達成&nbsp;≤9&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7785": {
+      "title": "【≤10 連擊盾】",
+      "desc": "達成&nbsp;≤10&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7786": {
+      "title": "【≤11 連擊盾】",
+      "desc": "達成&nbsp;≤11&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7787": {
+      "title": "【≤12 連擊盾】",
+      "desc": "達成&nbsp;≤12&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7788": {
+      "title": "【≤13 連擊盾】",
+      "desc": "達成&nbsp;≤13&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7789": {
+      "title": "【≤14 連擊盾】",
+      "desc": "達成&nbsp;≤14&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7790": {
+      "title": "【≤15 連擊盾】",
+      "desc": "達成&nbsp;≤15&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7791": {
+      "title": "【≤16 連擊盾】",
+      "desc": "達成&nbsp;≤16&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7792": {
+      "title": "【≤17 連擊盾】",
+      "desc": "達成&nbsp;≤17&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7793": {
+      "title": "【≤18 連擊盾】",
+      "desc": "達成&nbsp;≤18&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7794": {
+      "title": "【≤19 連擊盾】",
+      "desc": "達成&nbsp;≤19&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7795": {
+      "title": "【≤20 連擊盾】",
+      "desc": "達成&nbsp;≤20&nbsp;連擊&nbsp;(Combo)<br />才能對敵人造成傷害，<br />否則敵人承受傷害變為&nbsp;1。",
+      "custom_desc": ""
+    },
+    "7796": {
+      "title": "【非束縛狀態 - 弱攻】",
+      "desc": "敵人所受傷害減至&nbsp;25%；<br />只有敵人置身在束縛狀態，<br />才能對其造成完整傷害。",
+      "custom_desc": ""
+    },
+    "7797": {
+      "title": "【非束縛狀態 - 弱攻】",
+      "desc": "敵人所受傷害減至&nbsp;10%；<br />只有敵人置身在束縛狀態，<br />才能對其造成完整傷害。",
+      "custom_desc": ""
+    },
+    "7798": {
+      "title": "【非束縛狀態 - 弱攻】",
+      "desc": "•&nbsp;只有敵人置身在束縛狀態<br />⇒&nbsp;才能對敵人造成傷害",
+      "custom_desc": ""
+    },
+    "7799": {
+      "title": "【開技消耗代價】",
+      "desc": "•&nbsp;每次發動主動技能時&nbsp;<br />&nbsp;&nbsp;(包括關閉技能)<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力&nbsp;",
+      "custom_desc": ""
+    },
+    "7800": {
+      "title": "【靈罩擊破】",
+      "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;1&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "7801": {
+      "title": "【靈罩擊破】",
+      "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;2&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "7802": {
+      "title": "【靈罩擊破】",
+      "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;3&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "7803": {
+      "title": "【靈罩擊破】",
+      "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;4&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "7804": {
+      "title": "【靈罩擊破】",
+      "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;5&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "7805": {
+      "title": "【靈罩擊破】",
+      "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;6&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "7806": {
+      "title": "【靈罩擊破】",
+      "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;7&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "7807": {
+      "title": "【靈罩擊破】",
+      "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;8&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "7808": {
+      "title": "【靈罩擊破】",
+      "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;9&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "7809": {
+      "title": "【靈罩擊破】",
+      "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;10&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
     }
   },
   "standard_icons": {
@@ -42606,10 +42776,10 @@
       122
     ],
     "173": [
-      147
+      1522
     ],
     "174": [
-      148
+      1523
     ],
     "177": [
       18
@@ -59171,18 +59341,6 @@
       345,
       718
     ],
-    "4394": [
-      345,
-      1458
-    ],
-    "4395": [
-      345,
-      1460
-    ],
-    "4396": [
-      345,
-      1462
-    ],
     "4397": [
       100,
       276,
@@ -65614,25 +65772,25 @@
       865
     ],
     "6391": [
-      813
+      1198
     ],
     "6392": [
-      813
+      1198
     ],
     "6393": [
-      813
+      1198
     ],
     "6394": [
-      813
+      1198
     ],
     "6395": [
-      813
+      1198
     ],
     "6396": [
-      813
+      1198
     ],
     "6397": [
-      813
+      1198
     ],
     "6399": [
       51,
@@ -67229,19 +67387,19 @@
       810
     ],
     "6960": [
-      1160
+      15
     ],
     "6961": [
-      1160
+      15
     ],
     "6962": [
-      1160
+      15
     ],
     "6963": [
-      1160
+      15
     ],
     "6964": [
-      1160
+      15
     ],
     "6965": [
       1251
@@ -68898,6 +69056,12 @@
     "7548": [
       15
     ],
+    "7549": [
+      15
+    ],
+    "7550": [
+      15
+    ],
     "7552": [
       299
     ],
@@ -69557,6 +69721,108 @@
     ],
     "7771": [
       1355
+    ],
+    "7776": [
+      1520
+    ],
+    "7777": [
+      1521
+    ],
+    "7778": [
+      1522
+    ],
+    "7779": [
+      1523
+    ],
+    "7780": [
+      1524
+    ],
+    "7781": [
+      1525
+    ],
+    "7782": [
+      1526
+    ],
+    "7783": [
+      1527
+    ],
+    "7784": [
+      1528
+    ],
+    "7785": [
+      1529
+    ],
+    "7786": [
+      1530
+    ],
+    "7787": [
+      1531
+    ],
+    "7788": [
+      1532
+    ],
+    "7789": [
+      1533
+    ],
+    "7790": [
+      1299
+    ],
+    "7791": [
+      1534
+    ],
+    "7792": [
+      1535
+    ],
+    "7793": [
+      1536
+    ],
+    "7794": [
+      1537
+    ],
+    "7795": [
+      1300
+    ],
+    "7796": [
+      1539
+    ],
+    "7797": [
+      1539
+    ],
+    "7798": [
+      1539
+    ],
+    "7799": [
+      813
+    ],
+    "7800": [
+      1538
+    ],
+    "7801": [
+      1538
+    ],
+    "7802": [
+      1538
+    ],
+    "7803": [
+      1538
+    ],
+    "7804": [
+      1538
+    ],
+    "7805": [
+      1538
+    ],
+    "7806": [
+      1538
+    ],
+    "7807": [
+      1538
+    ],
+    "7808": [
+      1538
+    ],
+    "7809": [
+      1538
     ]
   }
 }

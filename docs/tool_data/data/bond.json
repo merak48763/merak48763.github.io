@@ -10272,12 +10272,60 @@
     ]
   },
   {
+    "owner": 11048,
+    "condition": 11052,
+    "conditionType": 1,
+    "ability": 20002,
+    "args": [
+      100,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11049,
+    "condition": 11052,
+    "conditionType": 1,
+    "ability": 20002,
+    "args": [
+      100,
+      1,
+      0,
+      0
+    ]
+  },
+  {
     "owner": 11050,
     "condition": 11040,
     "conditionType": 2,
     "ability": 20002,
     "args": [
       100,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11051,
+    "condition": 11052,
+    "conditionType": 1,
+    "ability": 20002,
+    "args": [
+      150,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11052,
+    "condition": 11051,
+    "conditionType": 2,
+    "ability": 20002,
+    "args": [
+      150,
       1,
       0,
       0
@@ -10314,6 +10362,102 @@
     "ability": 20003,
     "args": [
       2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11055,
+    "condition": 11058,
+    "conditionType": 2,
+    "ability": 20011,
+    "args": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11055,
+    "condition": 11060,
+    "conditionType": 2,
+    "ability": 20003,
+    "args": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11055,
+    "condition": 11065,
+    "conditionType": 2,
+    "ability": 20003,
+    "args": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11056,
+    "condition": 11055,
+    "conditionType": 1,
+    "ability": 20003,
+    "args": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11058,
+    "condition": 11055,
+    "conditionType": 1,
+    "ability": 20003,
+    "args": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11060,
+    "condition": 11055,
+    "conditionType": 1,
+    "ability": 20002,
+    "args": [
+      150,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11065,
+    "condition": 11055,
+    "conditionType": 1,
+    "ability": 20003,
+    "args": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11066,
+    "condition": 11055,
+    "conditionType": 1,
+    "ability": 20005,
+    "args": [
+      1,
       0,
       0,
       0

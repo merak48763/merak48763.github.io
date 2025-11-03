@@ -6726,6 +6726,428 @@
           }
         ]
       ]
+    },
+    {
+      "id": 48,
+      "series": 1,
+      "scid": 48,
+      "name": "甦醒的妖刀",
+      "nameEn": "Awakening of the Wicked Katana",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              4
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 9,
+            "args": [
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              5
+            ]
+          },
+          {
+            "skill": 3,
+            "args": [
+              30,
+              5,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": [
+              5
+            ]
+          },
+          {
+            "skill": 3,
+            "args": [
+              30,
+              10,
+              5
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 9,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 9,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 49,
+      "series": 1,
+      "scid": 49,
+      "name": "終命一彈",
+      "nameEn": "Last Shot of Vengeance",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 3,
+      "instantSkill": [
+        [
+          {
+            "skill": 13,
+            "args": [
+              2,
+              8
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              2,
+              8
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              2,
+              8
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              8
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              8
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 1,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          },
+          {
+            "skill": 18,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 50,
+      "series": 1,
+      "scid": 50,
+      "name": "機密查錄",
+      "nameEn": "Classified Investigation",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 1,
+      "instantSkill": [
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              100,
+              1,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              100,
+              1,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              100,
+              1,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              200,
+              1,
+              2
+            ]
+          },
+          {
+            "skill": 2,
+            "args": [
+              200,
+              1,
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              200,
+              1,
+              2
+            ]
+          },
+          {
+            "skill": 2,
+            "args": [
+              200,
+              1,
+              4
+            ]
+          }
+        ]
+      ]
     }
   ],
   "series": [

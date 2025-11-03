@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.500",
-    "dv": 26394,
-    "time": 1757302317
+    "version": "2025.600",
+    "dv": 26623,
+    "time": 1762171850
   },
   "ws": {
     "10001": {
@@ -3975,6 +3975,11 @@
       "desc": "　",
       "custom_desc": ""
     },
+    "10828": {
+      "title": "",
+      "desc": "•&nbsp;每回合隨機&nbsp;1&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「DISC」：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不能發動主動技能<br />⇒&nbsp;效果持續至召喚師死亡或<br />&nbsp;&nbsp;&nbsp;&nbsp;擊斃「普奇神父與白蛇」",
+      "custom_desc": ""
+    },
     "10829": {
       "title": "",
       "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒「移動符石時間完結一刻」<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該角色符石需置於<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;防禦地型內，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「DISC」：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不能發動主動技能<br />⇒&nbsp;效果持續至召喚師死亡或<br />&nbsp;&nbsp;&nbsp;&nbsp;擊斃「普奇神父與白蛇」",
@@ -4208,6 +4213,116 @@
     "10881": {
       "title": "",
       "desc": "•&nbsp;發動主動技能後<br />⇒&nbsp;相關成員進入&nbsp;5&nbsp;回合超載狀態<br />⓵&nbsp;不能發動主動技能<br />⓶&nbsp;不能發動角色符石",
+      "custom_desc": ""
+    },
+    "10894": {
+      "title": "",
+      "desc": "•&nbsp;移動&nbsp;4000&nbsp;步後，<br />&nbsp;&nbsp;&nbsp;回合結束時<br />⇒&nbsp;召喚師會死亡<br />※&nbsp;召喚師死亡復活後<br />⇒&nbsp;重置步數",
+      "custom_desc": ""
+    },
+    "10895": {
+      "title": "",
+      "desc": "•&nbsp;移動&nbsp;3500&nbsp;步後，<br />&nbsp;&nbsp;&nbsp;回合結束時<br />⇒&nbsp;召喚師會死亡<br />※&nbsp;召喚師死亡復活後<br />⇒&nbsp;重置步數",
+      "custom_desc": ""
+    },
+    "10896": {
+      "title": "",
+      "desc": "•&nbsp;移動&nbsp;3000&nbsp;步後，<br />&nbsp;&nbsp;&nbsp;回合結束時<br />⇒&nbsp;召喚師會死亡<br />※&nbsp;召喚師死亡復活後<br />⇒&nbsp;重置步數",
+      "custom_desc": ""
+    },
+    "10897": {
+      "title": "",
+      "desc": "•&nbsp;移動&nbsp;2500&nbsp;步後，<br />&nbsp;&nbsp;&nbsp;回合結束時<br />⇒&nbsp;召喚師會死亡<br />※&nbsp;召喚師死亡復活後<br />⇒&nbsp;重置步數",
+      "custom_desc": ""
+    },
+    "10898": {
+      "title": "",
+      "desc": "•&nbsp;移動&nbsp;2000&nbsp;步後，<br />&nbsp;&nbsp;&nbsp;回合結束時<br />⇒&nbsp;召喚師會死亡<br />※&nbsp;召喚師死亡復活後<br />⇒&nbsp;重置步數",
+      "custom_desc": ""
+    },
+    "10899": {
+      "title": "",
+      "desc": "•&nbsp;移動&nbsp;1500&nbsp;步後，<br />&nbsp;&nbsp;&nbsp;回合結束時<br />⇒&nbsp;召喚師會死亡<br />※&nbsp;召喚師死亡復活後<br />⇒&nbsp;重置步數",
+      "custom_desc": ""
+    },
+    "10900": {
+      "title": "",
+      "desc": "•&nbsp;移動&nbsp;1000&nbsp;步後，<br />&nbsp;&nbsp;&nbsp;回合結束時<br />⇒&nbsp;召喚師會死亡<br />※&nbsp;召喚師死亡復活後<br />⇒&nbsp;重置步數",
+      "custom_desc": ""
+    },
+    "10901": {
+      "title": "",
+      "desc": "•&nbsp;移動&nbsp;500&nbsp;步後，<br />&nbsp;&nbsp;&nbsp;回合結束時<br />⇒&nbsp;召喚師會死亡<br />※&nbsp;召喚師死亡復活後<br />⇒&nbsp;重置步數",
+      "custom_desc": ""
+    },
+    "10902": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;3x3】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;9&nbsp;粒符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10903": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;3x3】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;9&nbsp;粒水符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10904": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;3x3】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;9&nbsp;粒火符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10905": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;3x3】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;9&nbsp;粒木符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10906": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;3x3】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;9&nbsp;粒光符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10907": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;3x3】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;9&nbsp;粒暗符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10908": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;3x3】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;9&nbsp;粒心符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10909": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;4x4】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;16&nbsp;粒符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10910": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;4x4】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;16&nbsp;粒水符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10911": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;4x4】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;16&nbsp;粒火符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10912": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;4x4】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;16&nbsp;粒木符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10913": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;4x4】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;16&nbsp;粒光符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10914": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;4x4】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;16&nbsp;粒暗符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
+      "custom_desc": ""
+    },
+    "10915": {
+      "title": "",
+      "desc": "•&nbsp;以【正方&nbsp;4x4】形首批消除<br />&nbsp;&nbsp;≥1&nbsp;組&nbsp;16&nbsp;粒心符石<br />⇒&nbsp;增加&nbsp;1&nbsp;重「靈罩」<br />&nbsp;&nbsp;&nbsp;&nbsp;(上限&nbsp;99&nbsp;重)",
       "custom_desc": ""
     }
   }
