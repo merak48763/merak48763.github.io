@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.600",
-    "dv": 26623,
-    "time": 1762171850
+    "version": "2025.601",
+    "dv": 26646,
+    "time": 1763314461
   },
   "ws": {
     "10001": {
@@ -4063,6 +4063,36 @@
     "10845": {
       "title": "",
       "desc": "•&nbsp;回合開始時倒數&nbsp;5&nbsp;秒<br />•&nbsp;倒數至&nbsp;0&nbsp;秒時<br />⇒&nbsp;立即進入敵人行動階段",
+      "custom_desc": ""
+    },
+    "10846": {
+      "title": "",
+      "desc": "拖動將&nbsp;2&nbsp;個角色放置在<br />&nbsp;「公正的天秤」上作出審判<br /><br />•&nbsp;審判條件：<br />&nbsp;&nbsp;&nbsp;累計攻擊傷害較高的成員<br />⇒&nbsp;被判「有罪」，<br />&nbsp;&nbsp;若&nbsp;2&nbsp;個角色審判條件判定為相同<br />⇒&nbsp;則「無罪」<br />•「有罪」的成員進入「魂離」：<br />&nbsp;&nbsp;&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次<br />",
+      "custom_desc": ""
+    },
+    "10847": {
+      "title": "",
+      "desc": "拖動將&nbsp;2&nbsp;個角色放置在<br />&nbsp;「公正的天秤」上作出審判<br /><br />•&nbsp;審判條件：<br />&nbsp;&nbsp;&nbsp;累計發動主動技能次數<br />&nbsp;&nbsp;&nbsp;較多的成員<br />⇒&nbsp;被判「有罪」，<br />&nbsp;&nbsp;&nbsp;若&nbsp;2&nbsp;個角色審判條件判定為相同<br />⇒&nbsp;則「無罪」<br />•「有罪」的成員進入「魂離」：<br />&nbsp;&nbsp;&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
+      "custom_desc": ""
+    },
+    "10848": {
+      "title": "",
+      "desc": "拖動將&nbsp;2&nbsp;個角色放置在<br />&nbsp;「公正的天秤」上作出審判<br /><br />•&nbsp;審判條件：<br />&nbsp;&nbsp;&nbsp;累計攻擊次數較多的成員<br />⇒&nbsp;被判「有罪」，<br />&nbsp;&nbsp;&nbsp;若&nbsp;2&nbsp;個角色審判條件判定為相同<br />⇒&nbsp;則「無罪」<br />•「有罪」的成員進入「魂離」：<br />&nbsp;&nbsp;&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
+      "custom_desc": ""
+    },
+    "10849": {
+      "title": "",
+      "desc": "拖動將&nbsp;2&nbsp;個角色放置在<br />&nbsp;「公正的天秤」上作出審判<br /><br />•&nbsp;審判條件：<br />&nbsp;&nbsp;&nbsp;進場前生命力基值較高的成員<br />⇒&nbsp;被判「有罪」，<br />&nbsp;&nbsp;&nbsp;若&nbsp;2&nbsp;個角色審判條件判定為相同<br />⇒&nbsp;則「無罪」<br />•「有罪」的成員進入「魂離」：<br />&nbsp;&nbsp;&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
+      "custom_desc": ""
+    },
+    "10850": {
+      "title": "",
+      "desc": "拖動將&nbsp;2&nbsp;個角色放置在<br />&nbsp;「公正的天秤」上作出審判<br /><br />•&nbsp;審判條件：<br />&nbsp;&nbsp;&nbsp;進場前攻擊力基值較高的成員<br />⇒&nbsp;被判「有罪」，<br />&nbsp;&nbsp;&nbsp;若&nbsp;2&nbsp;個角色審判條件判定為相同<br />⇒&nbsp;則「無罪」<br />•「有罪」的成員進入「魂離」：<br />&nbsp;&nbsp;&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
+      "custom_desc": ""
+    },
+    "10851": {
+      "title": "",
+      "desc": "拖動將&nbsp;2&nbsp;個角色放置在<br />&nbsp;「公正的天秤」上作出審判<br /><br />•&nbsp;審判條件：<br />&nbsp;&nbsp;&nbsp;進場前回復力基值較高的成員<br />⇒&nbsp;被判「有罪」，<br />&nbsp;&nbsp;&nbsp;若&nbsp;2&nbsp;個角色審判條件判定為相同<br />⇒&nbsp;則「無罪」<br />•「有罪」的成員進入「魂離」：<br />&nbsp;&nbsp;&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
       "custom_desc": ""
     },
     "10852": {

@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.600",
-    "dv": 14197,
-    "time": 1762171850
+    "version": "2025.601",
+    "dv": 14213,
+    "time": 1763314461
   },
   "monster": {
     "1": {
@@ -28337,6 +28337,12 @@
       "race": 4,
       "rarity": 7
     },
+    "11003": {
+      "name": "鋼志審結 ‧ 凱撒",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 7
+    },
     "11011": {
       "name": "歷史之殤 ‧ 烏爾德",
       "attribute": 1,
@@ -28635,6 +28641,42 @@
       "name": "蠶食心域 ‧ 烏里瑪",
       "attribute": 2,
       "race": 3,
+      "rarity": 7
+    },
+    "11061": {
+      "name": "夢火啟途 ‧ 謝貝妮",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "11062": {
+      "name": "虛域使役 ‧ 金屬猩猩",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 6
+    },
+    "11063": {
+      "name": "凶暴凌遲 ‧ 蜥蜴戰士",
+      "attribute": 5,
+      "race": 4,
+      "rarity": 6
+    },
+    "11064": {
+      "name": "戰略導嚮 ‧ 琳蒂",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 6
+    },
+    "11065": {
+      "name": "矢志獻誠 ‧ 骨女朝花",
+      "attribute": 2,
+      "race": 3,
+      "rarity": 6
+    },
+    "11067": {
+      "name": "叛親謀奪 ‧ 卡洛",
+      "attribute": 2,
+      "race": 8,
       "rarity": 6
     },
     "5001": {
@@ -28675,6 +28717,12 @@
     },
     "9999": {
       "name": "暫時沒法顯示"
+    },
+    "11001": {
+      "name": "罪狀宣告 ‧ 聖槍涅索伊",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 7
     },
     "20001": {
       "name": "以諾"
