@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2025.601",
-    "dv": 14213,
-    "time": 1763314461
+    "dv": 14219,
+    "time": 1763979074
   },
   "monster": {
     "1": {
@@ -28673,9 +28673,27 @@
       "race": 3,
       "rarity": 6
     },
+    "11066": {
+      "name": "百計不休 ‧ 菅原道真",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 7
+    },
     "11067": {
       "name": "叛親謀奪 ‧ 卡洛",
       "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
+    "11068": {
+      "name": "驚魂活吞 ‧ 掌中面",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 6
+    },
+    "11069": {
+      "name": "千金散盡 ‧ 珀西",
+      "attribute": 5,
       "race": 8,
       "rarity": 6
     },
