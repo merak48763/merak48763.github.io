@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.601",
-    "dv": 14219,
-    "time": 1763979074
+    "version": "2025.610",
+    "dv": 14257,
+    "time": 1764570843
   },
   "monster": {
     "1": {
@@ -17621,6 +17621,12 @@
       "race": 3,
       "rarity": 6
     },
+    "2947": {
+      "name": "孤牛孑立 ‧ 牛魔王",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -28696,6 +28702,108 @@
       "attribute": 5,
       "race": 8,
       "rarity": 6
+    },
+    "11070": {
+      "name": "日墜月落 ‧ 咖波",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 6
+    },
+    "11071": {
+      "name": "萬魔之王 ‧ 咖波",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 6
+    },
+    "11072": {
+      "name": "碑紋騎士 ‧ 咖波",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 6
+    },
+    "11073": {
+      "name": "水元素賢者 ‧ 咖波",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 6
+    },
+    "11074": {
+      "name": "永生聖果 ‧ 咖波",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 6
+    },
+    "11075": {
+      "name": "貓貓蟲咖波",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 6
+    },
+    "11076": {
+      "name": "貓貓貓蟲列車",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 7
+    },
+    "11077": {
+      "name": "一群小雞",
+      "attribute": 4,
+      "race": 7,
+      "rarity": 6
+    },
+    "11078": {
+      "name": "小雞",
+      "attribute": 4,
+      "race": 7,
+      "rarity": 6
+    },
+    "11079": {
+      "name": "狗狗",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 6
+    },
+    "11080": {
+      "name": "肌肉咖波",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 6
+    },
+    "11082": {
+      "name": "兔兔",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 6
+    },
+    "11084": {
+      "name": "奶泡貓",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 6
+    },
+    "11085": {
+      "name": "黑貓蟲與黑貓蟲寶寶",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 6
+    },
+    "11086": {
+      "name": "鯊魚貓蟲",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 6
+    },
+    "11087": {
+      "name": "殭屍貓蟲",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 6
+    },
+    "11089": {
+      "name": "國王咖波",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 7
     },
     "5001": {
       "name": "UNKNOWN"

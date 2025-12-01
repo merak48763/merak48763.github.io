@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.601",
-    "dv": 26646,
-    "time": 1763314461
+    "version": "2025.610",
+    "dv": 27001,
+    "time": 1764570843
   },
   "ws": {
     "10001": {
@@ -4243,6 +4243,66 @@
     "10881": {
       "title": "",
       "desc": "•&nbsp;發動主動技能後<br />⇒&nbsp;相關成員進入&nbsp;5&nbsp;回合超載狀態<br />⓵&nbsp;不能發動主動技能<br />⓶&nbsp;不能發動角色符石",
+      "custom_desc": ""
+    },
+    "10882": {
+      "title": "",
+      "desc": "•&nbsp;持續在不同位置<br />⇒&nbsp;出現&nbsp;1&nbsp;個轟裂地型<br />•&nbsp;轟裂地型的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+      "custom_desc": ""
+    },
+    "10883": {
+      "title": "",
+      "desc": "•&nbsp;持續在不同位置<br />⇒&nbsp;出現&nbsp;3&nbsp;個轟裂地型<br />•&nbsp;轟裂地型的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+      "custom_desc": ""
+    },
+    "10884": {
+      "title": "",
+      "desc": "•&nbsp;持續在不同位置<br />⇒&nbsp;出現&nbsp;5&nbsp;個轟裂地型<br />•&nbsp;轟裂地型的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+      "custom_desc": ""
+    },
+    "10885": {
+      "title": "",
+      "desc": "•&nbsp;持續在不同位置<br />⇒&nbsp;出現&nbsp;1&nbsp;個轟裂地型<br />•&nbsp;轟裂地型的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+      "custom_desc": ""
+    },
+    "10886": {
+      "title": "",
+      "desc": "•&nbsp;持續在不同位置<br />⇒&nbsp;出現&nbsp;3&nbsp;個轟裂地型<br />•&nbsp;轟裂地型的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+      "custom_desc": ""
+    },
+    "10887": {
+      "title": "",
+      "desc": "•&nbsp;持續在不同位置<br />⇒&nbsp;出現&nbsp;5&nbsp;個轟裂地型<br />•&nbsp;轟裂地型的符石一經觸碰<br />⇒&nbsp;即時停止移動符石",
+      "custom_desc": ""
+    },
+    "10888": {
+      "title": "",
+      "desc": "•&nbsp;場上有香薰守護狀態<br />⇒&nbsp;才能對敵人造成傷害<br />•&nbsp;召喚師死亡復活後<br />⇒&nbsp;對召喚師施加香薰守護狀態",
+      "custom_desc": ""
+    },
+    "10889": {
+      "title": "",
+      "desc": "【小雞石牢】<br />•&nbsp;不能發動角色符石<br />•&nbsp;流光符石不能進入角色頭像",
+      "custom_desc": ""
+    },
+    "10890": {
+      "title": "",
+      "desc": "•&nbsp;隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現頭像變換地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰頭像變換地型<br />⇒&nbsp;該角色永久變為<br />&nbsp;&nbsp;&nbsp;「黑貓蟲寶寶」頭像：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無法發動主動技能<br />•&nbsp;移動「黑貓蟲寶寶」頭像<br />&nbsp;&nbsp;角色符石時觸碰頭像變換地型<br />⇒&nbsp;該角色變回原始模樣<br />•&nbsp;每個頭像變換地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+      "custom_desc": ""
+    },
+    "10891": {
+      "title": "",
+      "desc": "•&nbsp;隨機&nbsp;3&nbsp;個位置<br />⇒&nbsp;出現頭像變換地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰頭像變換地型<br />⇒&nbsp;該角色永久變為<br />&nbsp;&nbsp;&nbsp;「黑貓蟲寶寶」頭像：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無法發動主動技能<br />•&nbsp;移動「黑貓蟲寶寶」頭像<br />&nbsp;&nbsp;角色符石時觸碰頭像變換地型<br />⇒&nbsp;該角色變回原始模樣<br />•&nbsp;每個頭像變換地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+      "custom_desc": ""
+    },
+    "10892": {
+      "title": "",
+      "desc": "•&nbsp;隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現頭像變換地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰頭像變換地型<br />⇒&nbsp;該角色永久變為<br />&nbsp;&nbsp;&nbsp;「黑貓蟲寶寶」頭像：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無法發動主動技能<br />•&nbsp;移動「黑貓蟲寶寶」頭像<br />&nbsp;&nbsp;角色符石時觸碰頭像變換地型<br />⇒&nbsp;該角色變回原始模樣<br />•&nbsp;每個頭像變換地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
+      "custom_desc": ""
+    },
+    "10893": {
+      "title": "",
+      "desc": "•&nbsp;隨機&nbsp;5&nbsp;個位置<br />⇒&nbsp;出現頭像變換地型<br />•&nbsp;移動角色符石時<br />&nbsp;&nbsp;觸碰頭像變換地型<br />⇒&nbsp;該角色永久變為<br />&nbsp;&nbsp;&nbsp;「黑貓蟲寶寶」頭像：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無法發動主動技能<br />•&nbsp;移動「黑貓蟲寶寶」頭像<br />&nbsp;&nbsp;角色符石時觸碰頭像變換地型<br />⇒&nbsp;該角色變回原始模樣<br />•&nbsp;每個頭像變換地型效果<br />&nbsp;&nbsp;每回合只能觸發&nbsp;1&nbsp;次",
       "custom_desc": ""
     },
     "10894": {

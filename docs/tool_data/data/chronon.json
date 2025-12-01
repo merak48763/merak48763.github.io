@@ -7148,6 +7148,159 @@
           }
         ]
       ]
+    },
+    {
+      "id": 51,
+      "series": 1,
+      "scid": 51,
+      "name": "午後茶香",
+      "nameEn": "Afternoon Tea in the Air",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 3,
+      "instantSkill": [
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              4,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              4,
+              3
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          },
+          {
+            "skill": 26,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          },
+          {
+            "skill": 26,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 34,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 34,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 34,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 34,
+            "args": [
+              1
+            ]
+          },
+          {
+            "skill": 18,
+            "args": [
+              50,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 34,
+            "args": [
+              1
+            ]
+          },
+          {
+            "skill": 18,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ]
+      ]
     }
   ],
   "series": [
