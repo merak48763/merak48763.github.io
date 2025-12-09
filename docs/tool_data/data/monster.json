@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.610",
-    "dv": 14257,
-    "time": 1764570843
+    "version": "2025.611",
+    "dv": 14259,
+    "time": 1765268689
   },
   "monster": {
     "1": {
@@ -28766,6 +28766,12 @@
     "11080": {
       "name": "肌肉咖波",
       "attribute": 1,
+      "race": 2,
+      "rarity": 6
+    },
+    "11081": {
+      "name": "咖波與狗狗",
+      "attribute": 2,
       "race": 2,
       "rarity": 6
     },
