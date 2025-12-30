@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2025.611",
-    "dv": 27015,
-    "time": 1765268689
+    "dv": 27065,
+    "time": 1767086436
   },
   "es": {
     "0": {
@@ -52,7 +52,7 @@
       "custom_desc": "<ul><li>敵人屬性：光、暗</li><li>心和剋制敵人屬性的符石會被轉化</li><li>消除敵屬符石的回合，召喚師會被扣除30%血量</li><li>每消除一組敵屬符石，敵人回復2%血量</li></ul>"
     },
     "12": {
-      "title": "連擊",
+      "title": "【連擊】",
       "desc": "敵人會在&nbsp;1&nbsp;回合內連續攻擊&nbsp;2&nbsp;次",
       "custom_desc": ""
     },
@@ -1654,7 +1654,7 @@
       "custom_desc": ""
     },
     "282": {
-      "title": "越攻越強",
+      "title": "【愈攻愈強】",
       "desc": "敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃&nbsp;2&nbsp;次",
       "custom_desc": "<span class=\"annotation\">trojan_attack</span>"
     },
@@ -8558,127 +8558,127 @@
       "custom_desc": ""
     },
     "1629": {
-      "title": "累積10+水符石盾",
+      "title": "【水符石護盾 10 粒】",
       "desc": "召喚師需累積消除&nbsp;10&nbsp;粒水符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1630": {
-      "title": "累積15+水符石盾",
+      "title": "【水符石護盾 15 粒】",
       "desc": "召喚師需累積消除&nbsp;15&nbsp;粒水符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1631": {
-      "title": "累積20+水符石盾",
+      "title": "【水符石護盾 20 粒】",
       "desc": "召喚師需累積消除&nbsp;20&nbsp;粒水符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1632": {
-      "title": "累積25+水符石盾",
+      "title": "【水符石護盾 25 粒】",
       "desc": "召喚師需累積消除&nbsp;25&nbsp;粒水符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1633": {
-      "title": "累積30+水符石盾",
+      "title": "【水符石護盾 30 粒】",
       "desc": "召喚師需累積消除&nbsp;30&nbsp;粒水符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1634": {
-      "title": "累積10+火符石盾",
+      "title": "【火符石護盾 10 粒】",
       "desc": "召喚師需累積消除&nbsp;10&nbsp;粒火符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1635": {
-      "title": "累積15+火符石盾",
+      "title": "【火符石護盾 15 粒】",
       "desc": "召喚師需累積消除&nbsp;15&nbsp;粒火符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1636": {
-      "title": "累積20+火符石盾",
+      "title": "【火符石護盾 20 粒】",
       "desc": "召喚師需累積消除&nbsp;20&nbsp;粒火符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1637": {
-      "title": "累積25+火符石盾",
+      "title": "【火符石護盾 25 粒】",
       "desc": "召喚師需累積消除&nbsp;25&nbsp;粒火符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1638": {
-      "title": "累積30+火符石盾",
+      "title": "【火符石護盾 30 粒】",
       "desc": "召喚師需累積消除&nbsp;30&nbsp;粒火符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1639": {
-      "title": "累積10+木符石盾",
+      "title": "【木符石護盾 10 粒】",
       "desc": "召喚師需累積消除&nbsp;10&nbsp;粒木符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1640": {
-      "title": "累積15+木符石盾",
+      "title": "【木符石護盾 15 粒】",
       "desc": "召喚師需累積消除&nbsp;15&nbsp;粒木符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1641": {
-      "title": "累積20+木符石盾",
+      "title": "【木符石護盾 20 粒】",
       "desc": "召喚師需累積消除&nbsp;20&nbsp;粒木符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1642": {
-      "title": "累積25+木符石盾",
+      "title": "【木符石護盾 25 粒】",
       "desc": "召喚師需累積消除&nbsp;25&nbsp;粒木符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1643": {
-      "title": "累積30+木符石盾",
+      "title": "【木符石護盾 30 粒】",
       "desc": "召喚師需累積消除&nbsp;30&nbsp;粒木符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1644": {
-      "title": "累積10+光符石盾",
+      "title": "【光符石護盾 10 粒】",
       "desc": "召喚師需累積消除&nbsp;10&nbsp;粒光符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1645": {
-      "title": "累積15+光符石盾",
+      "title": "【光符石護盾 15 粒】",
       "desc": "召喚師需累積消除&nbsp;15&nbsp;粒光符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1646": {
-      "title": "累積20+光符石盾",
+      "title": "【光符石護盾 20 粒】",
       "desc": "召喚師需累積消除&nbsp;20&nbsp;粒光符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1647": {
-      "title": "累積25+光符石盾",
+      "title": "【光符石護盾 25 粒】",
       "desc": "召喚師需累積消除&nbsp;25&nbsp;粒光符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1648": {
-      "title": "累積30+光符石盾",
+      "title": "【光符石護盾 30 粒】",
       "desc": "召喚師需累積消除&nbsp;30&nbsp;粒光符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1649": {
-      "title": "累積10+暗符石盾",
+      "title": "【暗符石護盾 10 粒】",
       "desc": "召喚師需累積消除&nbsp;10&nbsp;粒暗符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1650": {
-      "title": "累積15+暗符石盾",
+      "title": "【暗符石護盾 15 粒】",
       "desc": "召喚師需累積消除&nbsp;15&nbsp;粒暗符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1651": {
-      "title": "累積20+暗符石盾",
+      "title": "【暗符石護盾 20 粒】",
       "desc": "召喚師需累積消除&nbsp;20&nbsp;粒暗符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1652": {
-      "title": "累積25+暗符石盾",
+      "title": "【暗符石護盾 25 粒】",
       "desc": "召喚師需累積消除&nbsp;25&nbsp;粒暗符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
     "1653": {
-      "title": "累積30+暗符石盾",
+      "title": "【暗符石護盾 30 粒】",
       "desc": "召喚師需累積消除&nbsp;30&nbsp;粒暗符石，才會對敵人造成攻擊傷害",
       "custom_desc": ""
     },
@@ -28334,32 +28334,32 @@
       "custom_desc": ""
     },
     "5278": {
-      "title": "【水以外弱攻】",
+      "title": "【水以外弱攻 0%】",
       "desc": "水屬性以外傷害減至&nbsp;0%",
       "custom_desc": ""
     },
     "5279": {
-      "title": "【火以外弱攻】",
+      "title": "【火以外弱攻 0%】",
       "desc": "火屬性以外傷害減至&nbsp;0%",
       "custom_desc": ""
     },
     "5280": {
-      "title": "【木以外弱攻】",
+      "title": "【木以外弱攻 0%】",
       "desc": "木屬性以外傷害減至&nbsp;0%",
       "custom_desc": ""
     },
     "5281": {
-      "title": "【光以外弱攻】",
+      "title": "【光以外弱攻 0%】",
       "desc": "光屬性以外傷害減至&nbsp;0%",
       "custom_desc": ""
     },
     "5282": {
-      "title": "【暗以外弱攻】",
+      "title": "【暗以外弱攻 0%】",
       "desc": "暗屬性以外傷害減至&nbsp;0%",
       "custom_desc": ""
     },
     "5283": {
-      "title": "【無屬以外弱攻】",
+      "title": "【無屬以外弱攻 0%】",
       "desc": "無屬性以外傷害減至&nbsp;0%",
       "custom_desc": ""
     },
@@ -28614,77 +28614,77 @@
       "custom_desc": ""
     },
     "5334": {
-      "title": "【水以外弱攻】",
+      "title": "【水以外弱攻 25%】",
       "desc": "水屬性以外傷害減至&nbsp;25%",
       "custom_desc": ""
     },
     "5335": {
-      "title": "【火以外弱攻】",
+      "title": "【火以外弱攻 25%】",
       "desc": "火屬性以外傷害減至&nbsp;25%",
       "custom_desc": ""
     },
     "5336": {
-      "title": "【木以外弱攻】",
+      "title": "【木以外弱攻 25%】",
       "desc": "木屬性以外傷害減至&nbsp;25%",
       "custom_desc": ""
     },
     "5337": {
-      "title": "【光以外弱攻】",
+      "title": "【光以外弱攻 25%】",
       "desc": "光屬性以外傷害減至&nbsp;25%",
       "custom_desc": ""
     },
     "5338": {
-      "title": "【暗以外弱攻】",
+      "title": "【暗以外弱攻 25%】",
       "desc": "暗屬性以外傷害減至&nbsp;25%",
       "custom_desc": ""
     },
     "5339": {
-      "title": "【水以外弱攻】",
+      "title": "【水以外弱攻 10%】",
       "desc": "水屬性以外傷害減至&nbsp;10%",
       "custom_desc": ""
     },
     "5340": {
-      "title": "【火以外弱攻】",
+      "title": "【火以外弱攻 10%】",
       "desc": "火屬性以外傷害減至&nbsp;10%",
       "custom_desc": ""
     },
     "5341": {
-      "title": "【木以外弱攻】",
+      "title": "【木以外弱攻 10%】",
       "desc": "木屬性以外傷害減至&nbsp;10%",
       "custom_desc": ""
     },
     "5342": {
-      "title": "【光以外弱攻】",
+      "title": "【光以外弱攻 10%】",
       "desc": "光屬性以外傷害減至&nbsp;10%",
       "custom_desc": ""
     },
     "5343": {
-      "title": "【暗以外弱攻】",
+      "title": "【暗以外弱攻 10%】",
       "desc": "暗屬性以外傷害減至&nbsp;10%",
       "custom_desc": ""
     },
     "5344": {
-      "title": "【水以外弱攻】",
+      "title": "【水以外弱攻 5%】",
       "desc": "水屬性以外傷害減至&nbsp;5%",
       "custom_desc": ""
     },
     "5345": {
-      "title": "【火以外弱攻】",
+      "title": "【火以外弱攻 5%】",
       "desc": "火屬性以外傷害減至&nbsp;5%",
       "custom_desc": ""
     },
     "5346": {
-      "title": "【木以外弱攻】",
+      "title": "【木以外弱攻 5%】",
       "desc": "木屬性以外傷害減至&nbsp;5%",
       "custom_desc": ""
     },
     "5347": {
-      "title": "【光以外弱攻】",
+      "title": "【光以外弱攻 5%】",
       "desc": "光屬性以外傷害減至&nbsp;5%",
       "custom_desc": ""
     },
     "5348": {
-      "title": "【暗以外弱攻】",
+      "title": "【暗以外弱攻 5%】",
       "desc": "暗屬性以外傷害減至&nbsp;5%",
       "custom_desc": ""
     },
@@ -37719,27 +37719,27 @@
       "icons": []
     },
     "6855": {
-      "title": "【水屬弱攻】",
+      "title": "【水屬弱攻 10%】",
       "desc": "•&nbsp;水屬性傷害減至&nbsp;10%",
       "custom_desc": ""
     },
     "6856": {
-      "title": "【火屬弱攻】",
+      "title": "【火屬弱攻 10%】",
       "desc": "•&nbsp;火屬性傷害減至&nbsp;10%",
       "custom_desc": ""
     },
     "6857": {
-      "title": "【木屬弱攻】",
+      "title": "【木屬弱攻 10%】",
       "desc": "•&nbsp;木屬性傷害減至&nbsp;10%",
       "custom_desc": ""
     },
     "6858": {
-      "title": "【光屬弱攻】",
+      "title": "【光屬弱攻 10%】",
       "desc": "•&nbsp;光屬性傷害減至&nbsp;10%",
       "custom_desc": ""
     },
     "6859": {
-      "title": "【暗屬弱攻】",
+      "title": "【暗屬弱攻 10%】",
       "desc": "•&nbsp;暗屬性傷害減至&nbsp;10%",
       "custom_desc": ""
     },
@@ -39435,27 +39435,27 @@
       "custom_desc": ""
     },
     "7203": {
-      "title": "【自戕】",
+      "title": "【自戕 10%】",
       "desc": "•&nbsp;敵人每回合<br />⇒&nbsp;扣除自身&nbsp;10%&nbsp;生命力<br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": ""
     },
     "7204": {
-      "title": "【自戕】",
+      "title": "【自戕 20%】",
       "desc": "•&nbsp;敵人每回合<br />⇒&nbsp;扣除自身&nbsp;20%&nbsp;生命力<br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": ""
     },
     "7205": {
-      "title": "【自戕】",
+      "title": "【自戕 25%】",
       "desc": "•&nbsp;敵人每回合<br />⇒&nbsp;扣除自身&nbsp;25%&nbsp;生命力<br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": ""
     },
     "7206": {
-      "title": "【自戕】",
+      "title": "【自戕 50%】",
       "desc": "•&nbsp;敵人每回合<br />⇒&nbsp;扣除自身&nbsp;50%&nbsp;生命力<br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": ""
     },
     "7207": {
-      "title": "【自戕】",
+      "title": "【自戕 100%】",
       "desc": "•&nbsp;敵人每回合<br />⇒&nbsp;扣除自身&nbsp;100%&nbsp;生命力<br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害",
       "custom_desc": ""
     },
@@ -41008,27 +41008,27 @@
       "custom_desc": ""
     },
     "7536": {
-      "title": "【音樂符石】",
+      "title": "【音樂符石 2 粒】",
       "desc": "•&nbsp;首回合隨機將&nbsp;2&nbsp;粒符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
       "custom_desc": ""
     },
     "7537": {
-      "title": "【音樂符石】",
+      "title": "【音樂符石 4 粒】",
       "desc": "•&nbsp;首回合隨機將&nbsp;4&nbsp;粒符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
       "custom_desc": ""
     },
     "7538": {
-      "title": "【音樂符石】",
+      "title": "【音樂符石 6 粒】",
       "desc": "•&nbsp;首回合隨機將&nbsp;6&nbsp;粒符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
       "custom_desc": ""
     },
     "7539": {
-      "title": "【音樂符石】",
+      "title": "【音樂符石 8 粒】",
       "desc": "•&nbsp;首回合隨機將&nbsp;8&nbsp;粒符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
       "custom_desc": ""
     },
     "7540": {
-      "title": "【音樂符石】",
+      "title": "【音樂符石 10 粒】",
       "desc": "•&nbsp;首回合隨機將&nbsp;10&nbsp;粒符石<br />⇒&nbsp;添加為「音樂符石」<br />•「音樂符石」不能轉化<br />•&nbsp;場上沒有「音樂符石」<br />⇒&nbsp;無法對敵人造成傷害<br />•&nbsp;回合結束時，<br />&nbsp;&nbsp;場上沒有「音樂符石」<br />⓵&nbsp;敵人攻擊力永久&nbsp;10&nbsp;倍<br />⓶&nbsp;敵人永久無視<br />&nbsp;&nbsp;&nbsp;&nbsp;所有減傷效果和意志技能",
       "custom_desc": ""
     },
@@ -41793,92 +41793,92 @@
       "custom_desc": ""
     },
     "7690": {
-      "title": "【消水扣血】",
+      "title": "【消水扣血 100%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "7691": {
-      "title": "【消火扣血】",
+      "title": "【消火扣血 100%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "7692": {
-      "title": "【消木扣血】",
+      "title": "【消木扣血 100%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "7693": {
-      "title": "【消光扣血】",
+      "title": "【消光扣血 100%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "7694": {
-      "title": "【消暗扣血】",
+      "title": "【消暗扣血 100%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "7695": {
-      "title": "【消心扣血】",
+      "title": "【消心扣血 100%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
       "custom_desc": ""
     },
     "7696": {
-      "title": "【消水扣血】",
+      "title": "【消水扣血 10%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
       "custom_desc": ""
     },
     "7697": {
-      "title": "【消火扣血】",
+      "title": "【消火扣血 10%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
       "custom_desc": ""
     },
     "7698": {
-      "title": "【消木扣血】",
+      "title": "【消木扣血 10%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
       "custom_desc": ""
     },
     "7699": {
-      "title": "【消光扣血】",
+      "title": "【消光扣血 10%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
       "custom_desc": ""
     },
     "7700": {
-      "title": "【消暗扣血】",
+      "title": "【消暗扣血 10%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
       "custom_desc": ""
     },
     "7701": {
-      "title": "【消心扣血】",
+      "title": "【消心扣血 10%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;扣除召喚師&nbsp;10%&nbsp;生命力",
       "custom_desc": ""
     },
     "7702": {
-      "title": "【消水扣血】",
+      "title": "【消水扣血 1%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒水符石<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力",
       "custom_desc": ""
     },
     "7703": {
-      "title": "【消火扣血】",
+      "title": "【消火扣血 1%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒火符石<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力",
       "custom_desc": ""
     },
     "7704": {
-      "title": "【消木扣血】",
+      "title": "【消木扣血 1%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒木符石<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力",
       "custom_desc": ""
     },
     "7705": {
-      "title": "【消光扣血】",
+      "title": "【消光扣血 1%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒光符石<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力",
       "custom_desc": ""
     },
     "7706": {
-      "title": "【消暗扣血】",
+      "title": "【消暗扣血 1%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒暗符石<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力",
       "custom_desc": ""
     },
     "7707": {
-      "title": "【消心扣血】",
+      "title": "【消心扣血 1%】",
       "desc": "•&nbsp;每消除&nbsp;1&nbsp;粒心符石<br />⇒&nbsp;扣除召喚師&nbsp;1%&nbsp;生命力",
       "custom_desc": ""
     },
@@ -42348,52 +42348,82 @@
     "7800": {
       "title": "【靈罩擊破】",
       "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;1&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "keywords": [
+        "靈骨塔"
+      ]
     },
     "7801": {
       "title": "【靈罩擊破】",
       "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;2&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "keywords": [
+        "靈骨塔"
+      ]
     },
     "7802": {
       "title": "【靈罩擊破】",
       "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;3&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "keywords": [
+        "靈骨塔"
+      ]
     },
     "7803": {
       "title": "【靈罩擊破】",
       "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;4&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "keywords": [
+        "靈骨塔"
+      ]
     },
     "7804": {
       "title": "【靈罩擊破】",
       "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;5&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "keywords": [
+        "靈骨塔"
+      ]
     },
     "7805": {
       "title": "【靈罩擊破】",
       "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;6&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "keywords": [
+        "靈骨塔"
+      ]
     },
     "7806": {
       "title": "【靈罩擊破】",
       "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;7&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "keywords": [
+        "靈骨塔"
+      ]
     },
     "7807": {
       "title": "【靈罩擊破】",
       "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;8&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "keywords": [
+        "靈骨塔"
+      ]
     },
     "7808": {
       "title": "【靈罩擊破】",
       "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;9&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "keywords": [
+        "靈骨塔"
+      ]
     },
     "7809": {
       "title": "【靈罩擊破】",
       "desc": "•&nbsp;每當敵人發動攻擊<br />⇒&nbsp;扣除&nbsp;10&nbsp;重「靈罩」<br />•&nbsp;當「靈罩」數量為&nbsp;0&nbsp;時<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
-      "custom_desc": ""
+      "custom_desc": "",
+      "keywords": [
+        "靈骨塔"
+      ]
     },
     "7915": {
       "title": "【首攻 CD 5】",

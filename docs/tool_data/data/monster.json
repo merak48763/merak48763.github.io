@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2025.611",
-    "dv": 14259,
-    "time": 1765268689
+    "dv": 14267,
+    "time": 1767086436
   },
   "monster": {
     "1": {
@@ -28781,6 +28781,12 @@
       "race": 2,
       "rarity": 6
     },
+    "11083": {
+      "name": "咖波與兔兔",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 6
+    },
     "11084": {
       "name": "奶泡貓",
       "attribute": 2,
@@ -28805,11 +28811,29 @@
       "race": 2,
       "rarity": 6
     },
+    "11088": {
+      "name": "咖波與兔兔與狗狗",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 6
+    },
     "11089": {
       "name": "國王咖波",
       "attribute": 4,
       "race": 2,
       "rarity": 7
+    },
+    "11090": {
+      "name": "早安吉祥 ‧ 天照",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 6
+    },
+    "11091": {
+      "name": "晚安好夢 ‧ 月讀",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
     },
     "5001": {
       "name": "UNKNOWN"
