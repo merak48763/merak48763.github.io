@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.611",
-    "dv": 14267,
-    "time": 1767086436
+    "version": "2026.100",
+    "dv": 14304,
+    "time": 1767587354
   },
   "monster": {
     "1": {
@@ -17627,6 +17627,12 @@
       "race": 2,
       "rarity": 6
     },
+    "2948": {
+      "name": "靈符水鏡 ‧ 安倍晴明",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -28833,6 +28839,90 @@
       "name": "晚安好夢 ‧ 月讀",
       "attribute": 5,
       "race": 5,
+      "rarity": 6
+    },
+    "11092": {
+      "name": "成振宇",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "11093": {
+      "name": "崔鐘仁",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "11094": {
+      "name": "白允浩",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 6
+    },
+    "11095": {
+      "name": "車海印",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "11096": {
+      "name": "闇影君主 ‧ 成振宇",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 8
+    },
+    "11097": {
+      "name": "李珠熙",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "11098": {
+      "name": "宋致烈",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "11099": {
+      "name": "朴熙臻",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "11100": {
+      "name": "柳軫皓",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "11101": {
+      "name": "高健熙",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 7
+    },
+    "11102": {
+      "name": "黃東石",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "11108": {
+      "name": "血腥伊格利特",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
+    "11109": {
+      "name": "冰熊首領",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 6
+    },
+    "11114": {
+      "name": "鋼牙萊肯",
+      "attribute": 1,
+      "race": 7,
       "rarity": 6
     },
     "5001": {

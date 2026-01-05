@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2025.611",
-    "dv": 27065,
-    "time": 1767086436
+    "version": "2026.100",
+    "dv": 27322,
+    "time": 1767587354
   },
   "es": {
     "0": {
@@ -35850,42 +35850,66 @@
     "6492": {
       "title": "【力的印記 - 水】",
       "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加力的印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />•&nbsp;疊至最高&nbsp;20&nbsp;重印記力量<br />⇒&nbsp;才能對敵人造成傷害<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空力的印記及印記力量",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1218
+      ]
     },
     "6493": {
       "title": "【力的印記 - 水】",
       "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加力的印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />•&nbsp;疊至最高&nbsp;40&nbsp;重印記力量<br />⇒&nbsp;才能對敵人造成傷害<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空力的印記及印記力量",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1218
+      ]
     },
     "6494": {
       "title": "【力的印記 - 水】",
       "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加力的印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒力的印記符石<br />⇒&nbsp;回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;獲得&nbsp;1&nbsp;重印記力量<br />•&nbsp;疊至最高&nbsp;60&nbsp;重印記力量<br />⇒&nbsp;才能對敵人造成傷害<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空力的印記及印記力量",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1218
+      ]
     },
     "6495": {
       "title": "【水限制形狀凝護】",
       "desc": "•&nbsp;在指定位置消除水符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1217
+      ]
     },
     "6496": {
       "title": "【火限制形狀凝護】",
       "desc": "•&nbsp;在指定位置消除火符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1217
+      ]
     },
     "6497": {
       "title": "【木限制形狀凝護】",
       "desc": "•&nbsp;在指定位置消除木符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1217
+      ]
     },
     "6498": {
       "title": "【光限制形狀凝護】",
       "desc": "•&nbsp;在指定位置消除光符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1217
+      ]
     },
     "6499": {
       "title": "【暗限制形狀凝護】",
       "desc": "•&nbsp;在指定位置消除暗符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;可扣除敵人&nbsp;100%&nbsp;生命力<br /><br />•&nbsp;除此之外，<br />&nbsp;&nbsp;敵人不會受到任何傷害<br /><br />•&nbsp;達成上述條件<br />⇒&nbsp;敵人不會發動攻擊",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1217
+      ]
     },
     "6500": {
       "title": "敵技6500",
@@ -36535,12 +36559,18 @@
     "6626": {
       "title": "【非裝備「雷槍」龍刻武裝成員 - 弱攻】",
       "desc": "•&nbsp;敵人所受傷害減至&nbsp;10%<br />•&nbsp;只有裝備「雷槍」<br />&nbsp;&nbsp;&nbsp;龍刻武裝的成員<br />⇒&nbsp;才會對其造成完整傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1222
+      ]
     },
     "6627": {
       "title": "【非裝備「雷槍」龍刻武裝成員 - 弱攻】",
       "desc": "•&nbsp;敵人所受傷害減至&nbsp;25%<br />•&nbsp;只有裝備「雷槍」<br />&nbsp;&nbsp;&nbsp;龍刻武裝的成員<br />⇒&nbsp;才會對其造成完整傷害",
-      "custom_desc": ""
+      "custom_desc": "",
+      "icons": [
+        1222
+      ]
     },
     "6628": {
       "title": "【指定《進擊的巨人》合作角色 - 回技及 EP】",
@@ -41558,27 +41588,27 @@
       "custom_desc": ""
     },
     "7643": {
-      "title": "【發動技能 EP 0.5 倍】",
+      "title": "【EP 代價 - 0.5 倍】",
       "desc": "•&nbsp;發動&nbsp;EP&nbsp;技能時<br />⇒&nbsp;所需&nbsp;EP&nbsp;0.5&nbsp;倍",
       "custom_desc": ""
     },
     "7644": {
-      "title": "【發動技能 EP 2 倍】",
+      "title": "【EP 代價 - 2 倍】",
       "desc": "•&nbsp;發動&nbsp;EP&nbsp;技能時<br />⇒&nbsp;所需&nbsp;EP&nbsp;2&nbsp;倍",
       "custom_desc": ""
     },
     "7645": {
-      "title": "【發動技能 EP 3 倍】",
+      "title": "【EP 代價 - 3 倍】",
       "desc": "•&nbsp;發動&nbsp;EP&nbsp;技能時<br />⇒&nbsp;所需&nbsp;EP&nbsp;3&nbsp;倍",
       "custom_desc": ""
     },
     "7646": {
-      "title": "【發動技能 EP 4 倍】",
+      "title": "【EP 代價 - 4 倍】",
       "desc": "•&nbsp;發動&nbsp;EP&nbsp;技能時<br />⇒&nbsp;所需&nbsp;EP&nbsp;4&nbsp;倍",
       "custom_desc": ""
     },
     "7647": {
-      "title": "【發動技能 EP 5 倍】",
+      "title": "【EP 代價 - 5 倍】",
       "desc": "•&nbsp;發動&nbsp;EP&nbsp;技能時<br />⇒&nbsp;所需&nbsp;EP&nbsp;5&nbsp;倍",
       "custom_desc": ""
     },
@@ -42424,6 +42454,526 @@
       "keywords": [
         "靈骨塔"
       ]
+    },
+    "7810": {
+      "title": "【消水弱攻 0%】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;消除水符石<br />⇒&nbsp;全隊攻擊力減至&nbsp;0%",
+      "custom_desc": ""
+    },
+    "7811": {
+      "title": "【消火弱攻 0%】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;消除火符石<br />⇒&nbsp;全隊攻擊力減至&nbsp;0%",
+      "custom_desc": ""
+    },
+    "7812": {
+      "title": "【消木弱攻 0%】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;消除木符石<br />⇒&nbsp;全隊攻擊力減至&nbsp;0%",
+      "custom_desc": ""
+    },
+    "7813": {
+      "title": "【消光弱攻 0%】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;消除光符石<br />⇒&nbsp;全隊攻擊力減至&nbsp;0%",
+      "custom_desc": ""
+    },
+    "7814": {
+      "title": "【消暗弱攻 0%】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;消除暗符石<br />⇒&nbsp;全隊攻擊力減至&nbsp;0%",
+      "custom_desc": ""
+    },
+    "7815": {
+      "title": "【消心弱攻 0%】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;消除心符石<br />⇒&nbsp;全隊攻擊力減至&nbsp;0%",
+      "custom_desc": ""
+    },
+    "7816": {
+      "title": "【一步一傷 50,000 點】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7817": {
+      "title": "【一步一傷 100,000 點】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7818": {
+      "title": "【一步一傷 200,000 點】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;200,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7819": {
+      "title": "【燃燒之軌 50,000 點 - 6 格】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />⓵&nbsp;燃燒移動符石時觸碰的位置<br />⓶&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7820": {
+      "title": "【燃燒之軌 100,000 點 - 6 格】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />⓵&nbsp;燃燒移動符石時觸碰的位置<br />⓶&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7821": {
+      "title": "【燃燒之軌 200,000 點 - 6 格】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />⓵&nbsp;燃燒移動符石時觸碰的位置<br />⓶&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;200,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7822": {
+      "title": "【煉獄之火 - 6 格】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />⓵&nbsp;以煉獄之火燃燒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;移動符石時觸碰的位置<br />⓶&nbsp;一旦觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "7823": {
+      "title": "【燃燒之軌 50,000 點】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />⓵&nbsp;持續燃燒移動符石時觸碰的位置<br />⓶&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;50,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7824": {
+      "title": "【燃燒之軌 100,000 點】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />⓵&nbsp;持續燃燒移動符石時觸碰的位置<br />⓶&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;100,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7825": {
+      "title": "【燃燒之軌 200,000 點】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />⓵&nbsp;持續燃燒移動符石時觸碰的位置<br />⓶&nbsp;每觸碰被燃燒的位置<br />⇒&nbsp;對召喚師造成<br />&nbsp;&nbsp;&nbsp;&nbsp;200,000&nbsp;點傷害",
+      "custom_desc": ""
+    },
+    "7826": {
+      "title": "【煉獄之火】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />⓵&nbsp;持續以煉獄之火燃燒<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;移動符石時觸碰的位置<br />⓶&nbsp;一旦觸碰被燃燒的位置<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "7827": {
+      "title": "【幽閉之途 - 6 格】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;將移動符石時觸碰的符石<br />⇒&nbsp;變為黑白色",
+      "custom_desc": ""
+    },
+    "7828": {
+      "title": "【幽閉之途】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;持續將移動符石時觸碰的符石<br />⇒&nbsp;變為黑白色",
+      "custom_desc": ""
+    },
+    "7829": {
+      "title": "【幽閉空間】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;持續將移動符石時觸碰的符石<br />⇒&nbsp;變為黑白色",
+      "custom_desc": ""
+    },
+    "7830": {
+      "title": "【隱匿之途 - 6 格】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;將移動符石時觸碰的符石<br />⇒&nbsp;轉化為隱藏符石",
+      "custom_desc": ""
+    },
+    "7831": {
+      "title": "【隱匿之途】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;持續將移動符石時觸碰的符石<br />⇒&nbsp;轉化為隱藏符石",
+      "custom_desc": ""
+    },
+    "7832": {
+      "title": "【回復弱化 0%】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;全隊回復力減至&nbsp;0%",
+      "custom_desc": ""
+    },
+    "7833": {
+      "title": "【回復顛倒】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />⓵&nbsp;透過「消除心符石或<br />&nbsp;&nbsp;&nbsp;兼具心符石效果」的<br />&nbsp;&nbsp;&nbsp;回復效果無效<br />⓶&nbsp;消除心符石或<br />&nbsp;「兼具心符石效果的符石」<br />⇒&nbsp;扣除召喚師相應效果<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;的生命力<br />&nbsp;&nbsp;&nbsp;(此效果不計算連擊&nbsp;(Combo)&nbsp;加乘)",
+      "custom_desc": ""
+    },
+    "7834": {
+      "title": "【開技消耗代價 20%】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;每次發動主動技能時&nbsp;<br />&nbsp;&nbsp;&nbsp;(包括關閉技能)<br />⇒&nbsp;消耗召喚師&nbsp;20%&nbsp;生命力&nbsp;",
+      "custom_desc": ""
+    },
+    "7835": {
+      "title": "【開技消耗代價 25%】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;每次發動主動技能時&nbsp;<br />&nbsp;&nbsp;&nbsp;(包括關閉技能)<br />⇒&nbsp;消耗召喚師&nbsp;25%&nbsp;生命力&nbsp;",
+      "custom_desc": ""
+    },
+    "7836": {
+      "title": "【開技消耗代價 50%】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;每次發動主動技能時&nbsp;<br />&nbsp;&nbsp;&nbsp;(包括關閉技能)<br />⇒&nbsp;消耗召喚師&nbsp;50%&nbsp;生命力&nbsp;",
+      "custom_desc": ""
+    },
+    "7837": {
+      "title": "【開技消耗代價 100%】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;每次發動主動技能時&nbsp;<br />&nbsp;&nbsp;&nbsp;(包括關閉技能)<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力&nbsp;",
+      "custom_desc": ""
+    },
+    "7838": {
+      "title": "【連擊 (Combo) 上限 1】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;達成連擊&nbsp;(Combo)&nbsp;上限為&nbsp;1",
+      "custom_desc": ""
+    },
+    "7839": {
+      "title": "【連擊 (Combo) 上限 5】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;達成連擊&nbsp;(Combo)&nbsp;上限為&nbsp;5",
+      "custom_desc": ""
+    },
+    "7840": {
+      "title": "【連擊 (Combo) 上限 10】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;達成連擊&nbsp;(Combo)&nbsp;上限為&nbsp;10",
+      "custom_desc": ""
+    },
+    "7841": {
+      "title": "【≥10 連擊詛咒】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;需達成&nbsp;≥10&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;否則隊伍攻擊力變&nbsp;0<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及無法進行回復",
+      "custom_desc": ""
+    },
+    "7842": {
+      "title": "【≥20 連擊詛咒】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;需達成&nbsp;≥20&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;否則隊伍攻擊力變&nbsp;0<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及無法進行回復",
+      "custom_desc": ""
+    },
+    "7843": {
+      "title": "【≥30 連擊詛咒】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;需達成&nbsp;≥30&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;否則隊伍攻擊力變&nbsp;0<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及無法進行回復",
+      "custom_desc": ""
+    },
+    "7844": {
+      "title": "【≥40 連擊詛咒】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;需達成&nbsp;≥40&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;否則隊伍攻擊力變&nbsp;0<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及無法進行回復",
+      "custom_desc": ""
+    },
+    "7845": {
+      "title": "【≥50 連擊詛咒】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;需達成&nbsp;≥50&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;否則隊伍攻擊力變&nbsp;0<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及無法進行回復",
+      "custom_desc": ""
+    },
+    "7846": {
+      "title": "【≥66 連擊詛咒】",
+      "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;需達成&nbsp;≥66&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;否則隊伍攻擊力變&nbsp;0<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及無法進行回復",
+      "custom_desc": ""
+    },
+    "7848": {
+      "title": "【即效永生】",
+      "desc": "•&nbsp;敵人每回合及每次受到非致命傷害<br />⇒&nbsp;完全回復生命力",
+      "custom_desc": ""
+    },
+    "7849": {
+      "title": "【寒之氣 - 5 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;5&nbsp;層寒之氣<br />•&nbsp;寒之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;寒之氣消失<br />•&nbsp;寒之氣&nbsp;≥0<br />⓵&nbsp;場上符石不能轉化、<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;引爆或移除<br />⓶&nbsp;不能額外增加符石<br />⓷&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7850": {
+      "title": "【寒之氣 - 10 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;10&nbsp;層寒之氣<br />•&nbsp;寒之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;寒之氣消失<br />•&nbsp;寒之氣&nbsp;≥0<br />⓵&nbsp;場上符石不能轉化、<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;引爆或移除<br />⓶&nbsp;不能額外增加符石<br />⓷&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7851": {
+      "title": "【寒之氣 - 15 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;15&nbsp;層寒之氣<br />•&nbsp;寒之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;寒之氣消失<br />•&nbsp;寒之氣&nbsp;≥0<br />⓵&nbsp;場上符石不能轉化、<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;引爆或移除<br />⓶&nbsp;不能額外增加符石<br />⓷&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7852": {
+      "title": "【寒之氣 - 20 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;20&nbsp;層寒之氣<br />•&nbsp;寒之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;寒之氣消失<br />•&nbsp;寒之氣&nbsp;≥0<br />⓵&nbsp;場上符石不能轉化、<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;引爆或移除<br />⓶&nbsp;不能額外增加符石<br />⓷&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7853": {
+      "title": "【寒之氣 - 25 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;25&nbsp;層寒之氣<br />•&nbsp;寒之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;寒之氣消失<br />•&nbsp;寒之氣&nbsp;≥0<br />⓵&nbsp;場上符石不能轉化、<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;引爆或移除<br />⓶&nbsp;不能額外增加符石<br />⓷&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7854": {
+      "title": "【寒之氣 - 30 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;30&nbsp;層寒之氣<br />•&nbsp;寒之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;寒之氣消失<br />•&nbsp;寒之氣&nbsp;≥0<br />⓵&nbsp;場上符石不能轉化、<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;引爆或移除<br />⓶&nbsp;不能額外增加符石<br />⓷&nbsp;只能消除首批符石",
+      "custom_desc": ""
+    },
+    "7855": {
+      "title": "【冰炎印記 - 水】",
+      "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加冰炎印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒冰炎印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層寒之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空冰炎印記",
+      "custom_desc": ""
+    },
+    "7856": {
+      "title": "【冰炎印記 - 火】",
+      "desc": "•&nbsp;每回合所有火符石<br />⇒&nbsp;添加冰炎印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒冰炎印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層寒之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空冰炎印記",
+      "custom_desc": ""
+    },
+    "7857": {
+      "title": "【冰炎印記 - 木】",
+      "desc": "•&nbsp;每回合所有木符石<br />⇒&nbsp;添加冰炎印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒冰炎印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層寒之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空冰炎印記",
+      "custom_desc": ""
+    },
+    "7858": {
+      "title": "【冰炎印記 - 光】",
+      "desc": "•&nbsp;每回合所有光符石<br />⇒&nbsp;添加冰炎印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒冰炎印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層寒之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空冰炎印記",
+      "custom_desc": ""
+    },
+    "7859": {
+      "title": "【冰炎印記 - 暗】",
+      "desc": "•&nbsp;每回合所有暗符石<br />⇒&nbsp;添加冰炎印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒冰炎印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層寒之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空冰炎印記",
+      "custom_desc": ""
+    },
+    "7860": {
+      "title": "【冰炎印記 - 心】",
+      "desc": "•&nbsp;每回合所有心符石<br />⇒&nbsp;添加冰炎印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒冰炎印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層寒之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空冰炎印記",
+      "custom_desc": ""
+    },
+    "7861": {
+      "title": "【雷之氣 - 5 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;5&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像",
+      "custom_desc": ""
+    },
+    "7862": {
+      "title": "【雷之氣 - 10 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;10&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像",
+      "custom_desc": ""
+    },
+    "7863": {
+      "title": "【雷之氣 - 15 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;15&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像",
+      "custom_desc": ""
+    },
+    "7864": {
+      "title": "【雷之氣 - 20 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;20&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像",
+      "custom_desc": ""
+    },
+    "7865": {
+      "title": "【雷之氣 - 25 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;25&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像",
+      "custom_desc": ""
+    },
+    "7866": {
+      "title": "【雷之氣 - 30 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;30&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像",
+      "custom_desc": ""
+    },
+    "7867": {
+      "title": "【除雷印記 - 水】",
+      "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加除雷印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒除雷印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層雷之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空除雷印記",
+      "custom_desc": ""
+    },
+    "7868": {
+      "title": "【除雷印記 - 火】",
+      "desc": "•&nbsp;每回合所有火符石<br />⇒&nbsp;添加除雷印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒除雷印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層雷之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空除雷印記",
+      "custom_desc": ""
+    },
+    "7869": {
+      "title": "【除雷印記 - 木】",
+      "desc": "•&nbsp;每回合所有木符石<br />⇒&nbsp;添加除雷印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒除雷印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層雷之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空除雷印記",
+      "custom_desc": ""
+    },
+    "7870": {
+      "title": "【除雷印記 - 光】",
+      "desc": "•&nbsp;每回合所有光符石<br />⇒&nbsp;添加除雷印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒除雷印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層雷之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空除雷印記",
+      "custom_desc": ""
+    },
+    "7871": {
+      "title": "【除雷印記 - 暗】",
+      "desc": "•&nbsp;每回合所有暗符石<br />⇒&nbsp;添加除雷印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒除雷印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層雷之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空除雷印記",
+      "custom_desc": ""
+    },
+    "7872": {
+      "title": "【除雷印記 - 心】",
+      "desc": "•&nbsp;每回合所有心符石<br />⇒&nbsp;添加除雷印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒除雷印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層雷之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空除雷印記",
+      "custom_desc": ""
+    },
+    "7873": {
+      "title": "【炎之氣 - 5 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;5&nbsp;層炎之氣<br />•&nbsp;炎之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;炎之氣消失<br />•&nbsp;炎之氣&nbsp;≥0<br />⓵「數值護盾」、<br />&nbsp;&nbsp;&nbsp;&nbsp;「次數護盾」失效<br />⓶&nbsp;敵人無視所有減傷效果<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;和意志技能<br />⓷&nbsp;敵人死亡後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7874": {
+      "title": "【炎之氣 - 10 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;10&nbsp;層炎之氣<br />•&nbsp;炎之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;炎之氣消失<br />•&nbsp;炎之氣&nbsp;≥0<br />⓵「數值護盾」、<br />&nbsp;&nbsp;&nbsp;&nbsp;「次數護盾」失效<br />⓶&nbsp;敵人無視所有減傷效果<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;和意志技能<br />⓷&nbsp;敵人死亡後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7875": {
+      "title": "【炎之氣 - 15 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;15&nbsp;層炎之氣<br />•&nbsp;炎之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;炎之氣消失<br />•&nbsp;炎之氣&nbsp;≥0<br />⓵「數值護盾」、<br />&nbsp;&nbsp;&nbsp;&nbsp;「次數護盾」失效<br />⓶&nbsp;敵人無視所有減傷效果<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;和意志技能<br />⓷&nbsp;敵人死亡後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7876": {
+      "title": "【炎之氣 - 20 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;20&nbsp;層炎之氣<br />•&nbsp;炎之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;炎之氣消失<br />•&nbsp;炎之氣&nbsp;≥0<br />⓵「數值護盾」、<br />&nbsp;&nbsp;&nbsp;&nbsp;「次數護盾」失效<br />⓶&nbsp;敵人無視所有減傷效果<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;和意志技能<br />⓷&nbsp;敵人死亡後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7877": {
+      "title": "【炎之氣 - 25 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;25&nbsp;層炎之氣<br />•&nbsp;炎之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;炎之氣消失<br />•&nbsp;炎之氣&nbsp;≥0<br />⓵「數值護盾」、<br />&nbsp;&nbsp;&nbsp;&nbsp;「次數護盾」失效<br />⓶&nbsp;敵人無視所有減傷效果<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;和意志技能<br />⓷&nbsp;敵人死亡後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7878": {
+      "title": "【炎之氣 - 30 層】",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;30&nbsp;層炎之氣<br />•&nbsp;炎之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;炎之氣消失<br />•&nbsp;炎之氣&nbsp;≥0<br />⓵「數值護盾」、<br />&nbsp;&nbsp;&nbsp;&nbsp;「次數護盾」失效<br />⓶&nbsp;敵人無視所有減傷效果<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;和意志技能<br />⓷&nbsp;敵人死亡後<br />⇒&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7879": {
+      "title": "【消炎印記 - 水】",
+      "desc": "•&nbsp;每回合所有水符石<br />⇒&nbsp;添加消炎印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒消炎印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層炎之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空消炎印記",
+      "custom_desc": ""
+    },
+    "7880": {
+      "title": "【消炎印記 - 火】",
+      "desc": "•&nbsp;每回合所有火符石<br />⇒&nbsp;添加消炎印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒消炎印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層炎之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空消炎印記",
+      "custom_desc": ""
+    },
+    "7881": {
+      "title": "【消炎印記 - 木】",
+      "desc": "•&nbsp;每回合所有木符石<br />⇒&nbsp;添加消炎印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒消炎印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層炎之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空消炎印記",
+      "custom_desc": ""
+    },
+    "7882": {
+      "title": "【消炎印記 - 光】",
+      "desc": "•&nbsp;每回合所有光符石<br />⇒&nbsp;添加消炎印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒消炎印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層炎之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空消炎印記",
+      "custom_desc": ""
+    },
+    "7883": {
+      "title": "【消炎印記 - 暗】",
+      "desc": "•&nbsp;每回合所有暗符石<br />⇒&nbsp;添加消炎印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒消炎印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層炎之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空消炎印記",
+      "custom_desc": ""
+    },
+    "7884": {
+      "title": "【消炎印記 - 心】",
+      "desc": "•&nbsp;每回合所有心符石<br />⇒&nbsp;添加消炎印記<br /><br />•&nbsp;每消除&nbsp;1&nbsp;粒消炎印記符石<br />⇒&nbsp;敵人減少&nbsp;1&nbsp;層炎之氣<br /><br />•&nbsp;召喚師死亡後<br />⇒&nbsp;清空消炎印記",
+      "custom_desc": ""
+    },
+    "7885": {
+      "title": "【瘴氣 10% - 第 1 直行】",
+      "desc": "•&nbsp;在第&nbsp;1&nbsp;直行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7886": {
+      "title": "【瘴氣 10% - 第 2 直行】",
+      "desc": "•&nbsp;在第&nbsp;2&nbsp;直行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7887": {
+      "title": "【瘴氣 10% - 第 3 直行】",
+      "desc": "•&nbsp;在第&nbsp;3&nbsp;直行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7888": {
+      "title": "【瘴氣 10% - 第 4 直行】",
+      "desc": "•&nbsp;在第&nbsp;4&nbsp;直行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7889": {
+      "title": "【瘴氣 10% - 第 5 直行】",
+      "desc": "•&nbsp;在第&nbsp;5&nbsp;直行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7890": {
+      "title": "【瘴氣 10% - 第 6 直行】",
+      "desc": "•&nbsp;在第&nbsp;6&nbsp;直行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7891": {
+      "title": "【瘴氣 10% - 第 1 橫行】",
+      "desc": "•&nbsp;在第&nbsp;1&nbsp;橫行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7892": {
+      "title": "【瘴氣 10% - 第 2 橫行】",
+      "desc": "•&nbsp;在第&nbsp;2&nbsp;橫行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7893": {
+      "title": "【瘴氣 10% - 第 3 橫行】",
+      "desc": "•&nbsp;在第&nbsp;3&nbsp;橫行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7894": {
+      "title": "【瘴氣 10% - 第 4 橫行】",
+      "desc": "•&nbsp;在第&nbsp;4&nbsp;橫行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7895": {
+      "title": "【瘴氣 10% - 第 5 橫行】",
+      "desc": "•&nbsp;在第&nbsp;5&nbsp;橫行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7896": {
+      "title": "【瘴氣 20% - 第 1 直行】",
+      "desc": "•&nbsp;在第&nbsp;1&nbsp;直行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7897": {
+      "title": "【瘴氣 20% - 第 2 直行】",
+      "desc": "•&nbsp;在第&nbsp;2&nbsp;直行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7898": {
+      "title": "【瘴氣 20% - 第 3 直行】",
+      "desc": "•&nbsp;在第&nbsp;3&nbsp;直行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7899": {
+      "title": "【瘴氣 20% - 第 4 直行】",
+      "desc": "•&nbsp;在第&nbsp;4&nbsp;直行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7900": {
+      "title": "【瘴氣 20% - 第 5 直行】",
+      "desc": "•&nbsp;在第&nbsp;5&nbsp;直行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7901": {
+      "title": "【瘴氣 20% - 第 6 直行】",
+      "desc": "•&nbsp;在第&nbsp;6&nbsp;直行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7902": {
+      "title": "【瘴氣 20% - 第 1 橫行】",
+      "desc": "•&nbsp;在第&nbsp;1&nbsp;橫行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7903": {
+      "title": "【瘴氣 20% - 第 2 橫行】",
+      "desc": "•&nbsp;在第&nbsp;2&nbsp;橫行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7904": {
+      "title": "【瘴氣 20% - 第 3 橫行】",
+      "desc": "•&nbsp;在第&nbsp;3&nbsp;橫行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7905": {
+      "title": "【瘴氣 20% - 第 4 橫行】",
+      "desc": "•&nbsp;在第&nbsp;4&nbsp;橫行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7906": {
+      "title": "【瘴氣 20% - 第 5 橫行】",
+      "desc": "•&nbsp;在第&nbsp;5&nbsp;橫行的位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7907": {
+      "title": "【瘴氣 10% - 隨機 2 個】",
+      "desc": "•&nbsp;在隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7908": {
+      "title": "【瘴氣 10% - 隨機 4 個】",
+      "desc": "•&nbsp;在隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7909": {
+      "title": "【瘴氣 10% - 隨機 6 個】",
+      "desc": "•&nbsp;在隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7910": {
+      "title": "【瘴氣 10% - 隨機 8 個】",
+      "desc": "•&nbsp;在隨機&nbsp;8&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;10%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7911": {
+      "title": "【瘴氣 20% - 隨機 2 個】",
+      "desc": "•&nbsp;在隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7912": {
+      "title": "【瘴氣 20% - 隨機 4 個】",
+      "desc": "•&nbsp;在隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7913": {
+      "title": "【瘴氣 20% - 隨機 6 個】",
+      "desc": "•&nbsp;在隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
+    },
+    "7914": {
+      "title": "【瘴氣 20% - 隨機 8 個】",
+      "desc": "•&nbsp;在隨機&nbsp;8&nbsp;個位置<br />⇒&nbsp;施放瘴氣<br /><br />•&nbsp;每經過瘴氣位置<br />⇒&nbsp;召喚師累積&nbsp;20%&nbsp;瘴氣<br />•&nbsp;當累積至&nbsp;100%&nbsp;瘴氣<br />⇒&nbsp;回合結束時召喚師會死亡",
+      "custom_desc": ""
     },
     "7915": {
       "title": "【首攻 CD 5】",
@@ -65923,15 +66473,6 @@
     "6426": [
       896
     ],
-    "6427": [
-      898
-    ],
-    "6428": [
-      899
-    ],
-    "6429": [
-      900
-    ],
     "6430": [
       912
     ],
@@ -66138,35 +66679,6 @@
     ],
     "6491": [
       833
-    ],
-    "6492": [
-      893
-    ],
-    "6493": [
-      893
-    ],
-    "6494": [
-      893
-    ],
-    "6495": [
-      913,
-      1327
-    ],
-    "6496": [
-      913,
-      1327
-    ],
-    "6497": [
-      913,
-      1327
-    ],
-    "6498": [
-      913,
-      1327
-    ],
-    "6499": [
-      913,
-      1327
     ],
     "6501": [
       100
@@ -66488,12 +67000,6 @@
     ],
     "6624": [
       443
-    ],
-    "6626": [
-      983
-    ],
-    "6627": [
-      983
     ],
     "6628": [
       97
@@ -69877,6 +70383,318 @@
     ],
     "7809": [
       1538
+    ],
+    "7810": [
+      263
+    ],
+    "7811": [
+      264
+    ],
+    "7812": [
+      265
+    ],
+    "7813": [
+      266
+    ],
+    "7814": [
+      267
+    ],
+    "7815": [
+      268
+    ],
+    "7816": [
+      9
+    ],
+    "7817": [
+      9
+    ],
+    "7818": [
+      9
+    ],
+    "7819": [
+      16
+    ],
+    "7820": [
+      16
+    ],
+    "7821": [
+      16
+    ],
+    "7822": [
+      1329
+    ],
+    "7823": [
+      16
+    ],
+    "7824": [
+      16
+    ],
+    "7825": [
+      16
+    ],
+    "7826": [
+      1329
+    ],
+    "7827": [
+      99
+    ],
+    "7828": [
+      99
+    ],
+    "7829": [
+      99
+    ],
+    "7830": [
+      90
+    ],
+    "7831": [
+      90
+    ],
+    "7832": [
+      200
+    ],
+    "7833": [
+      533
+    ],
+    "7834": [
+      806
+    ],
+    "7835": [
+      807
+    ],
+    "7836": [
+      808
+    ],
+    "7837": [
+      813
+    ],
+    "7838": [
+      1520
+    ],
+    "7839": [
+      1524
+    ],
+    "7840": [
+      1529
+    ],
+    "7841": [
+      194
+    ],
+    "7842": [
+      165
+    ],
+    "7843": [
+      975
+    ],
+    "7844": [
+      976
+    ],
+    "7845": [
+      977
+    ],
+    "7846": [
+      1
+    ],
+    "7848": [
+      82
+    ],
+    "7849": [
+      1549
+    ],
+    "7850": [
+      1549
+    ],
+    "7851": [
+      1549
+    ],
+    "7852": [
+      1549
+    ],
+    "7853": [
+      1549
+    ],
+    "7854": [
+      1549
+    ],
+    "7855": [
+      1550
+    ],
+    "7856": [
+      1550
+    ],
+    "7857": [
+      1550
+    ],
+    "7858": [
+      1550
+    ],
+    "7859": [
+      1550
+    ],
+    "7860": [
+      1550
+    ],
+    "7861": [
+      1551
+    ],
+    "7862": [
+      1551
+    ],
+    "7863": [
+      1551
+    ],
+    "7864": [
+      1551
+    ],
+    "7865": [
+      1551
+    ],
+    "7866": [
+      1551
+    ],
+    "7867": [
+      1552
+    ],
+    "7868": [
+      1552
+    ],
+    "7869": [
+      1552
+    ],
+    "7870": [
+      1552
+    ],
+    "7871": [
+      1552
+    ],
+    "7872": [
+      1552
+    ],
+    "7873": [
+      1553
+    ],
+    "7874": [
+      1553
+    ],
+    "7875": [
+      1553
+    ],
+    "7876": [
+      1553
+    ],
+    "7877": [
+      1553
+    ],
+    "7878": [
+      1553
+    ],
+    "7879": [
+      1554
+    ],
+    "7880": [
+      1554
+    ],
+    "7881": [
+      1554
+    ],
+    "7882": [
+      1554
+    ],
+    "7883": [
+      1554
+    ],
+    "7884": [
+      1554
+    ],
+    "7885": [
+      589
+    ],
+    "7886": [
+      589
+    ],
+    "7887": [
+      589
+    ],
+    "7888": [
+      589
+    ],
+    "7889": [
+      589
+    ],
+    "7890": [
+      589
+    ],
+    "7891": [
+      589
+    ],
+    "7892": [
+      589
+    ],
+    "7893": [
+      589
+    ],
+    "7894": [
+      589
+    ],
+    "7895": [
+      589
+    ],
+    "7896": [
+      589
+    ],
+    "7897": [
+      589
+    ],
+    "7898": [
+      589
+    ],
+    "7899": [
+      589
+    ],
+    "7900": [
+      589
+    ],
+    "7901": [
+      589
+    ],
+    "7902": [
+      589
+    ],
+    "7903": [
+      589
+    ],
+    "7904": [
+      589
+    ],
+    "7905": [
+      589
+    ],
+    "7906": [
+      589
+    ],
+    "7907": [
+      589
+    ],
+    "7908": [
+      589
+    ],
+    "7909": [
+      589
+    ],
+    "7910": [
+      589
+    ],
+    "7911": [
+      589
+    ],
+    "7912": [
+      589
+    ],
+    "7913": [
+      589
+    ],
+    "7914": [
+      589
     ]
   }
 }
