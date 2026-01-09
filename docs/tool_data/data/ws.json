@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.100",
-    "dv": 27322,
-    "time": 1767587354
+    "version": "2026.101",
+    "dv": 27329,
+    "time": 1767963074
   },
   "ws": {
     "10001": {
@@ -4417,22 +4417,22 @@
     },
     "10916": {
       "title": "",
-      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現護靈地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒&nbsp;需於護靈地型內<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首批消除該角色符石，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「魂離」：<br />　&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
+      "desc": "•&nbsp;每回合隨機&nbsp;2&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒&nbsp;需於防禦地型內<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首批消除該角色符石，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「魂離」：<br />　&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
       "custom_desc": ""
     },
     "10917": {
       "title": "",
-      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現護靈地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒&nbsp;需於護靈地型內<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首批消除該角色符石，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「魂離」：<br />　&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
+      "desc": "•&nbsp;每回合隨機&nbsp;4&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒&nbsp;需於防禦地型內<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首批消除該角色符石，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「魂離」：<br />　&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
       "custom_desc": ""
     },
     "10918": {
       "title": "",
-      "desc": "•&nbsp;每回合隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現護靈地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒&nbsp;需於護靈地型內<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首批消除該角色符石，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「魂離」：<br />　&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
+      "desc": "•&nbsp;每回合隨機&nbsp;6&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒&nbsp;需於防禦地型<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首批消除該角色符石，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「魂離」：<br />　&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
       "custom_desc": ""
     },
     "10919": {
       "title": "",
-      "desc": "•&nbsp;每回合隨機&nbsp;8&nbsp;個位置<br />⇒&nbsp;出現護靈地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒&nbsp;需於護靈地型內<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首批消除該角色符石，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「魂離」：<br />　&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
+      "desc": "•&nbsp;每回合隨機&nbsp;8&nbsp;個位置<br />⇒&nbsp;出現防禦地型<br />•&nbsp;每回合隨機鎖定&nbsp;1&nbsp;個成員<br />⇒&nbsp;需於防禦地型內<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首批消除該角色符石，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;否則該成員於回合結束時<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進入「魂離」：<br />　&nbsp;不能發動主動技能及攻擊<br />⇒&nbsp;效果持續至消除該<br />&nbsp;&nbsp;「魂離」成員角色符石&nbsp;5&nbsp;次",
       "custom_desc": ""
     }
   }

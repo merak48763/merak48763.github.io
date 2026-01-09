@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.100",
-    "dv": 14304,
-    "time": 1767587354
+    "version": "2026.101",
+    "dv": 14318,
+    "time": 1767963074
   },
   "monster": {
     "1": {
@@ -28907,6 +28907,18 @@
       "race": 1,
       "rarity": 6
     },
+    "11103": {
+      "name": "艾希 ‧ 拉迪勒",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
+    "11104": {
+      "name": "巴魯卡",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 6
+    },
     "11108": {
       "name": "血腥伊格利特",
       "attribute": 2,
@@ -28917,6 +28929,18 @@
       "name": "冰熊首領",
       "attribute": 1,
       "race": 2,
+      "rarity": 6
+    },
+    "11110": {
+      "name": "卡勒凱坎",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
+    "11112": {
+      "name": "金哲",
+      "attribute": 4,
+      "race": 1,
       "rarity": 6
     },
     "11114": {
