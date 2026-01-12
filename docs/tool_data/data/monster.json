@@ -17747,6 +17747,42 @@
       "race": 10,
       "rarity": 8
     },
+    "5001": {
+      "name": "UNKNOWN"
+    },
+    "5002": {
+      "name": "UNKNOWN"
+    },
+    "5003": {
+      "name": "UNKNOWN"
+    },
+    "5004": {
+      "name": ""
+    },
+    "5005": {
+      "name": ""
+    },
+    "5006": {
+      "name": ""
+    },
+    "5007": {
+      "name": ""
+    },
+    "5008": {
+      "name": ""
+    },
+    "5009": {
+      "name": ""
+    },
+    "5010": {
+      "name": ""
+    },
+    "5011": {
+      "name": ""
+    },
+    "5012": {
+      "name": ""
+    },
     "6001": {
       "name": "幽怨新娘 ‧ 烏爾德",
       "attribute": 1,
@@ -19754,6 +19790,12 @@
       "race": 1,
       "rarity": 6
     },
+    "6359": {
+      "name": "莉絲",
+      "attribute": 5,
+      "race": 3,
+      "rarity": 6
+    },
     "6360": {
       "name": "希望之盒 ‧ 潘朵拉",
       "attribute": 5,
@@ -19993,12 +20035,6 @@
       "attribute": 5,
       "race": 5,
       "rarity": 7
-    },
-    "6359": {
-      "name": "莉絲",
-      "attribute": 5,
-      "race": 3,
-      "rarity": 6
     },
     "6402": {
       "name": "蜃樓星火 ‧ 伊斯塔",
@@ -22435,6 +22471,9 @@
       "attribute": 4,
       "race": 1,
       "rarity": 6
+    },
+    "9999": {
+      "name": "暫時沒法顯示"
     },
     "10001": {
       "name": "瀧甲女兵 ",
@@ -24959,17 +24998,17 @@
       "race": 8,
       "rarity": 6
     },
-    "10423": {
-      "name": "冒險指引 ‧ 愛希莉",
-      "attribute": 4,
-      "race": 5,
-      "rarity": 6
-    },
     "10422": {
       "name": "豐盛便當",
       "attribute": 2,
       "race": 7,
       "rarity": 3
+    },
+    "10423": {
+      "name": "冒險指引 ‧ 愛希莉",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 6
     },
     "10424": {
       "name": "狗卷棘",
@@ -28343,6 +28382,12 @@
       "race": 7,
       "rarity": 6
     },
+    "11001": {
+      "name": "罪狀宣告 ‧ 聖槍涅索伊",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 7
+    },
     "11002": {
       "name": "聖裁時刻 ‧ 貞德",
       "attribute": 1,
@@ -28949,51 +28994,6 @@
       "race": 7,
       "rarity": 6
     },
-    "5001": {
-      "name": "UNKNOWN"
-    },
-    "5002": {
-      "name": "UNKNOWN"
-    },
-    "5003": {
-      "name": "UNKNOWN"
-    },
-    "5004": {
-      "name": ""
-    },
-    "5005": {
-      "name": ""
-    },
-    "5006": {
-      "name": ""
-    },
-    "5007": {
-      "name": ""
-    },
-    "5008": {
-      "name": ""
-    },
-    "5009": {
-      "name": ""
-    },
-    "5010": {
-      "name": ""
-    },
-    "5011": {
-      "name": ""
-    },
-    "5012": {
-      "name": ""
-    },
-    "9999": {
-      "name": "暫時沒法顯示"
-    },
-    "11001": {
-      "name": "罪狀宣告 ‧ 聖槍涅索伊",
-      "attribute": 2,
-      "race": 5,
-      "rarity": 7
-    },
     "20001": {
       "name": "以諾"
     },
@@ -29544,6 +29544,78 @@
       "name": "棋院紀行 ‧ 黑嘉嘉",
       "attribute": 5,
       "race": 5,
+      "rarity": 6
+    },
+    "60001": {
+      "name": "水瓶座黃金聖衣",
+      "attribute": 1,
+      "race": 7,
+      "rarity": 7
+    },
+    "60002": {
+      "name": "獅子座黃金聖衣",
+      "attribute": 2,
+      "race": 7,
+      "rarity": 7
+    },
+    "60003": {
+      "name": "天秤座黃金聖衣",
+      "attribute": 3,
+      "race": 7,
+      "rarity": 7
+    },
+    "60004": {
+      "name": "射手座黃金聖衣",
+      "attribute": 4,
+      "race": 7,
+      "rarity": 7
+    },
+    "60005": {
+      "name": "處女座黃金聖衣",
+      "attribute": 5,
+      "race": 7,
+      "rarity": 7
+    },
+    "60021": {
+      "name": "以諾、英格麗、妹妹",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 5
+    },
+    "60031": {
+      "name": "試煉之石",
+      "attribute": 2,
+      "race": 7,
+      "rarity": 2
+    },
+    "60183": {
+      "name": "伊格利特",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "60184": {
+      "name": "覃克",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 6
+    },
+    "60185": {
+      "name": "大牙",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "60186": {
+      "name": "艾恩",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "60187": {
+      "name": "凱伊席",
+      "attribute": 5,
+      "race": 4,
       "rarity": 6
     }
   },
