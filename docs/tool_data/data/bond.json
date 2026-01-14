@@ -11148,6 +11148,18 @@
     ]
   },
   {
+    "owner": 11105,
+    "condition": 11111,
+    "conditionType": 2,
+    "ability": 20022,
+    "args": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "owner": 11106,
     "condition": 11093,
     "conditionType": 1,
@@ -11226,6 +11238,18 @@
     "ability": 20003,
     "args": [
       2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11111,
+    "condition": 11105,
+    "conditionType": 2,
+    "ability": 20022,
+    "args": [
+      0,
       0,
       0,
       0

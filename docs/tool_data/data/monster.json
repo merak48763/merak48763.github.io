@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.101",
-    "dv": 14318,
-    "time": 1767963074
+    "version": "2026.102",
+    "dv": 14322,
+    "time": 1768388003
   },
   "monster": {
     "1": {
@@ -28964,6 +28964,12 @@
       "race": 3,
       "rarity": 6
     },
+    "11105": {
+      "name": "惡魔王 ‧ 瓦拉內",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 7
+    },
     "11108": {
       "name": "血腥伊格利特",
       "attribute": 2,
@@ -28980,6 +28986,12 @@
       "name": "卡勒凱坎",
       "attribute": 2,
       "race": 8,
+      "rarity": 6
+    },
+    "11111": {
+      "name": "飛龍 ‧ 凱伊席林",
+      "attribute": 3,
+      "race": 4,
       "rarity": 6
     },
     "11112": {
