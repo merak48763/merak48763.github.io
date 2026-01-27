@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.102",
-    "dv": 14322,
-    "time": 1768388003
+    "version": "2026.103",
+    "dv": 14330,
+    "time": 1769512174
   },
   "monster": {
     "1": {
@@ -28968,7 +28968,19 @@
       "name": "惡魔王 ‧ 瓦拉內",
       "attribute": 5,
       "race": 8,
-      "rarity": 7
+      "rarity": 8
+    },
+    "11106": {
+      "name": "馬東旭",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "11107": {
+      "name": "五島隆二",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
     },
     "11108": {
       "name": "血腥伊格利特",
@@ -28999,6 +29011,12 @@
       "attribute": 4,
       "race": 1,
       "rarity": 6
+    },
+    "11113": {
+      "name": "蟻王",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 8
     },
     "11114": {
       "name": "鋼牙萊肯",
@@ -29629,6 +29647,12 @@
       "attribute": 5,
       "race": 4,
       "rarity": 6
+    },
+    "60188": {
+      "name": "柏納",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 8
     }
   },
   "attribute_names": [
