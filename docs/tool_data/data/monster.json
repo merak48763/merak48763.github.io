@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.103",
-    "dv": 14330,
-    "time": 1769512174
+    "version": "2026.110",
+    "dv": 14347,
+    "time": 1770006579
   },
   "monster": {
     "1": {
@@ -17633,6 +17633,12 @@
       "race": 1,
       "rarity": 6
     },
+    "2949": {
+      "name": "惑心音韻 ‧ 派蒙",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21739,6 +21745,18 @@
       "attribute": 2,
       "race": 3,
       "rarity": 7
+    },
+    "6709": {
+      "name": "神創耀 ‧ 零覓",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 8
+    },
+    "6710": {
+      "name": "魔滅燼 ‧ 一願",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 8
     },
     "6999": {
       "name": "米拉珍",
@@ -29023,6 +29041,36 @@
       "attribute": 1,
       "race": 7,
       "rarity": 6
+    },
+    "11115": {
+      "name": "璀虹慶生 ‧ 點點",
+      "attribute": 4,
+      "race": 7,
+      "rarity": 6
+    },
+    "11118": {
+      "name": "忠誠侍奉 ‧ 普羅米修斯",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
+    "11119": {
+      "name": "天際攀升 ‧ 白琥",
+      "attribute": 4,
+      "race": 4,
+      "rarity": 6
+    },
+    "11120": {
+      "name": "神創耀 ‧ 零覓",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 8
+    },
+    "11121": {
+      "name": "魔滅燼 ‧ 一願",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 8
     },
     "20001": {
       "name": "以諾"

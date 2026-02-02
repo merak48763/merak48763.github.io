@@ -7301,6 +7301,470 @@
           }
         ]
       ]
+    },
+    {
+      "id": 52,
+      "series": 1,
+      "scid": 52,
+      "name": "不協調的氣氛",
+      "nameEn": "Discordant Atmosphere",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": []
+          },
+          {
+            "skill": 3,
+            "args": [
+              50,
+              1,
+              3
+            ]
+          },
+          {
+            "skill": 3,
+            "args": [
+              50,
+              1,
+              2
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          },
+          {
+            "skill": 15,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 53,
+      "series": 1,
+      "scid": 53,
+      "name": "亂局中的突襲",
+      "nameEn": "Complex Ambush",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 12,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 12,
+            "args": []
+          },
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 39,
+            "args": [
+              50,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              50,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              50,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              50,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              100,
+              1
+            ]
+          },
+          {
+            "skill": 8,
+            "args": [
+              1
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          },
+          {
+            "skill": 10,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 54,
+      "series": 1,
+      "scid": 54,
+      "name": "未來的火種",
+      "nameEn": "Sparks of Tomorrow",
+      "star": 3,
+      "maxLevel": 5,
+      "fpConsume": 4,
+      "instantSkill": [
+        [
+          {
+            "skill": 19,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 19,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 42,
+            "args": [
+              11
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              11
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              11
+            ]
+          },
+          {
+            "skill": 3,
+            "args": [
+              110,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              11
+            ]
+          },
+          {
+            "skill": 3,
+            "args": [
+              110,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              11
+            ]
+          },
+          {
+            "skill": 3,
+            "args": [
+              110,
+              1,
+              0
+            ]
+          },
+          {
+            "skill": 15,
+            "args": []
+          },
+          {
+            "skill": 47,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              3
+            ]
+          },
+          {
+            "skill": 41,
+            "args": []
+          },
+          {
+            "skill": 42,
+            "args": []
+          }
+        ]
+      ]
     }
   ],
   "series": [

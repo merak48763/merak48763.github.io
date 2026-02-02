@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "version": "2025.310",
-    "time": 1750044302
+    "version": "2025.103",
+    "time": 1769673287
   },
   "quiz": {
     "1": {
@@ -7553,6 +7553,61 @@
         "艾賓浩斯"
       ],
       "quizImage": "7b80498aa7937362-PenroseStairs_effect_03.png"
+    },
+    "719": {
+      "question": "《神魔之塔》13 週年主題曲的歌名是？",
+      "answer": 2,
+      "answer_options": [
+        "一轉眼就13週年",
+        "神魔十三週年",
+        "轉轉轉",
+        "來到十三"
+      ],
+      "quizImage": null
+    },
+    "720": {
+      "question": "誰是《神魔之塔》13 週年主題曲的主唱？",
+      "answer": 0,
+      "answer_options": [
+        "Sinnie 吳倩怡",
+        "Sophie 吳晴怡",
+        "Samanthe 吳凱晴",
+        "Sara 吳毅鳳"
+      ],
+      "quizImage": null
+    },
+    "721": {
+      "question": "主題曲歌詞中，以下哪一句出現的次數最多？",
+      "answer": 3,
+      "answer_options": [
+        "冒險",
+        "Combo",
+        "隊伍",
+        "轉轉轉"
+      ],
+      "quizImage": null
+    },
+    "722": {
+      "question": "主題曲中是否有部分歌詞是以廣東話演唱？",
+      "answer": 0,
+      "answer_options": [
+        "是",
+        "否",
+        "",
+        ""
+      ],
+      "quizImage": null
+    },
+    "723": {
+      "question": "主題曲歌詞裡有沒有提到「神魔之塔」四個字？",
+      "answer": 0,
+      "answer_options": [
+        "是",
+        "否",
+        "",
+        ""
+      ],
+      "quizImage": null
     }
   }
 }
