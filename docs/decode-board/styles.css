@@ -1,0 +1,74 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+  margin: 2px 0;
+}
+
+div.output {
+  padding: 16px;
+  width: fit-content;
+}
+div.output--dark-mode {
+  background-color: #333;
+  color: white;
+}
+div.output:has(#result:empty) {
+  display: none;
+}
+
+ul {
+  margin: 2px 0;
+  padding: 0 0 0 1.5em;
+}
+
+table.board {
+  border: none;
+  border-collapse: collapse;
+  table-layout: fixed;
+  text-align: center;
+  pointer-events: none;
+  user-select: none;
+}
+table.board :is(tr:nth-child(odd)>td:nth-child(odd), tr:nth-child(even)>td:nth-child(even)) {
+  background-color: #4b2f16;
+}
+table.board :is(tr:nth-child(odd)>td:nth-child(even), tr:nth-child(even)>td:nth-child(odd)) {
+  background-color: #2b1b10;
+}
+table.board td {
+  position: relative;
+  width: auto;
+  height: auto;
+  padding: 2px;
+  line-height: 0;
+}
+table.board td>img.rune-element {
+  width: 60px;
+  height: 60px;
+}
+table.board td>img.rune-race {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 0;
+  right: 0;
+}
+
+.footnote {
+  margin: 8px 0 0 0;
+}
+.footnote:empty {
+  display: none;
+}
+.footnote p {
+  margin: 1px 0;
+  display: flex;
+  align-items: center;
+}
+.footnote img {
+  width: 2em;
+  height: 2em;
+  margin-right: 0.3em;
+}

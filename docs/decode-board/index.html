@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="format-detection", content="telephone=no" />
+  <title>Board decoder</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="decoder.js"></script>
+</head>
+<body>
+  <div>
+    <h2>Renewed version!</h2>
+  </div>
+  <div>
+    <label for="boardB64">Board base64:</label>
+    <input type="text" id="boardB64">
+    <button id="decode">Decode</button>
+  </div>
+  <div>
+    <header>Examples:</header>
+    <ul>
+      <li><code>AAEBAAYFA8GkkkECusmkugEBhJLJhAIA</code></li>
+      <li><code>AAECAAYF/////wMGAwIDAQMDAwUDBAMDAwEDAgMGAwA=</code></li>
+      <li><code>AAEBAAYFGMGkkkEXusmkugEWhJLJhAIA</code></li>
+      <li><code>AAECAAYF/////wMbAxcDFgMYAxoDGQMYAxYDFwMbAwA=</code></li>
+      <li><code>AAIBAAYF5P0CwaCQCJf7BYLBoBCu+AiEgsEg4fULiISCQfjyDpCIhIIBq/ARoJCIhAIA</code></li>
+      <li><code>AAIBAAYF7foFPyTAoBAlgMEgJoCCQSeAhIIBKICIhAIpgJCIBMj9AoCAgPgDAA==</code></li>
+      <li><code>AAIBAAYFr+oX36jVCw2g16r0AwA=</code></li>
+      <li><code>AAIBAAYF+cSTNKGAgIgC+sSTNJ7gj/AB+8STNMCf8AcA</code></li>
+    </ul>
+  </div>
+  <div class="output" id="output_container">
+    <table class="board">
+      <tbody id="result"></tbody>
+    </table>
+    <div class="footnote" id="footnote"></div>
+  </div>
+  <div>
+    <button id="dark_mode">Dark Mode</button>
+  </div>
+</body>
+
+</html>
