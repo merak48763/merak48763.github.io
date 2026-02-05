@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.110",
-    "dv": 14347,
-    "time": 1770006579
+    "dv": 14372,
+    "time": 1770284726
   },
   "monster": {
     "1": {
@@ -17639,6 +17639,54 @@
       "race": 8,
       "rarity": 6
     },
+    "2950": {
+      "name": "時空曲率 ‧ 愛因斯坦",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 7
+    },
+    "2951": {
+      "name": "萬有引力 ‧ 牛頓",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 7
+    },
+    "2952": {
+      "name": "漸進基因 ‧ 達爾文",
+      "attribute": 3,
+      "race": 10,
+      "rarity": 7
+    },
+    "2953": {
+      "name": "電流逆溯 ‧ 愛迪生",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 7
+    },
+    "2954": {
+      "name": "力學幻構 ‧ 伽利略",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 7
+    },
+    "2955": {
+      "name": "藥素解密 ‧ 瑪麗居禮",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 7
+    },
+    "2956": {
+      "name": "至理審思 ‧ 蘇格拉底",
+      "attribute": 3,
+      "race": 10,
+      "rarity": 7
+    },
+    "2957": {
+      "name": "資訊星圖 ‧ 妮可",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 7
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21754,6 +21802,18 @@
     },
     "6710": {
       "name": "魔滅燼 ‧ 一願",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 8
+    },
+    "6713": {
+      "name": "神創 ‧ 零覓",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 8
+    },
+    "6714": {
+      "name": "魔滅 ‧ 一願",
       "attribute": 4,
       "race": 8,
       "rarity": 8
@@ -29048,6 +29108,12 @@
       "race": 7,
       "rarity": 6
     },
+    "11117": {
+      "name": "傳情玫瑰 ‧ 梅蘭妮",
+      "attribute": 2,
+      "race": 10,
+      "rarity": 6
+    },
     "11118": {
       "name": "忠誠侍奉 ‧ 普羅米修斯",
       "attribute": 5,
@@ -29071,6 +29137,12 @@
       "attribute": 4,
       "race": 8,
       "rarity": 8
+    },
+    "11131": {
+      "name": "開運祝舞 ‧ 夏彥",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 6
     },
     "20001": {
       "name": "以諾"
