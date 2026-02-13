@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.110",
-    "dv": 14372,
-    "time": 1770284726
+    "dv": 14397,
+    "time": 1770893647
   },
   "monster": {
     "1": {
@@ -21806,6 +21806,18 @@
       "race": 8,
       "rarity": 8
     },
+    "6711": {
+      "name": "萬法根念 ‧ 阿賴耶識",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 7
+    },
+    "6712": {
+      "name": "最勝龍雷 ‧ 帝釋天",
+      "attribute": 4,
+      "race": 4,
+      "rarity": 7
+    },
     "6713": {
       "name": "神創 ‧ 零覓",
       "attribute": 5,
@@ -29138,10 +29150,70 @@
       "race": 8,
       "rarity": 8
     },
+    "11122": {
+      "name": "三苦厄劫 ‧ 菩提樹",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 7
+    },
+    "11123": {
+      "name": "三苦厄劫 ‧ 菩提樹 (魔)",
+      "attribute": 3,
+      "race": 8,
+      "rarity": 7
+    },
+    "11124": {
+      "name": "業報教化 ‧ 哀律",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 6
+    },
+    "11125": {
+      "name": "絞斷腐障 ‧ 安息",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 6
+    },
+    "11126": {
+      "name": "惡果龍鳴 ‧ 般若",
+      "attribute": 5,
+      "race": 4,
+      "rarity": 6
+    },
+    "11127": {
+      "name": "諸惡行滅 ‧ 涅槃",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 7
+    },
+    "11128": {
+      "name": "萬法根念 ‧ 阿賴耶識",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 7
+    },
+    "11129": {
+      "name": "最勝龍雷 ‧ 帝釋天",
+      "attribute": 4,
+      "race": 4,
+      "rarity": 7
+    },
+    "11130": {
+      "name": "悠久繽紛 ‧ 烏瑞亞",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 6
+    },
     "11131": {
       "name": "開運祝舞 ‧ 夏彥",
       "attribute": 1,
       "race": 8,
+      "rarity": 6
+    },
+    "11133": {
+      "name": "蹄踏春風 ‧ 尼祿",
+      "attribute": 4,
+      "race": 2,
       "rarity": 6
     },
     "20001": {
