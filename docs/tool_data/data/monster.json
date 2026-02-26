@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.110",
-    "dv": 14397,
-    "time": 1770893647
+    "version": "2026.111",
+    "dv": 14412,
+    "time": 1772121187
   },
   "monster": {
     "1": {
@@ -20234,6 +20234,24 @@
       "race": 5,
       "rarity": 8
     },
+    "6426": {
+      "name": "維度粉碎 ‧ 猶格索托斯",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 8
+    },
+    "6427": {
+      "name": "殘像肆虐 ‧ 卡俄斯",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 8
+    },
+    "6428": {
+      "name": "意識分解 ‧ 夏馬西",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 8
+    },
     "6429": {
       "name": "緋曦赤霞 ‧ 紅璦",
       "attribute": 2,
@@ -29120,6 +29138,12 @@
       "race": 7,
       "rarity": 6
     },
+    "11116": {
+      "name": "魔劍使者",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 7
+    },
     "11117": {
       "name": "傳情玫瑰 ‧ 梅蘭妮",
       "attribute": 2,
@@ -29210,11 +29234,23 @@
       "race": 8,
       "rarity": 6
     },
+    "11132": {
+      "name": "福燈春迎 ‧ 珂婍娜",
+      "attribute": 2,
+      "race": 4,
+      "rarity": 6
+    },
     "11133": {
       "name": "蹄踏春風 ‧ 尼祿",
       "attribute": 4,
       "race": 2,
       "rarity": 6
+    },
+    "11134": {
+      "name": "心庭暖芽 ‧ 曼陀羅",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 7
     },
     "20001": {
       "name": "以諾"
