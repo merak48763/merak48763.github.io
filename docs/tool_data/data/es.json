@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.111",
-    "dv": 27403,
-    "time": 1772121187
+    "version": "2026.200",
+    "dv": 27597,
+    "time": 1772719061
   },
   "es": {
     "0": {
@@ -42640,6 +42640,11 @@
       "desc": "•&nbsp;進場時，敵人對召喚師<br />⇒&nbsp;施加永久負面狀態：<br />&nbsp;&nbsp;&nbsp;&nbsp;需達成&nbsp;≥66&nbsp;連擊&nbsp;(Combo)<br />⇒&nbsp;否則隊伍攻擊力變&nbsp;0<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及無法進行回復",
       "custom_desc": ""
     },
+    "7847": {
+      "title": "【替身娃娃】",
+      "desc": "•&nbsp;進場時，召喚「替身娃娃」代替敵人，直至敵人發動第&nbsp;1&nbsp;次攻擊。<br />※「替身娃娃」死亡後會復活<br />",
+      "custom_desc": ""
+    },
     "7848": {
       "title": "【即效永生】",
       "desc": "•&nbsp;敵人每回合及每次受到非致命傷害<br />⇒&nbsp;完全回復生命力",
@@ -42998,6 +43003,406 @@
     "7919": {
       "title": "【首攻 CD 9】",
       "desc": "敵人首次攻擊變為&nbsp;CD&nbsp;9。",
+      "custom_desc": ""
+    },
+    "7920": {
+      "title": "【水之佑律】",
+      "desc": "•&nbsp;進場時、每回合結束時及<br />&nbsp;&nbsp;每次發動主動技能<br />⇒&nbsp;所有被移除及引爆的符石<br />⇒&nbsp;以水符石代替&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7921": {
+      "title": "【火之佑律】",
+      "desc": "•&nbsp;進場時、每回合結束時及<br />&nbsp;&nbsp;每次發動主動技能<br />⇒&nbsp;所有被移除及引爆的符石<br />⇒&nbsp;以火符石代替&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7922": {
+      "title": "【木之佑律】",
+      "desc": "•&nbsp;進場時、每回合結束時及<br />&nbsp;&nbsp;每次發動主動技能<br />⇒&nbsp;所有被移除及引爆的符石<br />⇒&nbsp;以木符石代替&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7923": {
+      "title": "【光之佑律】",
+      "desc": "•&nbsp;進場時、每回合結束時及<br />&nbsp;&nbsp;每次發動主動技能<br />⇒&nbsp;所有被移除及引爆的符石<br />⇒&nbsp;以光符石代替&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7924": {
+      "title": "【暗之佑律】",
+      "desc": "•&nbsp;進場時、每回合結束時及<br />&nbsp;&nbsp;每次發動主動技能<br />⇒&nbsp;所有被移除及引爆的符石<br />⇒&nbsp;以暗符石代替&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7925": {
+      "title": "【心之佑律】",
+      "desc": "•&nbsp;進場時、每回合結束時及<br />&nbsp;&nbsp;每次發動主動技能<br />⇒&nbsp;所有被移除及引爆的符石<br />⇒&nbsp;以心符石代替&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7926": {
+      "title": "【符石佑律】",
+      "desc": "•&nbsp;進場時、每回合結束時及<br />&nbsp;&nbsp;每次發動主動技能<br />⇒&nbsp;所有被移除及引爆的符石<br />⇒&nbsp;以隨機種類符石代替&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "custom_desc": ""
+    },
+    "7927": {
+      "title": "【指定形狀盾】",
+      "desc": "•&nbsp;在指定位置消除符石<br />&nbsp;&nbsp;(可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": ""
+    },
+    "7928": {
+      "title": "【限制形狀盾】",
+      "desc": "•&nbsp;在指定位置消除符石<br />&nbsp;&nbsp;(不可連同位置旁邊的符石)&nbsp;<br />⇒&nbsp;才能對敵人造成傷害<br />⇒&nbsp;否則敵人承受傷害變為&nbsp;1",
+      "custom_desc": ""
+    },
+    "7929": {
+      "title": "【符石轉化 - 水及其他】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;22&nbsp;粒水符石<br />⓶&nbsp;8&nbsp;粒水以外符石",
+      "custom_desc": ""
+    },
+    "7930": {
+      "title": "【符石轉化 - 火及其他】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;22&nbsp;粒火符石<br />⓶&nbsp;8&nbsp;粒火以外符石",
+      "custom_desc": ""
+    },
+    "7931": {
+      "title": "【符石轉化 - 木及其他】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;22&nbsp;粒木符石<br />⓶&nbsp;8&nbsp;粒木以外符石",
+      "custom_desc": ""
+    },
+    "7932": {
+      "title": "【符石轉化 - 光及其他】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;22&nbsp;粒光符石<br />⓶&nbsp;8&nbsp;粒光以外符石",
+      "custom_desc": ""
+    },
+    "7933": {
+      "title": "【符石轉化 - 暗及其他】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;22&nbsp;粒暗符石<br />⓶&nbsp;8&nbsp;粒暗以外符石",
+      "custom_desc": ""
+    },
+    "7934": {
+      "title": "【符石轉化 - 心及其他】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;22&nbsp;粒心符石<br />⓶&nbsp;8&nbsp;粒心以外符石",
+      "custom_desc": ""
+    },
+    "7935": {
+      "title": "【非白芒脈流狀態 - 弱攻】",
+      "desc": "•&nbsp;場上有白芒脈流狀態<br />⇒&nbsp;才能對敵人造成傷害",
+      "custom_desc": ""
+    },
+    "7936": {
+      "title": "【非水芒脈流狀態 - 弱攻】",
+      "desc": "•&nbsp;場上有水芒脈流狀態<br />⇒&nbsp;才能對敵人造成傷害",
+      "custom_desc": ""
+    },
+    "7937": {
+      "title": "【非火芒脈流狀態 - 弱攻】",
+      "desc": "•&nbsp;場上有火芒脈流狀態<br />⇒&nbsp;才能對敵人造成傷害",
+      "custom_desc": ""
+    },
+    "7938": {
+      "title": "【非木芒脈流狀態 - 弱攻】",
+      "desc": "•&nbsp;場上有木芒脈流狀態<br />⇒&nbsp;才能對敵人造成傷害",
+      "custom_desc": ""
+    },
+    "7939": {
+      "title": "【非光芒脈流狀態 - 弱攻】",
+      "desc": "•&nbsp;場上有光芒脈流狀態<br />⇒&nbsp;才能對敵人造成傷害",
+      "custom_desc": ""
+    },
+    "7940": {
+      "title": "【非暗芒脈流狀態 - 弱攻】",
+      "desc": "•&nbsp;場上有暗芒脈流狀態<br />⇒&nbsp;才能對敵人造成傷害",
+      "custom_desc": ""
+    },
+    "7941": {
+      "title": "【受敵攻回復】",
+      "desc": "•&nbsp;將每次受到敵人的攻擊<br />⇒&nbsp;轉化為召喚師生命力<br />⇒&nbsp;直至生命力全滿",
+      "custom_desc": ""
+    },
+    "7942": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;10%<br />⇒&nbsp;敵人攻擊力&nbsp;2&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7943": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;20%<br />⇒&nbsp;敵人攻擊力&nbsp;2&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7944": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;30%<br />⇒&nbsp;敵人攻擊力&nbsp;2&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7945": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;40%<br />⇒&nbsp;敵人攻擊力&nbsp;2&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7946": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;50%<br />⇒&nbsp;敵人攻擊力&nbsp;2&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7947": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;60%<br />⇒&nbsp;敵人攻擊力&nbsp;2&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7948": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;70%<br />⇒&nbsp;敵人攻擊力&nbsp;2&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7949": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;80%<br />⇒&nbsp;敵人攻擊力&nbsp;2&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7950": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;90%<br />⇒&nbsp;敵人攻擊力&nbsp;2&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7951": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力未滿<br />⇒&nbsp;敵人攻擊力&nbsp;2&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7952": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;10%<br />⇒&nbsp;敵人攻擊力&nbsp;5&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7953": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;20%<br />⇒&nbsp;敵人攻擊力&nbsp;5&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7954": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;30%<br />⇒&nbsp;敵人攻擊力&nbsp;5&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7955": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;40%<br />⇒&nbsp;敵人攻擊力&nbsp;5&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7956": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;50%<br />⇒&nbsp;敵人攻擊力&nbsp;5&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7957": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;60%<br />⇒&nbsp;敵人攻擊力&nbsp;5&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7958": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;70%<br />⇒&nbsp;敵人攻擊力&nbsp;5&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7959": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;80%<br />⇒&nbsp;敵人攻擊力&nbsp;5&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7960": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;90%<br />⇒&nbsp;敵人攻擊力&nbsp;5&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7961": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力未滿<br />⇒&nbsp;敵人攻擊力&nbsp;5&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7962": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;10%<br />⇒&nbsp;敵人攻擊力&nbsp;10&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7963": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;20%<br />⇒&nbsp;敵人攻擊力&nbsp;10&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7964": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;30%<br />⇒&nbsp;敵人攻擊力&nbsp;10&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7965": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;40%<br />⇒&nbsp;敵人攻擊力&nbsp;10&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7966": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;50%<br />⇒&nbsp;敵人攻擊力&nbsp;10&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7967": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;60%<br />⇒&nbsp;敵人攻擊力&nbsp;10&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7968": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;70%<br />⇒&nbsp;敵人攻擊力&nbsp;10&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7969": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;80%<br />⇒&nbsp;敵人攻擊力&nbsp;10&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7970": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;90%<br />⇒&nbsp;敵人攻擊力&nbsp;10&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7971": {
+      "title": "【溢怒加攻】",
+      "desc": "•&nbsp;敵人生命力未滿<br />⇒&nbsp;敵人攻擊力&nbsp;10&nbsp;倍",
+      "custom_desc": ""
+    },
+    "7972": {
+      "title": "【溢怒 - 喋血屠刀 100%】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;10%<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+      "custom_desc": ""
+    },
+    "7973": {
+      "title": "【溢怒 - 喋血屠刀 100%】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;20%<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+      "custom_desc": ""
+    },
+    "7974": {
+      "title": "【溢怒 - 喋血屠刀 100%】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;30%<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+      "custom_desc": ""
+    },
+    "7975": {
+      "title": "【溢怒 - 喋血屠刀 100%】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;40%<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+      "custom_desc": ""
+    },
+    "7976": {
+      "title": "【溢怒 - 喋血屠刀 100%】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;50%<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+      "custom_desc": ""
+    },
+    "7977": {
+      "title": "【溢怒 - 喋血屠刀 100%】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;60%<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+      "custom_desc": ""
+    },
+    "7978": {
+      "title": "【溢怒 - 喋血屠刀 100%】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;70%<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+      "custom_desc": ""
+    },
+    "7979": {
+      "title": "【溢怒 - 喋血屠刀 100%】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;80%<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+      "custom_desc": ""
+    },
+    "7980": {
+      "title": "【溢怒 - 喋血屠刀 100%】",
+      "desc": "•&nbsp;敵人生命力為&nbsp;&lt;90%<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+      "custom_desc": ""
+    },
+    "7981": {
+      "title": "【溢怒 - 喋血屠刀 100%】",
+      "desc": "•&nbsp;敵人生命力為未滿<br />⇒&nbsp;扣除召喚師&nbsp;100%&nbsp;生命力<br />&nbsp;&nbsp;&nbsp;&nbsp;(無視所有減傷效果和<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意志技能)",
+      "custom_desc": ""
+    },
+    "7982": {
+      "title": "【符石轉化 - 五屬及心各 5】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石各&nbsp;5&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7983": {
+      "title": "【符石轉化 - 五屬及心各 5】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石各&nbsp;5&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7984": {
+      "title": "【符石轉化 - 五屬及心各 5】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石各&nbsp;5&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7985": {
+      "title": "【符石轉化 - 五屬及心各 5】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石各&nbsp;5&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7986": {
+      "title": "【符石轉化 - 五屬及心各 5】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石各&nbsp;5&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7987": {
+      "title": "【符石轉化 - 五屬及心各 5】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />&nbsp;&nbsp;&nbsp;&nbsp;五屬及心符石各&nbsp;5&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7988": {
+      "title": "【符石轉化 - 水 10、其他各 4】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;水符石&nbsp;10&nbsp;粒<br />⓶&nbsp;其他種類符石各&nbsp;4&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7989": {
+      "title": "【符石轉化 - 火 10、其他各 4】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;火符石&nbsp;10&nbsp;粒<br />⓶&nbsp;其他種類符石各&nbsp;4&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7990": {
+      "title": "【符石轉化 - 木 10、其他各 4】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;木符石&nbsp;10&nbsp;粒<br />⓶&nbsp;其他種類符石各&nbsp;4&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7991": {
+      "title": "【符石轉化 - 光 10、其他各 4】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;光符石&nbsp;10&nbsp;粒<br />⓶&nbsp;其他種類符石各&nbsp;4&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7992": {
+      "title": "【符石轉化 - 暗 10、其他各 4】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;暗符石&nbsp;10&nbsp;粒<br />⓶&nbsp;其他種類符石各&nbsp;4&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7993": {
+      "title": "【符石轉化 - 心 10、其他各 4】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;心符石&nbsp;10&nbsp;粒<br />⓶&nbsp;其他種類符石各&nbsp;4&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7994": {
+      "title": "【符石轉化 - 水 15、其他各 3】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;水符石&nbsp;15&nbsp;粒<br />⓶&nbsp;其他種類符石各&nbsp;3&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7995": {
+      "title": "【符石轉化 - 火 15、其他各 3】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;火符石&nbsp;15&nbsp;粒<br />⓶&nbsp;其他種類符石各&nbsp;3&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7996": {
+      "title": "【符石轉化 - 木 15、其他各 3】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;木符石&nbsp;15&nbsp;粒<br />⓶&nbsp;其他種類符石各&nbsp;3&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7997": {
+      "title": "【符石轉化 - 光 15、其他各 3】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;光符石&nbsp;15&nbsp;粒<br />⓶&nbsp;其他種類符石各&nbsp;3&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7998": {
+      "title": "【符石轉化 - 暗 15、其他各 3】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;暗符石&nbsp;15&nbsp;粒<br />⓶&nbsp;其他種類符石各&nbsp;3&nbsp;粒",
+      "custom_desc": ""
+    },
+    "7999": {
+      "title": "【符石轉化 - 心 15、其他各 3】",
+      "desc": "•&nbsp;進場及每回合結束時<br />⇒&nbsp;將所有符石轉化為<br />⓵&nbsp;心符石&nbsp;15&nbsp;粒<br />⓶&nbsp;其他種類符石各&nbsp;3&nbsp;粒",
       "custom_desc": ""
     }
   },

@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.110",
-    "dv": 27397,
-    "time": 1770893647
+    "version": "2026.200",
+    "dv": 27597,
+    "time": 1772719061
   },
   "ws": {
     "10001": {
@@ -4443,6 +4443,76 @@
     "10921": {
       "title": "",
       "desc": "•&nbsp;進場時，【終焉梵域】以外成員<br />&nbsp;&nbsp;&nbsp;(不包括時晷附身的成員)<br />⇒&nbsp;進入拘魂狀態，<br />　&nbsp;直至進入下一層數&nbsp;(Wave)：<br />⓵&nbsp;不能發動主動技能及攻擊<br />⓶&nbsp;不能發動角色符石<br />※&nbsp;拘魂狀態角色被時晷附身<br />⇒&nbsp;可解除拘魂狀態",
+      "custom_desc": ""
+    },
+    "10922": {
+      "title": "",
+      "desc": "•&nbsp;進場時，若場上沒有脈流狀態<br />⇒&nbsp;添加白芒脈流狀態<br />•&nbsp;隊伍成員首次發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />　&nbsp;該成員的屬性脈流狀態<br />•&nbsp;與敵人脈流狀態屬性不同的成員<br />&nbsp;&nbsp;(不包括白芒脈流狀態)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;敵人重置為白芒脈流狀態",
+      "custom_desc": ""
+    },
+    "10923": {
+      "title": "",
+      "desc": "•&nbsp;進場時，若場上沒有脈流狀態<br />⇒&nbsp;添加白芒脈流狀態<br />•&nbsp;隊伍成員每次發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />　&nbsp;該成員屬性以外的屬性脈流狀態<br />•&nbsp;與敵人脈流狀態屬性不同的成員<br />&nbsp;&nbsp;(不包括白芒脈流狀態)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;敵人重置為白芒脈流狀態",
+      "custom_desc": ""
+    },
+    "10924": {
+      "title": "",
+      "desc": "•&nbsp;進場時，若場上沒有脈流狀態<br />⇒&nbsp;添加白芒脈流狀態<br />•&nbsp;敵人為白芒脈流狀態時，<br />&nbsp;&nbsp;光或暗屬性成員發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />&nbsp;&nbsp;&nbsp;&nbsp;水芒脈流狀態<br />•&nbsp;水、火或木屬性成員<br />&nbsp;&nbsp;每次發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />　&nbsp;該成員克制的屬性脈流狀態<br />•&nbsp;與敵人脈流狀態屬性不同的成員<br />&nbsp;&nbsp;(不包括白芒脈流狀態)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;敵人重置為白芒脈流狀態",
+      "custom_desc": ""
+    },
+    "10925": {
+      "title": "",
+      "desc": "•&nbsp;進場時，若場上沒有脈流狀態<br />⇒&nbsp;添加白芒脈流狀態<br />•&nbsp;敵人為白芒脈流狀態時，<br />&nbsp;&nbsp;水、火或木屬性成員發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />&nbsp;&nbsp;&nbsp;&nbsp;光芒脈流狀態<br />•&nbsp;光或暗屬性成員<br />&nbsp;&nbsp;每次發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />　&nbsp;該成員克制的屬性脈流狀態<br />•&nbsp;與敵人脈流狀態屬性不同的成員<br />&nbsp;&nbsp;(不包括白芒脈流狀態)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;敵人重置為白芒脈流狀態",
+      "custom_desc": ""
+    },
+    "10926": {
+      "title": "",
+      "desc": "•&nbsp;進場時，若場上沒有脈流狀態<br />⇒&nbsp;添加白芒脈流狀態<br />•&nbsp;隊伍成員發動主動技能<br />⇒&nbsp;敵人會根據五屬順序變換脈流狀態<br />•&nbsp;敵人為白芒脈流狀態時，<br />&nbsp;&nbsp;隊伍成員發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />&nbsp;&nbsp;&nbsp;&nbsp;該成員在五屬循環中的<br />&nbsp;&nbsp;&nbsp;&nbsp;下一個屬性脈流狀態<br />•&nbsp;與敵人脈流狀態屬性不同的成員<br />&nbsp;&nbsp;(不包括白芒脈流狀態)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;敵人重置為白芒脈流狀態",
+      "custom_desc": ""
+    },
+    "10927": {
+      "title": "",
+      "desc": "•&nbsp;進場時，若場上沒有脈流狀態<br />⇒&nbsp;添加白芒脈流狀態<br />•&nbsp;隊伍成員每次發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />　&nbsp;隨機屬性脈流狀態<br />•&nbsp;與敵人脈流狀態屬性不同的成員<br />&nbsp;&nbsp;(不包括白芒脈流狀態)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;敵人重置為白芒脈流狀態",
+      "custom_desc": ""
+    },
+    "10929": {
+      "title": "",
+      "desc": "•&nbsp;若移動符石前<br />&nbsp;&nbsp;召喚師生命力全滿<br />⇒&nbsp;回合結束時，<br />　&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "10930": {
+      "title": "",
+      "desc": "•&nbsp;若移動符石前<br />&nbsp;&nbsp;召喚師生命力未滿<br />⇒&nbsp;回合結束時，<br />　&nbsp;消耗召喚師&nbsp;100%&nbsp;生命力",
+      "custom_desc": ""
+    },
+    "10931": {
+      "title": "",
+      "desc": "•&nbsp;無法提升當前生命力<br />•&nbsp;每當敵人受到傷害<br />⇒&nbsp;扣除全隊生命力&nbsp;2%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+      "custom_desc": ""
+    },
+    "10932": {
+      "title": "",
+      "desc": "•&nbsp;無法提升當前生命力<br />•&nbsp;每當敵人受到傷害<br />⇒&nbsp;回復全隊生命力&nbsp;2%<br />&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+      "custom_desc": ""
+    },
+    "10933": {
+      "title": "",
+      "desc": "•&nbsp;無法提升當前生命力<br />•&nbsp;每當發動主動技能<br />⇒&nbsp;扣除相對應&nbsp;CD&nbsp;/&nbsp;EP&nbsp;x&nbsp;10&nbsp;等值&nbsp;%&nbsp;的生命力",
+      "custom_desc": ""
+    },
+    "10934": {
+      "title": "",
+      "desc": "•&nbsp;無法提升當前生命力<br />•&nbsp;每當發動主動技能<br />⇒&nbsp;回復相對應&nbsp;CD&nbsp;/&nbsp;EP&nbsp;x&nbsp;10&nbsp;等值&nbsp;%&nbsp;的生命力<br />⇒&nbsp;直至生命力全滿",
+      "custom_desc": ""
+    },
+    "10935": {
+      "title": "",
+      "desc": "•&nbsp;無法提升當前生命力<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;扣除全隊回復力基值相應&nbsp;%<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力",
+      "custom_desc": ""
+    },
+    "10936": {
+      "title": "",
+      "desc": "•&nbsp;無法提升當前生命力<br />•&nbsp;每移動&nbsp;1&nbsp;步<br />⇒&nbsp;回復全隊回復力基值相應&nbsp;%<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;等值的生命力<br />⇒&nbsp;直至生命力全滿",
       "custom_desc": ""
     }
   }

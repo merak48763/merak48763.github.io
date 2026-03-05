@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.111",
-    "dv": 14412,
-    "time": 1772121187
+    "version": "2026.200",
+    "dv": 14421,
+    "time": 1772719061
   },
   "monster": {
     "1": {
@@ -17687,6 +17687,12 @@
       "race": 1,
       "rarity": 7
     },
+    "2958": {
+      "name": "朽爛烏蠅 ‧ 別西卜",
+      "attribute": 3,
+      "race": 8,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -29251,6 +29257,24 @@
       "attribute": 3,
       "race": 3,
       "rarity": 7
+    },
+    "11135": {
+      "name": "白色回禮 ‧  鑽石",
+      "attribute": 5,
+      "race": 3,
+      "rarity": 6
+    },
+    "11136": {
+      "name": "抗命龍骸 ‧ 無垢",
+      "attribute": 4,
+      "race": 4,
+      "rarity": 6
+    },
+    "11137": {
+      "name": "澄淨聖軀 ‧ 舍脂",
+      "attribute": 1,
+      "race": 5,
+      "rarity": 6
     },
     "20001": {
       "name": "以諾"
