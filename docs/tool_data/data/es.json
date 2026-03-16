@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.201",
-    "dv": 27597,
-    "time": 1773065409
+    "version": "2026.210",
+    "dv": 27633,
+    "time": 1773645975
   },
   "es": {
     "0": {
@@ -42712,32 +42712,32 @@
     },
     "7861": {
       "title": "【雷之氣 - 5 層】",
-      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;5&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;5&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像<br />▋符石不能置入角色頭像",
       "custom_desc": ""
     },
     "7862": {
       "title": "【雷之氣 - 10 層】",
-      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;10&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;10&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像<br />▋符石不能置入角色頭像",
       "custom_desc": ""
     },
     "7863": {
       "title": "【雷之氣 - 15 層】",
-      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;15&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;15&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像<br />▋符石不能置入角色頭像",
       "custom_desc": ""
     },
     "7864": {
       "title": "【雷之氣 - 20 層】",
-      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;20&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;20&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像<br />▋符石不能置入角色頭像",
       "custom_desc": ""
     },
     "7865": {
       "title": "【雷之氣 - 25 層】",
-      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;25&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;25&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像<br />▋符石不能置入角色頭像",
       "custom_desc": ""
     },
     "7866": {
       "title": "【雷之氣 - 30 層】",
-      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;30&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像",
+      "desc": "•&nbsp;進場時&nbsp;，敵人會擁有<br />&nbsp;&nbsp;30&nbsp;層雷之氣<br />•&nbsp;雷之氣為&nbsp;0&nbsp;時<br />⇒&nbsp;回合結束時，<br />&nbsp;&nbsp;&nbsp;&nbsp;雷之氣消失<br />•&nbsp;雷之氣&nbsp;≥0<br />⓵&nbsp;對每個發動攻擊及<br />　&nbsp;擊中敵人的成員<br />⇒&nbsp;造成&nbsp;1,000,000&nbsp;點的傷害<br />⓶&nbsp;受上述傷害的成員<br />⇒&nbsp;進入永久觸電狀態：<br />▋不能發動主動技能<br />▋不能發動角色符石<br />▋流光符石不能進入角色頭像<br />▋符石不能置入角色頭像",
       "custom_desc": ""
     },
     "7867": {
@@ -70897,7 +70897,7 @@
       1570
     ],
     "7847": [
-      27
+      1599
     ],
     "7848": [
       82
