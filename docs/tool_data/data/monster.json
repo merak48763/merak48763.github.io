@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.211",
-    "dv": 14460,
-    "time": 1774165192
+    "dv": 14464,
+    "time": 1774976150
   },
   "monster": {
     "1": {
@@ -17693,6 +17693,12 @@
       "race": 8,
       "rarity": 6
     },
+    "2959": {
+      "name": "生之共鳴 ‧ 烏蘇拉",
+      "attribute": 5,
+      "race": 4,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -29383,6 +29389,12 @@
       "attribute": 5,
       "race": 8,
       "rarity": 7
+    },
+    "11156": {
+      "name": "透明怪獸",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 6
     },
     "11157": {
       "name": "關東煮",
