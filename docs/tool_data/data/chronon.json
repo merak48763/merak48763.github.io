@@ -7765,6 +7765,454 @@
           }
         ]
       ]
+    },
+    {
+      "id": 55,
+      "series": 1,
+      "scid": 55,
+      "name": "會議席下的暗流",
+      "nameEn": "Hidden Agendas in the Assembly",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 3,
+      "instantSkill": [
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 41,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 41,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 41,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 41,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 41,
+            "args": []
+          },
+          {
+            "skill": 10,
+            "args": [
+              300
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              2
+            ]
+          },
+          {
+            "skill": 15,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 56,
+      "series": 1,
+      "scid": 56,
+      "name": "無盡的心痛",
+      "nameEn": "Endless Heartache",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 16,
+            "args": [
+              10000000,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              10000000,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              10000000,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              50000000,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              50000000,
+              1,
+              0
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 6,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 57,
+      "series": 1,
+      "scid": 57,
+      "name": "並肩共謀",
+      "nameEn": "Alliance of Convenience",
+      "star": 3,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 15,
+            "args": []
+          },
+          {
+            "skill": 3,
+            "args": [
+              3
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 42,
+            "args": [
+              10
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              10
+            ]
+          },
+          {
+            "skill": 51,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              15
+            ]
+          },
+          {
+            "skill": 51,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              15
+            ]
+          },
+          {
+            "skill": 51,
+            "args": []
+          },
+          {
+            "skill": 46,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              15
+            ]
+          },
+          {
+            "skill": 51,
+            "args": []
+          },
+          {
+            "skill": 46,
+            "args": []
+          },
+          {
+            "skill": 63,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150
+            ]
+          },
+          {
+            "skill": 28,
+            "args": [
+              3
+            ]
+          }
+        ]
+      ]
     }
   ],
   "series": [
