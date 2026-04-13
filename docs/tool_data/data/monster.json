@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.220",
-    "dv": 14486,
-    "time": 1775460639
+    "version": "2026.221",
+    "dv": 14490,
+    "time": 1776103956
   },
   "monster": {
     "1": {
@@ -29442,6 +29442,18 @@
       "name": "魁梧花使 ‧ 李蓮英",
       "attribute": 3,
       "race": 1,
+      "rarity": 6
+    },
+    "11165": {
+      "name": "愛的奏鳴 ‧ 莫札特",
+      "attribute": 1,
+      "race": 5,
+      "rarity": 6
+    },
+    "11167": {
+      "name": "妙手回春 ‧ 華生",
+      "attribute": 2,
+      "race": 5,
       "rarity": 6
     },
     "20001": {
