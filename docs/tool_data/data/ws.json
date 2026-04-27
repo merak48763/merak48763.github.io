@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.210",
-    "dv": 27633,
-    "time": 1773645975
+    "version": "2026.300",
+    "dv": 27719,
+    "time": 1777265383
   },
   "ws": {
     "10001": {
@@ -4447,32 +4447,32 @@
     },
     "10922": {
       "title": "",
-      "desc": "•&nbsp;進場時，若場上沒有脈流狀態<br />⇒&nbsp;添加白芒脈流狀態<br />•&nbsp;隊伍成員首次發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />　&nbsp;該成員的屬性脈流狀態<br />•&nbsp;與敵人脈流狀態屬性不同的成員<br />&nbsp;&nbsp;(不包括白芒脈流狀態)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;敵人重置為白芒脈流狀態",
+      "desc": "•&nbsp;進場時，添加白芒脈流；<br />&nbsp;&nbsp;若場上已存有脈流時則不變<br />•&nbsp;隊伍成員發動主動技能<br />⇒&nbsp;脈流變為該成員的屬性脈流<br />•&nbsp;與當前脈流不同屬性的成員<br />&nbsp;&nbsp;(不包括白芒脈流)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;重置為白芒脈流",
       "custom_desc": ""
     },
     "10923": {
       "title": "",
-      "desc": "•&nbsp;進場時，若場上沒有脈流狀態<br />⇒&nbsp;添加白芒脈流狀態<br />•&nbsp;隊伍成員每次發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />　&nbsp;該成員屬性以外的屬性脈流狀態<br />•&nbsp;與敵人脈流狀態屬性不同的成員<br />&nbsp;&nbsp;(不包括白芒脈流狀態)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;敵人重置為白芒脈流狀態",
+      "desc": "•&nbsp;進場時，添加白芒脈流；<br />&nbsp;&nbsp;若場上已存有脈流時則不變<br />•&nbsp;隊伍成員發動主動技能<br />⇒&nbsp;脈流變為該成員屬性以外的脈流<br />•&nbsp;與當前脈流不同屬性的成員<br />&nbsp;&nbsp;(不包括白芒脈流)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;重置為白芒脈流",
       "custom_desc": ""
     },
     "10924": {
       "title": "",
-      "desc": "•&nbsp;進場時，若場上沒有脈流狀態<br />⇒&nbsp;添加白芒脈流狀態<br />•&nbsp;敵人為白芒脈流狀態時，<br />&nbsp;&nbsp;光或暗屬性成員發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />&nbsp;&nbsp;&nbsp;&nbsp;水芒脈流狀態<br />•&nbsp;水、火或木屬性成員<br />&nbsp;&nbsp;每次發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />　&nbsp;該成員克制的屬性脈流狀態<br />•&nbsp;與敵人脈流狀態屬性不同的成員<br />&nbsp;&nbsp;(不包括白芒脈流狀態)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;敵人重置為白芒脈流狀態",
+      "desc": "•&nbsp;進場時，添加白芒脈流；<br />&nbsp;&nbsp;若場上已存有脈流時則不變<br />•&nbsp;白芒脈流時<br />⓵&nbsp;光或暗屬性成員發動主動技能<br />⇒&nbsp;變為水屬脈流<br />⓶&nbsp;其他屬性成員發動主動技能<br />⇒&nbsp;變為該成員克制的屬性脈流<br />•&nbsp;與當前脈流不同屬性的成員<br />&nbsp;&nbsp;(不包括白芒脈流)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;重置為白芒脈流",
       "custom_desc": ""
     },
     "10925": {
       "title": "",
-      "desc": "•&nbsp;進場時，若場上沒有脈流狀態<br />⇒&nbsp;添加白芒脈流狀態<br />•&nbsp;敵人為白芒脈流狀態時，<br />&nbsp;&nbsp;水、火或木屬性成員發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />&nbsp;&nbsp;&nbsp;&nbsp;光芒脈流狀態<br />•&nbsp;光或暗屬性成員<br />&nbsp;&nbsp;每次發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />　&nbsp;該成員克制的屬性脈流狀態<br />•&nbsp;與敵人脈流狀態屬性不同的成員<br />&nbsp;&nbsp;(不包括白芒脈流狀態)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;敵人重置為白芒脈流狀態",
+      "desc": "•&nbsp;進場時，添加白芒脈流；<br />&nbsp;&nbsp;若場上已存有脈流時則不變<br />•&nbsp;白芒脈流時<br />⓵&nbsp;水、火或木屬性成員發動主動技能<br />⇒&nbsp;變為光屬脈流<br />⓶&nbsp;其他屬性成員發動主動技能<br />⇒&nbsp;變為該成員克制的屬性脈流<br />•&nbsp;與當前脈流不同屬性的成員<br />&nbsp;&nbsp;(不包括白芒脈流)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;重置為白芒脈流",
       "custom_desc": ""
     },
     "10926": {
       "title": "",
-      "desc": "•&nbsp;進場時，若場上沒有脈流狀態<br />⇒&nbsp;添加白芒脈流狀態<br />•&nbsp;隊伍成員發動主動技能<br />⇒&nbsp;敵人會根據五屬順序變換脈流狀態<br />•&nbsp;敵人為白芒脈流狀態時，<br />&nbsp;&nbsp;隊伍成員發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />&nbsp;&nbsp;&nbsp;&nbsp;該成員在五屬循環中的<br />&nbsp;&nbsp;&nbsp;&nbsp;下一個屬性脈流狀態<br />•&nbsp;與敵人脈流狀態屬性不同的成員<br />&nbsp;&nbsp;(不包括白芒脈流狀態)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;敵人重置為白芒脈流狀態",
+      "desc": "•&nbsp;進場時，添加白芒脈流；<br />&nbsp;&nbsp;若場上已存有脈流時則不變<br />•&nbsp;脈流會按五屬順序變更<br />•&nbsp;白芒脈流時，<br />&nbsp;&nbsp;隊伍成員發動主動技能<br />⇒&nbsp;變為該成員的下一個屬性脈流<br />•&nbsp;與當前脈流不同屬性的成員<br />&nbsp;&nbsp;(不包括白芒脈流)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;重置為白芒脈流",
       "custom_desc": ""
     },
     "10927": {
       "title": "",
-      "desc": "•&nbsp;進場時，若場上沒有脈流狀態<br />⇒&nbsp;添加白芒脈流狀態<br />•&nbsp;隊伍成員每次發動主動技能<br />⇒&nbsp;敵人的脈流狀態變為<br />　&nbsp;隨機屬性脈流狀態<br />•&nbsp;與敵人脈流狀態屬性不同的成員<br />&nbsp;&nbsp;(不包括白芒脈流狀態)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;敵人重置為白芒脈流狀態",
+      "desc": "•&nbsp;進場時，添加白芒脈流；<br />&nbsp;&nbsp;若場上已存有脈流時則不變<br />•&nbsp;隊伍成員發動主動技能<br />⇒&nbsp;脈流變為隨機屬性脈流<br />•&nbsp;與當前脈流不同屬性的成員<br />&nbsp;&nbsp;(不包括白芒脈流)<br />⇒&nbsp;不能發動主動技能<br />•&nbsp;召喚師死亡後<br />⇒&nbsp;重置為白芒脈流",
       "custom_desc": ""
     },
     "10929": {

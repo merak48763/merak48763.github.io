@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.221",
-    "dv": 14492,
-    "time": 1776412197
+    "version": "2026.300",
+    "dv": 14523,
+    "time": 1777265383
   },
   "monster": {
     "1": {
@@ -17699,6 +17699,12 @@
       "race": 4,
       "rarity": 6
     },
+    "2960": {
+      "name": "甜漾匿愛 ‧ 英格麗",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -29460,6 +29466,90 @@
       "name": "妙手回春 ‧ 華生",
       "attribute": 2,
       "race": 5,
+      "rarity": 6
+    },
+    "11168": {
+      "name": "轉生者 ‧ 魯迪烏斯",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "11169": {
+      "name": "真紅的狂犬 ‧ 艾莉絲",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "11170": {
+      "name": "青梅竹馬 ‧ 希露菲葉特",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 6
+    },
+    "11171": {
+      "name": "成長庇佑 ‧ 塞妮絲",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "11172": {
+      "name": "菲托亞領地搜索團團長 ‧ 保羅",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "11173": {
+      "name": "水王級魔術師 ‧ 洛琪希",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 6
+    },
+    "11174": {
+      "name": "護衛女僕 ‧ 莉莉雅",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "11175": {
+      "name": "格雷拉特姊妹 ‧ 諾倫與愛夏",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "11178": {
+      "name": "枕邊絮語 ‧ 洛琪希",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 7
+    },
+    "11179": {
+      "name": "七星靜香",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "11180": {
+      "name": "基列奴",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 6
+    },
+    "11182": {
+      "name": "奇希莉卡",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "11189": {
+      "name": "赤龍",
+      "attribute": 2,
+      "race": 7,
+      "rarity": 6
+    },
+    "11200": {
+      "name": "茉莉茶園 ‧ 莫莉安娜",
+      "attribute": 2,
+      "race": 1,
       "rarity": 6
     },
     "20001": {
