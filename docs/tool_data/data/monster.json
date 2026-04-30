@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.300",
-    "dv": 14523,
-    "time": 1777265383
+    "dv": 14535,
+    "time": 1777545746
   },
   "monster": {
     "1": {
@@ -29516,6 +29516,18 @@
       "race": 1,
       "rarity": 6
     },
+    "11176": {
+      "name": "迷宮攻略者 ‧ 魯迪烏斯",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 7
+    },
+    "11177": {
+      "name": "守護術師 ‧ 菲茲",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 7
+    },
     "11178": {
       "name": "枕邊絮語 ‧ 洛琪希",
       "attribute": 4,
@@ -29534,11 +29546,35 @@
       "race": 2,
       "rarity": 6
     },
+    "11181": {
+      "name": "瑞傑路德",
+      "attribute": 3,
+      "race": 8,
+      "rarity": 6
+    },
     "11182": {
       "name": "奇希莉卡",
       "attribute": 5,
       "race": 8,
       "rarity": 6
+    },
+    "11183": {
+      "name": "普露塞娜",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 6
+    },
+    "11184": {
+      "name": "莉妮亞娜",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 6
+    },
+    "11188": {
+      "name": "龍神 ‧ 奧爾斯帝德",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 7
     },
     "11189": {
       "name": "赤龍",
