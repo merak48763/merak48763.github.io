@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.300",
-    "dv": 14535,
-    "time": 1777545746
+    "version": "2026.301",
+    "dv": 14539,
+    "time": 1778154869
   },
   "monster": {
     "1": {
@@ -29569,6 +29569,18 @@
       "attribute": 2,
       "race": 2,
       "rarity": 6
+    },
+    "11185": {
+      "name": "艾莉娜麗潔",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 6
+    },
+    "11186": {
+      "name": "巴迪岡迪",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 7
     },
     "11188": {
       "name": "龍神 ‧ 奧爾斯帝德",
