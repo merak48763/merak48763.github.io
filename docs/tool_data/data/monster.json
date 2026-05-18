@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.301",
-    "dv": 14539,
-    "time": 1778154869
+    "dv": 14541,
+    "time": 1779087201
   },
   "monster": {
     "1": {
@@ -29580,6 +29580,12 @@
       "name": "巴迪岡迪",
       "attribute": 5,
       "race": 8,
+      "rarity": 7
+    },
+    "11187": {
+      "name": "魔石多頭龍",
+      "attribute": 2,
+      "race": 4,
       "rarity": 7
     },
     "11188": {
