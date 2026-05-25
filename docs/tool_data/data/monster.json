@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.301",
-    "dv": 14541,
-    "time": 1779087201
+    "version": "2026.310",
+    "dv": 14553,
+    "time": 1779683761
   },
   "monster": {
     "1": {
@@ -17705,6 +17705,12 @@
       "race": 1,
       "rarity": 6
     },
+    "2961": {
+      "name": "裂偽之爪 ‧ 豹豹",
+      "attribute": 2,
+      "race": 2,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21865,6 +21871,12 @@
       "attribute": 4,
       "race": 8,
       "rarity": 8
+    },
+    "6715": {
+      "name": "氣運承鼎 ‧ 成吉思汗",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 7
     },
     "6999": {
       "name": "米拉珍",
@@ -29598,6 +29610,30 @@
       "name": "赤龍",
       "attribute": 2,
       "race": 7,
+      "rarity": 6
+    },
+    "11190": {
+      "name": "氣運承鼎 ‧ 成吉思汗",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 7
+    },
+    "11191": {
+      "name": "卓絕詠頌 ‧ 戴安娜",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 6
+    },
+    "11192": {
+      "name": "破邪薩滿 ‧ 兀孫",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 7
+    },
+    "11193": {
+      "name": "漠北王裔 ‧ 札木合",
+      "attribute": 5,
+      "race": 1,
       "rarity": 6
     },
     "11200": {

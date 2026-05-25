@@ -8213,6 +8213,505 @@
           }
         ]
       ]
+    },
+    {
+      "id": 58,
+      "series": 1,
+      "scid": 58,
+      "name": "記憶盡頭的重逢",
+      "nameEn": "A Reunion Beyond Memory",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 14,
+            "args": [
+              3,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              3,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              3,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              4,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 14,
+            "args": [
+              4,
+              1
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 10,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          },
+          {
+            "skill": 19,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          },
+          {
+            "skill": 19,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              50,
+              5,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              50,
+              5,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              50,
+              5,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              50,
+              10,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              50,
+              10,
+              1
+            ]
+          },
+          {
+            "skill": 11,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 59,
+      "series": 1,
+      "scid": 59,
+      "name": "永不落幕的舞台劇",
+      "nameEn": "A Play That Never Ends",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 3,
+      "instantSkill": [
+        [
+          {
+            "skill": 13,
+            "args": [
+              2,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              2,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              2,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 13,
+            "args": [
+              3,
+              5
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              60
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              70
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              80
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              90
+            ]
+          },
+          {
+            "skill": 3,
+            "args": [
+              50,
+              5,
+              4
+            ]
+          },
+          {
+            "skill": 3,
+            "args": [
+              50,
+              5,
+              5
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 20,
+            "args": [
+              4,
+              6
+            ]
+          },
+          {
+            "skill": 10,
+            "args": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": 60,
+      "series": 1,
+      "scid": 60,
+      "name": "薪火未滅",
+      "nameEn": "Enduring Embers of Hope",
+      "star": 3,
+      "maxLevel": 5,
+      "fpConsume": 4,
+      "instantSkill": [
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              50
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 7,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 41,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 41,
+            "args": []
+          },
+          {
+            "skill": 42,
+            "args": [
+              11
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 41,
+            "args": []
+          },
+          {
+            "skill": 42,
+            "args": [
+              11
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 41,
+            "args": []
+          },
+          {
+            "skill": 42,
+            "args": [
+              11
+            ]
+          },
+          {
+            "skill": 43,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 41,
+            "args": []
+          },
+          {
+            "skill": 42,
+            "args": [
+              11
+            ]
+          },
+          {
+            "skill": 43,
+            "args": []
+          },
+          {
+            "skill": 63,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          },
+          {
+            "skill": 22,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              2
+            ]
+          },
+          {
+            "skill": 22,
+            "args": []
+          }
+        ]
+      ]
     }
   ],
   "series": [
