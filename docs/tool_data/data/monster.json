@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.310",
-    "dv": 14553,
-    "time": 1779683761
+    "version": "2026.311",
+    "dv": 14561,
+    "time": 1780490036
   },
   "monster": {
     "1": {
@@ -29634,6 +29634,30 @@
       "name": "漠北王裔 ‧ 札木合",
       "attribute": 5,
       "race": 1,
+      "rarity": 6
+    },
+    "11194": {
+      "name": "狼血武臣 ‧ 豁兒赤",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "11195": {
+      "name": "古塚鎮衛 ‧ 蒼狼",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 6
+    },
+    "11197": {
+      "name": "邪猾薩滿 ‧ 闊闊出",
+      "attribute": 5,
+      "race": 3,
+      "rarity": 7
+    },
+    "11198": {
+      "name": "龐克序律 ‧ 梵帝岡",
+      "attribute": 2,
+      "race": 10,
       "rarity": 6
     },
     "11200": {
