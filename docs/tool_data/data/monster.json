@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.311",
-    "dv": 14561,
-    "time": 1780490036
+    "dv": 14575,
+    "time": 1781100464
   },
   "monster": {
     "1": {
@@ -17711,6 +17711,18 @@
       "race": 2,
       "rarity": 6
     },
+    "2962": {
+      "name": "染香仙韻 ‧ 妲己",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 8
+    },
+    "2963": {
+      "name": "天狐狂姿 ‧ 妲己",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 8
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21877,6 +21889,18 @@
       "attribute": 5,
       "race": 2,
       "rarity": 7
+    },
+    "6716": {
+      "name": "染香仙韻 ‧ 妲己",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 8
+    },
+    "6717": {
+      "name": "天狐狂姿 ‧ 妲己",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 8
     },
     "6999": {
       "name": "米拉珍",
@@ -28538,6 +28562,9 @@
       "race": 2,
       "rarity": 7
     },
+    "11004": {
+      "name": "碎序虹光 ‧ 夜風"
+    },
     "11011": {
       "name": "歷史之殤 ‧ 烏爾德",
       "attribute": 1,
@@ -29648,6 +29675,12 @@
       "race": 2,
       "rarity": 6
     },
+    "11196": {
+      "name": "業障咒縛 ‧ 黑巫傀儡",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 6
+    },
     "11197": {
       "name": "邪猾薩滿 ‧ 闊闊出",
       "attribute": 5,
@@ -29658,6 +29691,12 @@
       "name": "龐克序律 ‧ 梵帝岡",
       "attribute": 2,
       "race": 10,
+      "rarity": 6
+    },
+    "11199": {
+      "name": "馴服獸性 ‧ 雷諾茲",
+      "attribute": 3,
+      "race": 2,
       "rarity": 6
     },
     "11200": {

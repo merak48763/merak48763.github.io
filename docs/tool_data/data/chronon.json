@@ -8712,6 +8712,150 @@
           }
         ]
       ]
+    },
+    {
+      "id": 61,
+      "series": 1,
+      "scid": 61,
+      "name": "誓律背後的黑暗",
+      "nameEn": "Darkness Behind the Edict",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 3,
+      "instantSkill": [
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 6,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 42,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              4
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              10
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 42,
+            "args": [
+              10
+            ]
+          },
+          {
+            "skill": 44,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              2
+            ]
+          },
+          {
+            "skill": 44,
+            "args": []
+          }
+        ]
+      ]
     }
   ],
   "series": [
