@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.311",
-    "dv": 14575,
-    "time": 1781100464
+    "version": "2026.400",
+    "dv": 14611,
+    "time": 1782104330
   },
   "monster": {
     "1": {
@@ -17723,6 +17723,12 @@
       "race": 3,
       "rarity": 8
     },
+    "2964": {
+      "name": "逆神執戀 ‧ 切西亞",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -29703,6 +29709,102 @@
       "name": "茉莉茶園 ‧ 莫莉安娜",
       "attribute": 2,
       "race": 1,
+      "rarity": 6
+    },
+    "11201": {
+      "name": "司波深雪",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "11202": {
+      "name": "安潔莉娜 ‧ 庫都 ‧ 希爾茲",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "11203": {
+      "name": "七草真由美",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "11204": {
+      "name": "司波達也",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "11205": {
+      "name": "魔裝兵器 ‧ 司波達也",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 8
+    },
+    "11206": {
+      "name": "櫻井水波",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "11207": {
+      "name": "千葉艾莉卡",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "11208": {
+      "name": "西城雷歐赫特",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "11209": {
+      "name": "柴田美月",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "11210": {
+      "name": "吉田幹比古",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "11211": {
+      "name": "海邊追憶 ‧ 司波深雪",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "11212": {
+      "name": "魔法永契 ‧ 司波達也與司波深雪",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 7
+    },
+    "11214": {
+      "name": "呂剛虎",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "11215": {
+      "name": "一條將輝",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 7
+    },
+    "11219": {
+      "name": "光井穗香",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "11226": {
+      "name": "寄生人偶",
+      "attribute": 3,
+      "race": 7,
       "rarity": 6
     },
     "20001": {
