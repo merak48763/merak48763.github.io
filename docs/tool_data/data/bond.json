@@ -12409,6 +12409,18 @@
   },
   {
     "owner": 11217,
+    "condition": 11222,
+    "conditionType": 2,
+    "ability": 20002,
+    "args": [
+      150,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11217,
     "condition": 11204,
     "conditionType": 1,
     "ability": 20006,

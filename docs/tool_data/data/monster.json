@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.400",
-    "dv": 14611,
-    "time": 1782104330
+    "dv": 14619,
+    "time": 1782385590
   },
   "monster": {
     "1": {
@@ -29783,6 +29783,12 @@
       "race": 1,
       "rarity": 7
     },
+    "11213": {
+      "name": "九重八雲",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
     "11214": {
       "name": "呂剛虎",
       "attribute": 3,
@@ -29794,6 +29800,24 @@
       "attribute": 2,
       "race": 1,
       "rarity": 7
+    },
+    "11216": {
+      "name": "十文字克人",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "11217": {
+      "name": "Stars總隊長 ‧ 安吉 ‧ 天狼星",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "11218": {
+      "name": "黑羽亞夜子與黑羽文彌",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
     },
     "11219": {
       "name": "光井穗香",
