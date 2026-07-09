@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.401",
-    "dv": 14625,
-    "time": 1783095080
+    "dv": 14631,
+    "time": 1783595630
   },
   "monster": {
     "1": {
@@ -29842,6 +29842,24 @@
       "attribute": 2,
       "race": 1,
       "rarity": 6
+    },
+    "11223": {
+      "name": "新發田勝成與堤琴鳴",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
+    "11224": {
+      "name": "津久葉夕歌",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "11225": {
+      "name": "四葉真夜",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 7
     },
     "11226": {
       "name": "寄生人偶",
