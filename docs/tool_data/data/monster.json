@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.401",
-    "dv": 14631,
-    "time": 1783595630
+    "version": "2026.410",
+    "dv": 14658,
+    "time": 1784565448
   },
   "monster": {
     "1": {
@@ -17729,6 +17729,12 @@
       "race": 5,
       "rarity": 6
     },
+    "2965": {
+      "name": "尋物獵人 ‧ 普普璐",
+      "attribute": 2,
+      "race": 3,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21907,6 +21913,18 @@
       "attribute": 3,
       "race": 3,
       "rarity": 8
+    },
+    "6718": {
+      "name": "陽煦栽靈 ‧ 出雲",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 6
+    },
+    "6719": {
+      "name": "蝕厄吞災 ‧ 神樂坂",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
     },
     "6999": {
       "name": "米拉珍",
@@ -29866,6 +29884,66 @@
       "attribute": 3,
       "race": 7,
       "rarity": 6
+    },
+    "11227": {
+      "name": "口蜜狡蝠 ‧ 森蘭丸",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 6
+    },
+    "11228": {
+      "name": "棘心魅籮 ‧ 花音",
+      "attribute": 2,
+      "race": 3,
+      "rarity": 6
+    },
+    "11229": {
+      "name": "陽煦栽靈 ‧ 出雲",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 6
+    },
+    "11230": {
+      "name": "綿絨靈犬 ‧ 麻糬 ",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 6
+    },
+    "11231": {
+      "name": "蝕厄吞災 ‧ 神樂坂",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
+    "11232": {
+      "name": "青嵐神鹿 ‧ 友藏",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 6
+    },
+    "11233": {
+      "name": "掃帚精靈",
+      "attribute": 3,
+      "race": 7,
+      "rarity": 6
+    },
+    "11234": {
+      "name": "聖所禁行 ‧ 護都女神",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 6
+    },
+    "11235": {
+      "name": "提燈指迷 ‧ 安妮特",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 5
+    },
+    "11237": {
+      "name": "悲憫渡厄 ‧ 撒哈拉",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 7
     },
     "20001": {
       "name": "以諾"
