@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.410",
-    "dv": 14658,
-    "time": 1784565448
+    "dv": 14664,
+    "time": 1784868427
   },
   "monster": {
     "1": {
@@ -29939,11 +29939,29 @@
       "race": 5,
       "rarity": 5
     },
+    "11236": {
+      "name": "柱石圍守 ‧ 格蘭",
+      "attribute": 3,
+      "race": 5,
+      "rarity": 5
+    },
     "11237": {
       "name": "悲憫渡厄 ‧ 撒哈拉",
       "attribute": 4,
       "race": 5,
       "rarity": 7
+    },
+    "11238": {
+      "name": "魔軀侵凌 ‧ 異化魔女",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "11241": {
+      "name": "愛的大炮 ‧ 蒙大拿",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 6
     },
     "20001": {
       "name": "以諾"
