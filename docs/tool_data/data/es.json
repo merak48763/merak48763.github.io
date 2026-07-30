@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.410",
-    "dv": 28065,
-    "time": 1784868427
+    "version": "2026.411",
+    "dv": 28070,
+    "time": 1785404039
   },
   "es": {
     "0": {
@@ -43058,32 +43058,32 @@
     "7929": {
       "title": "【符石轉化 - 水及其他】",
       "desc": "• 進場及每回合結束時\n⇒ 將所有符石轉化為\n⓵ 22 粒水符石\n⓶ 8 粒水以外符石",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">generic_board 6 5 110011111111111111011110001100 water</span>"
     },
     "7930": {
       "title": "【符石轉化 - 火及其他】",
       "desc": "• 進場及每回合結束時\n⇒ 將所有符石轉化為\n⓵ 22 粒火符石\n⓶ 8 粒火以外符石",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">generic_board 6 5 110011111111111111011110001100 fire</span>"
     },
     "7931": {
       "title": "【符石轉化 - 木及其他】",
       "desc": "• 進場及每回合結束時\n⇒ 將所有符石轉化為\n⓵ 22 粒木符石\n⓶ 8 粒木以外符石",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">generic_board 6 5 110011111111111111011110001100 earth</span>"
     },
     "7932": {
       "title": "【符石轉化 - 光及其他】",
       "desc": "• 進場及每回合結束時\n⇒ 將所有符石轉化為\n⓵ 22 粒光符石\n⓶ 8 粒光以外符石",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">generic_board 6 5 110011111111111111011110001100 light</span>"
     },
     "7933": {
       "title": "【符石轉化 - 暗及其他】",
       "desc": "• 進場及每回合結束時\n⇒ 將所有符石轉化為\n⓵ 22 粒暗符石\n⓶ 8 粒暗以外符石",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">generic_board 6 5 110011111111111111011110001100 dark</span>"
     },
     "7934": {
       "title": "【符石轉化 - 心及其他】",
       "desc": "• 進場及每回合結束時\n⇒ 將所有符石轉化為\n⓵ 22 粒心符石\n⓶ 8 粒心以外符石",
-      "custom_desc": ""
+      "custom_desc": "<span class=\"annotation\">generic_board 6 5 110011111111111111011110001100 heart</span>"
     },
     "7935": {
       "title": "【非白芒脈流 - 弱攻】",

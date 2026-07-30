@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.410",
-    "dv": 14664,
-    "time": 1784868427
+    "version": "2026.411",
+    "dv": 14670,
+    "time": 1785404039
   },
   "monster": {
     "1": {
@@ -27344,6 +27344,12 @@
       "race": 1,
       "rarity": 6
     },
+    "10785": {
+      "name": "墮座飛獸 ‧ 菲尼克斯",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 6
+    },
     "10786": {
       "name": "異度殺戮 ‧ 貝西摩斯",
       "attribute": 2,
@@ -29957,10 +29963,22 @@
       "race": 8,
       "rarity": 6
     },
+    "11240": {
+      "name": "幻惑百相 ‧ 敦煌",
+      "attribute": 4,
+      "race": 4,
+      "rarity": 7
+    },
     "11241": {
       "name": "愛的大炮 ‧ 蒙大拿",
       "attribute": 1,
       "race": 10,
+      "rarity": 6
+    },
+    "11242": {
+      "name": "淵流伏擊 ‧ 魚怪",
+      "attribute": 1,
+      "race": 3,
       "rarity": 6
     },
     "20001": {
