@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.411",
-    "dv": 14670,
-    "time": 1785404039
+    "version": "2026.500",
+    "dv": 14716,
+    "time": 1786952480
   },
   "monster": {
     "1": {
@@ -17735,6 +17735,12 @@
       "race": 3,
       "rarity": 6
     },
+    "2966": {
+      "name": "永夜黎明 ‧ 薛丁格",
+      "attribute": 3,
+      "race": 10,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21925,6 +21931,36 @@
       "attribute": 5,
       "race": 5,
       "rarity": 6
+    },
+    "6720": {
+      "name": "魔祭授途 ‧ 司路域",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 8
+    },
+    "6721": {
+      "name": "續命禁咒 ‧ 司路域",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 8
+    },
+    "6723": {
+      "name": "生機佇足 ‧ 阿賴耶識",
+      "attribute": 1,
+      "race": 8,
+      "rarity": 7
+    },
+    "6724": {
+      "name": "無垠星河 ‧ 圖靈與百慕達",
+      "attribute": 3,
+      "race": 10,
+      "rarity": 7
+    },
+    "6728": {
+      "name": "超越奇點 ‧ 圖靈與百慕達",
+      "attribute": 3,
+      "race": 10,
+      "rarity": 7
     },
     "6999": {
       "name": "米拉珍",
@@ -29963,6 +29999,12 @@
       "race": 8,
       "rarity": 6
     },
+    "11239": {
+      "name": "心源質變 ‧ 畸化魔女",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
     "11240": {
       "name": "幻惑百相 ‧ 敦煌",
       "attribute": 4,
@@ -29980,6 +30022,54 @@
       "attribute": 1,
       "race": 3,
       "rarity": 6
+    },
+    "11243": {
+      "name": "燃志貫穿 ‧ 香格里拉",
+      "attribute": 2,
+      "race": 3,
+      "rarity": 6
+    },
+    "11244": {
+      "name": "魔祭授途 ‧ 司路域",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 8
+    },
+    "11245": {
+      "name": "續命禁咒 ‧ 司路域",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 8
+    },
+    "11246": {
+      "name": "指引領導 ‧ 蕾茵",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 6
+    },
+    "11247": {
+      "name": "無垠星河 ‧ 圖靈與百慕達",
+      "attribute": 3,
+      "race": 10,
+      "rarity": 7
+    },
+    "11248": {
+      "name": "機城御廚 ‧ 古嚕",
+      "attribute": 5,
+      "race": 10,
+      "rarity": 6
+    },
+    "11249": {
+      "name": "音符編織者 · 阿蛋",
+      "attribute": 4,
+      "race": 10,
+      "rarity": 6
+    },
+    "11250": {
+      "name": "侵染之種 ‧ 裂核機孢",
+      "attribute": 1,
+      "race": 10,
+      "rarity": 7
     },
     "20001": {
       "name": "以諾"
