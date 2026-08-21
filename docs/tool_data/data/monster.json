@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.500",
-    "dv": 14716,
-    "time": 1786952480
+    "dv": 14728,
+    "time": 1787312152
   },
   "monster": {
     "1": {
@@ -17741,6 +17741,18 @@
       "race": 10,
       "rarity": 6
     },
+    "2968": {
+      "name": "初序的毀滅曲 ‧ 卡俄斯",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 8
+    },
+    "2969": {
+      "name": "晨昏天傾 ‧ 卡俄斯",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 8
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -30070,6 +30082,27 @@
       "attribute": 1,
       "race": 10,
       "rarity": 7
+    },
+    "11251": {
+      "name": "方尖匠王 ‧ 克希德",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
+    "11252": {
+      "name": "銀庭總管 ‧ 海柔兒",
+      "attribute": 3,
+      "race": 10,
+      "rarity": 6
+    },
+    "11254": {
+      "name": "武研助手 ‧ 瑪艾塔",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 7
+    },
+    "11258": {
+      "name": "無垠星河 ‧ 圖靈與百慕達 (同調)"
     },
     "20001": {
       "name": "以諾"
