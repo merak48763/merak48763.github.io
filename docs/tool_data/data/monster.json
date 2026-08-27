@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.501",
-    "dv": 14730,
-    "time": 1787815297
+    "dv": 14736,
+    "time": 1787833485
   },
   "monster": {
     "1": {
@@ -30101,10 +30101,22 @@
       "race": 10,
       "rarity": 6
     },
+    "11253": {
+      "name": "疾馳幻輪 ‧ 飛輪",
+      "attribute": 4,
+      "race": 10,
+      "rarity": 6
+    },
     "11254": {
       "name": "武研助手 ‧ 瑪艾塔",
       "attribute": 3,
       "race": 2,
+      "rarity": 7
+    },
+    "11257": {
+      "name": "深空異種 ‧ 主核機孢",
+      "attribute": 2,
+      "race": 10,
       "rarity": 7
     },
     "11258": {
@@ -30112,6 +30124,12 @@
       "attribute": 3,
       "race": 10,
       "rarity": 8
+    },
+    "11259": {
+      "name": "狂野尤物 ‧ 曼陀羅",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 6
     },
     "20001": {
       "name": "以諾"
