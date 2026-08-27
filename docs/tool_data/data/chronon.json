@@ -8856,6 +8856,502 @@
           }
         ]
       ]
+    },
+    {
+      "id": 62,
+      "series": 1,
+      "scid": 62,
+      "name": "窺探心界",
+      "nameEn": "Glimpses of the Heartscape",
+      "star": 3,
+      "maxLevel": 5,
+      "fpConsume": 4,
+      "instantSkill": [
+        [
+          {
+            "skill": 16,
+            "args": [
+              50000000,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              50000000,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              50000000,
+              1,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              200000000,
+              2,
+              0
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              200000000,
+              2,
+              0
+            ]
+          },
+          {
+            "skill": 27,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          },
+          {
+            "skill": 21,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          },
+          {
+            "skill": 21,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              150
+            ]
+          },
+          {
+            "skill": 21,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              150
+            ]
+          },
+          {
+            "skill": 21,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              150
+            ]
+          },
+          {
+            "skill": 21,
+            "args": []
+          },
+          {
+            "skill": 60,
+            "args": []
+          },
+          {
+            "skill": 61,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1
+            ]
+          },
+          {
+            "skill": 21,
+            "args": [
+              2,
+              6
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              2
+            ]
+          },
+          {
+            "skill": 21,
+            "args": [
+              2,
+              6
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 63,
+      "series": 1,
+      "scid": 63,
+      "name": "魔祭的序幕",
+      "nameEn": "First Toll of the Ritual",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              7
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 37,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 37,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 37,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 37,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 37,
+            "args": []
+          },
+          {
+            "skill": 26,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 18,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": [
+              100,
+              7
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 64,
+      "series": 1,
+      "scid": 64,
+      "name": "破罪陣線",
+      "nameEn": "Defiers of Condemnation",
+      "star": 2,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 3,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 3,
+            "args": [
+              2
+            ]
+          },
+          {
+            "skill": 1,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              200
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              200
+            ]
+          },
+          {
+            "skill": 34,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              300
+            ]
+          },
+          {
+            "skill": 34,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 1,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150,
+              1
+            ]
+          },
+          {
+            "skill": 23,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 1,
+            "args": [
+              150,
+              1
+            ]
+          },
+          {
+            "skill": 23,
+            "args": []
+          }
+        ]
+      ]
     }
   ],
   "series": [
