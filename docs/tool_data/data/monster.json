@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.501",
-    "dv": 14736,
-    "time": 1787833485
+    "dv": 14748,
+    "time": 1789032581
   },
   "monster": {
     "1": {
@@ -21968,6 +21968,18 @@
       "race": 10,
       "rarity": 7
     },
+    "6725": {
+      "name": "獸道獨行 ‧ 凱撒",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 8
+    },
+    "6726": {
+      "name": "弒序絕裁 ‧ 凱撒",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 8
+    },
     "6727": {
       "name": "初序的毀滅曲 ‧ 卡俄斯",
       "attribute": 5,
@@ -30113,6 +30125,18 @@
       "race": 2,
       "rarity": 7
     },
+    "11255": {
+      "name": "萌熊隊長 ‧ 熊熊",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 6
+    },
+    "11256": {
+      "name": "運籌帷幄 ‧ 斯洛普",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
     "11257": {
       "name": "深空異種 ‧ 主核機孢",
       "attribute": 2,
@@ -30130,6 +30154,18 @@
       "attribute": 4,
       "race": 3,
       "rarity": 6
+    },
+    "11260": {
+      "name": "獸道獨行 ‧ 凱撒",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 8
+    },
+    "11261": {
+      "name": "弒序絕裁 ‧ 凱撒",
+      "attribute": 1,
+      "race": 2,
+      "rarity": 8
     },
     "20001": {
       "name": "以諾"

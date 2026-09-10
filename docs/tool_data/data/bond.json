@@ -12865,7 +12865,31 @@
   },
   {
     "owner": 11260,
+    "condition": 10273,
+    "conditionType": 2,
+    "ability": 20003,
+    "args": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11260,
     "condition": 11246,
+    "conditionType": 2,
+    "ability": 20003,
+    "args": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "owner": 11261,
+    "condition": 10273,
     "conditionType": 2,
     "ability": 20003,
     "args": [
