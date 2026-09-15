@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.501",
-    "dv": 14748,
-    "time": 1789032581
+    "version": "2026.511",
+    "dv": 14779,
+    "time": 1789482357
   },
   "monster": {
     "1": {
@@ -17741,6 +17741,12 @@
       "race": 10,
       "rarity": 6
     },
+    "2967": {
+      "name": "禁忌造物 ‧ 撒旦",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 6
+    },
     "2968": {
       "name": "初序的毀滅曲 ‧ 卡俄斯",
       "attribute": 5,
@@ -30166,6 +30172,90 @@
       "attribute": 1,
       "race": 2,
       "rarity": 8
+    },
+    "11262": {
+      "name": "海馬瀨人＆青眼白龍",
+      "attribute": 1,
+      "race": 4,
+      "rarity": 6
+    },
+    "11263": {
+      "name": "城之內克也＆真紅眼黑龍",
+      "attribute": 2,
+      "race": 4,
+      "rarity": 6
+    },
+    "11264": {
+      "name": "孔雀舞＆神鷹女郎三姐妹",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 6
+    },
+    "11265": {
+      "name": "武藤遊戲＆破壞龍鋼多拉",
+      "attribute": 5,
+      "race": 4,
+      "rarity": 6
+    },
+    "11266": {
+      "name": "闇遊戲＆黑魔導",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "11267": {
+      "name": "伊西絲 ‧ 伊修達爾",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "11268": {
+      "name": "闇獏良＆暗黑人偶 ‧ 妮可羅菲婭",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "11269": {
+      "name": "青眼究極龍",
+      "attribute": 1,
+      "race": 4,
+      "rarity": 6
+    },
+    "11274": {
+      "name": "闇遊戲＆三幻神",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 8
+    },
+    "11275": {
+      "name": "真崎杏子＆黑魔導女孩",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 6
+    },
+    "11276": {
+      "name": "盜賊基斯＆左輪手槍龍",
+      "attribute": 5,
+      "race": 4,
+      "rarity": 6
+    },
+    "11278": {
+      "name": "貝卡斯 ‧ J ‧ 克羅佛多＆千眼納祭魔",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 6
+    },
+    "11279": {
+      "name": "昆蟲流羽蛾＆昆蟲女王",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 6
+    },
+    "11287": {
+      "name": "栗子球",
+      "attribute": 3,
+      "race": 7,
+      "rarity": 6
     },
     "20001": {
       "name": "以諾"
