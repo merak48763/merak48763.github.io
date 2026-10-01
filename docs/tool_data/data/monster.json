@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.512",
-    "dv": 14811,
-    "time": 1790708487
+    "dv": 14821,
+    "time": 1790865841
   },
   "monster": {
     "1": {
@@ -30310,6 +30310,18 @@
       "attribute": 2,
       "race": 2,
       "rarity": 6
+    },
+    "11285": {
+      "name": "闇馬利克＆太陽神之翼神龍",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 7
+    },
+    "11286": {
+      "name": "亞圖姆",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 7
     },
     "11287": {
       "name": "栗子球",
