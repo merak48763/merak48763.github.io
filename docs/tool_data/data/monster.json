@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.512",
-    "dv": 14821,
-    "time": 1790865841
+    "version": "2026.600",
+    "dv": 14852,
+    "time": 1791782170
   },
   "monster": {
     "1": {
@@ -17759,6 +17759,12 @@
       "race": 5,
       "rarity": 8
     },
+    "2978": {
+      "name": "勝劍遺篇 ‧ 史蜜莉",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -21997,6 +22003,18 @@
       "attribute": 3,
       "race": 10,
       "rarity": 7
+    },
+    "6729": {
+      "name": "時梯逆轉 ‧ 翡冷翠",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "6730": {
+      "name": "護世熾盾 ‧ 阿爾卑斯",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
     },
     "6999": {
       "name": "米拉珍",
@@ -30329,6 +30347,78 @@
       "race": 7,
       "rarity": 6
     },
+    "11288": {
+      "name": "時梯逆轉 ‧ 翡冷翠",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 6
+    },
+    "11289": {
+      "name": "護世熾盾 ‧ 阿爾卑斯",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 6
+    },
+    "11290": {
+      "name": "莽林眷獸 ‧ 月爪",
+      "attribute": 3,
+      "race": 2,
+      "rarity": 6
+    },
+    "11291": {
+      "name": "迷途羔犢 ‧ 依蓓兒 ",
+      "attribute": 4,
+      "race": 1,
+      "rarity": 6
+    },
+    "11292": {
+      "name": "金羽傲鷲 ‧ 銳盾",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 6
+    },
+    "11293": {
+      "name": "織光羊蛛 ‧ 綿綿",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 6
+    },
+    "11294": {
+      "name": "透鏡精靈",
+      "attribute": 1,
+      "race": 7,
+      "rarity": 6
+    },
+    "11295": {
+      "name": "無窮貪噬 ‧ 依蓓兒",
+      "attribute": 5,
+      "race": 1,
+      "rarity": 6
+    },
+    "11296": {
+      "name": "魔森掠食者 ‧ 噩獸",
+      "attribute": 5,
+      "race": 2,
+      "rarity": 6
+    },
+    "11297": {
+      "name": "百械重組 ‧ 艾德里安",
+      "attribute": 1,
+      "race": 1,
+      "rarity": 5
+    },
+    "11298": {
+      "name": "蠱惑鴉使 ‧ 亞爾文",
+      "attribute": 2,
+      "race": 3,
+      "rarity": 6
+    },
+    "11301": {
+      "name": "常理之外 ‧ 界隙異象",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 6
+    },
     "20001": {
       "name": "以諾"
     },
@@ -30970,6 +31060,24 @@
       "attribute": 5,
       "race": 8,
       "rarity": 8
+    },
+    "60207": {
+      "name": "歐西里斯的天空龍",
+      "attribute": 2,
+      "race": 5,
+      "rarity": 7
+    },
+    "60208": {
+      "name": "歐貝利斯克的巨神兵",
+      "attribute": 1,
+      "race": 5,
+      "rarity": 7
+    },
+    "60209": {
+      "name": "太陽神之翼神龍",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 7
     }
   },
   "attribute_names": [
