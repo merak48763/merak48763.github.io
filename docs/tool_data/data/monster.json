@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.600",
-    "dv": 14852,
-    "time": 1791782170
+    "version": "2026.601",
+    "dv": 14856,
+    "time": 1792080565
   },
   "monster": {
     "1": {
@@ -30413,10 +30413,22 @@
       "race": 3,
       "rarity": 6
     },
+    "11299": {
+      "name": "築夢心芽 ‧ 珊達",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 6
+    },
     "11301": {
       "name": "常理之外 ‧ 界隙異象",
       "attribute": 4,
       "race": 3,
+      "rarity": 6
+    },
+    "11304": {
+      "name": "宙域哨戒 ‧ 新罕布夏",
+      "attribute": 2,
+      "race": 10,
       "rarity": 6
     },
     "20001": {
