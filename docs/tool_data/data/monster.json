@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.601",
-    "dv": 14856,
-    "time": 1792080565
+    "dv": 14876,
+    "time": 1792662000
   },
   "monster": {
     "1": {
@@ -17759,6 +17759,54 @@
       "race": 5,
       "rarity": 8
     },
+    "2970": {
+      "name": "執愛護犢 ‧ 驪姬",
+      "attribute": 1,
+      "race": 3,
+      "rarity": 7
+    },
+    "2971": {
+      "name": "甘霖禁果 ‧ 夏娃",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 7
+    },
+    "2972": {
+      "name": "絕艷刃舞 ‧ 龍陽君",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 7
+    },
+    "2973": {
+      "name": "傲視天威 ‧ 武則天",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 7
+    },
+    "2974": {
+      "name": "踏歌獻魂 ‧ 克麗奧",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 7
+    },
+    "2975": {
+      "name": "霓符鬼姬 ‧ 褒姒",
+      "attribute": 2,
+      "race": 8,
+      "rarity": 7
+    },
+    "2976": {
+      "name": "破繭化蝶 ‧ 楊玉環",
+      "attribute": 4,
+      "race": 3,
+      "rarity": 7
+    },
+    "2977": {
+      "name": "覆國毒計 ‧ 妺喜",
+      "attribute": 5,
+      "race": 8,
+      "rarity": 7
+    },
     "2978": {
       "name": "勝劍遺篇 ‧ 史蜜莉",
       "attribute": 4,
@@ -30419,11 +30467,23 @@
       "race": 1,
       "rarity": 6
     },
+    "11300": {
+      "name": "瑰艷館主 ‧ 羅潔",
+      "attribute": 2,
+      "race": 1,
+      "rarity": 5
+    },
     "11301": {
       "name": "常理之外 ‧ 界隙異象",
       "attribute": 4,
       "race": 3,
       "rarity": 6
+    },
+    "11303": {
+      "name": "沐恩穹林 ‧ 烏魯木齊",
+      "attribute": 3,
+      "race": 1,
+      "rarity": 7
     },
     "11304": {
       "name": "宙域哨戒 ‧ 新罕布夏",
