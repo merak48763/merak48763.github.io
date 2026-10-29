@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.601",
-    "dv": 14876,
-    "time": 1792662000
+    "dv": 14882,
+    "time": 1793274782
   },
   "monster": {
     "1": {
@@ -30479,6 +30479,12 @@
       "race": 3,
       "rarity": 6
     },
+    "11302": {
+      "name": "邪蔓植根 ‧ 瘴化魔女",
+      "attribute": 3,
+      "race": 3,
+      "rarity": 6
+    },
     "11303": {
       "name": "沐恩穹林 ‧ 烏魯木齊",
       "attribute": 3,
@@ -30489,6 +30495,18 @@
       "name": "宙域哨戒 ‧ 新罕布夏",
       "attribute": 2,
       "race": 10,
+      "rarity": 6
+    },
+    "11305": {
+      "name": "魔領君后 ‧ 巴力與夏娃 ",
+      "attribute": 4,
+      "race": 8,
+      "rarity": 7
+    },
+    "11306": {
+      "name": "靈鯉化形 ‧ 軒轅",
+      "attribute": 4,
+      "race": 4,
       "rarity": 6
     },
     "20001": {
