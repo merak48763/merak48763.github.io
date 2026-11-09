@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.601",
-    "dv": 14882,
-    "time": 1793274782
+    "version": "2026.610",
+    "sn": 14904,
+    "time": 1794205514
   },
   "monster": {
     "1": {
@@ -17813,6 +17813,12 @@
       "race": 1,
       "rarity": 6
     },
+    "2979": {
+      "name": "魔脈侵髓 ‧ 貝奧武夫",
+      "attribute": 3,
+      "race": 8,
+      "rarity": 6
+    },
     "3001": {
       "name": "野望滅絕 ‧ 薩魯曼",
       "attribute": 5,
@@ -22063,6 +22069,18 @@
       "attribute": 2,
       "race": 1,
       "rarity": 6
+    },
+    "6731": {
+      "name": "淨世聖恩 ‧ 伊登與尼德霍格",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 7
+    },
+    "6732": {
+      "name": "生滅沉疴 ‧ 尼德霍格與伊登",
+      "attribute": 3,
+      "race": 4,
+      "rarity": 7
     },
     "6999": {
       "name": "米拉珍",
@@ -30507,6 +30525,54 @@
       "name": "靈鯉化形 ‧ 軒轅",
       "attribute": 4,
       "race": 4,
+      "rarity": 6
+    },
+    "11307": {
+      "name": "淨世聖恩 ‧ 伊登與尼德霍格",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 7
+    },
+    "11308": {
+      "name": "生滅沉疴 ‧ 尼德霍格與伊登",
+      "attribute": 3,
+      "race": 4,
+      "rarity": 7
+    },
+    "11309": {
+      "name": "神譴皇冠 ‧ 荷米斯",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 6
+    },
+    "11310": {
+      "name": "宿根巨蟒 ‧ 格因與摩因",
+      "attribute": 1,
+      "race": 4,
+      "rarity": 6
+    },
+    "11311": {
+      "name": "灰脊古蛇 ‧ 格拉巴克",
+      "attribute": 3,
+      "race": 4,
+      "rarity": 6
+    },
+    "11312": {
+      "name": "背罪龍劍 ‧ 齊格菲",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 7
+    },
+    "11313": {
+      "name": "戰魂引路 ‧ 布倫希爾德 ",
+      "attribute": 5,
+      "race": 5,
+      "rarity": 6
+    },
+    "11314": {
+      "name": "春澤源流 ‧ 伊施妲",
+      "attribute": 1,
+      "race": 5,
       "rarity": 6
     },
     "20001": {
