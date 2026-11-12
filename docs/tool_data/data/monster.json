@@ -1,8 +1,8 @@
 {
   "last_update": {
-    "version": "2026.610",
-    "sn": 14904,
-    "time": 1794205514
+    "version": "2026.611",
+    "sn": 14908,
+    "time": 1794485181
   },
   "monster": {
     "1": {
@@ -30572,6 +30572,18 @@
     "11314": {
       "name": "春澤源流 ‧ 伊施妲",
       "attribute": 1,
+      "race": 5,
+      "rarity": 6
+    },
+    "11315": {
+      "name": "欺詐詭龍 ‧ 奧弗尼爾",
+      "attribute": 5,
+      "race": 4,
+      "rarity": 6
+    },
+    "11316": {
+      "name": "幻橋之衛 ‧ 海姆達爾",
+      "attribute": 3,
       "race": 5,
       "rarity": 6
     },
