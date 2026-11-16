@@ -9352,6 +9352,499 @@
           }
         ]
       ]
+    },
+    {
+      "id": 65,
+      "series": 1,
+      "scid": 65,
+      "name": "枷鎖之下的無奈",
+      "nameEn": "Chained in Regret",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 2,
+            "args": [
+              3
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              200
+            ]
+          },
+          {
+            "skill": 52,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 18,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": [
+              100,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 18,
+            "args": [
+              100,
+              1
+            ]
+          },
+          {
+            "skill": 21,
+            "args": [
+              5,
+              6
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 66,
+      "series": 1,
+      "scid": 66,
+      "name": "林間微光下的酣眠",
+      "nameEn": "Dappled Dreams",
+      "star": 1,
+      "maxLevel": 5,
+      "fpConsume": 1,
+      "instantSkill": [
+        [
+          {
+            "skill": 27,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": [
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": [
+              2
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              200
+            ]
+          },
+          {
+            "skill": 21,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 39,
+            "args": [
+              1,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1,
+              1
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 39,
+            "args": [
+              1,
+              1
+            ]
+          },
+          {
+            "skill": 51,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 67,
+      "series": 1,
+      "scid": 67,
+      "name": "不容褻瀆的公義",
+      "nameEn": "Justice Undefiled",
+      "star": 3,
+      "maxLevel": 5,
+      "fpConsume": 2,
+      "instantSkill": [
+        [
+          {
+            "skill": 27,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": [
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": [
+              3
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 27,
+            "args": [
+              3
+            ]
+          },
+          {
+            "skill": 7,
+            "args": [
+              100
+            ]
+          }
+        ]
+      ],
+      "statusSkill": [
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          },
+          {
+            "skill": 37,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          },
+          {
+            "skill": 37,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          },
+          {
+            "skill": 37,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              100
+            ]
+          },
+          {
+            "skill": 37,
+            "args": []
+          },
+          {
+            "skill": 46,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 10,
+            "args": [
+              200
+            ]
+          },
+          {
+            "skill": 37,
+            "args": []
+          },
+          {
+            "skill": 46,
+            "args": []
+          },
+          {
+            "skill": 64,
+            "args": []
+          }
+        ]
+      ],
+      "triggeredSkill": [
+        [
+          {
+            "skill": 16,
+            "args": [
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              5
+            ]
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              5
+            ]
+          },
+          {
+            "skill": 24,
+            "args": []
+          },
+          {
+            "skill": 25,
+            "args": []
+          }
+        ],
+        [
+          {
+            "skill": 16,
+            "args": [
+              5
+            ]
+          },
+          {
+            "skill": 24,
+            "args": []
+          },
+          {
+            "skill": 25,
+            "args": []
+          }
+        ]
+      ]
     }
   ],
   "series": [
