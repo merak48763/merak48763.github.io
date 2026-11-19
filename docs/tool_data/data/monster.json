@@ -1,8 +1,8 @@
 {
   "last_update": {
     "version": "2026.611",
-    "sn": 14908,
-    "time": 1794485181
+    "sn": 14914,
+    "time": 1795101405
   },
   "monster": {
     "1": {
@@ -30584,6 +30584,24 @@
     "11316": {
       "name": "幻橋之衛 ‧ 海姆達爾",
       "attribute": 3,
+      "race": 5,
+      "rarity": 6
+    },
+    "11317": {
+      "name": "永葆青蔥 ‧ 聖果",
+      "attribute": 4,
+      "race": 5,
+      "rarity": 6
+    },
+    "11318": {
+      "name": "極夜奇遇 ‧ 庭院衛侍",
+      "attribute": 4,
+      "race": 2,
+      "rarity": 6
+    },
+    "11319": {
+      "name": "灼愛餘溫 ‧ 安爾伯達",
+      "attribute": 2,
       "race": 5,
       "rarity": 6
     },
